@@ -1,2 +1,3 @@
 {{object.content}}
 {{object.tenlinesummary}}
+{{object.Quotation}}

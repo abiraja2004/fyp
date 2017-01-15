@@ -18,7 +18,7 @@ class Post(models.Model):
                 return urlresolvers.reverse('post_detail', args=[self.pk])
 
 class Quotation(models.Model):
-	post = models.ForeignKey(Post)
+	post = models.ForeignKey(Post, related_name='quotation')
 	quotation = models.TextField(blank=True)
 	speaker = models.TextField(blank=True)
 	date = models.DateTimeField()

@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SmartNews-Read news in a faster way</title>
+    <title>SmartNews-Opinion Extraction</title>
 	
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
@@ -133,77 +133,33 @@
         <!-- Page Header -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Politics
-                    <small>United States</small>
+                <h1 class="page-header">Opinion Extraction
+
                 </h1>
             </div>
         </div>
         <!-- /.row -->
 
+	<form action="/search-post/" method="post">
+		{% csrf_token %}
+		<input type="text" name="q">
+		<input type="submit" value="Submit">
+	</form>
 		
 		
 		
 		<div class="row">
-        {% for post in post_list %}
-		
-			<div class="col-md-4 portfolio-item">
-				<div>
-                {% if post.photo %}
-					
-						<img class="img-responsive" src={{post.photo}} alt="">
-					
-					{% else %}
-					<div class="thumbnail thumbnail-default"></div>
-					{% endif %}
-				</div>
-                <div align ="center">
-					<h3>
-						<a href="{% url 'post_detail' pk=post.pk %}">{{post.title}}</a>
-					</h3>
-					<div class="date">{{ post.created_at|date:"Y / m / d" }}</div>				
-					<div align = "justify"> <p>{{post.fivelinesummary|linebreaks}}</p> </div>
-				</div>
-
-            </div>
-			
-			{% endfor %}
+	{% for result in rlt %}
+		<div>
+		{{result.quotation}}
+		{{result.speaker}}}}
+		{{result.date}}		
+		</div>
+	{% endfor %}
 		</div>
 		
   
 
-        <hr>
-
-        <!-- Pagination -->
-        <div class="row text-center">
-            <div class="col-lg-12">
-                <ul class="pagination">
-                    <li>
-                        <a href="#">&laquo;</a>
-                    </li>
-                    <li class="active">
-                        <a href="#">1</a>
-                    </li>
-                    <li>
-                        <a href="#">2</a>
-                    </li>
-                    <li>
-                        <a href="#">3</a>
-                    </li>
-                    <li>
-                        <a href="#">4</a>
-                    </li>
-                    <li>
-                        <a href="#">5</a>
-                    </li>
-                    <li>
-                        <a href="#">&raquo;</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
 
         <!-- Footer -->
         <footer>
