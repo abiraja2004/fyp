@@ -145,20 +145,87 @@
 		<input type="text" name="q">
 		<input type="submit" value="Submit">
 	</form>
+
+	<div class = "row">
+		<div class = "col-xs-7">
+			<table class="table table-striped">
+				<caption></caption>
+					<thead>
+						<tr>
+							<th>Opinion</th>
+						</tr>
+					</thead>
+				<tbody>
+					{% for result in rlt %}
+						{% for quote in result.quotation %}		
+							<tr>
+								<td style = "height:100px">{{quote}}</td>
+							</tr>
+						{% endfor %}
+					{% endfor %}
+
+				</tbody>
+			</table>
+		</div>
 		
+		<div class = "col-xs-3">
+			<table class="table table-striped">
+				<caption></caption>
+					<thead>
+						<tr>
+							<th>Speaker</th>
+						</tr>
+					</thead>
+				<tbody>
+					{% for result in rlt %}
+						{% for speaker in result.speaker %}		
+							<tr>
+								<td style = "height:100px">{{speaker}}</td>
+							</tr>
+						{% endfor %}
+					{% endfor %}
+
+				</tbody>
+			</table>
+		</div>
 		
-		
-		<div class="row">
+		<div class = "col-xs-2">
+			<table class="table table-striped">
+				<caption></caption>
+					<thead>
+						<tr>
+							<th>Date</th>
+						</tr>
+					</thead>
+				<tbody>
+					{% for result in rlt %}
+						{% for date in result.date %}		
+							<tr>
+								<td style = "height:100px">{{date}}</td>
+							</tr>
+						{% endfor %}
+					{% endfor %}
+
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+<!-- 	<div class="row">
 	{% for result in rlt %}
-		<div>
-		{{result.quotation}}
-		{{result.speaker}}}}
-		{{result.date}}		
-		</div>
+		{% for quote in result.quotation %}
+			{{quote |linebreaks}}
+		{% endfor %}
 	{% endfor %}
-		</div>
-		
-  
+	</div>
+	
+	<div class="row">
+	{% for result in rlt %}
+		{% for speaker in result.speaker %}
+			{{speaker |linebreaks}}
+		{% endfor %}
+	{% endfor %}
+	</div>  --> 
 
 
         <!-- Footer -->
