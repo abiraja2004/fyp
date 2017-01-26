@@ -1962,6 +1962,8 @@ pre code {
   }
   .col-md-4 {
     width: 33.33333333%;
+	padding-bottom: 100%;
+    margin-bottom: -100%;
   }
   .col-md-3 {
     width: 25%;
@@ -6753,5 +6755,14 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+.row {
+  display: table;
+  width: 100%;
+}
+
+.row [class^=col-] {
+  display: table-cell;
+  float: none;
 }
 /*# sourceMappingURL=bootstrap.css.map */
