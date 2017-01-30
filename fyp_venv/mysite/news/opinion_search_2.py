@@ -7,7 +7,7 @@ from news.models import Quotation
 from haystack.query import SearchQuerySet
 from haystack.inputs import AutoQuery, Exact, Clean
 
-# 接收POST请求数据
+# receive POST request data
 def search_post(request):
 	ctx ={}
 	SearchQuerySet()
