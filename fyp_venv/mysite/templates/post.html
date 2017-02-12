@@ -17,7 +17,8 @@
 
 	<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">	
 	<link rel="stylesheet" href="{% static 'css/3-col-portfolio.css' %}">
-
+	<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -97,13 +98,33 @@
 			{% endif %}
 		</div>
 		<br>
-		<br>
-		<br>
-		<div align = "justify"> <p><font size= "4">{{post.tenlinesummary|linebreaks}}</font></p> </div>
-				<br>
-				<br>
-				<br>
-				<div> <p>Origianl link:<br><font size = "2"><a href = {{post.link}}>{{post.link}}</a></font></p></div>
+	
+<div>
+<br>
+<br>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#SumBasic" aria-controls="SumBasic" role="tab" data-toggle="tab">SumBasic</a></li>
+    <li role="presentation"><a href="#LSA" aria-controls="LSA" role="tab" data-toggle="tab">LSA</a></li>
+    <li role="presentation"><a href="#TextRank" aria-controls="TextRank" role="tab" data-toggle="tab">TextRank</a></li>
+    <li role="presentation"><a href="#LexRank" aria-controls="LexRank" role="tab" data-toggle="tab">LexRank</a></li>
+	<li role="presentation"><a href="#Featured-LexRank" aria-controls="Featured-LexRank" role="tab" data-toggle="tab">Featured-LexRank</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div align = "justify" role="tabpanel" class="tab-pane active" id="SumBasic"><p><font size= "4">{{post.sum_basic|linebreaks}}</font></p></div>
+    <div align = "justify" role="tabpanel" class="tab-pane" id="LSA"><p><font size= "4">{{post.LSA|linebreaks}}</font></p></div>
+    <div align = "justify" role="tabpanel" class="tab-pane" id="TextRank"><p><font size= "4">{{post.textrank|linebreaks}}</font></p></div>
+    <div align = "justify" role="tabpanel" class="tab-pane" id="LexRank"><p><font size= "4">{{post.lexrank|linebreaks}}</font></p></div>
+    <div align = "justify" role="tabpanel" class="tab-pane" id="Featured-LexRank"><p><font size= "4">{{post.featured_lexrank|linebreaks}}</font></p></div>
+  </div>
+
+</div>
+	<br>
+	<br>
+	<br>
+	<div> <p>Origianl link:<br><font size = "2"><a href = {{post.link}}>{{post.link}}</a></font></p></div>
 
 
         <!-- Footer -->
