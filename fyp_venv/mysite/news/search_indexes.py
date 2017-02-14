@@ -9,6 +9,7 @@ class PostIndex(indexes.SearchIndex, indexes.Indexable):
     content = indexes.CharField(model_attr='content')
     tenlinesummary = indexes.CharField(model_attr='tenlinesummary')
     pub_date = indexes.DateTimeField(model_attr='pub_date')
+    photo = indexes.CharField(model_attr='photo')
     quotation = indexes.MultiValueField()
     speaker = indexes.MultiValueField()
     date = indexes.MultiValueField()
