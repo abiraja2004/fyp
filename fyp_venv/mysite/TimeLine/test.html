@@ -1,0 +1,129 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery eeyellow.Timeline Plugin Demo</title>
+    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="../TimeLine/Bootstrap-eeyellow-Timeline/css/jquery.eeyellow.Timeline.css" />
+    <style>
+    body { font-family:'Roboto'; background-color:#fafafa;}
+    .container { margin-top:150px;}
+    </style>
+</head>
+
+<body>
+    <div class="container">
+    <h1>Timeline Summarization Demo</h1>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="VivaTimeline">
+
+          <dl id="Timeline">         
+
+          </dl>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="http://code.jquery.com/jquery-1.12.3.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="Bootstrap-eeyellow-Timeline/js/jquery.eeyellow.Timeline.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.VivaTimeline').vivaTimeline({
+        carousel: true,
+        carouselTime: 3000
+      });
+    });
+  </script>
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  function readTextFile(file)
+  {
+      var rawFile = new XMLHttpRequest();
+      rawFile.open("GET", file, false);
+      rawFile.onreadystatechange = function ()
+      {
+          if(rawFile.readyState === 4)
+          {
+              if(rawFile.status === 200 || rawFile.status == 0)
+              {
+                  var allText = rawFile.responseText;
+                  fileDisplayArea.innerText = allText 
+              }
+          }
+      }
+      rawFile.send(null);
+  }
+
+  function parseText()
+  {
+    var reader = new FileReader();
+    var headlineObj = document.getElementsByClassName("VivaTimeline");
+    var date = "";
+    var title = "";
+    var noOfLines;
+
+    var path = document.location.pathname;
+    var directory = path.substring(path.indexOf('/'), path.lastIndexOf('/'));
+
+
+    //reader.readAsText(new File(directory + "/headline_summary.txt"));
+    jQuery 
+      .ajax({
+        url: 'headline_summary.txt',
+        dataType: 'text'
+      })
+      .error(function(){
+        console.warn('An error occurred whilst loading the file', arguments);
+      })
+      .done(function(res){
+        jQuery.each(res.split(/\r?\n/g), function(i, v){
+          //jQuery('#1').append('<p>' + v + '</p>');
+          if(v.length == 10) {
+            jQuery("#Timeline").append('<dt class="date">' + v + '</dt>');
+          }
+          else {
+            if(v.length > 1) {      // Reduce the line of \n or EOF
+              // Constructing the DOM tree
+              $("dl:last-child").append('<dd class="pos-right clearfix">' + '</dd>');
+              $("dd:last-child").append('<div class="circ">' + '</div>');
+              $("dd:last-child").append('<div class="time">' + "3 May" + '</div>');
+              $("dd:last-child").append('<div class="events">' + '</div>');
+              $(".events").last().append('<div class="events-header">' + 
+                                            v.substring(v.indexOf(")") + 1 , v.length) + '</div>');
+              $(".events").last().append('<div class="events-body">' + '</div>' );
+              $(".events-body").last().append('<div class="row">' + '</div>');
+
+              // Title 
+              $(".row").last().append('<div class="col-md-6 pull-left">' + '</div>');
+              $(".col-md-6 pull-left").last().append('<div class="events-desc">' + "abc" + '</div>');
+            }
+          }
+        });
+      })
+    ;
+
+  }
+
+  parseText();
+  </script>
+
+</body>
+</html>
