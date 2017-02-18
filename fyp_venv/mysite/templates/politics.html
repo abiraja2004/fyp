@@ -18,8 +18,8 @@
     <link rel="stylesheet" href="{% static 'css/3-col-portfolio.css' %}">
     <link rel="stylesheet" href="{% static 'css/sidebar.css' %}">
     <link rel="stylesheet" href="{% static 'css/boostrap.css' %}">
-
     <script src="https://code.jquery.com/jquery.js"></script>
+
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="{% static 'js/bootstrap.min.js' %}"></script>
     <script src="{% static 'js/jasny-bootstrap.min.js' %}"></script>
@@ -89,10 +89,10 @@
                     </a>
                 </li>
                 <li>
-                    <a href=h ttp://127.0.0.1:8000/politics/>Politics</a>
+                    <a href=http://127.0.0.1:8000/politics/>Politics</a>
                 </li>
                 <li>
-                    <a href=h ttp://127.0.0.1:8000/finance/>Finance</a>
+                    <a href=http://127.0.0.1:8000/finance/>Finance</a>
                 </li>
                 <li>
                     <a href="#">Society</a>
@@ -137,79 +137,153 @@
                     </div>
                 </div>
 
-
                 <!-- /.row -->
 
                 <div class="row">
                     {% for post in post_list %} {% if post.category == "politics" %}
                     <div class="col-md-4" style="height:800px">
-<div>
-    {% if post.photo %}
-    <img class="img-responsive" src={{post.photo}} alt=""> {% else %}
-    <div class="thumbnail thumbnail-default"></div>
-    {% endif %}
-</div>
-<div align="center">
-    <h3>
-        <a href="{% url 'post_detail' pk=post.pk %}">{{post.title}}</a>
-    </h3>
-    <div class="date">{{ post.created_at|date:"Y / m / d" }}</div>
-    <div align="justify">
-        <p>{{post.fivelinesummary|linebreaks}}</p>
-    </div>
-</div>
-</div>
-{% endif %} {% endfor %}
-</div>
+                        <div>
+                            {% if post.photo %}
+                            <img class="img-responsive" src={{post.photo}} alt=""> {% else %}
+                            <div class="thumbnail thumbnail-default"></div>
+                            {% endif %}
 
-<hr>
+                            <!-- Trigger the modal with a button -->
+                            <button type="button" class="btn btn-primary btn-xs pull-right pop" data-toggle="modal" data-target="#myModal-{{post.pk}}">Open Modal</button>
 
-<!-- Pagination -->
-<div class="row text-center">
-    <div class="col-lg-12">
-        {% if post_list.has_other_pages %}
-        <ul class="pagination">
-            {% if post_list.has_previous %}
-            <li><a href="?page={{ post_list.previous_page_number }}">&laquo;</a></li>
-            {% else %}
-            <li class="disabled"><span>&laquo;</span></li>
-            {% endif %} {% for i in post_list.paginator.page_range %} {% if post_list.number == i %}
-            <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span>
-            </li>
-            {% else %}
-            <li><a href="?page={{ i }}">{{ i }}</a></li>
-            {% endif %} {% endfor %} {% if post_list.has_next %}
-            <li><a href="?page={{ post_list.next_page_number }}">&raquo;</a></li>
-            {% else %}
-            <li class="disabled"><span>&raquo;</span></li>
-            {% endif %}
-        </ul>
-        {% endif %}
-    </div>
-</div>
-<!-- /.row -->
+                            <!-- Modal -->
+                            <div class="modal fade" id="myModal-{{post.pk}}" role="dialog">
+                                <div class="modal-dialog modal-dialog modal-lg">
 
-<hr>
+                                    <!-- Modal content-->
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                            <h4 class="modal-title">{{post.title}}</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <!-- Nav tabs -->
+                                            <ul class="nav nav-tabs" role="tablist" id="tab-{{post.pk}}">
+                                                <li role="presentation" class="active">
+                                                    <a href="#SumBasic-{{post.pk}}" aria-controls="SumBasic-{{post.pk}}" role="tab"
+                                                        data-toggle="tab">SumBasic</a>
+                                                </li>
+                                                <li role="presentation"><a href="#LSA-{{post.pk}}" aria-controls="LSA" role="tab-{{post.pk}}" data-toggle="tab">LSA</a></li>
+                                                <li role="presentation">
+                                                    <a href="#TextRank-{{post.pk}}" aria-controls="TextRank-{{post.pk}}" role="tab"
+                                                        data-toggle="tab">TextRank</a>
+                                                </li>
+                                                <li role="presentation">
+                                                    <a href="#LexRank-{{post.pk}}" aria-controls="LexRank-{{post.pk}}" role="tab"
+                                                        data-toggle="tab">LexRank</a>
+                                                </li>
+                                                <li role="presentation">
+                                                    <a href="#Featured-LexRank-{{post.pk}}" aria-controls="Featured-LexRank-{{post.pk}}"
+                                                        role="tab" data-toggle="tab">Featured-LexRank</a>
+                                                </li>
+                                            </ul>
 
-<!-- Footer -->
-<footer>
-    <div class="row">
-        <div class="col-lg-12">
-            <p>Copyright &copy; HKUST FYP Elvis & Jackson 2016 </p>
+                                            <!-- Tab panes -->
+                                            <div class="tab-content">
+                                                <div align="justify" role="tabpanel" class="tab-pane active" id="SumBasic-{{post.pk}}">
+                                                    <p>
+                                                        <font size="4">{{post.sum_basic|linebreaks}}</font>
+                                                    </p>
+                                                </div>
+                                                <div align="justify" role="tabpanel" class="tab-pane" id="LSA-{{post.pk}}">
+                                                    <p>
+                                                        <font size="4">{{post.LSA|linebreaks}}</font>
+                                                    </p>
+                                                </div>
+                                                <div align="justify" role="tabpanel" class="tab-pane" id="TextRank-{{post.pk}}">
+                                                    <p>
+                                                        <font size="4">{{post.textrank|linebreaks}}</font>
+                                                    </p>
+                                                </div>
+                                                <div align="justify" role="tabpanel" class="tab-pane" id="LexRank-{{post.pk}}">
+                                                    <p>
+                                                        <font size="4">{{post.lexrank|linebreaks}}</font>
+                                                    </p>
+                                                </div>
+                                                <div align="justify" role="tabpanel" class="tab-pane" id="Featured-LexRank-{{post.pk}}">
+                                                    <p>
+                                                        <font size="4">{{post.featured_lexrank|linebreaks}}</font>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <br>
+                        <div align="center">
+
+                            <h3>
+                                <a href="{% url 'post_detail' pk=post.pk %}">{{post.title}} </a>
+                            </h3>
+                            <div class="date">{{ post.created_at|date:"Y / m / d" }}</div>
+                            <div align="justify">
+                                <p>{{post.fivelinesummary|linebreaks}}</p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %} {% endfor %}
+                </div>
+
+                <hr>
+
+                <!-- Pagination -->
+                <div class="row text-center">
+                    <div class="col-lg-12">
+                        {% if post_list.has_other_pages %}
+                        <ul class="pagination">
+                            {% if post_list.has_previous %}
+                            <li><a href="?page={{ post_list.previous_page_number }}">&laquo;</a></li>
+                            {% else %}
+                            <li class="disabled"><span>&laquo;</span></li>
+                            {% endif %} {% for i in post_list.paginator.page_range %} {% if post_list.number == i %}
+                            <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span>
+                            </li>
+                            {% else %}
+                            <li><a href="?page={{ i }}">{{ i }}</a></li>
+                            {% endif %} {% endfor %} {% if post_list.has_next %}
+                            <li><a href="?page={{ post_list.next_page_number }}">&raquo;</a></li>
+                            {% else %}
+                            <li class="disabled"><span>&raquo;</span></li>
+                            {% endif %}
+                        </ul>
+                        {% endif %}
+                    </div>
+                </div>
+                <!-- /.row -->
+
+                <hr>
+
+                <!-- Footer -->
+                <footer>
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <p>Copyright &copy; HKUST FYP Elvis & Jackson 2016 </p>
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </footer>
+
+            </div>
+            <!-- /.container -->
         </div>
-    </div>
-    <!-- /.row -->
-</footer>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="js/jquery.js"></script>
 
-</div>
-<!-- /.container -->
-</div>
-<!-- /#wrapper -->
-<!-- jQuery -->
-<script src="js/jquery.js"></script>
 
-<!-- Bootstrap Core JavaScript -->
-<script src="js/bootstrap.min.js"></script>
 
 </body>
 
