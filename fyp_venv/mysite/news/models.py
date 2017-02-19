@@ -17,7 +17,7 @@ class Post(models.Model):
 	location = models.CharField(max_length=100)
 	created_at = models.DateTimeField(auto_now_add=True)
 	link = models.URLField(blank=True)
-	pub_date = models.DateTimeField()
+	pub_date = models.DateTimeField(blank=True)
 	def __str__(self):
 		return self.title
 	def get_absolute_url(self):

@@ -43,8 +43,11 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'haystack',
-	'news',
+    'haystack',
+    'news',
+    'django_extensions',
+    'newspaper',
+    'sumy',
 )
 
 HAYSTACK_SIGNAL_PROCESSOR = "haystack.signals.RealtimeSignalProcessor"

@@ -1,0 +1,1 @@
+command: python manage.py runscript database_script
