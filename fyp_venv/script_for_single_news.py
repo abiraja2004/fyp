@@ -25,27 +25,9 @@ from sumy.utils import get_stop_words
 
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
+number = 0
 
-##cnn_paper = newspaper.build('http://edition.cnn.com/')
-##    
-##for article in cnn_paper.articles:
-##    if "politics" in article.url:
-##        print(article.url)
-##        
-##        category = "politics"
-##        pub_date = article.publish_date
-##        print(article.publish_date)
-##        location = "US"
-##        title = article.title
-##                                                
-##        content = article.text
-##        photo = article.top_image
-##        link = article.url
-##
-##        #post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link)
-##        #post.save()
-            
-
+'''for single news'''
 url = 'http://edition.cnn.com/2017/02/20/europe/russia-un-ambassador-vitaly-churkin-dead/index.html'
 article = Article(url)
 article.download()
@@ -74,7 +56,7 @@ stemmer = Stemmer(LANGUAGE)
 summarizer = LexRankSummarizer(stemmer)
 summarizer.stop_words = get_stop_words(LANGUAGE)
 
-# five-line summary
+#five-line summary
 summary = open("five_line_summary.txt", "w", encoding = 'utf-8-sig')
 sys.stdout = summary
 for sentence in summarizer(parser.document, SENTENCES_COUNT - 5):
@@ -174,6 +156,14 @@ with open('lexrank.txt', encoding = 'utf8') as f:
 with open('featured-lexrank.txt', encoding = 'utf8') as f:
     featured_lexrank  = f.readlines()
 
+
+fivelinesummary=''.join(fivelinesummary)
+tenlinesummary=''.join(tenlinesummary)
+sum_basic=''.join(sum_basic)
+LSA=''.join(LSA)
+textrank=''.join(textrank)
+lexrank=''.join(lexrank)
+featured_lexrank=''.join(featured_lexrank)
+
 post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
 post.save()
-
