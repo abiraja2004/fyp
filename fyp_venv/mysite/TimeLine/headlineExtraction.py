@@ -6,7 +6,6 @@ import logging
 import shutil
 from django.core.management import call_command     # use call_command
 from django.conf import settings                    # use settings.comfigure()
-#from pprint import pprint                          # print line by line
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer as LexRankSummarizer
@@ -19,6 +18,10 @@ import sys
 LANGUAGE = "English"
 # number of sentences in the summary
 SENTENCES_COUNT  = 3
+# File Not File error handling
+error_to_catch = getattr(__builtins__,'FileNotFoundError', IOError)
+
+Dir = "./TimeLine/RawData/"
 
 # export database !!!NOT YET FINISHED!!!
 # in command line, we use : python3 manage.py dumpdata news.post > db.json
@@ -33,46 +36,60 @@ SENTENCES_COUNT  = 3
 #call_command('dumpdata', "news", format='xml', indent=4, stdout=output)
 #output.close()
 
-output = ""
-summary = open("input.txt", "w", encoding = 'utf-8-sig')
-file = open("headline_summary.txt", "w", encoding = 'utf-8-sig')
-#sys.stdout = summary
-date = ""
-
-# filter data
-try:
-    with open("db.json") as data_file:
-        data = json.load(data_file)
-
-    for index in range(len(data)):
-        if data[index]["fields"]["pub_date"][:10] != date or index == len(data)-1:
-            if date != "" :
-                # LexRank algorithm
+def getSummarizedList(sqs):
+    output = ""
+    try:
+        summary = open(Dir + "input.txt", "w", encoding = 'utf-8-sig')
+        file = open(Dir + "headline_summary.txt", "w", encoding = 'utf-8-sig')
+    except error_to_catch:
+        print("!")
+    #sys.stdout = summary
+    date = ""
+    # filtering data
+    for i in sqs:
+        pub_date = dateReformat(i.pub_date)
+        
+        if pub_date != date or i == len(sqs)-1:
+            if date != "":
                 local_summary.close()
+                # LexRank algorithm
                 sys.stdout = file
                 #summarizer = LexRankSummarizer(Stemmer(LANGUAGE))
                 summarizer =LsaSummarizer(Stemmer(LANGUAGE))                
                 summarizer.stop_words = get_stop_words(LANGUAGE)               
-                headline = PlaintextParser.from_file(date + ".txt", Tokenizer(LANGUAGE))
+                headline = PlaintextParser.from_file(Dir + date + ".txt", Tokenizer(LANGUAGE))
 
-                print(date)
                 for sentence in summarizer(headline.document, SENTENCES_COUNT):
                     print(sentence)
-                    
-            output = output + data[index]["fields"]["pub_date"][:10] + "\n"
-            date = data[index]["fields"]["pub_date"][:10]
-            local_summary = open(date + ".txt", "w", encoding = 'utf-8-sig')
+                
+            output = output + pub_date + "\n"
+            date = pub_date
+            local_summary = open(Dir + date + ".txt", "w", encoding = 'utf-8-sig')
+            
             #local_summary.write(date + "\n")
         #output = output + data[index]["fields"]["title"] + "\n" + (data[index]["fields"]["pub_date"])[:10] + "\n"
+        local_summary.write(i.title + ".\n")
+        output = output + i.title + ".\n"
 
-        local_summary.write(str(index) + ")" + data[index]["fields"]["title"] + ".\n")
-        output = output + data[index]["fields"]["title"] + ".\n"
-except:
-    logging.exception("ERROR: filter data")
+        
+
+    summary.write(output)
+    file.close()
+    summary.close()
+    testing = readSummarizerResultToList("headline_summary.txt")
     
+    return testing
 
-summary.write(output)
+def readSummarizerResultToList(filename):
+    headlineSummary = open(Dir + filename, "r", encoding = 'utf-8-sig')
+    list = headlineSummary.read().splitlines()
+    headlineSummary.close()
+    return list
 
-summary.close()
-local_summary.close()
-file.close()
+def dateReformat(date):
+    # Input: datetime class
+    fDate = str(date.year) + "-" + str(date.month) + "-" + str(date.day)
+    return fDate
+
+#logging.basicConfig(level=logging.INFO)
+#logging.info(getSummarizedList())
