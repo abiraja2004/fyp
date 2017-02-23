@@ -26,6 +26,7 @@ from sumy.utils import get_stop_words
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
 number = 0
+Dir = "./dbScript/"
 
 cnn_paper = newspaper.build('http://edition.cnn.com/')
     
@@ -47,7 +48,7 @@ for article in cnn_paper.articles:
         photo = article.top_image
         link = article.url
 
-        getText = open("input_article.txt", "w", encoding = 'utf-8-sig')
+        getText = open(Dir + "input_article.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = getText
         print(article.title)
         print(article.text)
@@ -62,14 +63,14 @@ for article in cnn_paper.articles:
         summarizer.stop_words = get_stop_words(LANGUAGE)
 
         # # five-line summary
-        summary = open("five_line_summary.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "five_line_summary.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary
         for sentence in summarizer(parser.document, SENTENCES_COUNT - 5):
             print(sentence)
         summary.close()
 
         # #ten-line summary
-        summary = open("ten_line_summary.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "ten_line_summary.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
@@ -79,7 +80,7 @@ for article in cnn_paper.articles:
         # #sumbasic
         summarizer =SumBasicSummarizer(stemmer)
         summarizer.stop_words = get_stop_words(LANGUAGE)
-        summary = open("sumbasic.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "sumbasic.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
@@ -89,7 +90,7 @@ for article in cnn_paper.articles:
         # #LSA
         summarizer =LsaSummarizer(stemmer)
         summarizer.stop_words = get_stop_words(LANGUAGE)
-        summary = open("LSA.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "LSA.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
@@ -99,7 +100,7 @@ for article in cnn_paper.articles:
         # #textrank
         summarizer =TextRankSummarizer(stemmer)
         summarizer.stop_words = get_stop_words(LANGUAGE)
-        summary = open("textrank.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "textrank.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
@@ -109,7 +110,7 @@ for article in cnn_paper.articles:
         # #lexrank
         summarizer =LexRankSummarizer(stemmer)
         summarizer.stop_words = get_stop_words(LANGUAGE)
-        summary = open("lexrank.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "lexrank.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
@@ -117,48 +118,48 @@ for article in cnn_paper.articles:
         summary.close()
 
         # #featured-lexrank
-        with open('input_article.txt', 'r', encoding = 'utf-8-sig') as f:
+        with open(Dir + 'input_article.txt', 'r', encoding = 'utf-8-sig') as f:
             first_line = f.readline()
         title = first_line
-        with open('input_article.txt', 'r', encoding = 'utf-8-sig') as f:
+        with open(Dir + 'input_article.txt', 'r', encoding = 'utf-8-sig') as f:
             text = f.read()
         tt = TextTeaser()
 
         sentences = tt.summarize(title, text)
-        file = open("tt.txt", "w", encoding = 'utf-8-sig')
+        file = open(Dir + "tt.txt", "w", encoding = 'utf-8-sig')
         for sentence in sentences:
             file.write("%s\n" % sentence)
         file.close()
 
-        parser = PlaintextParser.from_file("tt.txt", Tokenizer(LANGUAGE))
+        parser = PlaintextParser.from_file(Dir + "tt.txt", Tokenizer(LANGUAGE))
         summarizer =LexRankSummarizer(stemmer)
         summarizer.stop_words = get_stop_words(LANGUAGE)
-        summary = open("featured-lexrank.txt", "w", encoding = 'utf-8-sig')
+        summary = open(Dir + "featured-lexrank.txt", "w", encoding = 'utf-8-sig')
         sys.stdout = summary 
         for sentence in summarizer(parser.document, SENTENCES_COUNT):
             print(sentence)
             print("")
         summary.close()
 
-        with open('five_line_summary.txt', encoding = 'utf8') as f:
+        with open(Dir + 'five_line_summary.txt', encoding = 'utf8') as f:
             fivelinesummary = f.readlines()
 
-        with open('ten_line_summary.txt', encoding = 'utf8') as f:
+        with open(Dir + 'ten_line_summary.txt', encoding = 'utf8') as f:
             tenlinesummary  = f.readlines()
 
-        with open('sumbasic.txt', encoding = 'utf8') as f:
+        with open(Dir + 'sumbasic.txt', encoding = 'utf8') as f:
             sum_basic = f.readlines()
 
-        with open('LSA.txt', encoding = 'utf8') as f:
+        with open(Dir + 'LSA.txt', encoding = 'utf8') as f:
              LSA  = f.readlines()
 
-        with open('textrank.txt', encoding = 'utf8') as f:
+        with open(Dir + 'textrank.txt', encoding = 'utf8') as f:
             textrank  = f.readlines()
 
-        with open('lexrank.txt', encoding = 'utf8') as f:
+        with open(Dir + 'lexrank.txt', encoding = 'utf8') as f:
             lexrank  = f.readlines()
 
-        with open('featured-lexrank.txt', encoding = 'utf8') as f:
+        with open(Dir + 'featured-lexrank.txt', encoding = 'utf8') as f:
             featured_lexrank  = f.readlines()
 
 
