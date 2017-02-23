@@ -38,6 +38,11 @@ Dir = "./TimeLine/RawData/"
 
 def getSummarizedList(sqs):
     output = ""
+    
+    # Directory checking
+    if not os.path.exists(Dir):
+        os.makedirs(Dir)
+        
     try:
         summary = open(Dir + "input.txt", "w", encoding = 'utf-8-sig')
         file = open(Dir + "headline_summary.txt", "w", encoding = 'utf-8-sig')
