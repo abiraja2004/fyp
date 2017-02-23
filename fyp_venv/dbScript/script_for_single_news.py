@@ -2,7 +2,8 @@ from __future__ import absolute_import
 from __future__ import division, print_function, unicode_literals
 
 import sys, os
-sys.path.append(os.path.join(os.path.dirname(__file__), 'mysite'))
+parent_path = os.path.join(os.path.dirname(__file__), '../')
+sys.path.append(os.path.join(parent_path, 'mysite'))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
 from django.conf import settings
 from django.core.wsgi import get_wsgi_application
@@ -26,7 +27,7 @@ from sumy.utils import get_stop_words
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
 number = 0
-Dir = "./dbScript/"
+Dir = "./dummy/"
 
 
 # Directory checking
