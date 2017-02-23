@@ -55,7 +55,7 @@ def getSummarizedList(sqs):
         title = i.title.rstrip()
         pub_date = dateReformat(i.pub_date)
 
-        if pub_date != date or title == sqs.latest('pub_date').title.rstrip():
+        if pub_date != date:
             if date != "":
                 local_summary.close()
                 # LexRank algorithm
@@ -71,11 +71,20 @@ def getSummarizedList(sqs):
             output = output + pub_date + "\n"
             date = pub_date
             local_summary = open(Dir + date + ".txt", "w", encoding = 'utf-8-sig')
-            
+        
         local_summary.write(title + ".\n")
         output = output + title + ".\n"
 
-        
+        #For last post summarization#
+        if title == sqs.latest('pub_date').title.rstrip():
+            local_summary.close()
+            sys.stdout = file
+            summarizer =LsaSummarizer(Stemmer(LANGUAGE))                
+            summarizer.stop_words = get_stop_words(LANGUAGE)               
+            headline = PlaintextParser.from_file(Dir + date + ".txt", Tokenizer(LANGUAGE))
+            for sentence in summarizer(headline.document, SENTENCES_COUNT):
+                print(sentence)
+        #############################
 
     summary.write(output)
     file.close()
