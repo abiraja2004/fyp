@@ -11,25 +11,20 @@
     <meta name="author" content="">
 
     <title>SmartNews-Opinion Extraction</title>
-	
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 
-	<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">	
-	<link rel="stylesheet" href="{% static 'css/3-col-portfolio.css' %}">
-	<link rel="stylesheet" href="{% static 'css/jasny-boostrap.min.css' %}">
-	<link rel="stylesheet" href="{% static 'css/sidebar.css' %}">
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="{% static 'Bootstrap-eeyellow-Timeline/css/jquery.eeyellow.Timeline.css' %}">
-	
-	<script src="https://code.jquery.com/jquery.js"></script>
+  <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}"> 
+  <link rel="stylesheet" href="{% static 'css/3-col-portfolio.css' %}">
+  <link rel="stylesheet" href="{% static 'css/jasny-boostrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'css/sidebar.css' %}">
+  
+  <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="{% static 'js/bootstrap.min.js' %}"></script>
     <script src="{% static 'js/jasny-bootstrap.min.js' %}"></script>
-	<script src="{% static 'js/sidebar.js' %}"></script>
+  <script src="{% static 'js/sidebar.js' %}"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -37,16 +32,11 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <script src="http://code.jquery.com/jquery-1.12.3.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="{% static 'Bootstrap-eeyellow-Timeline/js/jquery.eeyellow.Timeline.js' %}"></script>
-    <style>
-        body { font-family:'Roboto'; background-color:#fafafa;}
-        .timeline_container { margin-top:150px;}
-    </style>
 </head>
 
 <body>
+
+
     <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
@@ -72,18 +62,18 @@
                     <li>
                         <a href=http://127.0.0.1:8000/search-post/>Opinions</a>
                     </li>
-					<li>
+          <li>
                         <a href="#">About</a>
                     </li>
                     <li>
                         <a href="#">Contacts</a>
-                    </li>					
+                    </li>         
                 </ul>
-				<ul class="nav navbar-nav navbar-right">
-				     <li>
+        <ul class="nav navbar-nav navbar-right">
+             <li>
                         <a>#Read news in a faster way</a>
                     </li>
-				</ul>
+        </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
@@ -106,10 +96,10 @@
                 <li>
                     <a href=http://127.0.0.1:8000/finance/>Finance</a>
                 </li>
-				<li>
+        <li>
                     <a href="#">Society</a>
                 </li>
-				<li>
+        <li>
                     <a href="#">Environment</a>
                 </li>
                 <li>
@@ -118,10 +108,10 @@
                 <li>
                     <a href="#">Technology</a>
                 </li>
-				                <li>
+                        <li>
                     <a href="#">Sports</a>
                 </li>
-				                <li>
+                        <li>
                     <a href="#">Lifestyle</a>
                 </li>
  
@@ -134,8 +124,8 @@
         <div id="page-content-wrapper">
             <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
                 <span class="hamb-top"></span>
-    			<span class="hamb-middle"></span>
-				<span class="hamb-bottom"></span>
+          <span class="hamb-middle"></span>
+        <span class="hamb-bottom"></span>
             </button>
     <!-- Page Content -->
     <div class="container">
@@ -150,70 +140,56 @@
         </div>
         <!-- /.row -->
 
-	<form action="/timeline/" method="post">
-		{% csrf_token %}
-		<input type="text" name="q">
-		<input type="submit" value="Submit">
-	</form>
+  <form action="/timeline/" method="post">
+    {% csrf_token %}
+    <input type="text" name="q">
+    <input type="submit" value="Submit">
+  </form>
 
 
-<!--
-	{% for result in rlt %}
 
-		{{result.pub_date|date:"Y / m / d"}}
-		{{result.title}}
+  {% for result in rlt %}
 
-		{% if result.photo %}
-			<div class="thumbnail">
-			    <img class="image-resonsive" src={{ result.photo }} alt="">
-			</div>
-		{% else %}
-			<div class="thumbnail thumbnail-default"></div>
-		{% endif %}
+    {{result.pub_date|date:"Y / m / d"}}
+    {{result.title}}
 
-	{% endfor %}
+    {% if result.photo %}
+      <div class="thumbnail">
+          <img class="image-resonsive" src={{ result.photo }} alt="">
+      </div>
+    {% else %}
+      <div class="thumbnail thumbnail-default"></div>
+    {% endif %}
 
-	{% if messages %}
-	<ul class="messages">
-		<h1>Result</h1>
-	    {% for message in messages %}
-	    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
-	    {% endfor %}
-	</ul>
-	{% endif %}
+  {% endfor %}
 
-	</div>
--->
+  {% if messages %}
+  <ul class="messages">
+    <h1>Result</h1>
+      {% for message in messages %}
+      <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+      {% endfor %}
+  </ul>
+  {% endif %}
 
-    <div class="timeline_container">
-        <h1>jQuery eeyellow.Timeline Plugin Demo</h1>
-        {% for result in rlt %}
-        <div class="row">
-            <div class="col-md-12">
-                <div class="VivaTimeline">
-                    <dl>
-                        <dt>{{result.pub_date|date:"Y / m"}}</dt>                    
-                        <dd class="pos-left clearfix">
-                            <div class="circ"></div>
-                            <div class="time">{{result.pub_date|date:"m / d"}}</div>
-                            <div class="events">
-                                <div class="events-header">{{result.title}}</div>                                
-                                <div class="events-body">                                                                                            
-                                    <div class="col-md-6 pull-left">
-                                        <img class="events-object img-responsive img-rounded" src="{{result.photo}}" />                                       
-                                    </div>
-                                    <div class="events-desc">
-                                        {{result.content}}
-                                    </div>    
-                                </div>                                 
-                            </div>
-                        </dd>                                 
-                    </dl>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+  </div>
+
+<!--  <div class="row">
+  {% for result in rlt %}
+    {% for quote in result.quotation %}
+      {{quote |linebreaks}}
+    {% endfor %}
+  {% endfor %}
+  </div>
+  
+  <div class="row">
+  {% for result in rlt %}
+    {% for speaker in result.speaker %}
+      {{speaker |linebreaks}}
+    {% endfor %}
+  {% endfor %}
+  </div>  --> 
+
 
         <!-- Footer -->
         <footer>
@@ -229,22 +205,11 @@
     <!-- /.container -->
     </div>
     <!-- /#wrapper -->
-
-    <!-- Headline JavaScript -->
-    <script type="text/javascript">
-        jQuery(document).ready(function($) {
-            $('.VivaTimeline').vivaTimeline({
-                carousel: true,
-                carouselTime: 3000
-            });
-        });
-    </script>
-
     <!-- jQuery -->
-    <script src="{% static 'js/jquery.js' %}"></script>
+    <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="js/bootstrap.min.js"></script>
 
 </body>
 

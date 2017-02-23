@@ -1,3 +1,4 @@
 {{object.content}}
+{{object.fivelinesummary}}
 {{object.tenlinesummary}}
 {{object.Quotation}}

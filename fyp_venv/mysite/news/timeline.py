@@ -33,3 +33,4 @@ def search_post(request):
     if request.POST:
         ctx['rlt'] = sqs
     return render(request, "timeline.html", ctx)
+
