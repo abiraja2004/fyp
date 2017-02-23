@@ -52,9 +52,10 @@ def getSummarizedList(sqs):
     date = ""
     # filtering data
     for i in sqs:
+        title = i.title.rstrip()
         pub_date = dateReformat(i.pub_date)
-        
-        if pub_date != date or i == len(sqs)-1:
+
+        if pub_date != date or title == sqs.latest('pub_date').title.rstrip():
             if date != "":
                 local_summary.close()
                 # LexRank algorithm
@@ -66,15 +67,13 @@ def getSummarizedList(sqs):
 
                 for sentence in summarizer(headline.document, SENTENCES_COUNT):
                     print(sentence)
-                
+
             output = output + pub_date + "\n"
             date = pub_date
             local_summary = open(Dir + date + ".txt", "w", encoding = 'utf-8-sig')
             
-            #local_summary.write(date + "\n")
-        #output = output + data[index]["fields"]["title"] + "\n" + (data[index]["fields"]["pub_date"])[:10] + "\n"
-        local_summary.write(i.title + ".\n")
-        output = output + i.title + ".\n"
+        local_summary.write(title + ".\n")
+        output = output + title + ".\n"
 
         
 
@@ -87,9 +86,9 @@ def getSummarizedList(sqs):
 
 def readSummarizerResultToList(filename):
     headlineSummary = open(Dir + filename, "r", encoding = 'utf-8-sig')
-    list = headlineSummary.read().splitlines()
+    headlinelist = headlineSummary.read().splitlines()
     headlineSummary.close()
-    return list
+    return headlinelist
 
 def dateReformat(date):
     # Input: datetime class

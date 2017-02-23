@@ -35,7 +35,7 @@ if not os.path.exists(Dir):
     os.makedirs(Dir)
     
 '''for single news'''
-url = 'http://edition.cnn.com/2017/02/20/politics/donald-trump-first-month/index.html'
+url = 'http://edition.cnn.com/2017/02/20/europe/trump-state-visit-uk-parliament-debate/index.html'
 article = Article(url)
 article.download()
 article.parse()
