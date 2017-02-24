@@ -41,8 +41,9 @@
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="{% static 'Bootstrap-eeyellow-Timeline/js/jquery.eeyellow.Timeline.js' %}"></script>
     <style>
-        body { font-family:'Roboto'; background-color:#fafafa;}
+        body { background-color:#fafafa;}
         .timeline_container { margin-top:150px;}
+        .events-body { display:none; }
     </style>
 </head>
 
@@ -187,15 +188,19 @@
 
     <div class="timeline_container">
         <h1>jQuery eeyellow.Timeline Plugin Demo</h1>
-        {% for result in rlt %}
+        {% for result in rlt reversed%}
         <div class="row">
             <div class="col-md-12">
                 <div class="VivaTimeline">
                     <dl>
-                        <dt>{{result.pub_date|date:"Y / m"}}</dt>                    
+                        {% ifchanged result.pub_date|date:"Y / m" %}
+                        <dt>{{result.pub_date|date:"Y / m"}}</dt>  
+                        {% endifchanged %}
                         <dd class="pos-left clearfix">
+                            {% ifchanged result.pub_date|date:"m / d" %}
                             <div class="circ"></div>
-                            <div class="time">{{result.pub_date|date:"m / d"}}</div>
+                                <div class="time">{{result.pub_date|date:"m / d"}}</div>
+                            {% endifchanged %}
                             <div class="events">
                                 <div class="events-header">{{result.title}}</div>                                
                                 <div class="events-body">                                                                                            
@@ -203,7 +208,7 @@
                                         <img class="events-object img-responsive img-rounded" src="{{result.photo}}" />                                       
                                     </div>
                                     <div class="events-desc">
-                                        {{result.content}}
+                                        {{result.fivelinesummary|linebreaks}}
                                     </div>    
                                 </div>                                 
                             </div>
@@ -237,6 +242,7 @@
                 carousel: true,
                 carouselTime: 3000
             });
+            $('#events-body').hide();
         });
     </script>
 
