@@ -11,6 +11,8 @@ application = get_wsgi_application()
 from news.models import Post
 from newspaper import Article
 import newspaper
+from django.core.exceptions import ValidationError
+import datetime
 
 from textteaser import TextTeaser
 from sumy.parsers.html import HtmlParser
@@ -26,21 +28,16 @@ from sumy.utils import get_stop_words
 
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
-number = 0
 Dir = "./dummy/"
 
-cnn_paper = newspaper.build('http://edition.cnn.com/')
+cnn_paper = newspaper.build('http://www.bbc.com/news')
     
 for article in cnn_paper.articles:
     if "politics" in article.url:
-        number = number + 1
-        print(number)
         
         category = "politics"
-        try:
-            pub_date = article.publish_date
-        except ValueError:
-            pub_date = datetime.datetime.now()
+
+        pub_date = article.publish_date
             
         location = "US"
         title = article.title
@@ -172,8 +169,14 @@ for article in cnn_paper.articles:
         lexrank=''.join(lexrank)
         featured_lexrank=''.join(featured_lexrank)
 
-        post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
-        post.save()
+        try:
+            post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
+            post.save()
+        except ValidationError as e:
+            pub_date = datetime.datetime.now()
+            post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
+            post.save()
+            
 
             
 
