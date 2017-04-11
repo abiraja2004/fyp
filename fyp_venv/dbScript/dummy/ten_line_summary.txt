@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿The administration, consumed with sweeping directives to increase deportations of other undocumented immigrants, does not have the capacity to manage the issue, he said.
 
 I want to plan how we deal with this,’” Mr. Spicer said.
@@ -17,4 +18,25 @@ He could rescind it, essentially invalidating the temporary work permits that ha
 Another option would be to phase out the program by letting those who have the work permits, which must be renewed every two years, keep them until they expired and ceasing the issuing of any new ones.
 
 Mr. Flake has his own bill that would offer a three-year extension to those now covered by DACA, but it also would compel the Department of Homeland Security to deport within 90 days undocumented immigrants arrested or convicted in connection with serious crimes.
+=======
+﻿The White House usually asks career officials in such positions to stay on for a few months until their successors are confirmed.
+
+"Any implication that that these four people quit is wrong," one senior State Department official said.
+
+"These people are loyal to the secretary, the President and to the State Department.
+
+He continued, "Of the officers whose resignations were accepted, some will continue in the Foreign Service in other positions, and others will retire by choice or because they have exceeded the time limits of their grade in service."
+
+"This had been on course for over a year," another official said.
+
+"He came out of retirement and promised to stay out (of) the administration.
+
+Victoria Nuland, the State Department's assistant secretary for Europe, left on her own.
+
+In her parting letter, Bond told her colleagues, "It has been an honor to serve with you as the Assistant Secretary for the past 17 months, and to have represented the United States as a Foreign Service officer for 40 years.
+
+All four, career officers serving in positions appointed by the President, submitted letters of resignation per tradition at the beginning of a new administration.
+
+The letters from the White House said that their resignations were accepted and they were thanked for their service.
+>>>>>>> Stashed changes
 

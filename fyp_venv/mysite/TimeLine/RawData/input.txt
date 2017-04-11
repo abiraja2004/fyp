@@ -13,7 +13,10 @@ How Neil Gorsuch became Donald Trump's Supreme Court nominee.
 2017-1-27
 Trump welcomes May as US-UK relationship enters new era.
 Is Donald Trump governing by gossip?.
+<<<<<<< Updated upstream
 Trump administration asks top State Department officials to leave.
+=======
+>>>>>>> Stashed changes
 NAACP leader: We will 'resist' Trump's voter fraud investigation.
 Big city mayors confident they'll remain sanctuaries.
 Alibaba's Ant Financial buys MoneyGram for $880m.
@@ -33,6 +36,7 @@ Howls Over Import Tax Complicate Plans to Overhaul Code.
 A Muckraker Who Was Eulogized Even by His Targets.
 Sean Spicer, Trump Press Secretary, Is ‘Not Here to Be Someone’s Buddy’.
 Wall St. Drops on Jitters Over Trump's Travel Curbs.
+<<<<<<< Updated upstream
 Mexico’s Potential Weapons if Trump Declares War on Nafta.
 2017-1-31
 Trump Fires Acting Attorney General Who Defied Him.
@@ -41,12 +45,18 @@ Dana Boente: Who Is the New Acting Attorney General?.
 State Dept. Officials Should Quit if They Disagree With Trump, White House Warns.
 Obama’s Protections for L.G.B.T. Workers Will Remain Under Trump.
 Tech Companies Fight Trump Immigration Order in Court.
+=======
+2017-1-31
+Dana Boente: Who Is the New Acting Attorney General?.
+Obama’s Protections for L.G.B.T. Workers Will Remain Under Trump.
+>>>>>>> Stashed changes
 Donald Trump's early crisis.
 Trump ban is boon for ISIS recruitment, experts say.
 Trump is doing exactly what he said, part II.
 'We love refugees, but...': Voicemails from Trump's travel ban supporters.
 Trump's Supreme Court pick marks end of one battle, starts new one.
 Dems hold up voting on some of Trump's Cabinet nominees.
+<<<<<<< Updated upstream
 2017-2-2
 U.S.-Australia Rift Is Possible After Trump Ends Call With Prime Minister.
 Judge Orders U.S. to Let In Immigrant Visa Holders.
@@ -54,6 +64,8 @@ Trump Vows to ‘Destroy’ Law Banning Political Activity by Churches.
 Supreme Court Fight Is More About Trump Than Gorsuch.
 Deutsche Bank Chief Apologizes for Lender’s Past Misconduct.
 With Steady Gains in Economic Outlook, Fed Leaves Interest Rate Unchanged.
+=======
+>>>>>>> Stashed changes
 2017-2-20
 Trump's promises hit Washington reality in first month.
 Trump picks Lt. Gen. H.R. McMaster as new national security adviser.
@@ -61,4 +73,7 @@ Trump's aides don't want to admit the President is golfing.
 Insults fly as UK MPs debate Donald Trump's visit.
 2017-2-23
 FBI refused White House request to knock down recent Trump-Russia stories.
+<<<<<<< Updated upstream
 Stephen Bannon Reassures Conservatives Uneasy About Trump.
+=======
+>>>>>>> Stashed changes

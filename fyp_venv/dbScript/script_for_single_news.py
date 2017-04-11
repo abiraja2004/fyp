@@ -35,7 +35,7 @@ if not os.path.exists(Dir):
     os.makedirs(Dir)
     
 '''for single news'''
-url = 'https://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html?ref=politics&_r=0&mtrref=undefined&gwh=DC461FCE7A6517AEC84EDFF002484990&gwt=pay'
+url = 'http://edition.cnn.com/2017/01/26/politics/top-state-department-officials-asked-to-leave-by-trump-administration/index.html'
 article = Article(url)
 article.download()
 article.parse()
@@ -172,5 +172,5 @@ textrank=''.join(textrank)
 lexrank=''.join(lexrank)
 featured_lexrank=''.join(featured_lexrank)
 
-post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
-post.save()
+#post=Post(category=category, pub_date=pub_date, location=location, title=title,content=content, photo=photo,link=link, fivelinesummary=fivelinesummary, tenlinesummary=tenlinesummary, sum_basic=sum_basic, LSA=LSA, textrank=textrank, lexrank=lexrank, featured_lexrank=featured_lexrank)
+#post.save()

@@ -16,25 +16,12 @@ import sys
 
 # default language
 LANGUAGE = "English"
-# number of sentences in the summary
+# number of headlines
 SENTENCES_COUNT  = 3
 # File Not File error handling
 error_to_catch = getattr(__builtins__,'FileNotFoundError', IOError)
 
 Dir = "./TimeLine/RawData/"
-
-# export database !!!NOT YET FINISHED!!!
-# in command line, we use : python3 manage.py dumpdata news.post > db.json
-
-#settings.configure()                #solving django.core.exceptions.ImproperlyConfigured: Requested setting USE_I18N
-#output = open("db.xml", 'w')
-
-## == python3 manage.py dumpdata news.post > db.json in terminal/commandline
-
-## call_command(function, app, ...)
-#django.setup()
-#call_command('dumpdata', "news", format='xml', indent=4, stdout=output)
-#output.close()
 
 def getSummarizedList(sqs):
     output = ""
