@@ -1,0 +1,2868 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "a0f1646d-cb35-bf14-159d-e32288eed35a",
+            "id": "http://id.opencalais.com/8x7OzicV1f-STBUE*IClpA",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf",
+            "document": "--2e3100137bfe439daf6c1a4e813f1cd5 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Trump welcomes May as US-UK relationship enters new era</Title> \n<Body> \nWashington (CNN)Donald Trump will get his first shot at face-to-face diplomacy on Friday when he welcomes his first foreign visitor to the Oval Office, British Prime Minister Theresa May. \n \nThe new US president and the premier, who took office in July, both have strong political incentives to make the visit -- likely to be heavier on symbolism and aspiration than deliverables -- a roaring success. \nThe Prime Minister is telling Britons their country will be a robust global trading power once it has exited the European Union, and a free-trade pact with the US is the most important pillar of that plan. \nTrump also has an interest in talking up a trade deal. The envisioned agreement with Britain is exactly the kind of bilateral pact that the Trump administration says is the model for US trade policy going forward. \n \nWith his White House being castigated for protectionist policies, a strong commitment to work towards such a deal would allow Trump to flesh out his point that he is not against all trade -- just big multi-national pacts that he deems punitive to the United States. \nHowever, he previewed the visit by griping that Democrats have yet to confirm his commerce secretary pick, Wilbur Ross. \n\"I'm meeting with the Prime Minister tomorrow, as you know. Great Britain ... I don't have my commerce secretary -- they want to talk trade. So, I'll have to handle it myself. Which is okay,\" he told Republican lawmakers in Philadelphia on Thursday. \nTrump also starts the meeting from May from a position of strength, given that he is granting her the honor of being his first foreign leader visit. But his need for a successful outcome became more acute on Thursday, when a spat with Mexico over his vow to build a border wall swiftly escalated and caused the cancellation of a visit to the White House next week by President Enrique Pena Nieto. \nMay is getting time in the office unusually early after a presidential inauguration. \nFormer President Barack Obama chose then-Japanese Prime Minister Taro Aso as his first guest, a month after he was inaugurated. British Prime Minister Gordon Brown was his second guest but their summit -- remembered mostly for its awkward body language and other distractions -- didn't take place until March. \nRELATED: British PM May: Praise for Trump -- but strong words, too \nThat May will be in the Oval Office exactly seven days after Trump was inaugurated is being seen by her entourage as a sign of the new President's respect for Britain. \nTrump has often spoken of his administration for Queen Elizabeth II, and his mother's heritage in Scotland, where he owns two renowned golf courses. \nAltogether, the visit offers Trump a fairly unchallenging first assignment as a world leader, though his paucity of diplomatic and political experience means his demeanor and stagecraft will still be closely watched. \nAnd the careful choreography of his first week -- filled with rollouts of executive orders that fulfill key campaign promises -- has often been overshadowed by his penchant for making unpredictable statements and using disputed facts. \nSo it's not impossible the President could go off script or commit a diplomatic faux pas in front of the British press, which is always on the lookout for any linguistic nuance casting doubt on the \"special relationship\" -- a quirk that baffled the Obama administration in its initial engagements with the British. \nMay plans to use the visit to stress that though Britain is leaving Europe and Trump is suspicious of US attachments abroad, the two nations can still combine to be a force that can shape the world. \n\"We are excited -- it speaks to the breadth and the depth of the special relationship that we are the first country to be visiting,\" a UK official told CNN. \nRELATED: Friendliness with Trump will give Theresa May a European headache \n\"As we rediscover our confidence together -- as you renew your nation just as we renew ours -- we have the opportunity, indeed the responsibility, to renew the 'special relationship' for this new age,\" May told GOP lawmakers Thursday in Philadelphia, her first US stop. \"We have the opportunity to lead, together, again.\" \nThe British Prime Minister will also have the benefit of the advice of former President Barack Obama, who urged her to develop a close relationship with Trump in the hope that she and other center-right world leaders could be a moderating influence on him, according to a former senior administration official and a UK official familiar with the conversations. \nBut while the body language may well be positive between Trump and May, they still have their share of disagreements. \nMay's visit will be the first test of some of Trump's most controversial views on foreign policy, ones that put him at odds with the bulk of US allies. \nRELATED: Obama's advice to British PM: Befriend Donald Trump \nTrump's statements that NATO is obsolete and that he wants to improve relations with a Russia that has been testing the borders of post-Cold War Europe have triggered alarm on the other side of the Atlantic. \nTrump's hostility to environmental regulations introduced by the Obama administration to comply with the international Paris climate agreement are also sparking opposition to the new White House in the UK. \nMay also was critical of Trump's conduct towards women following revelations about his past during the election campaign. \nThe no-nonsense Prime Minister is making clear that while she plans to forge a close relationship with Trump, she will not hesitate to speak her mind. \n\"I am not afraid to speak frankly to the President of the United States,\" May said in Parliament on Wednesday. \"I am able to do that because we have this special relationship.\" \nMay is likely to impress upon Trump the importance and continued vitality of NATO. Britain's calls for all members to meet their military spending target of 2% of GDP, may allow her government to become a point of liaison between states in the Western alliance and the new president, who has frequently groused that US allies have not done enough to pay for their own defense. \nAnd then there are their backgrounds, which provide little common ground. \nThe President is brash, boastful, larger than life, obsessed with his self-image and not prone to delving deeply into the details of policy. \nMay, a clergyman's daughter, is conservative, self-contained and renowned for poring over briefing books late at night. Her only visible flamboyance is a penchant for leopard skin kitten heels. \nBut while they may not be soulmates, Trump and May both find themselves caught up in the tectonic shifts that have rocked modern politics and felled the establishment on both sides of the Atlantic. \nTrump, the master of disruption, backed the British exit from the EU and hopes more countries follow suit -- in direct contravention of decades of US foreign policy that saw stability in a united Europe. \nMay did not back Brexit, but in the political carnage that followed the vote suddenly found herself prime minister and must now manage the most volatile political turbulence in Western Europe since the fall of the Berlin Wall. \n\"I think that both Trump and May actually have strong appeal to Middle America and Middle England, and I think there are some similarities in their approach,\" said Nile Gardiner, director of the Margaret Thatcher Center for Freedom at the Washington-based Heritage Foundation. \n\"I would expect their partnership to actually be a very strong one even though their characters may be somewhat different in some respects,\" he predicted. \nGardiner believes that after falling behind Germany and Chancellor Angela Merkel in the eyes of the Obama administration, the arrival of Trump is likely to repair Britain's importance to US transatlantic relations over the next four years. \nTrump's hostility to the European Union and equating of Brexit voters to kindred spirits with his own supporters who powered a rupturing of the political establishment also may cause him to look kindly on Britain. \nA Trump trip to the country as president is widely expected to take place in the summer. \n</Body> \n</Document> \n--2e3100137bfe439daf6c1a4e813f1cd5-- \n",
+            "docTitle": "Trump welcomes May as US-UK relationship enters new era",
+            "docDate": "2017-01-27 04:32:27.506"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:32:26.254",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|ryQYiPofSQL47ojYze6ave+PHpA=|gx2nsaNM+1vGAMZV8jogEy0oWlpYri4klupczdssljEei9tesMCluw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.897,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "1",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "2",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/077112a0-efad-3011-b265-36c36a845314",
+        "forenduserdisplay": "true",
+        "name": "The Apprentice",
+        "importance": "2",
+        "originalValue": "The Apprentice (TV series)"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3ce530f4-622a-369c-b61c-64490c736349",
+        "forenduserdisplay": "true",
+        "name": "Trump",
+        "importance": "2",
+        "originalValue": "Trump"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "2",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f8f8b2cc-83bb-3d3e-b34f-d235fd408478",
+        "forenduserdisplay": "true",
+        "name": "International reactions to the United States presidential election",
+        "importance": "2",
+        "originalValue": "International reactions to the United States presidential election, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Broadcasting - NEC",
+        "rcscode": "B:1446",
+        "permid": "4294951555",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Commercial Banks",
+        "rcscode": "B:1616",
+        "permid": "4294951385",
+        "relevance": 0.5
+    },
+    "http://d.opencalais.com/dochash-1/1fffdcaf-a084-3d6e-8745-6b60247f42cf/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270349:201701270349",
+            "index-refineries:201701220334:201701220334",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270239:201701270239",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701261919:201701261919",
+            "index-vessels:201701211519:201701211519",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701051901:201701051901",
+            "BlackList:579:579",
+            "index-ports:201701212124:201701212124",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/284aeeb0-54f1-30a9-8cef-cb9420a2e68f": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Republican Party",
+        "organizationtype": "political party",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[relationship' for this new age,\" May told ]GOP[ lawmakers Thursday in Philadelphia, her first US]",
+                "prefix": "relationship' for this new age,\" May told ",
+                "exact": "GOP",
+                "suffix": " lawmakers Thursday in Philadelphia, her first US",
+                "offset": 4440,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Germany",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\nGardiner believes that after falling behind ]Germany[ and Chancellor Angela Merkel in the eyes of the]",
+                "prefix": "\nGardiner believes that after falling behind ",
+                "exact": "Germany",
+                "suffix": " and Chancellor Angela Merkel in the eyes of the",
+                "offset": 8017,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Germany",
+                "shortname": "Germany",
+                "latitude": "51.0",
+                "longitude": "9.0",
+                "rcscode": "G:3D",
+                "permid": "100114"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a": {
+        "_typeGroup": "entities",
+        "_type": "Continent",
+        "forenduserdisplay": "false",
+        "name": "America",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Continent",
+        "instances": [
+            {
+                "detection": "[and May actually have strong appeal to Middle ]America[ and Middle England, and I think there are some]",
+                "prefix": "and May actually have strong appeal to Middle ",
+                "exact": "America",
+                "suffix": " and Middle England, and I think there are some",
+                "offset": 7610,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/fb55ac09-d09d-301f-883c-f144c6e7b6dd": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Trump administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[is exactly the kind of bilateral pact that the ]Trump administration[ says is the model for US trade policy going]",
+                "prefix": "is exactly the kind of bilateral pact that the ",
+                "exact": "Trump administration",
+                "suffix": " says is the model for US trade policy going",
+                "offset": 1127,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e0cde381-acfb-3354-9bf1-7608435c0ee5": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "no-nonsense Prime Minister",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[about his past during the election campaign. \n]The no-nonsense Prime Minister[ is making clear that while she plans to forge a]",
+                "prefix": "about his past during the election campaign. \n",
+                "exact": "The no-nonsense Prime Minister",
+                "suffix": " is making clear that while she plans to forge a",
+                "offset": 5787,
+                "length": 30
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/5a59dc46-916c-36f6-8b57-1518bab5bb8d": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Queen",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[has often spoken of his administration for ]Queen[ Elizabeth II, and his mother's heritage in]",
+                "prefix": "has often spoken of his administration for ",
+                "exact": "Queen",
+                "suffix": " Elizabeth II, and his mother's heritage in",
+                "offset": 2924,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Prime Minister",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[foreign visitor to the Oval Office, British ]Prime Minister[ Theresa May. \n \nThe new US president and the]",
+                "prefix": "foreign visitor to the Oval Office, British ",
+                "exact": "Prime Minister",
+                "suffix": " Theresa May. \n \nThe new US president and the",
+                "offset": 537,
+                "length": 14
+            },
+            {
+                "detection": "[than deliverables -- a roaring success. \n]The Prime Minister[ is telling Britons their country will be a]",
+                "prefix": "than deliverables -- a roaring success. \n",
+                "exact": "The Prime Minister",
+                "suffix": " is telling Britons their country will be a",
+                "offset": 780,
+                "length": 18
+            },
+            {
+                "detection": "[secretary pick, Wilbur Ross. \n\"I'm meeting with ]the Prime Minister[ tomorrow, as you know. Great Britain ... I don't]",
+                "prefix": "secretary pick, Wilbur Ross. \n\"I'm meeting with ",
+                "exact": "the Prime Minister",
+                "suffix": " tomorrow, as you know. Great Britain ... I don't",
+                "offset": 1610,
+                "length": 18
+            },
+            {
+                "detection": "[President Barack Obama chose then-Japanese ]Prime Minister[ Taro Aso as his first guest, a month after he]",
+                "prefix": "President Barack Obama chose then-Japanese ",
+                "exact": "Prime Minister",
+                "suffix": " Taro Aso as his first guest, a month after he",
+                "offset": 2377,
+                "length": 14
+            },
+            {
+                "detection": "[ guest, a month after he was inaugurated. British ]Prime Minister[ Gordon Brown was his second guest but their]",
+                "prefix": " guest, a month after he was inaugurated. British ",
+                "exact": "Prime Minister",
+                "suffix": " Gordon Brown was his second guest but their",
+                "offset": 2463,
+                "length": 14
+            },
+            {
+                "detection": "[ didn't take place until March. \nRELATED: British ]PM[ May: Praise for Trump -- but strong words, too]",
+                "prefix": " didn't take place until March. \nRELATED: British ",
+                "exact": "PM",
+                "suffix": " May: Praise for Trump -- but strong words, too",
+                "offset": 2655,
+                "length": 2
+            },
+            {
+                "detection": "[to lead, together, again.\" \nThe British ]Prime Minister[ will also have the benefit of the advice of]",
+                "prefix": "to lead, together, again.\" \nThe British ",
+                "exact": "Prime Minister",
+                "suffix": " will also have the benefit of the advice of",
+                "offset": 4564,
+                "length": 14
+            },
+            {
+                "detection": "[US allies. \nRELATED: Obama's advice to British ]PM[: Befriend Donald Trump \nTrump's statements that]",
+                "prefix": "US allies. \nRELATED: Obama's advice to British ",
+                "exact": "PM",
+                "suffix": ": Befriend Donald Trump \nTrump's statements that",
+                "offset": 5221,
+                "length": 2
+            },
+            {
+                "detection": "[that followed the vote suddenly found herself ]prime minister[ and must now manage the most volatile political]",
+                "prefix": "that followed the vote suddenly found herself ",
+                "exact": "prime minister",
+                "suffix": " and must now manage the most volatile political",
+                "offset": 7411,
+                "length": 14
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/5e551c6a-470b-39f2-9fcb-02013f39f6dc": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Margaret Thatcher Center for Freedom",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[approach,\" said Nile Gardiner, director of the ]Margaret Thatcher Center for Freedom[ at the Washington-based Heritage Foundation. \n\"I]",
+                "prefix": "approach,\" said Nile Gardiner, director of the ",
+                "exact": "Margaret Thatcher Center for Freedom",
+                "suffix": " at the Washington-based Heritage Foundation. \n\"I",
+                "offset": 7734,
+                "length": 36
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[of a visit to the White House next week by ]President[ Enrique Pena Nieto. \nMay is getting time in the]",
+                "prefix": "of a visit to the White House next week by ",
+                "exact": "President",
+                "suffix": " Enrique Pena Nieto. \nMay is getting time in the",
+                "offset": 2210,
+                "length": 9
+            },
+            {
+                "detection": "[ early after a presidential inauguration. \nFormer ]President[ Barack Obama chose then-Japanese Prime Minister]",
+                "prefix": " early after a presidential inauguration. \nFormer ",
+                "exact": "President",
+                "suffix": " Barack Obama chose then-Japanese Prime Minister",
+                "offset": 2334,
+                "length": 9
+            },
+            {
+                "detection": "[ being seen by her entourage as a sign of the new ]President['s respect for Britain. \nTrump has often spoken]",
+                "prefix": " being seen by her entourage as a sign of the new ",
+                "exact": "President",
+                "suffix": "'s respect for Britain. \nTrump has often spoken",
+                "offset": 2841,
+                "length": 9
+            },
+            {
+                "detection": "[using disputed facts. \nSo it's not impossible ]the President[ could go off script or commit a diplomatic faux]",
+                "prefix": "using disputed facts. \nSo it's not impossible ",
+                "exact": "the President",
+                "suffix": " could go off script or commit a diplomatic faux",
+                "offset": 3502,
+                "length": 13
+            },
+            {
+                "detection": "[also have the benefit of the advice of former ]President[ Barack Obama, who urged her to develop a close]",
+                "prefix": "also have the benefit of the advice of former ",
+                "exact": "President",
+                "suffix": " Barack Obama, who urged her to develop a close",
+                "offset": 4630,
+                "length": 9
+            },
+            {
+                "detection": "[states in the Western alliance and the new ]president[, who has frequently groused that US allies have]",
+                "prefix": "states in the Western alliance and the new ",
+                "exact": "president",
+                "suffix": ", who has frequently groused that US allies have",
+                "offset": 6390,
+                "length": 9
+            },
+            {
+                "detection": "[which provide little common ground. \n]The President[ is brash, boastful, larger than life, obsessed]",
+                "prefix": "which provide little common ground. \n",
+                "exact": "The President",
+                "suffix": " is brash, boastful, larger than life, obsessed",
+                "offset": 6570,
+                "length": 13
+            },
+            {
+                "detection": "[on Britain. \nA Trump trip to the country as ]president[ is widely expected to take place in the summer.]",
+                "prefix": "on Britain. \nA Trump trip to the country as ",
+                "exact": "president",
+                "suffix": " is widely expected to take place in the summer.",
+                "offset": 8460,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/6e828046-a116-350f-bce7-8d3d07a65649": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.981",
+        "firstname": "Donald",
+        "lastname": "Trump \nTrump",
+        "commonname": "Donald Trump Trump",
+        "confidence": {
+            "statisticalfeature": "0.988",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.981"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ \nRELATED: Obama's advice to British PM: Befriend ]Donald Trump \nTrump['s statements that NATO is obsolete and that he]",
+                "prefix": " \nRELATED: Obama's advice to British PM: Befriend ",
+                "exact": "Donald Trump \nTrump",
+                "suffix": "'s statements that NATO is obsolete and that he",
+                "offset": 5234,
+                "length": 19
+            },
+            {
+                "detection": "[statements that NATO is obsolete and that ]he[ wants to improve relations with a Russia that]",
+                "prefix": "statements that NATO is obsolete and that ",
+                "exact": "he",
+                "suffix": " wants to improve relations with a Russia that",
+                "offset": 5298,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0269fe17-3bfb-34e2-aeb5-2521158f5817": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Chancellor",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[believes that after falling behind Germany and ]Chancellor[ Angela Merkel in the eyes of the Obama]",
+                "prefix": "believes that after falling behind Germany and ",
+                "exact": "Chancellor",
+                "suffix": " Angela Merkel in the eyes of the Obama",
+                "offset": 8029,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3abb4805-4b5c-3e9b-91fb-ceff86f0ece4": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Wilbur Ross",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.996",
+        "firstname": "Wilbur",
+        "lastname": "Ross",
+        "commonname": "Wilbur Ross",
+        "confidence": {
+            "statisticalfeature": "0.983",
+            "dblookup": "0.95",
+            "resolution": "0.74285424",
+            "aggregate": "0.996"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ have yet to confirm his commerce secretary pick, ]Wilbur Ross[. \n\"I'm meeting with the Prime Minister tomorrow,]",
+                "prefix": " have yet to confirm his commerce secretary pick, ",
+                "exact": "Wilbur Ross",
+                "suffix": ". \n\"I'm meeting with the Prime Minister tomorrow,",
+                "offset": 1578,
+                "length": 11
+            },
+            {
+                "detection": "[I'll have to handle it myself. Which is okay,\" ]he[ told Republican lawmakers in Philadelphia on]",
+                "prefix": "I'll have to handle it myself. Which is okay,\" ",
+                "exact": "he",
+                "suffix": " told Republican lawmakers in Philadelphia on",
+                "offset": 1784,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Wilbur L. Ross",
+                "personid": "1227099",
+                "paid": "34413673936",
+                "officerid": "112839",
+                "commonname": "Wilbur Ross",
+                "score": 0.74285424
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Barack Obama",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Barack",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[a presidential inauguration. \nFormer President ]Barack Obama[ chose then-Japanese Prime Minister Taro Aso as]",
+                "prefix": "a presidential inauguration. \nFormer President ",
+                "exact": "Barack Obama",
+                "suffix": " chose then-Japanese Prime Minister Taro Aso as",
+                "offset": 2344,
+                "length": 12
+            },
+            {
+                "detection": "[chose then-Japanese Prime Minister Taro Aso as ]his[ first guest, a month after he was inaugurated.]",
+                "prefix": "chose then-Japanese Prime Minister Taro Aso as ",
+                "exact": "his",
+                "suffix": " first guest, a month after he was inaugurated.",
+                "offset": 2404,
+                "length": 3
+            },
+            {
+                "detection": "[the benefit of the advice of former President ]Barack Obama[, who urged her to develop a close relationship]",
+                "prefix": "the benefit of the advice of former President ",
+                "exact": "Barack Obama",
+                "suffix": ", who urged her to develop a close relationship",
+                "offset": 4640,
+                "length": 12
+            },
+            {
+                "detection": "[at odds with the bulk of US allies. \nRELATED: ]Obama['s advice to British PM: Befriend Donald Trump]",
+                "prefix": "at odds with the bulk of US allies. \nRELATED: ",
+                "exact": "Obama",
+                "suffix": "'s advice to British PM: Befriend Donald Trump",
+                "offset": 5195,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Mexico",
+        "resolutions": [
+            {
+                "name": "Mexico",
+                "shortname": "Mexico",
+                "latitude": "19.0",
+                "longitude": "-99.0",
+                "rcscode": "G:2V",
+                "permid": "100184"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[became more acute on Thursday, when a spat with ]Mexico[ over his vow to build a border wall swiftly]",
+                "prefix": "became more acute on Thursday, when a spat with ",
+                "exact": "Mexico",
+                "suffix": " over his vow to build a border wall swiftly",
+                "offset": 2078,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/dcc5dac3-89c3-3924-97c9-f7802dad3419": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Western Alliance",
+        "confidencelevel": "1.0",
+        "confidence": {
+            "statisticalfeature": "0.668",
+            "dblookup": "0.0",
+            "resolution": "0.28125873",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[become a point of liaison between states in the ]Western alliance[ and the new president, who has frequently]",
+                "prefix": "become a point of liaison between states in the ",
+                "exact": "Western alliance",
+                "suffix": " and the new president, who has frequently",
+                "offset": 6361,
+                "length": 16
+            }
+        ],
+        "relevance": 0.5,
+        "resolutions": [
+            {
+                "name": "WESTERN ALLIANCE BANCORPORATION",
+                "permid": "5046306172",
+                "primaryric": "WAL.N",
+                "commonname": "West Allnce",
+                "score": 0.28125873,
+                "id": "https://permid.org/1-5046306172",
+                "ticker": "WAL"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a46d8755-5c9f-32a7-9b29-179fffabb7bf": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "commerce secretary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[griping that Democrats have yet to confirm his ]commerce secretary[ pick, Wilbur Ross. \n\"I'm meeting with the Prime]",
+                "prefix": "griping that Democrats have yet to confirm his ",
+                "exact": "commerce secretary",
+                "suffix": " pick, Wilbur Ross. \n\"I'm meeting with the Prime",
+                "offset": 1553,
+                "length": 18
+            },
+            {
+                "detection": "[as you know. Great Britain ... I don't have my ]commerce secretary[ -- they want to talk trade. So, I'll have to]",
+                "prefix": "as you know. Great Britain ... I don't have my ",
+                "exact": "commerce secretary",
+                "suffix": " -- they want to talk trade. So, I'll have to",
+                "offset": 1686,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/95d6369f-bf2f-37c8-9469-89dc0d0c4ccb": {
+        "_typeGroup": "entities",
+        "_type": "MedicalCondition",
+        "forenduserdisplay": "false",
+        "name": "European headache",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/MedicalCondition",
+        "instances": [
+            {
+                "detection": "[Friendliness with Trump will give Theresa May a ]European headache[ \n\"As we rediscover our confidence together -- as]",
+                "prefix": "Friendliness with Trump will give Theresa May a ",
+                "exact": "European headache",
+                "suffix": " \n\"As we rediscover our confidence together -- as",
+                "offset": 4210,
+                "length": 17
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "persontype": "entertainment",
+        "nationality": "N/A",
+        "confidencelevel": "0.997",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.997"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Trump[ welcomes May as US-UK relationship enters new]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Trump",
+                "suffix": " welcomes May as US-UK relationship enters new",
+                "offset": 304,
+                "length": 5
+            },
+            {
+                "detection": "[enters new era</Title> \n<Body> \nWashington (CNN)]Donald Trump[ will get his first shot at face-to-face]",
+                "prefix": "enters new era</Title> \n<Body> \nWashington (CNN)",
+                "exact": "Donald Trump",
+                "suffix": " will get his first shot at face-to-face",
+                "offset": 393,
+                "length": 12
+            },
+            {
+                "detection": "[\n<Body> \nWashington (CNN)Donald Trump will get ]his[ first shot at face-to-face diplomacy on Friday]",
+                "prefix": "\n<Body> \nWashington (CNN)Donald Trump will get ",
+                "exact": "his",
+                "suffix": " first shot at face-to-face diplomacy on Friday",
+                "offset": 415,
+                "length": 3
+            },
+            {
+                "detection": "[shot at face-to-face diplomacy on Friday when ]he[ welcomes his first foreign visitor to the Oval]",
+                "prefix": "shot at face-to-face diplomacy on Friday when ",
+                "exact": "he",
+                "suffix": " welcomes his first foreign visitor to the Oval",
+                "offset": 471,
+                "length": 2
+            },
+            {
+                "detection": "[diplomacy on Friday when he welcomes ]his[ first foreign visitor to the Oval Office,]",
+                "prefix": "diplomacy on Friday when he welcomes ",
+                "exact": "his",
+                "suffix": " first foreign visitor to the Oval Office,",
+                "offset": 483,
+                "length": 3
+            },
+            {
+                "detection": "[US is the most important pillar of that plan. \n]Trump[ also has an interest in talking up a trade deal.]",
+                "prefix": "US is the most important pillar of that plan. \n",
+                "exact": "Trump",
+                "suffix": " also has an interest in talking up a trade deal.",
+                "offset": 987,
+                "length": 5
+            },
+            {
+                "detection": "[ model for US trade policy going forward. \n \nWith ]his[ White House being castigated for protectionist]",
+                "prefix": " model for US trade policy going forward. \n \nWith ",
+                "exact": "his",
+                "suffix": " White House being castigated for protectionist",
+                "offset": 1209,
+                "length": 3
+            },
+            {
+                "detection": "[to work towards such a deal would allow ]Trump[ to flesh out his point that he is not against]",
+                "prefix": "to work towards such a deal would allow ",
+                "exact": "Trump",
+                "suffix": " to flesh out his point that he is not against",
+                "offset": 1330,
+                "length": 5
+            },
+            {
+                "detection": "[such a deal would allow Trump to flesh out ]his[ point that he is not against all trade -- just]",
+                "prefix": "such a deal would allow Trump to flesh out ",
+                "exact": "his",
+                "suffix": " point that he is not against all trade -- just",
+                "offset": 1349,
+                "length": 3
+            },
+            {
+                "detection": "[would allow Trump to flesh out his point that ]he[ is not against all trade -- just big]",
+                "prefix": "would allow Trump to flesh out his point that ",
+                "exact": "he",
+                "suffix": " is not against all trade -- just big",
+                "offset": 1364,
+                "length": 2
+            },
+            {
+                "detection": "[all trade -- just big multi-national pacts that ]he[ deems punitive to the United States. \nHowever,]",
+                "prefix": "all trade -- just big multi-national pacts that ",
+                "exact": "he",
+                "suffix": " deems punitive to the United States. \nHowever,",
+                "offset": 1430,
+                "length": 2
+            },
+            {
+                "detection": "[deems punitive to the United States. \nHowever, ]he[ previewed the visit by griping that Democrats]",
+                "prefix": "deems punitive to the United States. \nHowever, ",
+                "exact": "he",
+                "suffix": " previewed the visit by griping that Democrats",
+                "offset": 1480,
+                "length": 2
+            },
+            {
+                "detection": "[by griping that Democrats have yet to confirm ]his[ commerce secretary pick, Wilbur Ross. \n\"I'm]",
+                "prefix": "by griping that Democrats have yet to confirm ",
+                "exact": "his",
+                "suffix": " commerce secretary pick, Wilbur Ross. \n\"I'm",
+                "offset": 1549,
+                "length": 3
+            },
+            {
+                "detection": "[lawmakers in Philadelphia on Thursday. \n]Trump[ also starts the meeting from May from a position]",
+                "prefix": "lawmakers in Philadelphia on Thursday. \n",
+                "exact": "Trump",
+                "suffix": " also starts the meeting from May from a position",
+                "offset": 1843,
+                "length": 5
+            },
+            {
+                "detection": "[ from May from a position of strength, given that ]he[ is granting her the honor of being his first]",
+                "prefix": " from May from a position of strength, given that ",
+                "exact": "he",
+                "suffix": " is granting her the honor of being his first",
+                "offset": 1922,
+                "length": 2
+            },
+            {
+                "detection": "[ given that he is granting her the honor of being ]his[ first foreign leader visit. But his need for a]",
+                "prefix": " given that he is granting her the honor of being ",
+                "exact": "his",
+                "suffix": " first foreign leader visit. But his need for a",
+                "offset": 1960,
+                "length": 3
+            },
+            {
+                "detection": "[of being his first foreign leader visit. But ]his[ need for a successful outcome became more acute]",
+                "prefix": "of being his first foreign leader visit. But ",
+                "exact": "his",
+                "suffix": " need for a successful outcome became more acute",
+                "offset": 1996,
+                "length": 3
+            },
+            {
+                "detection": "[acute on Thursday, when a spat with Mexico over ]his[ vow to build a border wall swiftly escalated and]",
+                "prefix": "acute on Thursday, when a spat with Mexico over ",
+                "exact": "his",
+                "suffix": " vow to build a border wall swiftly escalated and",
+                "offset": 2090,
+                "length": 3
+            },
+            {
+                "detection": "[March. \nRELATED: British PM May: Praise for ]Trump[ -- but strong words, too \nThat May will be in]",
+                "prefix": "March. \nRELATED: British PM May: Praise for ",
+                "exact": "Trump",
+                "suffix": " -- but strong words, too \nThat May will be in",
+                "offset": 2674,
+                "length": 5
+            },
+            {
+                "detection": "[be in the Oval Office exactly seven days after ]Trump[ was inaugurated is being seen by her entourage]",
+                "prefix": "be in the Oval Office exactly seven days after ",
+                "exact": "Trump",
+                "suffix": " was inaugurated is being seen by her entourage",
+                "offset": 2767,
+                "length": 5
+            },
+            {
+                "detection": "[of the new President's respect for Britain. \n]Trump[ has often spoken of his administration for Queen]",
+                "prefix": "of the new President's respect for Britain. \n",
+                "exact": "Trump",
+                "suffix": " has often spoken of his administration for Queen",
+                "offset": 2875,
+                "length": 5
+            },
+            {
+                "detection": "[respect for Britain. \nTrump has often spoken of ]his[ administration for Queen Elizabeth II, and his]",
+                "prefix": "respect for Britain. \nTrump has often spoken of ",
+                "exact": "his",
+                "suffix": " administration for Queen Elizabeth II, and his",
+                "offset": 2901,
+                "length": 3
+            },
+            {
+                "detection": "[his administration for Queen Elizabeth II, and ]his[ mother's heritage in Scotland, where he owns two]",
+                "prefix": "his administration for Queen Elizabeth II, and ",
+                "exact": "his",
+                "suffix": " mother's heritage in Scotland, where he owns two",
+                "offset": 2948,
+                "length": 3
+            },
+            {
+                "detection": "[ II, and his mother's heritage in Scotland, where ]he[ owns two renowned golf courses. \nAltogether, the]",
+                "prefix": " II, and his mother's heritage in Scotland, where ",
+                "exact": "he",
+                "suffix": " owns two renowned golf courses. \nAltogether, the",
+                "offset": 2989,
+                "length": 2
+            },
+            {
+                "detection": "[golf courses. \nAltogether, the visit offers ]Trump[ a fairly unchallenging first assignment as a]",
+                "prefix": "golf courses. \nAltogether, the visit offers ",
+                "exact": "Trump",
+                "suffix": " a fairly unchallenging first assignment as a",
+                "offset": 3054,
+                "length": 5
+            },
+            {
+                "detection": "[first assignment as a world leader, though ]his[ paucity of diplomatic and political experience]",
+                "prefix": "first assignment as a world leader, though ",
+                "exact": "his",
+                "suffix": " paucity of diplomatic and political experience",
+                "offset": 3126,
+                "length": 3
+            },
+            {
+                "detection": "[of diplomatic and political experience means ]his[ demeanor and stagecraft will still be closely]",
+                "prefix": "of diplomatic and political experience means ",
+                "exact": "his",
+                "suffix": " demeanor and stagecraft will still be closely",
+                "offset": 3183,
+                "length": 3
+            },
+            {
+                "detection": "[watched. \nAnd the careful choreography of ]his[ first week -- filled with rollouts of executive]",
+                "prefix": "watched. \nAnd the careful choreography of ",
+                "exact": "his",
+                "suffix": " first week -- filled with rollouts of executive",
+                "offset": 3275,
+                "length": 3
+            },
+            {
+                "detection": "[promises -- has often been overshadowed by ]his[ penchant for making unpredictable statements and]",
+                "prefix": "promises -- has often been overshadowed by ",
+                "exact": "his",
+                "suffix": " penchant for making unpredictable statements and",
+                "offset": 3403,
+                "length": 3
+            },
+            {
+                "detection": "[ stress that though Britain is leaving Europe and ]Trump[ is suspicious of US attachments abroad, the two]",
+                "prefix": " stress that though Britain is leaving Europe and ",
+                "exact": "Trump",
+                "suffix": " is suspicious of US attachments abroad, the two",
+                "offset": 3874,
+                "length": 5
+            },
+            {
+                "detection": "[official told CNN. \nRELATED: Friendliness with ]Trump[ will give Theresa May a European headache \n\"As]",
+                "prefix": "official told CNN. \nRELATED: Friendliness with ",
+                "exact": "Trump",
+                "suffix": " will give Theresa May a European headache \n\"As",
+                "offset": 4180,
+                "length": 5
+            },
+            {
+                "detection": "[urged her to develop a close relationship with ]Trump[ in the hope that she and other center-right]",
+                "prefix": "urged her to develop a close relationship with ",
+                "exact": "Trump",
+                "suffix": " in the hope that she and other center-right",
+                "offset": 4705,
+                "length": 5
+            },
+            {
+                "detection": "[ world leaders could be a moderating influence on ]him[, according to a former senior administration]",
+                "prefix": " world leaders could be a moderating influence on ",
+                "exact": "him",
+                "suffix": ", according to a former senior administration",
+                "offset": 4804,
+                "length": 3
+            },
+            {
+                "detection": "[the body language may well be positive between ]Trump[ and May, they still have their share of]",
+                "prefix": "the body language may well be positive between ",
+                "exact": "Trump",
+                "suffix": " and May, they still have their share of",
+                "offset": 4971,
+                "length": 5
+            },
+            {
+                "detection": "[\nMay's visit will be the first test of some of ]Trump['s most controversial views on foreign policy,]",
+                "prefix": "\nMay's visit will be the first test of some of ",
+                "exact": "Trump",
+                "suffix": "'s most controversial views on foreign policy,",
+                "offset": 5079,
+                "length": 5
+            },
+            {
+                "detection": "[views on foreign policy, ones that put ]him[ at odds with the bulk of US allies. \nRELATED:]",
+                "prefix": "views on foreign policy, ones that put ",
+                "exact": "him",
+                "suffix": " at odds with the bulk of US allies. \nRELATED:",
+                "offset": 5145,
+                "length": 3
+            },
+            {
+                "detection": "[alarm on the other side of the Atlantic. \n]Trump['s hostility to environmental regulations]",
+                "prefix": "alarm on the other side of the Atlantic. \n",
+                "exact": "Trump",
+                "suffix": "'s hostility to environmental regulations",
+                "offset": 5457,
+                "length": 5
+            },
+            {
+                "detection": "[ White House in the UK. \nMay also was critical of ]Trump['s conduct towards women following revelations]",
+                "prefix": " White House in the UK. \nMay also was critical of ",
+                "exact": "Trump",
+                "suffix": "'s conduct towards women following revelations",
+                "offset": 5689,
+                "length": 5
+            },
+            {
+                "detection": "[towards women following revelations about ]his[ past during the election campaign. \nThe]",
+                "prefix": "towards women following revelations about ",
+                "exact": "his",
+                "suffix": " past during the election campaign. \nThe",
+                "offset": 5747,
+                "length": 3
+            },
+            {
+                "detection": "[she plans to forge a close relationship with ]Trump[, she will not hesitate to speak her mind. \n\"I am]",
+                "prefix": "she plans to forge a close relationship with ",
+                "exact": "Trump",
+                "suffix": ", she will not hesitate to speak her mind. \n\"I am",
+                "offset": 5890,
+                "length": 5
+            },
+            {
+                "detection": "[relationship.\" \nMay is likely to impress upon ]Trump[ the importance and continued vitality of NATO.]",
+                "prefix": "relationship.\" \nMay is likely to impress upon ",
+                "exact": "Trump",
+                "suffix": " the importance and continued vitality of NATO.",
+                "offset": 6147,
+                "length": 5
+            },
+            {
+                "detection": "[ brash, boastful, larger than life, obsessed with ]his[ self-image and not prone to delving deeply into]",
+                "prefix": " brash, boastful, larger than life, obsessed with ",
+                "exact": "his",
+                "suffix": " self-image and not prone to delving deeply into",
+                "offset": 6636,
+                "length": 3
+            },
+            {
+                "detection": "[heels. \nBut while they may not be soulmates, ]Trump[ and May both find themselves caught up in the]",
+                "prefix": "heels. \nBut while they may not be soulmates, ",
+                "exact": "Trump",
+                "suffix": " and May both find themselves caught up in the",
+                "offset": 6944,
+                "length": 5
+            },
+            {
+                "detection": "[establishment on both sides of the Atlantic. \n]Trump[, the master of disruption, backed the British]",
+                "prefix": "establishment on both sides of the Atlantic. \n",
+                "exact": "Trump",
+                "suffix": ", the master of disruption, backed the British",
+                "offset": 7106,
+                "length": 5
+            },
+            {
+                "detection": "[ the fall of the Berlin Wall. \n\"I think that both ]Trump[ and May actually have strong appeal to Middle]",
+                "prefix": " the fall of the Berlin Wall. \n\"I think that both ",
+                "exact": "Trump",
+                "suffix": " and May actually have strong appeal to Middle",
+                "offset": 7558,
+                "length": 5
+            },
+            {
+                "detection": "[ eyes of the Obama administration, the arrival of ]Trump[ is likely to repair Britain's importance to US]",
+                "prefix": " eyes of the Obama administration, the arrival of ",
+                "exact": "Trump",
+                "suffix": " is likely to repair Britain's importance to US",
+                "offset": 8110,
+                "length": 5
+            },
+            {
+                "detection": "[relations over the next four years. \n]Trump['s hostility to the European Union and equating]",
+                "prefix": "relations over the next four years. \n",
+                "exact": "Trump",
+                "suffix": "'s hostility to the European Union and equating",
+                "offset": 8214,
+                "length": 5
+            },
+            {
+                "detection": "[of Brexit voters to kindred spirits with ]his[ own supporters who powered a rupturing of the]",
+                "prefix": "of Brexit voters to kindred spirits with ",
+                "exact": "his",
+                "suffix": " own supporters who powered a rupturing of the",
+                "offset": 8308,
+                "length": 3
+            },
+            {
+                "detection": "[of the political establishment also may cause ]him[ to look kindly on Britain. \nA Trump trip to the]",
+                "prefix": "of the political establishment also may cause ",
+                "exact": "him",
+                "suffix": " to look kindly on Britain. \nA Trump trip to the",
+                "offset": 8397,
+                "length": 3
+            },
+            {
+                "detection": "[ also may cause him to look kindly on Britain. \nA ]Trump[ trip to the country as president is widely]",
+                "prefix": " also may cause him to look kindly on Britain. \nA ",
+                "exact": "Trump",
+                "suffix": " trip to the country as president is widely",
+                "offset": 8431,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/56fc901f-59a3-3278-addc-b0fc69b283e7": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Paris",
+        "resolutions": [
+            {
+                "name": "Paris,France",
+                "shortname": "Paris",
+                "latitude": "48.8742",
+                "longitude": "2.346954",
+                "containedbycountry": "France",
+                "rcscode": "G:12V"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[administration to comply with the international ]Paris[ climate agreement are also sparking opposition]",
+                "prefix": "administration to comply with the international ",
+                "exact": "Paris",
+                "suffix": " climate agreement are also sparking opposition",
+                "offset": 5576,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0b907d37-07b5-370b-9f7d-df5070d80554": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "North Atlantic Treaty Organization",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[Befriend Donald Trump \nTrump's statements that ]NATO[ is obsolete and that he wants to improve]",
+                "prefix": "Befriend Donald Trump \nTrump's statements that ",
+                "exact": "NATO",
+                "suffix": " is obsolete and that he wants to improve",
+                "offset": 5272,
+                "length": 4
+            },
+            {
+                "detection": "[Trump the importance and continued vitality of ]NATO[. Britain's calls for all members to meet their]",
+                "prefix": "Trump the importance and continued vitality of ",
+                "exact": "NATO",
+                "suffix": ". Britain's calls for all members to meet their",
+                "offset": 6194,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/4b474cf2-e8df-3193-86a4-8e858a5c5e37": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Philadelphia",
+        "resolutions": [
+            {
+                "name": "Philadelphia,Pennsylvania,United States",
+                "shortname": "Philadelphia",
+                "latitude": "39.9522",
+                "longitude": "-75.1642",
+                "containedbystate": "Pennsylvania",
+                "containedbycountry": "United States",
+                "rcscode": "G:22H"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Which is okay,\" he told Republican lawmakers in ]Philadelphia[ on Thursday. \nTrump also starts the meeting from]",
+                "prefix": "Which is okay,\" he told Republican lawmakers in ",
+                "exact": "Philadelphia",
+                "suffix": " on Thursday. \nTrump also starts the meeting from",
+                "offset": 1816,
+                "length": 12
+            },
+            {
+                "detection": "[new age,\" May told GOP lawmakers Thursday in ]Philadelphia[, her first US stop. \"We have the opportunity to]",
+                "prefix": "new age,\" May told GOP lawmakers Thursday in ",
+                "exact": "Philadelphia",
+                "suffix": ", her first US stop. \"We have the opportunity to",
+                "offset": 4466,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/b289b0d6-bd1e-3c87-8b38-4e45820f9e9d": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "official",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ him, according to a former senior administration ]official[ and a UK official familiar with the]",
+                "prefix": " him, according to a former senior administration ",
+                "exact": "official",
+                "suffix": " and a UK official familiar with the",
+                "offset": 4853,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/b61ec243-89c8-3a43-bf33-226e27c2384e": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Berlin",
+        "resolutions": [
+            {
+                "name": "Berlin,Germany",
+                "shortname": "Berlin",
+                "latitude": "52.523337",
+                "longitude": "13.412687",
+                "containedbycountry": "Germany",
+                "rcscode": "G:1YE"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[in Western Europe since the fall of the ]Berlin[ Wall. \n\"I think that both Trump and May actually]",
+                "prefix": "in Western Europe since the fall of the ",
+                "exact": "Berlin",
+                "suffix": " Wall. \n\"I think that both Trump and May actually",
+                "offset": 7525,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "White House",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[for US trade policy going forward. \n \nWith his ]White House[ being castigated for protectionist policies, a]",
+                "prefix": "for US trade policy going forward. \n \nWith his ",
+                "exact": "White House",
+                "suffix": " being castigated for protectionist policies, a",
+                "offset": 1213,
+                "length": 11
+            },
+            {
+                "detection": "[and caused the cancellation of a visit to the ]White House[ next week by President Enrique Pena Nieto. \nMay]",
+                "prefix": "and caused the cancellation of a visit to the ",
+                "exact": "White House",
+                "suffix": " next week by President Enrique Pena Nieto. \nMay",
+                "offset": 2185,
+                "length": 11
+            },
+            {
+                "detection": "[are also sparking opposition to the new ]White House[ in the UK. \nMay also was critical of Trump's]",
+                "prefix": "are also sparking opposition to the new ",
+                "exact": "White House",
+                "suffix": " in the UK. \nMay also was critical of Trump's",
+                "offset": 5640,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/8c7b5c04-c032-38c4-87b5-91161b1468e2": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "president and the premier",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Prime Minister Theresa May. \n \nThe new US ]president and the premier[, who took office in July, both have strong]",
+                "prefix": "Prime Minister Theresa May. \n \nThe new US ",
+                "exact": "president and the premier",
+                "suffix": ", who took office in July, both have strong",
+                "offset": 579,
+                "length": 25
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1909f48e-d635-398f-a1c1-ab49312fea0c": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Heritage Foundation",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[Center for Freedom at the Washington-based ]Heritage Foundation[. \n\"I would expect their partnership to actually]",
+                "prefix": "Center for Freedom at the Washington-based ",
+                "exact": "Heritage Foundation",
+                "suffix": ". \n\"I would expect their partnership to actually",
+                "offset": 7795,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Russia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[and that he wants to improve relations with a ]Russia[ that has been testing the borders of post-Cold]",
+                "prefix": "and that he wants to improve relations with a ",
+                "exact": "Russia",
+                "suffix": " that has been testing the borders of post-Cold",
+                "offset": 5335,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Russia",
+                "shortname": "Russia",
+                "latitude": "54.8270488441",
+                "longitude": "55.0423189997",
+                "rcscode": "G:38",
+                "permid": "100253"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/68cbfc21-4f67-3079-a374-e5621d7f15a5": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "director",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[in their approach,\" said Nile Gardiner, ]director[ of the Margaret Thatcher Center for Freedom at]",
+                "prefix": "in their approach,\" said Nile Gardiner, ",
+                "exact": "director",
+                "suffix": " of the Margaret Thatcher Center for Freedom at",
+                "offset": 7718,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/7bd0b520-e823-3462-8456-7f91a6f8b01b": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Elizabeth II",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Elizabeth",
+        "commonname": "Elizabeth II",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[has often spoken of his administration for ]Queen Elizabeth II[, and his mother's heritage in Scotland, where he]",
+                "prefix": "has often spoken of his administration for ",
+                "exact": "Queen Elizabeth II",
+                "suffix": ", and his mother's heritage in Scotland, where he",
+                "offset": 2924,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Trump welcomes May as ]US[-UK relationship enters new era</Title> \n<Body>]",
+                "prefix": "\n<Document> \n<Title>Trump welcomes May as ",
+                "exact": "US",
+                "suffix": "-UK relationship enters new era</Title> \n<Body>",
+                "offset": 326,
+                "length": 2
+            },
+            {
+                "detection": "[British Prime Minister Theresa May. \n \nThe new ]US[ president and the premier, who took office in]",
+                "prefix": "British Prime Minister Theresa May. \n \nThe new ",
+                "exact": "US",
+                "suffix": " president and the premier, who took office in",
+                "offset": 576,
+                "length": 2
+            },
+            {
+                "detection": "[European Union, and a free-trade pact with the ]US[ is the most important pillar of that plan.]",
+                "prefix": "European Union, and a free-trade pact with the ",
+                "exact": "US",
+                "suffix": " is the most important pillar of that plan.",
+                "offset": 940,
+                "length": 2
+            },
+            {
+                "detection": "[the Trump administration says is the model for ]US[ trade policy going forward. \n \nWith his White]",
+                "prefix": "the Trump administration says is the model for ",
+                "exact": "US",
+                "suffix": " trade policy going forward. \n \nWith his White",
+                "offset": 1170,
+                "length": 2
+            },
+            {
+                "detection": "[pacts that he deems punitive to the ]United States[. \nHowever, he previewed the visit by griping]",
+                "prefix": "pacts that he deems punitive to the ",
+                "exact": "United States",
+                "suffix": ". \nHowever, he previewed the visit by griping",
+                "offset": 1455,
+                "length": 13
+            },
+            {
+                "detection": "[is leaving Europe and Trump is suspicious of ]US[ attachments abroad, the two nations can still]",
+                "prefix": "is leaving Europe and Trump is suspicious of ",
+                "exact": "US",
+                "suffix": " attachments abroad, the two nations can still",
+                "offset": 3897,
+                "length": 2
+            },
+            {
+                "detection": "[lawmakers Thursday in Philadelphia, her first ]US[ stop. \"We have the opportunity to lead,]",
+                "prefix": "lawmakers Thursday in Philadelphia, her first ",
+                "exact": "US",
+                "suffix": " stop. \"We have the opportunity to lead,",
+                "offset": 4490,
+                "length": 2
+            },
+            {
+                "detection": "[ones that put him at odds with the bulk of ]US[ allies. \nRELATED: Obama's advice to British PM:]",
+                "prefix": "ones that put him at odds with the bulk of ",
+                "exact": "US",
+                "suffix": " allies. \nRELATED: Obama's advice to British PM:",
+                "offset": 5174,
+                "length": 2
+            },
+            {
+                "detection": "[afraid to speak frankly to the President of the ]United States[,\" May said in Parliament on Wednesday. \"I am]",
+                "prefix": "afraid to speak frankly to the President of the ",
+                "exact": "United States",
+                "suffix": ",\" May said in Parliament on Wednesday. \"I am",
+                "offset": 5997,
+                "length": 13
+            },
+            {
+                "detection": "[new president, who has frequently groused that ]US[ allies have not done enough to pay for their own]",
+                "prefix": "new president, who has frequently groused that ",
+                "exact": "US",
+                "suffix": " allies have not done enough to pay for their own",
+                "offset": 6433,
+                "length": 2
+            },
+            {
+                "detection": "[suit -- in direct contravention of decades of ]US[ foreign policy that saw stability in a united]",
+                "prefix": "suit -- in direct contravention of decades of ",
+                "exact": "US",
+                "suffix": " foreign policy that saw stability in a united",
+                "offset": 7253,
+                "length": 2
+            },
+            {
+                "detection": "[is likely to repair Britain's importance to ]US[ transatlantic relations over the next four]",
+                "prefix": "is likely to repair Britain's importance to ",
+                "exact": "US",
+                "suffix": " transatlantic relations over the next four",
+                "offset": 8160,
+                "length": 2
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c40ffb8c-c089-342f-94a2-6e656fdc9d0f": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Obama administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[relationship\" -- a quirk that baffled the ]Obama administration[ in its initial engagements with the British.]",
+                "prefix": "relationship\" -- a quirk that baffled the ",
+                "exact": "Obama administration",
+                "suffix": " in its initial engagements with the British.",
+                "offset": 3728,
+                "length": 20
+            },
+            {
+                "detection": "[to environmental regulations introduced by the ]Obama administration[ to comply with the international Paris climate]",
+                "prefix": "to environmental regulations introduced by the ",
+                "exact": "Obama administration",
+                "suffix": " to comply with the international Paris climate",
+                "offset": 5522,
+                "length": 20
+            },
+            {
+                "detection": "[and Chancellor Angela Merkel in the eyes of the ]Obama administration[, the arrival of Trump is likely to repair]",
+                "prefix": "and Chancellor Angela Merkel in the eyes of the ",
+                "exact": "Obama administration",
+                "suffix": ", the arrival of Trump is likely to repair",
+                "offset": 8073,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/c5c9a490-58e3-3d12-9677-45994f6dcd36": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Enrique Pena Nieto",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Enrique",
+        "lastname": "Pena Nieto",
+        "commonname": "Enrique Pena Nieto",
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[visit to the White House next week by President ]Enrique Pena Nieto[. \nMay is getting time in the office unusually]",
+                "prefix": "visit to the White House next week by President ",
+                "exact": "Enrique Pena Nieto",
+                "suffix": ". \nMay is getting time in the office unusually",
+                "offset": 2220,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/8f62fcd7-6108-36b4-991b-6eff4395f045": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President of the United States",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[her mind. \n\"I am not afraid to speak frankly to ]the President of the United States[,\" May said in Parliament on Wednesday. \"I am]",
+                "prefix": "her mind. \n\"I am not afraid to speak frankly to ",
+                "exact": "the President of the United States",
+                "suffix": ",\" May said in Parliament on Wednesday. \"I am",
+                "offset": 5976,
+                "length": 34
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65": {
+        "_typeGroup": "entities",
+        "_type": "Continent",
+        "forenduserdisplay": "false",
+        "name": "Europe",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Continent",
+        "instances": [
+            {
+                "detection": "[visit to stress that though Britain is leaving ]Europe[ and Trump is suspicious of US attachments]",
+                "prefix": "visit to stress that though Britain is leaving ",
+                "exact": "Europe",
+                "suffix": " and Trump is suspicious of US attachments",
+                "offset": 3863,
+                "length": 6
+            },
+            {
+                "detection": "[ US foreign policy that saw stability in a united ]Europe[. \nMay did not back Brexit, but in the political]",
+                "prefix": " US foreign policy that saw stability in a united ",
+                "exact": "Europe",
+                "suffix": ". \nMay did not back Brexit, but in the political",
+                "offset": 7302,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d15966a-9136-35bb-8063-fa836da1125a": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "UK official",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[that we are the first country to be visiting,\" ]a UK official[ told CNN. \nRELATED: Friendliness with Trump will]",
+                "prefix": "that we are the first country to be visiting,\" ",
+                "exact": "a UK official",
+                "suffix": " told CNN. \nRELATED: Friendliness with Trump will",
+                "offset": 4128,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Washington",
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[relationship enters new era</Title> \n<Body> \n]Washington[ (CNN)Donald Trump will get his first shot at]",
+                "prefix": "relationship enters new era</Title> \n<Body> \n",
+                "exact": "Washington",
+                "suffix": " (CNN)Donald Trump will get his first shot at",
+                "offset": 377,
+                "length": 10
+            },
+            {
+                "detection": "[the Margaret Thatcher Center for Freedom at the ]Washington[-based Heritage Foundation. \n\"I would expect]",
+                "prefix": "the Margaret Thatcher Center for Freedom at the ",
+                "exact": "Washington",
+                "suffix": "-based Heritage Foundation. \n\"I would expect",
+                "offset": 7778,
+                "length": 10
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/ff8d15e0-3afe-3cfa-9b16-1a9f3387935b": {
+        "_typeGroup": "entities",
+        "_type": "Region",
+        "forenduserdisplay": "false",
+        "name": "Western Europe",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Region",
+        "instances": [
+            {
+                "detection": "[ manage the most volatile political turbulence in ]Western Europe[ since the fall of the Berlin Wall. \n\"I think]",
+                "prefix": " manage the most volatile political turbulence in ",
+                "exact": "Western Europe",
+                "suffix": " since the fall of the Berlin Wall. \n\"I think",
+                "offset": 7488,
+                "length": 14
+            },
+            {
+                "detection": "[ manage the most volatile political turbulence in ]Western Europe[ since the fall of the Berlin Wall. \n\"I think]",
+                "prefix": " manage the most volatile political turbulence in ",
+                "exact": "Western Europe",
+                "suffix": " since the fall of the Berlin Wall. \n\"I think",
+                "offset": 7488,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/ecf2c5f8-dd21-3b8a-b619-50f372f2bedc": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "model for US trade policy",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[pact that the Trump administration says is ]the model for US trade policy[ going forward. \n \nWith his White House being]",
+                "prefix": "pact that the Trump administration says is ",
+                "exact": "the model for US trade policy",
+                "suffix": " going forward. \n \nWith his White House being",
+                "offset": 1156,
+                "length": 29
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United Kingdom",
+        "resolutions": [
+            {
+                "name": "United Kingdom",
+                "shortname": "United Kingdom",
+                "latitude": "53.1142456495",
+                "longitude": "-2.57711368423",
+                "rcscode": "G:7J",
+                "permid": "100317"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Trump welcomes May as US-]UK[ relationship enters new era</Title> \n<Body>]",
+                "prefix": "\n<Document> \n<Title>Trump welcomes May as US-",
+                "exact": "UK",
+                "suffix": " relationship enters new era</Title> \n<Body>",
+                "offset": 329,
+                "length": 2
+            },
+            {
+                "detection": "[up a trade deal. The envisioned agreement with ]Britain[ is exactly the kind of bilateral pact that the]",
+                "prefix": "up a trade deal. The envisioned agreement with ",
+                "exact": "Britain",
+                "suffix": " is exactly the kind of bilateral pact that the",
+                "offset": 1072,
+                "length": 7
+            },
+            {
+                "detection": "[with the Prime Minister tomorrow, as you know. ]Great Britain[ ... I don't have my commerce secretary -- they]",
+                "prefix": "with the Prime Minister tomorrow, as you know. ",
+                "exact": "Great Britain",
+                "suffix": " ... I don't have my commerce secretary -- they",
+                "offset": 1652,
+                "length": 13
+            },
+            {
+                "detection": "[as a sign of the new President's respect for ]Britain[. \nTrump has often spoken of his administration]",
+                "prefix": "as a sign of the new President's respect for ",
+                "exact": "Britain",
+                "suffix": ". \nTrump has often spoken of his administration",
+                "offset": 2865,
+                "length": 7
+            },
+            {
+                "detection": "[plans to use the visit to stress that though ]Britain[ is leaving Europe and Trump is suspicious of US]",
+                "prefix": "plans to use the visit to stress that though ",
+                "exact": "Britain",
+                "suffix": " is leaving Europe and Trump is suspicious of US",
+                "offset": 3844,
+                "length": 7
+            },
+            {
+                "detection": "[ that we are the first country to be visiting,\" a ]UK[ official told CNN. \nRELATED: Friendliness with]",
+                "prefix": " that we are the first country to be visiting,\" a ",
+                "exact": "UK",
+                "suffix": " official told CNN. \nRELATED: Friendliness with",
+                "offset": 4130,
+                "length": 2
+            },
+            {
+                "detection": "[ to a former senior administration official and a ]UK[ official familiar with the conversations. \nBut]",
+                "prefix": " to a former senior administration official and a ",
+                "exact": "UK",
+                "suffix": " official familiar with the conversations. \nBut",
+                "offset": 4868,
+                "length": 2
+            },
+            {
+                "detection": "[opposition to the new White House in the ]UK[. \nMay also was critical of Trump's conduct]",
+                "prefix": "opposition to the new White House in the ",
+                "exact": "UK",
+                "suffix": ". \nMay also was critical of Trump's conduct",
+                "offset": 5659,
+                "length": 2
+            },
+            {
+                "detection": "[the importance and continued vitality of NATO. ]Britain['s calls for all members to meet their military]",
+                "prefix": "the importance and continued vitality of NATO. ",
+                "exact": "Britain",
+                "suffix": "'s calls for all members to meet their military",
+                "offset": 6200,
+                "length": 7
+            },
+            {
+                "detection": "[have strong appeal to Middle America and Middle ]England[, and I think there are some similarities in]",
+                "prefix": "have strong appeal to Middle America and Middle ",
+                "exact": "England",
+                "suffix": ", and I think there are some similarities in",
+                "offset": 7629,
+                "length": 7
+            },
+            {
+                "detection": "[the arrival of Trump is likely to repair ]Britain['s importance to US transatlantic relations over]",
+                "prefix": "the arrival of Trump is likely to repair ",
+                "exact": "Britain",
+                "suffix": "'s importance to US transatlantic relations over",
+                "offset": 8136,
+                "length": 7
+            },
+            {
+                "detection": "[also may cause him to look kindly on ]Britain[. \nA Trump trip to the country as president is]",
+                "prefix": "also may cause him to look kindly on ",
+                "exact": "Britain",
+                "suffix": ". \nA Trump trip to the country as president is",
+                "offset": 8419,
+                "length": 7
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Angela Merkel",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Angela",
+        "lastname": "Merkel",
+        "commonname": "Angela Merkel",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ that after falling behind Germany and Chancellor ]Angela Merkel[ in the eyes of the Obama administration, the]",
+                "prefix": " that after falling behind Germany and Chancellor ",
+                "exact": "Angela Merkel",
+                "suffix": " in the eyes of the Obama administration, the",
+                "offset": 8040,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "European Union",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[global trading power once it has exited the ]European Union[, and a free-trade pact with the US is the most]",
+                "prefix": "global trading power once it has exited the ",
+                "exact": "European Union",
+                "suffix": ", and a free-trade pact with the US is the most",
+                "offset": 893,
+                "length": 14
+            },
+            {
+                "detection": "[of disruption, backed the British exit from the ]EU[ and hopes more countries follow suit -- in]",
+                "prefix": "of disruption, backed the British exit from the ",
+                "exact": "EU",
+                "suffix": " and hopes more countries follow suit -- in",
+                "offset": 7172,
+                "length": 2
+            },
+            {
+                "detection": "[the next four years. \nTrump's hostility to the ]European Union[ and equating of Brexit voters to kindred spirits]",
+                "prefix": "the next four years. \nTrump's hostility to the ",
+                "exact": "European Union",
+                "suffix": " and equating of Brexit voters to kindred spirits",
+                "offset": 8239,
+                "length": 14
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/d0439ab2-7fc2-3a3d-9b7a-be9d3fa55bb2": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Scotland",
+        "resolutions": [
+            {
+                "name": "Scotland",
+                "shortname": "Scotland",
+                "latitude": "56.4396121212",
+                "longitude": "-4.05319393939"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[ Queen Elizabeth II, and his mother's heritage in ]Scotland[, where he owns two renowned golf courses.]",
+                "prefix": " Queen Elizabeth II, and his mother's heritage in ",
+                "exact": "Scotland",
+                "suffix": ", where he owns two renowned golf courses.",
+                "offset": 2973,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/84324a0d-96a7-347b-a2fb-d4e3e3628456": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Taro Aso",
+        "persontype": "political",
+        "nationality": "Japanese",
+        "confidencelevel": "0.999",
+        "commonname": "Taro Aso",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Barack Obama chose then-Japanese Prime Minister ]Taro Aso[ as his first guest, a month after he was]",
+                "prefix": "Barack Obama chose then-Japanese Prime Minister ",
+                "exact": "Taro Aso",
+                "suffix": " as his first guest, a month after he was",
+                "offset": 2392,
+                "length": 8
+            },
+            {
+                "detection": "[Taro Aso as his first guest, a month after ]he[ was inaugurated. British Prime Minister Gordon]",
+                "prefix": "Taro Aso as his first guest, a month after ",
+                "exact": "he",
+                "suffix": " was inaugurated. British Prime Minister Gordon",
+                "offset": 2435,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/b0453777-f384-3f64-98cc-978dd66f8163": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Nile Gardiner",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.995",
+        "firstname": "Nile",
+        "lastname": "Gardiner",
+        "commonname": "Nile Gardiner",
+        "confidence": {
+            "statisticalfeature": "0.989",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.995"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[are some similarities in their approach,\" said ]Nile Gardiner[, director of the Margaret Thatcher Center for]",
+                "prefix": "are some similarities in their approach,\" said ",
+                "exact": "Nile Gardiner",
+                "suffix": ", director of the Margaret Thatcher Center for",
+                "offset": 7703,
+                "length": 13
+            },
+            {
+                "detection": "[may be somewhat different in some respects,\" ]he[ predicted. \nGardiner believes that after falling]",
+                "prefix": "may be somewhat different in some respects,\" ",
+                "exact": "he",
+                "suffix": " predicted. \nGardiner believes that after falling",
+                "offset": 7958,
+                "length": 2
+            },
+            {
+                "detection": "[different in some respects,\" he predicted. \n]Gardiner[ believes that after falling behind Germany and]",
+                "prefix": "different in some respects,\" he predicted. \n",
+                "exact": "Gardiner",
+                "suffix": " believes that after falling behind Germany and",
+                "offset": 7973,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/201c7a36-c461-336f-a369-0d5d8c999561": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Gordon Brown",
+        "persontype": "political",
+        "nationality": "British",
+        "confidencelevel": "0.999",
+        "commonname": "Gordon Brown",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ after he was inaugurated. British Prime Minister ]Gordon Brown[ was his second guest but their summit --]",
+                "prefix": " after he was inaugurated. British Prime Minister ",
+                "exact": "Gordon Brown",
+                "suffix": " was his second guest but their summit --",
+                "offset": 2478,
+                "length": 12
+            },
+            {
+                "detection": "[British Prime Minister Gordon Brown was ]his[ second guest but their summit -- remembered]",
+                "prefix": "British Prime Minister Gordon Brown was ",
+                "exact": "his",
+                "suffix": " second guest but their summit -- remembered",
+                "offset": 2495,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "CNN",
+        "nationality": "N/A",
+        "confidencelevel": "0.942",
+        "resolutions": [
+            {
+                "name": "CABLE NEWS NETWORK, INC.",
+                "permid": "4298210469",
+                "commonname": "CNN",
+                "score": 1,
+                "id": "https://permid.org/1-4298210469"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.939",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.942"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[country to be visiting,\" a UK official told ]CNN[. \nRELATED: Friendliness with Trump will give]",
+                "prefix": "country to be visiting,\" a UK official told ",
+                "exact": "CNN",
+                "suffix": ". \nRELATED: Friendliness with Trump will give",
+                "offset": 4147,
+                "length": 3
+            }
+        ],
+        "relevance": 0
+    },
+    "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Theresa May",
+        "persontype": "N/A",
+        "nationality": "British",
+        "confidencelevel": "0.998",
+        "commonname": "Theresa May",
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Trump welcomes ]May[ as US-UK relationship enters new era</Title>]",
+                "prefix": "\n<Document> \n<Title>Trump welcomes ",
+                "exact": "May",
+                "suffix": " as US-UK relationship enters new era</Title>",
+                "offset": 319,
+                "length": 3
+            },
+            {
+                "detection": "[to the Oval Office, British Prime Minister ]Theresa May[. \n \nThe new US president and the premier, who]",
+                "prefix": "to the Oval Office, British Prime Minister ",
+                "exact": "Theresa May",
+                "suffix": ". \n \nThe new US president and the premier, who",
+                "offset": 552,
+                "length": 11
+            },
+            {
+                "detection": "[ on Thursday. \nTrump also starts the meeting from ]May[ from a position of strength, given that he is]",
+                "prefix": " on Thursday. \nTrump also starts the meeting from ",
+                "exact": "May",
+                "suffix": " from a position of strength, given that he is",
+                "offset": 1878,
+                "length": 3
+            },
+            {
+                "detection": "[position of strength, given that he is granting ]her[ the honor of being his first foreign leader]",
+                "prefix": "position of strength, given that he is granting ",
+                "exact": "her",
+                "suffix": " the honor of being his first foreign leader",
+                "offset": 1937,
+                "length": 3
+            },
+            {
+                "detection": "[next week by President Enrique Pena Nieto. \n]May[ is getting time in the office unusually early]",
+                "prefix": "next week by President Enrique Pena Nieto. \n",
+                "exact": "May",
+                "suffix": " is getting time in the office unusually early",
+                "offset": 2241,
+                "length": 3
+            },
+            {
+                "detection": "[Praise for Trump -- but strong words, too \nThat ]May[ will be in the Oval Office exactly seven days]",
+                "prefix": "Praise for Trump -- but strong words, too \nThat ",
+                "exact": "May",
+                "suffix": " will be in the Oval Office exactly seven days",
+                "offset": 2711,
+                "length": 3
+            },
+            {
+                "detection": "[after Trump was inaugurated is being seen by ]her[ entourage as a sign of the new President's]",
+                "prefix": "after Trump was inaugurated is being seen by ",
+                "exact": "her",
+                "suffix": " entourage as a sign of the new President's",
+                "offset": 2806,
+                "length": 3
+            },
+            {
+                "detection": "[in its initial engagements with the British. \n]May[ plans to use the visit to stress that though]",
+                "prefix": "in its initial engagements with the British. \n",
+                "exact": "May",
+                "suffix": " plans to use the visit to stress that though",
+                "offset": 3795,
+                "length": 3
+            },
+            {
+                "detection": "[ CNN. \nRELATED: Friendliness with Trump will give ]Theresa May[ a European headache \n\"As we rediscover our]",
+                "prefix": " CNN. \nRELATED: Friendliness with Trump will give ",
+                "exact": "Theresa May",
+                "suffix": " a European headache \n\"As we rediscover our",
+                "offset": 4196,
+                "length": 11
+            },
+            {
+                "detection": "[the 'special relationship' for this new age,\" ]May[ told GOP lawmakers Thursday in Philadelphia, her]",
+                "prefix": "the 'special relationship' for this new age,\" ",
+                "exact": "May",
+                "suffix": " told GOP lawmakers Thursday in Philadelphia, her",
+                "offset": 4431,
+                "length": 3
+            },
+            {
+                "detection": "[ May told GOP lawmakers Thursday in Philadelphia, ]her[ first US stop. \"We have the opportunity to lead,]",
+                "prefix": " May told GOP lawmakers Thursday in Philadelphia, ",
+                "exact": "her",
+                "suffix": " first US stop. \"We have the opportunity to lead,",
+                "offset": 4480,
+                "length": 3
+            },
+            {
+                "detection": "[of former President Barack Obama, who urged ]her[ to develop a close relationship with Trump in]",
+                "prefix": "of former President Barack Obama, who urged ",
+                "exact": "her",
+                "suffix": " to develop a close relationship with Trump in",
+                "offset": 4664,
+                "length": 3
+            },
+            {
+                "detection": "[ a close relationship with Trump in the hope that ]she[ and other center-right world leaders could be a]",
+                "prefix": " a close relationship with Trump in the hope that ",
+                "exact": "she",
+                "suffix": " and other center-right world leaders could be a",
+                "offset": 4728,
+                "length": 3
+            },
+            {
+                "detection": "[language may well be positive between Trump and ]May[, they still have their share of disagreements.]",
+                "prefix": "language may well be positive between Trump and ",
+                "exact": "May",
+                "suffix": ", they still have their share of disagreements.",
+                "offset": 4981,
+                "length": 3
+            },
+            {
+                "detection": "[they still have their share of disagreements. \n]May['s visit will be the first test of some of]",
+                "prefix": "they still have their share of disagreements. \n",
+                "exact": "May",
+                "suffix": "'s visit will be the first test of some of",
+                "offset": 5033,
+                "length": 3
+            },
+            {
+                "detection": "[Prime Minister is making clear that while ]she[ plans to forge a close relationship with Trump,]",
+                "prefix": "Prime Minister is making clear that while ",
+                "exact": "she",
+                "suffix": " plans to forge a close relationship with Trump,",
+                "offset": 5845,
+                "length": 3
+            },
+            {
+                "detection": "[plans to forge a close relationship with Trump, ]she[ will not hesitate to speak her mind. \n\"I am not]",
+                "prefix": "plans to forge a close relationship with Trump, ",
+                "exact": "she",
+                "suffix": " will not hesitate to speak her mind. \n\"I am not",
+                "offset": 5897,
+                "length": 3
+            },
+            {
+                "detection": "[with Trump, she will not hesitate to speak ]her[ mind. \n\"I am not afraid to speak frankly to the]",
+                "prefix": "with Trump, she will not hesitate to speak ",
+                "exact": "her",
+                "suffix": " mind. \n\"I am not afraid to speak frankly to the",
+                "offset": 5928,
+                "length": 3
+            },
+            {
+                "detection": "[frankly to the President of the United States,\" ]May[ said in Parliament on Wednesday. \"I am able to]",
+                "prefix": "frankly to the President of the United States,\" ",
+                "exact": "May",
+                "suffix": " said in Parliament on Wednesday. \"I am able to",
+                "offset": 6013,
+                "length": 3
+            },
+            {
+                "detection": "[because we have this special relationship.\" \n]May[ is likely to impress upon Trump the importance]",
+                "prefix": "because we have this special relationship.\" \n",
+                "exact": "May",
+                "suffix": " is likely to impress upon Trump the importance",
+                "offset": 6117,
+                "length": 3
+            },
+            {
+                "detection": "[ military spending target of 2% of GDP, may allow ]her[ government to become a point of liaison between]",
+                "prefix": " military spending target of 2% of GDP, may allow ",
+                "exact": "her",
+                "suffix": " government to become a point of liaison between",
+                "offset": 6295,
+                "length": 3
+            },
+            {
+                "detection": "[to delving deeply into the details of policy. \n]May[, a clergyman's daughter, is conservative,]",
+                "prefix": "to delving deeply into the details of policy. \n",
+                "exact": "May",
+                "suffix": ", a clergyman's daughter, is conservative,",
+                "offset": 6712,
+                "length": 3
+            },
+            {
+                "detection": "[for poring over briefing books late at night. ]Her[ only visible flamboyance is a penchant for]",
+                "prefix": "for poring over briefing books late at night. ",
+                "exact": "Her",
+                "suffix": " only visible flamboyance is a penchant for",
+                "offset": 6832,
+                "length": 3
+            },
+            {
+                "detection": "[\nBut while they may not be soulmates, Trump and ]May[ both find themselves caught up in the tectonic]",
+                "prefix": "\nBut while they may not be soulmates, Trump and ",
+                "exact": "May",
+                "suffix": " both find themselves caught up in the tectonic",
+                "offset": 6954,
+                "length": 3
+            },
+            {
+                "detection": "[policy that saw stability in a united Europe. \n]May[ did not back Brexit, but in the political]",
+                "prefix": "policy that saw stability in a united Europe. \n",
+                "exact": "May",
+                "suffix": " did not back Brexit, but in the political",
+                "offset": 7311,
+                "length": 3
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Japan",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\nFormer President Barack Obama chose then-]Japanese[ Prime Minister Taro Aso as his first guest, a]",
+                "prefix": "\nFormer President Barack Obama chose then-",
+                "exact": "Japanese",
+                "suffix": " Prime Minister Taro Aso as his first guest, a",
+                "offset": 2368,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "France",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[administration to comply with the international ]Paris climate agreement are also sparking opposition to the new White House[ in the UK. \nMay also was critical of Trump's]",
+                "prefix": "administration to comply with the international ",
+                "exact": "Paris climate agreement are also sparking opposition to the new White House",
+                "suffix": " in the UK. \nMay also was critical of Trump's",
+                "offset": 5576,
+                "length": 75
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/95d93c40-c9a5-3e8e-807a-505788c7444e": {
+        "_typeGroup": "relations",
+        "_type": "DiplomaticRelations",
+        "forenduserdisplay": "false",
+        "diplomaticaction": "opposition",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/DiplomaticRelations",
+        "diplomaticentity1": "http://d.opencalais.com/genericHasher-1/e1fd0a20-f464-39be-a88f-25038cc7f50c",
+        "diplomaticentity2": "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa",
+        "instances": [
+            {
+                "detection": "[administration to comply with the international ]Paris climate agreement are also sparking opposition to the new White House[ in the UK. \nMay also was critical of Trump's]",
+                "prefix": "administration to comply with the international ",
+                "exact": "Paris climate agreement are also sparking opposition to the new White House",
+                "suffix": " in the UK. \nMay also was critical of Trump's",
+                "offset": 5576,
+                "length": 75
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3ec781c0-a6ce-30bf-9f9e-2182baf8c67c": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentRelation",
+        "forenduserdisplay": "true",
+        "position": "commerce secretary",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentRelation",
+        "person_employer": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "person_employee": "http://d.opencalais.com/pershash-1/3abb4805-4b5c-3e9b-91fb-ceff86f0ece4",
+        "instances": [
+            {
+                "detection": "[by griping that Democrats have yet to confirm ]his commerce secretary pick, Wilbur Ross[. \n\"I'm meeting with the Prime Minister tomorrow,]",
+                "prefix": "by griping that Democrats have yet to confirm ",
+                "exact": "his commerce secretary pick, Wilbur Ross",
+                "suffix": ". \n\"I'm meeting with the Prime Minister tomorrow,",
+                "offset": 1549,
+                "length": 40
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e36e5749-2d80-3eff-b92b-c20259bb0743": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b",
+        "instances": [
+            {
+                "detection": "[early after a presidential inauguration. \n]Former President Barack Obama[ chose then-Japanese Prime Minister Taro Aso as]",
+                "prefix": "early after a presidential inauguration. \n",
+                "exact": "Former President Barack Obama",
+                "suffix": " chose then-Japanese Prime Minister Taro Aso as",
+                "offset": 2327,
+                "length": 29
+            },
+            {
+                "detection": "[will also have the benefit of the advice of ]former President Barack Obama[, who urged her to develop a close relationship]",
+                "prefix": "will also have the benefit of the advice of ",
+                "exact": "former President Barack Obama",
+                "suffix": ", who urged her to develop a close relationship",
+                "offset": 4623,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/cf019a48-894e-3eae-9326-650499807288": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Prime Minister",
+        "careertype": "political",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/84324a0d-96a7-347b-a2fb-d4e3e3628456",
+        "country": "http://d.opencalais.com/genericHasher-1/ed1c9b63-4b8e-311f-b8db-0f90ea812660",
+        "instances": [
+            {
+                "detection": "[\nFormer President Barack Obama chose ]then-Japanese Prime Minister Taro Aso[ as his first guest, a month after he was]",
+                "prefix": "\nFormer President Barack Obama chose ",
+                "exact": "then-Japanese Prime Minister Taro Aso",
+                "suffix": " as his first guest, a month after he was",
+                "offset": 2363,
+                "length": 37
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9bcb637c-625d-33b2-8307-82f4a0be8a62": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "director",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/b0453777-f384-3f64-98cc-978dd66f8163",
+        "organization": "http://d.opencalais.com/genericHasher-1/5e551c6a-470b-39f2-9fcb-02013f39f6dc",
+        "instances": [
+            {
+                "detection": "[are some similarities in their approach,\" said ]Nile Gardiner, director of the Margaret Thatcher Center for Freedom[ at the Washington-based Heritage Foundation. \n\"I]",
+                "prefix": "are some similarities in their approach,\" said ",
+                "exact": "Nile Gardiner, director of the Margaret Thatcher Center for Freedom",
+                "suffix": " at the Washington-based Heritage Foundation. \n\"I",
+                "offset": 7703,
+                "length": 67
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/558163e6-98e0-3f43-9fa7-5fd832c429c4": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Prime Minister",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "country": "http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16",
+        "instances": [
+            {
+                "detection": "[his first foreign visitor to the Oval Office, ]British Prime Minister Theresa May[. \n \nThe new US president and the premier, who]",
+                "prefix": "his first foreign visitor to the Oval Office, ",
+                "exact": "British Prime Minister Theresa May",
+                "suffix": ". \n \nThe new US president and the premier, who",
+                "offset": 529,
+                "length": 34
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ed8bbcc2-b9f7-301a-a256-51b9e354784c": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/c5c9a490-58e3-3d12-9677-45994f6dcd36",
+        "instances": [
+            {
+                "detection": "[of a visit to the White House next week by ]President Enrique Pena Nieto[. \nMay is getting time in the office unusually]",
+                "prefix": "of a visit to the White House next week by ",
+                "exact": "President Enrique Pena Nieto",
+                "suffix": ". \nMay is getting time in the office unusually",
+                "offset": 2210,
+                "length": 28
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b1f4e390-15ba-3bd7-8321-f63e605f9434": {
+        "_typeGroup": "relations",
+        "_type": "CandidatePosition",
+        "forenduserdisplay": "false",
+        "positionpast": "President",
+        "positionaspirational": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CandidatePosition",
+        "candidate": "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b",
+        "instances": [
+            {
+                "detection": "[early after a presidential inauguration. \n]Former President Barack Obama[ chose then-Japanese Prime Minister Taro Aso as]",
+                "prefix": "early after a presidential inauguration. \n",
+                "exact": "Former President Barack Obama",
+                "suffix": " chose then-Japanese Prime Minister Taro Aso as",
+                "offset": 2327,
+                "length": 29
+            },
+            {
+                "detection": "[will also have the benefit of the advice of ]former President Barack Obama[, who urged her to develop a close relationship]",
+                "prefix": "will also have the benefit of the advice of ",
+                "exact": "former President Barack Obama",
+                "suffix": ", who urged her to develop a close relationship",
+                "offset": 4623,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/384ab8ad-6b28-3343-b795-5a38ff109715": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Philadelphia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "instances": [
+            {
+                "detection": "[the 'special relationship' for this new age,\" ]May told GOP lawmakers Thursday in Philadelphia[, her first US stop. \"We have the opportunity to]",
+                "prefix": "the 'special relationship' for this new age,\" ",
+                "exact": "May told GOP lawmakers Thursday in Philadelphia",
+                "suffix": ", her first US stop. \"We have the opportunity to",
+                "offset": 4431,
+                "length": 47
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b852f2cb-087f-30cb-84f4-94f367616755": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Washington",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/b0453777-f384-3f64-98cc-978dd66f8163",
+        "instances": [
+            {
+                "detection": "[are some similarities in their approach,\" said ]Nile Gardiner, director of the Margaret Thatcher Center for Freedom at the Washington[-based Heritage Foundation. \n\"I would expect]",
+                "prefix": "are some similarities in their approach,\" said ",
+                "exact": "Nile Gardiner, director of the Margaret Thatcher Center for Freedom at the Washington",
+                "suffix": "-based Heritage Foundation. \n\"I would expect",
+                "offset": 7703,
+                "length": 85
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/5c8998e8-020c-399b-817d-3af424056b43": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "I'm meeting with the Prime Minister tomorrow, as you know. Great Britain ... I don't have my commerce secretary -- they want to talk trade. So, I'll have to handle it myself.; Which is okay",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3abb4805-4b5c-3e9b-91fb-ceff86f0ece4",
+        "instances": [
+            {
+                "detection": "[his commerce secretary pick, Wilbur Ross. \n]\"I'm meeting with the Prime Minister tomorrow, as you know. Great Britain ... I don't have my commerce secretary -- they want to talk trade. So, I'll have to handle it myself. Which is okay,\" he told Republican lawmakers in Philadelphia on Thursday.[ \nTrump also starts the meeting from May from a]",
+                "prefix": "his commerce secretary pick, Wilbur Ross. \n",
+                "exact": "\"I'm meeting with the Prime Minister tomorrow, as you know. Great Britain ... I don't have my commerce secretary -- they want to talk trade. So, I'll have to handle it myself. Which is okay,\" he told Republican lawmakers in Philadelphia on Thursday.",
+                "suffix": " \nTrump also starts the meeting from May from a",
+                "offset": 1592,
+                "length": 249
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/43c84b49-04dd-3426-8509-b90b7c505670": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "UK official",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "organizationorcompany": "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f",
+        "instances": [
+            {
+                "detection": "[that we are the first country to be visiting,\" ]a UK official told CNN[. \nRELATED: Friendliness with Trump will give]",
+                "prefix": "that we are the first country to be visiting,\" ",
+                "exact": "a UK official told CNN",
+                "suffix": ". \nRELATED: Friendliness with Trump will give",
+                "offset": 4128,
+                "length": 22
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/232d1fcf-367b-389a-ac16-f6c341c17b1d": {
+        "_typeGroup": "relations",
+        "_type": "PersonTravel",
+        "forenduserdisplay": "true",
+        "status": "future",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonTravel",
+        "person": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "locationorigin": "http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65",
+        "instances": [
+            {
+                "detection": "[to use the visit to stress that though Britain ]is leaving Europe[ and Trump is suspicious of US attachments]",
+                "prefix": "to use the visit to stress that though Britain ",
+                "exact": "is leaving Europe",
+                "suffix": " and Trump is suspicious of US attachments",
+                "offset": 3852,
+                "length": 17
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/cb45ae23-2855-361f-9a61-a4673796d444": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Queen",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/7bd0b520-e823-3462-8456-7f91a6f8b01b",
+        "instances": [
+            {
+                "detection": "[has often spoken of his administration for ]Queen Elizabeth II[, and his mother's heritage in Scotland, where he]",
+                "prefix": "has often spoken of his administration for ",
+                "exact": "Queen Elizabeth II",
+                "suffix": ", and his mother's heritage in Scotland, where he",
+                "offset": 2924,
+                "length": 18
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/bb576e5e-28f1-3943-9b2f-175935c0bf46": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Europe",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "instances": [
+            {
+                "detection": "[to use the visit to stress that though Britain ]is leaving Europe[ and Trump is suspicious of US attachments]",
+                "prefix": "to use the visit to stress that though Britain ",
+                "exact": "is leaving Europe",
+                "suffix": " and Trump is suspicious of US attachments",
+                "offset": 3852,
+                "length": 17
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a0bc98fe-0386-3da3-9c39-cce34c02d490": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "organizationorcompany": "http://d.opencalais.com/genericHasher-1/284aeeb0-54f1-30a9-8cef-cb9420a2e68f",
+        "instances": [
+            {
+                "detection": "[the 'special relationship' for this new age,\" ]May told GOP[ lawmakers Thursday in Philadelphia, her first US]",
+                "prefix": "the 'special relationship' for this new age,\" ",
+                "exact": "May told GOP",
+                "suffix": " lawmakers Thursday in Philadelphia, her first US",
+                "offset": 4431,
+                "length": 12
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/5f8bf82d-de16-36b5-9833-35f818b87998": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "I think that both Trump and May actually have strong appeal to Middle America and Middle England, and I think there are some similarities in their approach; I would expect their partnership to actually be a very strong one even though their characters may be somewhat different in some respects,",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/b0453777-f384-3f64-98cc-978dd66f8163",
+        "instances": [
+            {
+                "detection": "[Europe since the fall of the Berlin Wall. \n]\"I think that both Trump and May actually have strong appeal to Middle America and Middle England, and I think there are some similarities in their approach,\" said Nile Gardiner, director of the Margaret Thatcher Center for Freedom at the Washington-based Heritage Foundation. \n\"I would expect their partnership to actually be a very strong one even though their characters may be somewhat different in some respects,\"[ he predicted. \nGardiner believes that after]",
+                "prefix": "Europe since the fall of the Berlin Wall. \n",
+                "exact": "\"I think that both Trump and May actually have strong appeal to Middle America and Middle England, and I think there are some similarities in their approach,\" said Nile Gardiner, director of the Margaret Thatcher Center for Freedom at the Washington-based Heritage Foundation. \n\"I would expect their partnership to actually be a very strong one even though their characters may be somewhat different in some respects,\"",
+                "suffix": " he predicted. \nGardiner believes that after",
+                "offset": 7539,
+                "length": 418
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/2ad4d9bf-e74e-3359-8e70-156a39763539": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Chancellor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/9a800332-1c6c-3b85-858e-df64f9c85a2e",
+        "instances": [
+            {
+                "detection": "[believes that after falling behind Germany and ]Chancellor Angela Merkel[ in the eyes of the Obama administration, the]",
+                "prefix": "believes that after falling behind Germany and ",
+                "exact": "Chancellor Angela Merkel",
+                "suffix": " in the eyes of the Obama administration, the",
+                "offset": 8029,
+                "length": 24
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/48081779-56af-38ea-a659-17e38d12aec7": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "persongroup": "the president",
+        "locationstring": "United States",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "instances": [
+            {
+                "detection": "[her mind. \n\"I am not afraid to speak frankly to ]the President of the United States[,\" May said in Parliament on Wednesday. \"I am]",
+                "prefix": "her mind. \n\"I am not afraid to speak frankly to ",
+                "exact": "the President of the United States",
+                "suffix": ",\" May said in Parliament on Wednesday. \"I am",
+                "offset": 5976,
+                "length": 34
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b3ab64d4-e070-363f-a0ee-3fed5e39edae": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Prime Minister",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/201c7a36-c461-336f-a369-0d5d8c999561",
+        "country": "http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16",
+        "instances": [
+            {
+                "detection": "[first guest, a month after he was inaugurated. ]British Prime Minister Gordon Brown[ was his second guest but their summit --]",
+                "prefix": "first guest, a month after he was inaugurated. ",
+                "exact": "British Prime Minister Gordon Brown",
+                "suffix": " was his second guest but their summit --",
+                "offset": 2455,
+                "length": 35
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/441cf4dc-49b2-3c99-ae5a-c58326472216": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentRelation",
+        "forenduserdisplay": "true",
+        "position": "Prime Minister",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentRelation",
+        "person_employer": "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b",
+        "person_employee": "http://d.opencalais.com/pershash-1/84324a0d-96a7-347b-a2fb-d4e3e3628456",
+        "instances": [
+            {
+                "detection": "[a presidential inauguration. \nFormer President ]Barack Obama chose then-Japanese Prime Minister Taro Aso[ as his first guest, a month after he was]",
+                "prefix": "a presidential inauguration. \nFormer President ",
+                "exact": "Barack Obama chose then-Japanese Prime Minister Taro Aso",
+                "suffix": " as his first guest, a month after he was",
+                "offset": 2344,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/6dd43831-9bfc-331f-b991-284e45e47aca": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "though Britain is leaving Europe and Trump is suspicious of US attachments abroad, the two nations can still combine to be a force that can shape the world.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/5a3bc114-9bf8-3fb7-b78a-ca9758c3d05a",
+        "instances": [
+            {
+                "detection": "[in its initial engagements with the British. \n]May plans to use the visit to stress that though Britain is leaving Europe and Trump is suspicious of US attachments abroad, the two nations can still combine to be a force that can shape the world.[ \n\"We are excited -- it speaks to the breadth and]",
+                "prefix": "in its initial engagements with the British. \n",
+                "exact": "May plans to use the visit to stress that though Britain is leaving Europe and Trump is suspicious of US attachments abroad, the two nations can still combine to be a force that can shape the world.",
+                "suffix": " \n\"We are excited -- it speaks to the breadth and",
+                "offset": 3795,
+                "length": 198
+            }
+        ]
+    }
+}

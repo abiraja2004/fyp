@@ -1,0 +1,593 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "214558e2-bc81-73be-1599-b9ed20e56a3c",
+            "id": "http://id.opencalais.com/w73FD7FBKlG1fqJq8*Uv9g",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3",
+            "document": "--95f4e2239cbb41c6850a4f42f175c2af \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Trump Will Have Wide Latitude to Let Family Into Government’s Secret Circles</Title> \n<Body> \nWASHINGTON — After days of reports that President-elect Donald J. Trump had requested a top-secret security clearance for his son-in-law, Jared Kushner, people close to Mr. Kushner said that was not the case. No such request has been made, they said on Wednesday, and he will not sit in on the president’s highly classified daily intelligence briefing. \n \nBut should Mr. Trump change his mind, former government officials and experts on classified information said he would have wide latitude as president to bring a family member into the most secret circles of the government. \n \n“The president can authorize clearance for anyone he wants,” said Steven Aftergood, director of the project on government secrecy at the Federation of American Scientists. “It’s part of his commander-in-chief role. He has broad, essentially unlimited, access in this area.” \n \n \n \n \n \n</Body> \n</Document> \n--95f4e2239cbb41c6850a4f42f175c2af-- \n",
+            "docTitle": "Trump Will Have Wide Latitude to Let Family Into Government’s Secret Circles",
+            "docDate": "2017-01-14 06:16:34.308"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.2-RELEASE:133",
+            "stagsVer": "OneCalais_10.2-RELEASE-b21-2016-11-29_14:53:15",
+            "submissionDate": "2017-01-14 06:16:34.062",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|t60v80ilmU5jgqZhQ3cCNTxNslQ=|TBxGWsPVah8ndFKFC27stpdgMqZIg/BgFz5Gyon6iFL5pMKFSvn3Tw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.97,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f",
+        "forenduserdisplay": "true",
+        "name": "Politics",
+        "importance": "1",
+        "originalValue": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5291e31b-1fa8-3b60-9abd-b47fa3d4ab90",
+        "forenduserdisplay": "true",
+        "name": "United States government secrecy",
+        "importance": "1",
+        "originalValue": "United States government secrecy"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4460a2dd-717b-314d-ba90-768da45dd3fc",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "importance": "2",
+        "originalValue": "Mike Pence"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0b10d942-855a-3e09-a05b-2810c6352790",
+        "forenduserdisplay": "true",
+        "name": "Espionage",
+        "importance": "2",
+        "originalValue": "Espionage"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7",
+        "forenduserdisplay": "true",
+        "name": "National security",
+        "importance": "2",
+        "originalValue": "National security"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "2",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/473ae34b-e7f0-3ddd-a1cc-c0007d7ac6cf",
+        "forenduserdisplay": "true",
+        "name": "Presidential transition of Donald Trump",
+        "importance": "2",
+        "originalValue": "Presidential transition of Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/38a36ba7-3f36-32c2-acb3-00fa7dafe77e",
+        "forenduserdisplay": "true",
+        "name": "Steven Aftergood",
+        "importance": "2",
+        "originalValue": "Steven Aftergood"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4aca6017-128f-3e89-a233-88aff423148d",
+        "forenduserdisplay": "true",
+        "name": "Jared Kushner",
+        "importance": "2",
+        "originalValue": "Jared Kushner"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f21844c1-25ed-32b4-b2f6-c6cc1c763289",
+        "forenduserdisplay": "true",
+        "name": "Security clearance",
+        "importance": "2",
+        "originalValue": "Security clearance"
+    },
+    "http://d.opencalais.com/dochash-1/696e6876-7848-335e-a30b-69cca060d9c3/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701130156:201701130156",
+            "index-refineries:201701010255:201701010255",
+            "config-physicalAssets-powerStations:545:545",
+            "NextTags:OneCalais_10.2-RELEASE:133",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701121331:201701121331",
+            "config-negativeSignature:545:545",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:575:575",
+            "People Override:545:545",
+            "index-company-oa3:201701131156:201701131156",
+            "index-vessels:201612311629:201612311629",
+            "config-refineries:545:545",
+            "config-cse:570:570",
+            "config-vessels:545:545",
+            "OneCalais:OneCalais_10.2-RELEASE:133",
+            "config-physicalAssets-mines:545:545",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:570:570",
+            "index-ports:201612312234:201612312234",
+            "config-physicalAssets-ports:545:545",
+            "config-drugs:545:545"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8bd52368-6648-3621-85cb-7ba13179a361": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "director of the project",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[for anyone he wants,” said Steven Aftergood, ]director of the project[ on government secrecy at the Federation of]",
+                "prefix": "for anyone he wants,” said Steven Aftergood, ",
+                "exact": "director of the project",
+                "suffix": " on government secrecy at the Federation of",
+                "offset": 1064,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/a29e6e16-a0b9-33fe-9680-59a3c61b3cbd": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Steven Aftergood",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Steven",
+        "lastname": "Aftergood",
+        "commonname": "Steven Aftergood",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[authorize clearance for anyone he wants,” said ]Steven Aftergood[, director of the project on government secrecy]",
+                "prefix": "authorize clearance for anyone he wants,” said ",
+                "exact": "Steven Aftergood",
+                "suffix": ", director of the project on government secrecy",
+                "offset": 1046,
+                "length": 16
+            },
+            {
+                "detection": "[ Federation of American Scientists. “It’s part of ]his[ commander-in-chief role. He has broad,]",
+                "prefix": " Federation of American Scientists. “It’s part of ",
+                "exact": "his",
+                "suffix": " commander-in-chief role. He has broad,",
+                "offset": 1166,
+                "length": 3
+            },
+            {
+                "detection": "[“It’s part of his commander-in-chief role. ]He[ has broad, essentially unlimited, access in this]",
+                "prefix": "“It’s part of his commander-in-chief role. ",
+                "exact": "He",
+                "suffix": " has broad, essentially unlimited, access in this",
+                "offset": 1195,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ \n<Body> \nWASHINGTON — After days of reports that ]President-elect[ Donald J. Trump had requested a top-secret]",
+                "prefix": " \n<Body> \nWASHINGTON — After days of reports that ",
+                "exact": "President-elect",
+                "suffix": " Donald J. Trump had requested a top-secret",
+                "offset": 438,
+                "length": 15
+            },
+            {
+                "detection": "[said on Wednesday, and he will not sit in on ]the president[’s highly classified daily intelligence briefing.]",
+                "prefix": "said on Wednesday, and he will not sit in on ",
+                "exact": "the president",
+                "suffix": "’s highly classified daily intelligence briefing.",
+                "offset": 688,
+                "length": 13
+            },
+            {
+                "detection": "[information said he would have wide latitude as ]president[ to bring a family member into the most secret]",
+                "prefix": "information said he would have wide latitude as ",
+                "exact": "president",
+                "suffix": " to bring a family member into the most secret",
+                "offset": 894,
+                "length": 9
+            },
+            {
+                "detection": "[the most secret circles of the government. \n \n“]The president[ can authorize clearance for anyone he wants,”]",
+                "prefix": "the most secret circles of the government. \n \n“",
+                "exact": "The president",
+                "suffix": " can authorize clearance for anyone he wants,”",
+                "offset": 981,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "WASHINGTON",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Government’s Secret Circles</Title> \n<Body> \n]WASHINGTON[ — After days of reports that President-elect]",
+                "prefix": "Government’s Secret Circles</Title> \n<Body> \n",
+                "exact": "WASHINGTON",
+                "suffix": " — After days of reports that President-elect",
+                "offset": 398,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/c2352b1b-7721-313e-8880-21c3792169fc": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Jared Kushner",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Jared",
+        "lastname": "Kushner",
+        "commonname": "Jared Kushner",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[security clearance for his son-in-law, ]Jared Kushner[, people close to Mr. Kushner said that was not]",
+                "prefix": "security clearance for his son-in-law, ",
+                "exact": "Jared Kushner",
+                "suffix": ", people close to Mr. Kushner said that was not",
+                "offset": 536,
+                "length": 13
+            },
+            {
+                "detection": "[his son-in-law, Jared Kushner, people close to ]Mr. Kushner[ said that was not the case. No such request has]",
+                "prefix": "his son-in-law, Jared Kushner, people close to ",
+                "exact": "Mr. Kushner",
+                "suffix": " said that was not the case. No such request has",
+                "offset": 567,
+                "length": 11
+            },
+            {
+                "detection": "[has been made, they said on Wednesday, and ]he[ will not sit in on the president’s highly]",
+                "prefix": "has been made, they said on Wednesday, and ",
+                "exact": "he",
+                "suffix": " will not sit in on the president’s highly",
+                "offset": 666,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald J. Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Trump[ Will Have Wide Latitude to Let Family Into]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Trump",
+                "suffix": " Will Have Wide Latitude to Let Family Into",
+                "offset": 304,
+                "length": 5
+            },
+            {
+                "detection": "[— After days of reports that President-elect ]Donald J. Trump[ had requested a top-secret security clearance]",
+                "prefix": "— After days of reports that President-elect ",
+                "exact": "Donald J. Trump",
+                "suffix": " had requested a top-secret security clearance",
+                "offset": 454,
+                "length": 15
+            },
+            {
+                "detection": "[requested a top-secret security clearance for ]his[ son-in-law, Jared Kushner, people close to Mr.]",
+                "prefix": "requested a top-secret security clearance for ",
+                "exact": "his",
+                "suffix": " son-in-law, Jared Kushner, people close to Mr.",
+                "offset": 520,
+                "length": 3
+            },
+            {
+                "detection": "[daily intelligence briefing. \n \nBut should ]Mr. Trump[ change his mind, former government officials and]",
+                "prefix": "daily intelligence briefing. \n \nBut should ",
+                "exact": "Mr. Trump",
+                "suffix": " change his mind, former government officials and",
+                "offset": 765,
+                "length": 9
+            },
+            {
+                "detection": "[briefing. \n \nBut should Mr. Trump change ]his[ mind, former government officials and experts on]",
+                "prefix": "briefing. \n \nBut should Mr. Trump change ",
+                "exact": "his",
+                "suffix": " mind, former government officials and experts on",
+                "offset": 782,
+                "length": 3
+            },
+            {
+                "detection": "[and experts on classified information said ]he[ would have wide latitude as president to bring a]",
+                "prefix": "and experts on classified information said ",
+                "exact": "he",
+                "suffix": " would have wide latitude as president to bring a",
+                "offset": 863,
+                "length": 2
+            },
+            {
+                "detection": "[president can authorize clearance for anyone ]he[ wants,” said Steven Aftergood, director of the]",
+                "prefix": "president can authorize clearance for anyone ",
+                "exact": "he",
+                "suffix": " wants,” said Steven Aftergood, director of the",
+                "offset": 1030,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/4776bbde-38b0-34ac-ae2b-a0ca41df5125": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "son-in-law",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[a top-secret security clearance for his ]son-in-law[, Jared Kushner, people close to Mr. Kushner said]",
+                "prefix": "a top-secret security clearance for his ",
+                "exact": "son-in-law",
+                "suffix": ", Jared Kushner, people close to Mr. Kushner said",
+                "offset": 524,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/4be2a0ad-ce94-360e-a575-10ff19ddc254": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Federation of American Scientists",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[of the project on government secrecy at the ]Federation of American Scientists[. “It’s part of his commander-in-chief role. He]",
+                "prefix": "of the project on government secrecy at the ",
+                "exact": "Federation of American Scientists",
+                "suffix": ". “It’s part of his commander-in-chief role. He",
+                "offset": 1117,
+                "length": 33
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/897987fe-f031-3fee-a9f7-b3b1bf77fc8e": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“The president can authorize clearance for anyone he wants,”",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/a29e6e16-a0b9-33fe-9680-59a3c61b3cbd",
+        "instances": [
+            {
+                "detection": "[the most secret circles of the government. \n \n]“The president can authorize clearance for anyone he wants,” said Steven Aftergood, director of the project on government secrecy at the Federation of American Scientists.[ “It’s part of his commander-in-chief role. He]",
+                "prefix": "the most secret circles of the government. \n \n",
+                "exact": "“The president can authorize clearance for anyone he wants,” said Steven Aftergood, director of the project on government secrecy at the Federation of American Scientists.",
+                "suffix": " “It’s part of his commander-in-chief role. He",
+                "offset": 980,
+                "length": 171
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/24e3d649-9b80-309b-af14-c444e6068387": {
+        "_typeGroup": "relations",
+        "_type": "FamilyRelation",
+        "forenduserdisplay": "true",
+        "familyrelationtype": "son-in-law",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/FamilyRelation",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "person_relative": "http://d.opencalais.com/pershash-1/c2352b1b-7721-313e-8880-21c3792169fc",
+        "instances": [
+            {
+                "detection": "[requested a top-secret security clearance for ]his son-in-law, Jared Kushner[, people close to Mr. Kushner said that was not]",
+                "prefix": "requested a top-secret security clearance for ",
+                "exact": "his son-in-law, Jared Kushner",
+                "suffix": ", people close to Mr. Kushner said that was not",
+                "offset": 520,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/236d89e8-02e0-3e1e-96bb-3320d0279c41": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "director of the project",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/a29e6e16-a0b9-33fe-9680-59a3c61b3cbd",
+        "instances": [
+            {
+                "detection": "[authorize clearance for anyone he wants,” said ]Steven Aftergood, director of the project[ on government secrecy at the Federation of]",
+                "prefix": "authorize clearance for anyone he wants,” said ",
+                "exact": "Steven Aftergood, director of the project",
+                "suffix": " on government secrecy at the Federation of",
+                "offset": 1046,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/331ec5c5-0dbc-388d-b85f-1f082fd0b707": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[ \n<Body> \nWASHINGTON — After days of reports that ]President-elect Donald J. Trump[ had requested a top-secret security clearance]",
+                "prefix": " \n<Body> \nWASHINGTON — After days of reports that ",
+                "exact": "President-elect Donald J. Trump",
+                "suffix": " had requested a top-secret security clearance",
+                "offset": 438,
+                "length": 31
+            }
+        ]
+    }
+}

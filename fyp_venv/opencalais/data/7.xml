@@ -1,0 +1,616 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "636aa27e-b065-7b50-159d-e36fd4f7ef36",
+            "id": "http://id.opencalais.com/dngUE00oR5AGU4L73I8j9w",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05",
+            "document": "--19eb7a2ef51c487c91f98985d48632f8 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Google parent Alphabet's shares fall as profits miss target</Title> \n<Body> \n \nGoogle parent Alphabet's latest profit figures have missed forecasts, sending the tech giant's shares falling in extended trading on Wall Street. \nProfits rose 8% to $5.3bn (£4.2bn) for the last three months of 2016, fuelled by more advertising on mobile phones and YouTube. \nBut analysts had expected more, and Alphabet's shares fell almost 3% . \nHowever, revenue for the quarter topped $26bn, up 22% from the same period the year before. \nGoogle's advertising revenue, which accounts for the bulk of its business, rose 17.4% to $22.40bn in the quarter. \nPaid clicks, or clicks on Google ads, rose 36%, compared with a 33% increase in the third quarter. Paid clicks are those ads on which an advertiser pays only if a user clicks on them. \n\"Our growth in the fourth quarter was exceptional,\" Alphabet chief financial officer Ruth Porat said in a statement. \"We're seeing great momentum in Google's newer investment areas and ongoing strong progress in Other Bets.\" \n'Tremendous potential' \nFor earnings purposes, Alphabet separates operations such as self-driving cars and broadband into its Other Bets category, which nearly doubled revenue to $262m in the quarter but still posted a loss of nearly $1.1bn. \nUnder its new structure, Alphabet is seeking to expand beyond its role as a search engine and develop new revenues streams. \nMs Porat pointed to growth app sales, hardware and the cloud business. \"We see tremendous potential ahead for these businesses, as well as in the continued development of non-advertising revenue streams for YouTube,\" she said. \n \n</Body> \n</Document> \n--19eb7a2ef51c487c91f98985d48632f8-- \n",
+            "docTitle": "Google parent Alphabet's shares fall as profits miss target",
+            "docDate": "2017-01-27 04:37:43.157"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:37:42.863",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|PieMKX+OGkT9OVQxP+xPEeRKQW4=|YrBLfZ8KO4Bf7so+/sEATzPB1ZEk1ZPNjthyaiVbjFyXEr858twO5A==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 1,
+        "name": "Business_Finance"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/cat/2": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.922,
+        "name": "Technology_Internet"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/33d8fadc-605a-33b2-a558-ee90f180dfae",
+        "forenduserdisplay": "true",
+        "name": "Alphabet Inc.",
+        "importance": "1",
+        "originalValue": "Alphabet Inc."
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/412d2c87-2ead-391a-ae44-6add965d8ada",
+        "forenduserdisplay": "true",
+        "name": "Economy",
+        "importance": "1",
+        "originalValue": "Economy"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/034d23a0-b8f1-3776-b283-add77bf68df8",
+        "forenduserdisplay": "true",
+        "name": "San Francisco Bay Area",
+        "importance": "2",
+        "originalValue": "San Francisco Bay Area"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/62e8ef43-f0cc-39d6-a00a-e079821cdf13",
+        "forenduserdisplay": "true",
+        "name": "Online advertising",
+        "importance": "2",
+        "originalValue": "Online advertising"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/023cfe8d-c241-386c-beaa-ea10d0135d17",
+        "forenduserdisplay": "true",
+        "name": "Google",
+        "importance": "2",
+        "originalValue": "Google"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8",
+        "forenduserdisplay": "true",
+        "name": "World Wide Web",
+        "importance": "2",
+        "originalValue": "World Wide Web"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4187c846-e8db-3aa5-9754-b79fc863ca9e",
+        "forenduserdisplay": "true",
+        "name": "AdSense",
+        "importance": "2",
+        "originalValue": "AdSense"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1b9499f3-f19d-395a-9167-345eae17b511",
+        "forenduserdisplay": "true",
+        "name": "Ruth Porat",
+        "importance": "2",
+        "originalValue": "Ruth Porat"
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Search Engines",
+        "rcscode": "B:1805",
+        "permid": "4294951196",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/8f5acafe-242f-343a-bf86-330dd2326f05/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270355:201701270355",
+            "index-refineries:201701220305:201701220305",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270210:201701270210",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701270210:201701270210",
+            "index-vessels:201701212100:201701212100",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201701211455:201701211455",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8cc207c0-6b30-391d-901d-40048a4e0238": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chief financial officer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ in the fourth quarter was exceptional,\" Alphabet ]chief financial officer[ Ruth Porat said in a statement. \"We're seeing]",
+                "prefix": " in the fourth quarter was exceptional,\" Alphabet ",
+                "exact": "chief financial officer",
+                "suffix": " Ruth Porat said in a statement. \"We're seeing",
+                "offset": 1185,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/bc5e2f67-2c6d-3446-a048-92d78aeb5eb2": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "mobile phones",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[months of 2016, fuelled by more advertising on ]mobile phones[ and YouTube. \nBut analysts had expected more,]",
+                "prefix": "months of 2016, fuelled by more advertising on ",
+                "exact": "mobile phones",
+                "suffix": " and YouTube. \nBut analysts had expected more,",
+                "offset": 631,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c06e77c5-cfa4-3328-941c-be0a4ecf72cc": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "broadband",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[operations such as self-driving cars and ]broadband[ into its Other Bets category, which nearly]",
+                "prefix": "operations such as self-driving cars and ",
+                "exact": "broadband",
+                "suffix": " into its Other Bets category, which nearly",
+                "offset": 1457,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/28d69f75-a128-32c6-958b-e02616457484": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "search engine",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[is seeking to expand beyond its role as a ]search engine[ and develop new revenues streams. \nMs Porat]",
+                "prefix": "is seeking to expand beyond its role as a ",
+                "exact": "search engine",
+                "suffix": " and develop new revenues streams. \nMs Porat",
+                "offset": 1669,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/2bf8f0bc-615e-3257-8478-dcdc818bc214": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Ruth Porat",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Ruth",
+        "lastname": "Porat",
+        "commonname": "Ruth Porat",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.9792562",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[exceptional,\" Alphabet chief financial officer ]Ruth Porat[ said in a statement. \"We're seeing great]",
+                "prefix": "exceptional,\" Alphabet chief financial officer ",
+                "exact": "Ruth Porat",
+                "suffix": " said in a statement. \"We're seeing great",
+                "offset": 1209,
+                "length": 10
+            },
+            {
+                "detection": "[ search engine and develop new revenues streams. \n]Ms Porat[ pointed to growth app sales, hardware and the]",
+                "prefix": " search engine and develop new revenues streams. \n",
+                "exact": "Ms Porat",
+                "suffix": " pointed to growth app sales, hardware and the",
+                "offset": 1718,
+                "length": 8
+            },
+            {
+                "detection": "[ of non-advertising revenue streams for YouTube,\" ]she[ said. \n \n</Body> \n</Document>]",
+                "prefix": " of non-advertising revenue streams for YouTube,\" ",
+                "exact": "she",
+                "suffix": " said. \n \n</Body> \n</Document>",
+                "offset": 1935,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Ruth M. Porat",
+                "personid": "1986846",
+                "paid": "34413960665",
+                "officerid": "2594505",
+                "commonname": "Ruth Porat",
+                "score": 0.9792562
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9cccfb0e-4367-397d-81ed-10132197c86f": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "non-advertising revenue streams",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[as well as in the continued development of ]non-advertising revenue streams[ for YouTube,\" she said. \n \n</Body> \n</Document>]",
+                "prefix": "as well as in the continued development of ",
+                "exact": "non-advertising revenue streams",
+                "suffix": " for YouTube,\" she said. \n \n</Body> \n</Document>",
+                "offset": 1889,
+                "length": 31
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/c7172a98-4c8a-31a9-bfd4-ce426c8db3c0": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Google",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Google[ parent Alphabet's shares fall as profits miss]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Google",
+                "suffix": " parent Alphabet's shares fall as profits miss",
+                "offset": 304,
+                "length": 6
+            },
+            {
+                "detection": "[fall as profits miss target</Title> \n<Body> \n \n]Google[ parent Alphabet's latest profit figures have]",
+                "prefix": "fall as profits miss target</Title> \n<Body> \n \n",
+                "exact": "Google",
+                "suffix": " parent Alphabet's latest profit figures have",
+                "offset": 383,
+                "length": 6
+            },
+            {
+                "detection": "[up 22% from the same period the year before. \n]Google['s advertising revenue, which accounts for the]",
+                "prefix": "up 22% from the same period the year before. \n",
+                "exact": "Google",
+                "suffix": "'s advertising revenue, which accounts for the",
+                "offset": 824,
+                "length": 6
+            },
+            {
+                "detection": "[in the quarter. \nPaid clicks, or clicks on ]Google[ ads, rose 36%, compared with a 33% increase in]",
+                "prefix": "in the quarter. \nPaid clicks, or clicks on ",
+                "exact": "Google",
+                "suffix": " ads, rose 36%, compared with a 33% increase in",
+                "offset": 965,
+                "length": 6
+            },
+            {
+                "detection": "[in a statement. \"We're seeing great momentum in ]Google['s newer investment areas and ongoing strong]",
+                "prefix": "in a statement. \"We're seeing great momentum in ",
+                "exact": "Google",
+                "suffix": "'s newer investment areas and ongoing strong",
+                "offset": 1273,
+                "length": 6
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.956",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.998"
+        },
+        "resolutions": [
+            {
+                "name": "GOOGLE INC.",
+                "permid": "4295899948",
+                "primaryric": "GOOGL.BA",
+                "commonname": "Google",
+                "score": 1,
+                "id": "https://permid.org/1-4295899948"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/b054d269-db85-31cc-bd7e-f522a6809170": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "YouTube",
+        "nationality": "N/A",
+        "confidencelevel": "0.784",
+        "confidence": {
+            "statisticalfeature": "0.933",
+            "dblookup": "0.0",
+            "resolution": "0.010039868",
+            "aggregate": "0.784"
+        },
+        "resolutions": [
+            {
+                "name": "YouTube Inc",
+                "permid": "5000828284",
+                "commonname": "YouTube Inc",
+                "score": 0.010039868,
+                "id": "https://permid.org/1-5000828284"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ fuelled by more advertising on mobile phones and ]YouTube[. \nBut analysts had expected more, and Alphabet's]",
+                "prefix": " fuelled by more advertising on mobile phones and ",
+                "exact": "YouTube",
+                "suffix": ". \nBut analysts had expected more, and Alphabet's",
+                "offset": 649,
+                "length": 7
+            },
+            {
+                "detection": "[of non-advertising revenue streams for ]YouTube[,\" she said. \n \n</Body> \n</Document>]",
+                "prefix": "of non-advertising revenue streams for ",
+                "exact": "YouTube",
+                "suffix": ",\" she said. \n \n</Body> \n</Document>",
+                "offset": 1925,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/d4c7e2cc-fb76-3487-8700-27130c6e8c9e": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "search engine",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[is seeking to expand beyond its role as a ]search engine[ and develop new revenues streams. \nMs Porat]",
+                "prefix": "is seeking to expand beyond its role as a ",
+                "exact": "search engine",
+                "suffix": " and develop new revenues streams. \nMs Porat",
+                "offset": 1669,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/ce8c23ce-7ad8-3a41-a80e-9aa4ed8f70d6": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "advertising revenue",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[from the same period the year before. \nGoogle's ]advertising revenue[, which accounts for the bulk of its business,]",
+                "prefix": "from the same period the year before. \nGoogle's ",
+                "exact": "advertising revenue",
+                "suffix": ", which accounts for the bulk of its business,",
+                "offset": 833,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/276a0432-5a5f-39fb-aacf-b53dc519534b": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "tech giant",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[figures have missed forecasts, sending the ]tech giant['s shares falling in extended trading on Wall]",
+                "prefix": "figures have missed forecasts, sending the ",
+                "exact": "tech giant",
+                "suffix": "'s shares falling in extended trading on Wall",
+                "offset": 465,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/150c63f0-9d23-35b0-b53e-880bb54df5bb": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Alphabet",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.882",
+        "lastname": "Alphabet",
+        "commonname": "Alphabet",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Google parent ]Alphabet['s shares fall as profits miss target</Title>]",
+                "prefix": "\n<Document> \n<Title>Google parent ",
+                "exact": "Alphabet",
+                "suffix": "'s shares fall as profits miss target</Title>",
+                "offset": 318,
+                "length": 8
+            },
+            {
+                "detection": "[miss target</Title> \n<Body> \n \nGoogle parent ]Alphabet['s latest profit figures have missed forecasts,]",
+                "prefix": "miss target</Title> \n<Body> \n \nGoogle parent ",
+                "exact": "Alphabet",
+                "suffix": "'s latest profit figures have missed forecasts,",
+                "offset": 397,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.858",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.882"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/44a7395a-c1fa-35f3-8cdb-19e5f56acda4": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "We see tremendous potential ahead for these businesses, as well as in the continued development of non-advertising revenue streams for YouTube",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/2bf8f0bc-615e-3257-8478-dcdc818bc214",
+        "instances": [
+            {
+                "detection": "[app sales, hardware and the cloud business. ]\"We see tremendous potential ahead for these businesses, as well as in the continued development of non-advertising revenue streams for YouTube,\" she said.[ \n \n</Body> \n</Document>]",
+                "prefix": "app sales, hardware and the cloud business. ",
+                "exact": "\"We see tremendous potential ahead for these businesses, as well as in the continued development of non-advertising revenue streams for YouTube,\" she said.",
+                "suffix": " \n \n</Body> \n</Document>",
+                "offset": 1789,
+                "length": 155
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/efac7e98-0f58-3e4f-842d-f32dee48ce53": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Our growth in the fourth quarter was exceptional; We're seeing great momentum in Google's newer investment areas and ongoing strong progress in Other Bets.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/2bf8f0bc-615e-3257-8478-dcdc818bc214",
+        "instances": [
+            {
+                "detection": "[advertiser pays only if a user clicks on them. \n]\"Our growth in the fourth quarter was exceptional,\" Alphabet chief financial officer Ruth Porat said in a statement. \"We're seeing great momentum in Google's newer investment areas and ongoing strong progress in Other Bets.\"[ \n'Tremendous potential' \nFor earnings purposes,]",
+                "prefix": "advertiser pays only if a user clicks on them. \n",
+                "exact": "\"Our growth in the fourth quarter was exceptional,\" Alphabet chief financial officer Ruth Porat said in a statement. \"We're seeing great momentum in Google's newer investment areas and ongoing strong progress in Other Bets.\"",
+                "suffix": " \n'Tremendous potential' \nFor earnings purposes,",
+                "offset": 1124,
+                "length": 224
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/08711266-d19c-34b7-9ffa-fa173ce368b9": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "chief financial officer",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/2bf8f0bc-615e-3257-8478-dcdc818bc214",
+        "company": "http://d.opencalais.com/comphash-1/c7172a98-4c8a-31a9-bfd4-ce426c8db3c0",
+        "instances": [
+            {
+                "detection": "[ in the fourth quarter was exceptional,\" Alphabet ]chief financial officer Ruth Porat[ said in a statement. \"We're seeing great]",
+                "prefix": " in the fourth quarter was exceptional,\" Alphabet ",
+                "exact": "chief financial officer Ruth Porat",
+                "suffix": " said in a statement. \"We're seeing great",
+                "offset": 1185,
+                "length": 34
+            }
+        ]
+    }
+}

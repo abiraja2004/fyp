@@ -1,0 +1,1116 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "a270be1a-1f76-f5f6-159d-e37bc023c631",
+            "id": "http://id.opencalais.com/HBzJDKQZlz*Qh7eNxYvKKg",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d",
+            "document": "--8ec69b0d552048e7a427f30494456009 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Sky profits dented by higher football rights costs</Title> \n<Body> \nBroadcaster Sky has reported a 9% fall in operating profits after paying more for broadcast rights to Premier League football matches. \nOperating profits at the company fell to £679m for the six months to 31 December. \nHowever, Sky said that its financial performance had been \"good\". \nRupert Murdoch's 21st Century Fox owns 39% of the company. Late last year, it offered to buy out the remaining 61% of the business. \nBroadband switchers \nSky has 22 million customers in the UK, the Republic of Ireland, Italy, Germany and Austria. \nChief executive Jeremy Darroch said: \"In a year in which we are absorbing significantly higher programming costs, as a result of the step up in Premier League costs, our financial performance has been good.\" \nOperating profit was £65m lower on the year before, even though the costs of the Premier League rights rose by £314m in the period. \n \nThe company said it had added more than 500,000 new customers. \nHowever, in the UK, its churn rate, the annual percentage rate at which customers stop subscribing to a service, rose to 11.6% from 10.2% in the same period the year before. \nSky said this reflected the increased proportion of broadband customers, who have a greater propensity to switch providers. \nIt added that six million households were Sky broadband customers. \nBid battle \nThe offer from 21st Century Fox for Sky is the second time Mr Murdoch has tried to assume full control. \nFive years ago he also attempted to buy out Sky's independent shareholders through his News Corporation company, which has since been split into 21st Century Fox and a new News Corporation - the publishing and Australian broadcasting business. \nFox needs regulatory approval for the $14.6bn (£11.7bn) offer in both the UK and Europe, where it does about a third of its business. \nSky's independent directors have backed the bid, but a number of shareholders have expressed concerns about this acceptance. \nThey have questioned the supposed independence of the Sky board, pointing out that Rupert Murdoch's son James is both chairman of Sky and chief executive of Fox. Other directors hold positions at both 21st Century Fox and Sky. \n</Body> \n</Document> \n--8ec69b0d552048e7a427f30494456009-- \n",
+            "docTitle": "Sky profits dented by higher football rights costs",
+            "docDate": "2017-01-27 04:38:32.127"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:38:31.682",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|B6eBkCbP9fCs/RXIpuD8JyH77B0=|PUXIJlx4wwkX99iq3X2MtXhCEHI8BI9JDjDUDW8/4bxedNPU5FSUiw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 1,
+        "name": "Business_Finance"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/cat/2": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.669,
+        "name": "Sports"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/da164301-ba65-372c-94b6-dae84da7b320",
+        "forenduserdisplay": "true",
+        "name": "Sky plc",
+        "importance": "1",
+        "originalValue": "Sky plc"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/75ffbd33-9f43-3b75-a439-8579e89be681",
+        "forenduserdisplay": "true",
+        "name": "Television in the United Kingdom",
+        "importance": "1",
+        "originalValue": "Television in the United Kingdom"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3",
+        "forenduserdisplay": "true",
+        "name": "Television",
+        "importance": "1",
+        "originalValue": "Television"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "2",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/09947341-fce1-3795-9544-2881bb12e253",
+        "forenduserdisplay": "true",
+        "name": "Sky UK",
+        "importance": "2",
+        "originalValue": "Sky UK"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/6bfe3afc-a41b-3667-af09-f425672a332f",
+        "forenduserdisplay": "true",
+        "name": "News Corporation",
+        "importance": "2",
+        "originalValue": "News Corporation"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/332cd4b0-526f-3923-8937-e4b33a4fed3a",
+        "forenduserdisplay": "true",
+        "name": "21st Century Fox",
+        "importance": "2",
+        "originalValue": "21st Century Fox"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b8551c5e-857c-32b0-bf0f-9a95ea7f1694",
+        "forenduserdisplay": "true",
+        "name": "Sky Broadband",
+        "importance": "2",
+        "originalValue": "Sky Broadband"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1c47a9c0-5b44-3f9f-9f14-28d01eb47a5c",
+        "forenduserdisplay": "true",
+        "name": "Rupert Murdoch",
+        "importance": "2",
+        "originalValue": "Rupert Murdoch"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8659741f-b6fe-388b-b30a-dd1285abfb21",
+        "forenduserdisplay": "true",
+        "name": "Sky Deutschland",
+        "importance": "2",
+        "originalValue": "Sky Deutschland"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b6e83dbb-6478-35a9-ba50-8bfb7b498329",
+        "forenduserdisplay": "true",
+        "name": "NTL Incorporated",
+        "importance": "2",
+        "originalValue": "NTL Incorporated"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/80d2147d-5883-3152-8123-a2a40baa3c7f",
+        "forenduserdisplay": "true",
+        "name": "Be Un Limited",
+        "importance": "2",
+        "originalValue": "Be Un Limited"
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Broadcasting - NEC",
+        "rcscode": "B:1446",
+        "permid": "4294951555",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Integrated Telecommunications Services - NEC",
+        "rcscode": "B:1811",
+        "permid": "4294951190",
+        "relevance": 0.5
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/Industry/3": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Entertainment Production - NEC",
+        "rcscode": "B:1450",
+        "permid": "4294951551",
+        "relevance": 0.5
+    },
+    "http://d.opencalais.com/dochash-1/9874f0e7-546e-35bc-a98d-7122ae363c8d/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270355:201701270355",
+            "index-refineries:201701220305:201701220305",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270210:201701270210",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701270210:201701270210",
+            "index-vessels:201701212100:201701212100",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201701211455:201701211455",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Germany",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[in the UK, the Republic of Ireland, Italy, ]Germany[ and Austria. \nChief executive Jeremy Darroch]",
+                "prefix": "in the UK, the Republic of Ireland, Italy, ",
+                "exact": "Germany",
+                "suffix": " and Austria. \nChief executive Jeremy Darroch",
+                "offset": 884,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Germany",
+                "shortname": "Germany",
+                "latitude": "51.0",
+                "longitude": "9.0",
+                "rcscode": "G:3D",
+                "permid": "100114"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c06e77c5-cfa4-3328-941c-be0a4ecf72cc": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "Broadband",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[to buy out the remaining 61% of the business. \n]Broadband[ switchers \nSky has 22 million customers in the]",
+                "prefix": "to buy out the remaining 61% of the business. \n",
+                "exact": "Broadband",
+                "suffix": " switchers \nSky has 22 million customers in the",
+                "offset": 791,
+                "length": 9
+            },
+            {
+                "detection": "[said this reflected the increased proportion of ]broadband[ customers, who have a greater propensity to]",
+                "prefix": "said this reflected the increased proportion of ",
+                "exact": "broadband",
+                "suffix": " customers, who have a greater propensity to",
+                "offset": 1541,
+                "length": 9
+            },
+            {
+                "detection": "[\nIt added that six million households were Sky ]broadband[ customers. \nBid battle \nThe offer from 21st]",
+                "prefix": "\nIt added that six million households were Sky ",
+                "exact": "broadband",
+                "suffix": " customers. \nBid battle \nThe offer from 21st",
+                "offset": 1660,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/e3440f0f-a859-3834-9b9c-79b88e7863c3": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "sky broadband",
+        "confidencelevel": "1.0",
+        "confidence": {
+            "statisticalfeature": "0.668",
+            "dblookup": "0.0",
+            "resolution": "0.004513965",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\nIt added that six million households were ]Sky broadband[ customers. \nBid battle \nThe offer from 21st]",
+                "prefix": "\nIt added that six million households were ",
+                "exact": "Sky broadband",
+                "suffix": " customers. \nBid battle \nThe offer from 21st",
+                "offset": 1656,
+                "length": 13
+            }
+        ],
+        "relevance": 0.5,
+        "resolutions": [
+            {
+                "name": "TELESPHERE NETWORKS LTD.",
+                "permid": "5001430592",
+                "commonname": "Telesphere",
+                "score": 0.004513965,
+                "id": "https://permid.org/1-5001430592"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/e04c01bc-f221-3375-98df-fa12b6a49eb4": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "James",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.978",
+        "firstname": "James",
+        "commonname": "James",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[board, pointing out that Rupert Murdoch's son ]James[ is both chairman of Sky and chief executive of]",
+                "prefix": "board, pointing out that Rupert Murdoch's son ",
+                "exact": "James",
+                "suffix": " is both chairman of Sky and chief executive of",
+                "offset": 2409,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.857",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.978"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/0349c591-79f4-3c9c-a35e-3bb513f34af7": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "News Corporation",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "resolutions": [
+            {
+                "name": "TWENTY-FIRST CENTURY FOX, INC.",
+                "permid": "4295903420",
+                "primaryric": "FOXA.OQ",
+                "commonname": "Twenty-First Fox",
+                "score": 0.952059,
+                "id": "https://permid.org/1-4295903420",
+                "ticker": "FOXA"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[out Sky's independent shareholders through his ]News Corporation[ company, which has since been split into 21st]",
+                "prefix": "out Sky's independent shareholders through his ",
+                "exact": "News Corporation",
+                "suffix": " company, which has since been split into 21st",
+                "offset": 1886,
+                "length": 16
+            },
+            {
+                "detection": "[ since been split into 21st Century Fox and a new ]News Corporation[ - the publishing and Australian broadcasting]",
+                "prefix": " since been split into 21st Century Fox and a new ",
+                "exact": "News Corporation",
+                "suffix": " - the publishing and Australian broadcasting",
+                "offset": 1971,
+                "length": 16
+            }
+        ],
+        "relevance": 0.5,
+        "confidence": {
+            "statisticalfeature": "0.951",
+            "dblookup": "0.0",
+            "resolution": "0.952059",
+            "aggregate": "1.0"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chairman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[pointing out that Rupert Murdoch's son James is ]both chairman[ of Sky and chief executive of Fox. Other]",
+                "prefix": "pointing out that Rupert Murdoch's son James is ",
+                "exact": "both chairman",
+                "suffix": " of Sky and chief executive of Fox. Other",
+                "offset": 2418,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3517e1de-567c-3377-96da-89a5ed712ff3": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Austria",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[UK, the Republic of Ireland, Italy, Germany and ]Austria[. \nChief executive Jeremy Darroch said: \"In a]",
+                "prefix": "UK, the Republic of Ireland, Italy, Germany and ",
+                "exact": "Austria",
+                "suffix": ". \nChief executive Jeremy Darroch said: \"In a",
+                "offset": 896,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Austria",
+                "shortname": "Austria",
+                "latitude": "48.12",
+                "longitude": "16.22",
+                "rcscode": "G:1F",
+                "permid": "100026"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chief executive",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Murdoch's son James is both chairman of Sky and ]chief executive[ of Fox. Other directors hold positions at both]",
+                "prefix": "Murdoch's son James is both chairman of Sky and ",
+                "exact": "chief executive",
+                "suffix": " of Fox. Other directors hold positions at both",
+                "offset": 2443,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/98929287-b8e6-3d04-9d2d-cff4c32dbd3e": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "21st Century Fox",
+        "confidencelevel": "1.0",
+        "resolutions": [
+            {
+                "name": "TWENTY-FIRST CENTURY FOX, INC.",
+                "permid": "4295903420",
+                "primaryric": "FOXA.OQ",
+                "commonname": "Twenty-First Fox",
+                "score": 0.952059,
+                "id": "https://permid.org/1-4295903420",
+                "ticker": "FOXA"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.812",
+            "dblookup": "0.0",
+            "resolution": "0.952059",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[performance had been \"good\". \nRupert Murdoch's ]21st Century Fox[ owns 39% of the company. Late last year, it]",
+                "prefix": "performance had been \"good\". \nRupert Murdoch's ",
+                "exact": "21st Century Fox",
+                "suffix": " owns 39% of the company. Late last year, it",
+                "offset": 675,
+                "length": 16
+            },
+            {
+                "detection": "[ broadband customers. \nBid battle \nThe offer from ]21st Century Fox[ for Sky is the second time Mr Murdoch has tried]",
+                "prefix": " broadband customers. \nBid battle \nThe offer from ",
+                "exact": "21st Century Fox",
+                "suffix": " for Sky is the second time Mr Murdoch has tried",
+                "offset": 1709,
+                "length": 16
+            },
+            {
+                "detection": "[company, which has since been split into ]21st Century Fox[ and a new News Corporation - the publishing and]",
+                "prefix": "company, which has since been split into ",
+                "exact": "21st Century Fox",
+                "suffix": " and a new News Corporation - the publishing and",
+                "offset": 1944,
+                "length": 16
+            },
+            {
+                "detection": "[of Fox. Other directors hold positions at both ]21st Century Fox[ and Sky. \n</Body> \n</Document>]",
+                "prefix": "of Fox. Other directors hold positions at both ",
+                "exact": "21st Century Fox",
+                "suffix": " and Sky. \n</Body> \n</Document>",
+                "offset": 2506,
+                "length": 16
+            }
+        ],
+        "relevance": 0.5
+    },
+    "http://d.opencalais.com/genericHasher-1/f5fc48f4-66f7-3628-9a03-8804e2b8ca7a": {
+        "_typeGroup": "entities",
+        "_type": "SportsLeague",
+        "forenduserdisplay": "false",
+        "name": "Premier League",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/SportsLeague",
+        "instances": [
+            {
+                "detection": "[after paying more for broadcast rights to ]Premier League[ football matches. \nOperating profits at the]",
+                "prefix": "after paying more for broadcast rights to ",
+                "exact": "Premier League",
+                "suffix": " football matches. \nOperating profits at the",
+                "offset": 474,
+                "length": 14
+            },
+            {
+                "detection": "[ programming costs, as a result of the step up in ]Premier League[ costs, our financial performance has been good.\"]",
+                "prefix": " programming costs, as a result of the step up in ",
+                "exact": "Premier League",
+                "suffix": " costs, our financial performance has been good.\"",
+                "offset": 1050,
+                "length": 14
+            },
+            {
+                "detection": "[ on the year before, even though the costs of the ]Premier League[ rights rose by £314m in the period. \n \nThe]",
+                "prefix": " on the year before, even though the costs of the ",
+                "exact": "Premier League",
+                "suffix": " rights rose by £314m in the period. \n \nThe",
+                "offset": 1196,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2e0000dc-fb8f-3279-8766-a0ff9f17251a": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Premier League",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[after paying more for broadcast rights to ]Premier League[ football matches. \nOperating profits at the]",
+                "prefix": "after paying more for broadcast rights to ",
+                "exact": "Premier League",
+                "suffix": " football matches. \nOperating profits at the",
+                "offset": 474,
+                "length": 14
+            },
+            {
+                "detection": "[ programming costs, as a result of the step up in ]Premier League[ costs, our financial performance has been good.\"]",
+                "prefix": " programming costs, as a result of the step up in ",
+                "exact": "Premier League",
+                "suffix": " costs, our financial performance has been good.\"",
+                "offset": 1050,
+                "length": 14
+            },
+            {
+                "detection": "[ on the year before, even though the costs of the ]Premier League[ rights rose by £314m in the period. \n \nThe]",
+                "prefix": " on the year before, even though the costs of the ",
+                "exact": "Premier League",
+                "suffix": " rights rose by £314m in the period. \n \nThe",
+                "offset": 1196,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65": {
+        "_typeGroup": "entities",
+        "_type": "Continent",
+        "forenduserdisplay": "false",
+        "name": "Europe",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Continent",
+        "instances": [
+            {
+                "detection": "[the $14.6bn (£11.7bn) offer in both the UK and ]Europe[, where it does about a third of its business.]",
+                "prefix": "the $14.6bn (£11.7bn) offer in both the UK and ",
+                "exact": "Europe",
+                "suffix": ", where it does about a third of its business.",
+                "offset": 2125,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1e6020d8-17bc-3ade-92df-3b993ac84a0a": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Italy",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[customers in the UK, the Republic of Ireland, ]Italy[, Germany and Austria. \nChief executive Jeremy]",
+                "prefix": "customers in the UK, the Republic of Ireland, ",
+                "exact": "Italy",
+                "suffix": ", Germany and Austria. \nChief executive Jeremy",
+                "offset": 877,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Italy",
+                "shortname": "Italy",
+                "latitude": "44.2632",
+                "longitude": "11.4402833333",
+                "rcscode": "G:5J",
+                "permid": "100145"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United Kingdom",
+        "resolutions": [
+            {
+                "name": "United Kingdom",
+                "shortname": "United Kingdom",
+                "latitude": "53.1142456495",
+                "longitude": "-2.57711368423",
+                "rcscode": "G:7J",
+                "permid": "100317"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[switchers \nSky has 22 million customers in the ]UK[, the Republic of Ireland, Italy, Germany and]",
+                "prefix": "switchers \nSky has 22 million customers in the ",
+                "exact": "UK",
+                "suffix": ", the Republic of Ireland, Italy, Germany and",
+                "offset": 848,
+                "length": 2
+            },
+            {
+                "detection": "[than 500,000 new customers. \nHowever, in the ]UK[, its churn rate, the annual percentage rate at]",
+                "prefix": "than 500,000 new customers. \nHowever, in the ",
+                "exact": "UK",
+                "suffix": ", its churn rate, the annual percentage rate at",
+                "offset": 1330,
+                "length": 2
+            },
+            {
+                "detection": "[for the $14.6bn (£11.7bn) offer in both the ]UK[ and Europe, where it does about a third of its]",
+                "prefix": "for the $14.6bn (£11.7bn) offer in both the ",
+                "exact": "UK",
+                "suffix": " and Europe, where it does about a third of its",
+                "offset": 2118,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/40a3c845-1ff6-3cd3-944a-3b97c6619f22": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Jeremy Darroch",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.997",
+        "firstname": "Jeremy",
+        "lastname": "Darroch",
+        "commonname": "Jeremy Darroch",
+        "resolutions": [
+            {
+                "name": "Jeremy Darroch",
+                "personid": "1315460",
+                "paid": "34414040576",
+                "officerid": "690311",
+                "commonname": "Jeremy Darroch",
+                "score": 0.867161
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.0",
+            "resolution": "0.867161",
+            "aggregate": "0.997"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Italy, Germany and Austria. \nChief executive ]Jeremy Darroch[ said: \"In a year in which we are absorbing]",
+                "prefix": "Italy, Germany and Austria. \nChief executive ",
+                "exact": "Jeremy Darroch",
+                "suffix": " said: \"In a year in which we are absorbing",
+                "offset": 922,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Sky",
+        "nationality": "N/A",
+        "confidencelevel": "0.995",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.96504706",
+            "aggregate": "0.995"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Sky[ profits dented by higher football rights]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Sky",
+                "suffix": " profits dented by higher football rights",
+                "offset": 304,
+                "length": 3
+            },
+            {
+                "detection": "[for the six months to 31 December. \nHowever, ]Sky[ said that its financial performance had been]",
+                "prefix": "for the six months to 31 December. \nHowever, ",
+                "exact": "Sky",
+                "suffix": " said that its financial performance had been",
+                "offset": 600,
+                "length": 3
+            },
+            {
+                "detection": "[61% of the business. \nBroadband switchers \n]Sky[ has 22 million customers in the UK, the Republic]",
+                "prefix": "61% of the business. \nBroadband switchers \n",
+                "exact": "Sky",
+                "suffix": " has 22 million customers in the UK, the Republic",
+                "offset": 812,
+                "length": 3
+            },
+            {
+                "detection": "[from 10.2% in the same period the year before. \n]Sky[ said this reflected the increased proportion of]",
+                "prefix": "from 10.2% in the same period the year before. \n",
+                "exact": "Sky",
+                "suffix": " said this reflected the increased proportion of",
+                "offset": 1489,
+                "length": 3
+            },
+            {
+                "detection": "[where it does about a third of its business. \n]Sky['s independent directors have backed the bid, but]",
+                "prefix": "where it does about a third of its business. \n",
+                "exact": "Sky",
+                "suffix": "'s independent directors have backed the bid, but",
+                "offset": 2179,
+                "length": 3
+            },
+            {
+                "detection": "[Rupert Murdoch's son James is both chairman of ]Sky[ and chief executive of Fox. Other directors hold]",
+                "prefix": "Rupert Murdoch's son James is both chairman of ",
+                "exact": "Sky",
+                "suffix": " and chief executive of Fox. Other directors hold",
+                "offset": 2435,
+                "length": 3
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "SKY PLC",
+                "permid": "4295897467",
+                "primaryric": "SKYB.L",
+                "commonname": "Sky",
+                "score": 0.96504706,
+                "id": "https://permid.org/1-4295897467",
+                "ticker": "SKY"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/70332112-f9f3-3799-9045-4af7f2511729": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Rupert Murdoch",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Rupert",
+        "lastname": "Murdoch",
+        "commonname": "Rupert Murdoch",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.8912849",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ that its financial performance had been \"good\". \n]Rupert Murdoch['s 21st Century Fox owns 39% of the company. Late]",
+                "prefix": " that its financial performance had been \"good\". \n",
+                "exact": "Rupert Murdoch",
+                "suffix": "'s 21st Century Fox owns 39% of the company. Late",
+                "offset": 658,
+                "length": 14
+            },
+            {
+                "detection": "[ from 21st Century Fox for Sky is the second time ]Mr Murdoch[ has tried to assume full control. \nFive years]",
+                "prefix": " from 21st Century Fox for Sky is the second time ",
+                "exact": "Mr Murdoch",
+                "suffix": " has tried to assume full control. \nFive years",
+                "offset": 1753,
+                "length": 10
+            },
+            {
+                "detection": "[tried to assume full control. \nFive years ago ]he[ also attempted to buy out Sky's independent]",
+                "prefix": "tried to assume full control. \nFive years ago ",
+                "exact": "he",
+                "suffix": " also attempted to buy out Sky's independent",
+                "offset": 1814,
+                "length": 2
+            },
+            {
+                "detection": "[buy out Sky's independent shareholders through ]his[ News Corporation company, which has since been]",
+                "prefix": "buy out Sky's independent shareholders through ",
+                "exact": "his",
+                "suffix": " News Corporation company, which has since been",
+                "offset": 1882,
+                "length": 3
+            },
+            {
+                "detection": "[ independence of the Sky board, pointing out that ]Rupert Murdoch['s son James is both chairman of Sky and chief]",
+                "prefix": " independence of the Sky board, pointing out that ",
+                "exact": "Rupert Murdoch",
+                "suffix": "'s son James is both chairman of Sky and chief",
+                "offset": 2388,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Keith Rupert Murdoch",
+                "personid": "1139712",
+                "paid": "34413883040",
+                "officerid": [
+                    "690276",
+                    "130391",
+                    "2444567"
+                ],
+                "commonname": "Keith Murdoch",
+                "score": 0.8912849
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/df0616bf-29b0-367c-b01f-5fb2ea22859e": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "The Republic of Ireland",
+        "confidencelevel": "0.493",
+        "confidence": {
+            "statisticalfeature": "0.697",
+            "dblookup": "0.0",
+            "resolution": "0.7926183",
+            "aggregate": "0.493"
+        },
+        "resolutions": [
+            {
+                "name": "The Republic of Ireland",
+                "permid": "4296555152",
+                "commonname": "Ireland",
+                "score": 0.7926183,
+                "id": "https://permid.org/1-4296555152"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\nSky has 22 million customers in the UK, ]the Republic of Ireland[, Italy, Germany and Austria. \nChief executive]",
+                "prefix": "\nSky has 22 million customers in the UK, ",
+                "exact": "the Republic of Ireland",
+                "suffix": ", Italy, Germany and Austria. \nChief executive",
+                "offset": 852,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/d85e1d77-b339-37c6-96b1-4243c3cdff03": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Ireland",
+        "resolutions": [
+            {
+                "name": "Republic of Ireland",
+                "shortname": "Republic of Ireland",
+                "latitude": "52.6463722222",
+                "longitude": "-7.48976333333",
+                "rcscode": "G:6X",
+                "permid": "100142"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\nSky has 22 million customers in the UK, the ]Republic of Ireland[, Italy, Germany and Austria. \nChief executive]",
+                "prefix": "\nSky has 22 million customers in the UK, the ",
+                "exact": "Republic of Ireland",
+                "suffix": ", Italy, Germany and Austria. \nChief executive",
+                "offset": 856,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a84ccbf8-2d77-3cc0-ba62-b5e6f4caa223": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "it had added more than 500,000 new customers",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/genericHasher-1/2e0000dc-fb8f-3279-8766-a0ff9f17251a",
+        "instances": [
+            {
+                "detection": "[League rights rose by £314m in the period. \n \n]The company said it had added more than 500,000 new customers.[ \nHowever, in the UK, its churn rate, the annual]",
+                "prefix": "League rights rose by £314m in the period. \n \n",
+                "exact": "The company said it had added more than 500,000 new customers.",
+                "suffix": " \nHowever, in the UK, its churn rate, the annual",
+                "offset": 1250,
+                "length": 62
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b97fbeed-21ba-3115-9ab6-4f22e0681907": {
+        "_typeGroup": "relations",
+        "_type": "FamilyRelation",
+        "forenduserdisplay": "true",
+        "familyrelationtype": "son",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/FamilyRelation",
+        "person": "http://d.opencalais.com/pershash-1/70332112-f9f3-3799-9045-4af7f2511729",
+        "person_relative": "http://d.opencalais.com/pershash-1/e04c01bc-f221-3375-98df-fa12b6a49eb4",
+        "instances": [
+            {
+                "detection": "[ independence of the Sky board, pointing out that ]Rupert Murdoch's son James is both chairman of Sky[ and chief executive of Fox. Other directors hold]",
+                "prefix": " independence of the Sky board, pointing out that ",
+                "exact": "Rupert Murdoch's son James is both chairman of Sky",
+                "suffix": " and chief executive of Fox. Other directors hold",
+                "offset": 2388,
+                "length": 50
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0a4ab250-5fb4-3d42-84cd-cbe3ec9d3974": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "its financial performance had been \"good\".",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df",
+        "instances": [
+            {
+                "detection": "[for the six months to 31 December. \nHowever, ]Sky said that its financial performance had been \"good\".[ \nRupert Murdoch's 21st Century Fox owns 39% of]",
+                "prefix": "for the six months to 31 December. \nHowever, ",
+                "exact": "Sky said that its financial performance had been \"good\".",
+                "suffix": " \nRupert Murdoch's 21st Century Fox owns 39% of",
+                "offset": 600,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fb10692d-5c57-33d1-a678-fc1f9e8c7b72": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Chief executive",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/40a3c845-1ff6-3cd3-944a-3b97c6619f22",
+        "company": "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df",
+        "instances": [
+            {
+                "detection": "[of Ireland, Italy, Germany and Austria. \n]Chief executive Jeremy Darroch[ said: \"In a year in which we are absorbing]",
+                "prefix": "of Ireland, Italy, Germany and Austria. \n",
+                "exact": "Chief executive Jeremy Darroch",
+                "suffix": " said: \"In a year in which we are absorbing",
+                "offset": 906,
+                "length": 30
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/db204a45-4d26-3238-9ebd-a6176af62300": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "this reflected the increased proportion of broadband customers, who have a greater propensity to switch providers",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df",
+        "instances": [
+            {
+                "detection": "[from 10.2% in the same period the year before. \n]Sky said this reflected the increased proportion of broadband customers, who have a greater propensity to switch providers.[ \nIt added that six million households were Sky]",
+                "prefix": "from 10.2% in the same period the year before. \n",
+                "exact": "Sky said this reflected the increased proportion of broadband customers, who have a greater propensity to switch providers.",
+                "suffix": " \nIt added that six million households were Sky",
+                "offset": 1489,
+                "length": 123
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/6983b62a-8968-3ca6-a813-124f4ca55eb7": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "In a year in which we are absorbing significantly higher programming costs, as a result of the step up in Premier League costs, our financial performance has been good.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/40a3c845-1ff6-3cd3-944a-3b97c6619f22",
+        "instances": [
+            {
+                "detection": "[of Ireland, Italy, Germany and Austria. \n]Chief executive Jeremy Darroch said: \"In a year in which we are absorbing significantly higher programming costs, as a result of the step up in Premier League costs, our financial performance has been good.\"[ \nOperating profit was £65m lower on the year]",
+                "prefix": "of Ireland, Italy, Germany and Austria. \n",
+                "exact": "Chief executive Jeremy Darroch said: \"In a year in which we are absorbing significantly higher programming costs, as a result of the step up in Premier League costs, our financial performance has been good.\"",
+                "suffix": " \nOperating profit was £65m lower on the year",
+                "offset": 906,
+                "length": 207
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/dec1ad75-29d7-3d7b-bdd4-a9812e41f82f": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "chairman",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/e04c01bc-f221-3375-98df-fa12b6a49eb4",
+        "company": "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df",
+        "instances": [
+            {
+                "detection": "[board, pointing out that Rupert Murdoch's son ]James is both chairman of Sky[ and chief executive of Fox. Other directors hold]",
+                "prefix": "board, pointing out that Rupert Murdoch's son ",
+                "exact": "James is both chairman of Sky",
+                "suffix": " and chief executive of Fox. Other directors hold",
+                "offset": 2409,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8b2a0e05-b742-3902-9d0f-d9ef958840be": {
+        "_typeGroup": "relations",
+        "_type": "CompanyTechnology",
+        "forenduserdisplay": "false",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyTechnology",
+        "company": "http://d.opencalais.com/comphash-1/9f32498d-a9b8-3067-8122-a640fe1734df",
+        "technology": "http://d.opencalais.com/genericHasher-1/c06e77c5-cfa4-3328-941c-be0a4ecf72cc",
+        "instances": [
+            {
+                "detection": "[\nIt added that six million households were ]Sky broadband[ customers. \nBid battle \nThe offer from 21st]",
+                "prefix": "\nIt added that six million households were ",
+                "exact": "Sky broadband",
+                "suffix": " customers. \nBid battle \nThe offer from 21st",
+                "offset": 1656,
+                "length": 13
+            }
+        ]
+    }
+}

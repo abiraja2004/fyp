@@ -1,0 +1,915 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "b7ae6d15-9339-8a6e-159d-e343e88ed35a",
+            "id": "http://id.opencalais.com/tEY1WoMVUcIab08co7ccDw",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0",
+            "document": "--9d4ce3889fab47a593ab50e5bfb5a6d3 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>NAACP leader: We will 'resist' Trump's voter fraud investigation</Title> \n<Body> \n \nWashington (CNN)The head of the NAACP warned Thursday that his group will \"resist\" if President Donald Trump goes forward with his \"major investigation\" into voter fraud. \n \nThe President claims without providing evidence that 3 to 5 million people voted illegally in the 2016 US election, although this belief has been widely debunked. \n\"The President has claimed millions of fraudulent ballots were cast. The only place you will find millions of fraudulent ballots are right beside that fake birth certificate for Barack Obama, inside the imagination of President Trump. They don't exist,\" Cornell William Brooks, president and CEO of the NAACP, told CNN's Wolf Blitzer on \"The Situation Room.\" \nBrooks said over the course of the past election there has been \"unrelenting voter suppression.\" \n\"We have seen our rights denied as Americans. Particularly seniors, African-Americans, Latinos and younger people,\" Brooks said. \"So, if the President insists upon conducting an investigation into voter fraud as a pretext for voter suppression, the NAACP, along with millions of Americans of every human heritage, will resist. We will push back.\" \nEarlier in the day, Brooks tweeted, \"Dear #POTUS, I assure you, in the memory of @NAACP martyrs, any exec. order suppressing votes will meet unrelenting #resistance.\" \nBlitzer asked Brooks if this was a threat in any way, to which he replied, \"no threat at all.\" \n\"This is a new, old, bad, expensive idea. The definition of fraud, waste and abuse. We don't need to go down that road. In fact, what he needs to do is strengthen voting rights.\" \nBrooks said he would strongly encourage Trump to \"focus on ensuring access to the ballot box instead of erecting barriers to the ballot box. This is something literally people have died for.\" \n\"If the President goes down this road, we must resist, and we must resist massively,\" Brooks said. \n \n</Body> \n</Document> \n--9d4ce3889fab47a593ab50e5bfb5a6d3-- \n",
+            "docTitle": "NAACP leader: We will 'resist' Trump's voter fraud investigation",
+            "docDate": "2017-01-27 04:34:43.297"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:34:42.952",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|/B/WboH52/5zf/q7KtNEZCybCEA=|EA7rnaOx0tXM8CuVvpWEDdlkH61k3fT/G0Om0aF9QWCnc587phRANw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.815,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4460a2dd-717b-314d-ba90-768da45dd3fc",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "importance": "1",
+        "originalValue": "Mike Pence"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f",
+        "forenduserdisplay": "true",
+        "name": "Politics",
+        "importance": "2",
+        "originalValue": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f71ba5a5-389e-3a2f-818b-278a17dcd775",
+        "forenduserdisplay": "true",
+        "name": "Conservatism in the United States",
+        "importance": "2",
+        "originalValue": "Conservatism in the United States"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e50e4a22-05f9-3a51-88b8-dbc276672195",
+        "forenduserdisplay": "true",
+        "name": "National Association for the Advancement of Colored People",
+        "importance": "2",
+        "originalValue": "National Association for the Advancement of Colored People"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3a365a3c-2635-38aa-ae68-7a4b193f1ad8",
+        "forenduserdisplay": "true",
+        "name": "Electoral fraud",
+        "importance": "2",
+        "originalValue": "Electoral fraud"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/be0ca8e3-82c5-3e87-bc34-c6ba036e4544",
+        "forenduserdisplay": "true",
+        "name": "Cornell William Brooks",
+        "importance": "2",
+        "originalValue": "Cornell William Brooks"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/d7af0a02-5763-3d02-816d-8a98906d80c9",
+        "forenduserdisplay": "true",
+        "name": "United States presidential election",
+        "importance": "2",
+        "originalValue": "United States presidential election, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Broadcasting - NEC",
+        "rcscode": "B:1446",
+        "permid": "4294951555",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/30dcfb4e-50ac-306c-bb2b-c64729449cd0/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270349:201701270349",
+            "index-refineries:201701220334:201701220334",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270239:201701270239",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701261919:201701261919",
+            "index-vessels:201701211519:201701211519",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701051901:201701051901",
+            "BlackList:579:579",
+            "index-ports:201701212124:201701212124",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Washington",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[voter fraud investigation</Title> \n<Body> \n \n]Washington[ (CNN)The head of the NAACP warned Thursday that]",
+                "prefix": "voter fraud investigation</Title> \n<Body> \n \n",
+                "exact": "Washington",
+                "suffix": " (CNN)The head of the NAACP warned Thursday that",
+                "offset": 388,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/a9555aa4-5678-31f4-9388-edbb27eab2ea": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Wolf Blitzer",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.955",
+        "firstname": "Wolf",
+        "lastname": "Blitzer",
+        "commonname": "Wolf Blitzer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[president and CEO of the NAACP, told CNN's ]Wolf Blitzer[ on \"The Situation Room.\" \nBrooks said over the]",
+                "prefix": "president and CEO of the NAACP, told CNN's ",
+                "exact": "Wolf Blitzer",
+                "suffix": " on \"The Situation Room.\" \nBrooks said over the",
+                "offset": 1047,
+                "length": 12
+            },
+            {
+                "detection": "[votes will meet unrelenting #resistance.\" \n]Blitzer[ asked Brooks if this was a threat in any way, to]",
+                "prefix": "votes will meet unrelenting #resistance.\" \n",
+                "exact": "Blitzer",
+                "suffix": " asked Brooks if this was a threat in any way, to",
+                "offset": 1700,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.935",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.955"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/bdf8df28-a40c-367a-a15e-80cd4447388b": {
+        "_typeGroup": "entities",
+        "_type": "TVShow",
+        "forenduserdisplay": "false",
+        "name": "The Situation Room",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/TVShow",
+        "instances": [
+            {
+                "detection": "[ and CEO of the NAACP, told CNN's Wolf Blitzer on ]\"The Situation Room.\"[ \nBrooks said over the course of the past]",
+                "prefix": " and CEO of the NAACP, told CNN's Wolf Blitzer on ",
+                "exact": "\"The Situation Room.\"",
+                "suffix": " \nBrooks said over the course of the past",
+                "offset": 1063,
+                "length": 21
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f43969ae-2ec6-393f-9419-abd5a028de47": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "NAACP leader",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]NAACP leader[: We will 'resist' Trump's voter fraud]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "NAACP leader",
+                "suffix": ": We will 'resist' Trump's voter fraud",
+                "offset": 304,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "William Brooks",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.996",
+        "commonname": "William Brooks",
+        "confidence": {
+            "statisticalfeature": "0.984",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.996"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[CNN's Wolf Blitzer on \"The Situation Room.\" \n]Brooks[ said over the course of the past election there]",
+                "prefix": "CNN's Wolf Blitzer on \"The Situation Room.\" \n",
+                "exact": "Brooks",
+                "suffix": " said over the course of the past election there",
+                "offset": 1086,
+                "length": 6
+            },
+            {
+                "detection": "[African-Americans, Latinos and younger people,\" ]Brooks[ said. \"So, if the President insists upon]",
+                "prefix": "African-Americans, Latinos and younger people,\" ",
+                "exact": "Brooks",
+                "suffix": " said. \"So, if the President insists upon",
+                "offset": 1300,
+                "length": 6
+            },
+            {
+                "detection": "[ resist. We will push back.\" \nEarlier in the day, ]Brooks[ tweeted, \"Dear #POTUS, I assure you, in the]",
+                "prefix": " resist. We will push back.\" \nEarlier in the day, ",
+                "exact": "Brooks",
+                "suffix": " tweeted, \"Dear #POTUS, I assure you, in the",
+                "offset": 1552,
+                "length": 6
+            },
+            {
+                "detection": "[meet unrelenting #resistance.\" \nBlitzer asked ]Brooks[ if this was a threat in any way, to which he]",
+                "prefix": "meet unrelenting #resistance.\" \nBlitzer asked ",
+                "exact": "Brooks",
+                "suffix": " if this was a threat in any way, to which he",
+                "offset": 1714,
+                "length": 6
+            },
+            {
+                "detection": "[ Brooks if this was a threat in any way, to which ]he[ replied, \"no threat at all.\" \n\"This is a new,]",
+                "prefix": " Brooks if this was a threat in any way, to which ",
+                "exact": "he",
+                "suffix": " replied, \"no threat at all.\" \n\"This is a new,",
+                "offset": 1763,
+                "length": 2
+            },
+            {
+                "detection": "[don't need to go down that road. In fact, what ]he[ needs to do is strengthen voting rights.\"]",
+                "prefix": "don't need to go down that road. In fact, what ",
+                "exact": "he",
+                "suffix": " needs to do is strengthen voting rights.\"",
+                "offset": 1930,
+                "length": 2
+            },
+            {
+                "detection": "[he needs to do is strengthen voting rights.\" \n]Brooks[ said he would strongly encourage Trump to \"focus]",
+                "prefix": "he needs to do is strengthen voting rights.\" \n",
+                "exact": "Brooks",
+                "suffix": " said he would strongly encourage Trump to \"focus",
+                "offset": 1976,
+                "length": 6
+            },
+            {
+                "detection": "[ to do is strengthen voting rights.\" \nBrooks said ]he[ would strongly encourage Trump to \"focus on]",
+                "prefix": " to do is strengthen voting rights.\" \nBrooks said ",
+                "exact": "he",
+                "suffix": " would strongly encourage Trump to \"focus on",
+                "offset": 1988,
+                "length": 2
+            },
+            {
+                "detection": "[we must resist, and we must resist massively,\" ]Brooks[ said. \n \n</Body> \n</Document>]",
+                "prefix": "we must resist, and we must resist massively,\" ",
+                "exact": "Brooks",
+                "suffix": " said. \n \n</Body> \n</Document>",
+                "offset": 2255,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Barack Obama",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Barack",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ are right beside that fake birth certificate for ]Barack Obama[, inside the imagination of President Trump. They]",
+                "prefix": " are right beside that fake birth certificate for ",
+                "exact": "Barack Obama",
+                "suffix": ", inside the imagination of President Trump. They",
+                "offset": 904,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[warned Thursday that his group will \"resist\" if ]President[ Donald Trump goes forward with his \"major]",
+                "prefix": "warned Thursday that his group will \"resist\" if ",
+                "exact": "President",
+                "suffix": " Donald Trump goes forward with his \"major",
+                "offset": 474,
+                "length": 9
+            },
+            {
+                "detection": "[his \"major investigation\" into voter fraud. \n \n]The President[ claims without providing evidence that 3 to 5]",
+                "prefix": "his \"major investigation\" into voter fraud. \n \n",
+                "exact": "The President",
+                "suffix": " claims without providing evidence that 3 to 5",
+                "offset": 562,
+                "length": 13
+            },
+            {
+                "detection": "[ although this belief has been widely debunked. \n\"]The President[ has claimed millions of fraudulent ballots were]",
+                "prefix": " although this belief has been widely debunked. \n\"",
+                "exact": "The President",
+                "suffix": " has claimed millions of fraudulent ballots were",
+                "offset": 727,
+                "length": 13
+            },
+            {
+                "detection": "[for Barack Obama, inside the imagination of ]President[ Trump. They don't exist,\" Cornell William]",
+                "prefix": "for Barack Obama, inside the imagination of ",
+                "exact": "President",
+                "suffix": " Trump. They don't exist,\" Cornell William",
+                "offset": 944,
+                "length": 9
+            },
+            {
+                "detection": "[and younger people,\" Brooks said. \"So, if ]the President[ insists upon conducting an investigation into]",
+                "prefix": "and younger people,\" Brooks said. \"So, if ",
+                "exact": "the President",
+                "suffix": " insists upon conducting an investigation into",
+                "offset": 1321,
+                "length": 13
+            },
+            {
+                "detection": "[something literally people have died for.\" \n\"If ]the President[ goes down this road, we must resist, and we must]",
+                "prefix": "something literally people have died for.\" \n\"If ",
+                "exact": "the President",
+                "suffix": " goes down this road, we must resist, and we must",
+                "offset": 2173,
+                "length": 13
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/d508b393-40e0-3046-b977-35780a2774e5": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "exec.",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ assure you, in the memory of @NAACP martyrs, any ]exec.[ order suppressing votes will meet unrelenting]",
+                "prefix": " assure you, in the memory of @NAACP martyrs, any ",
+                "exact": "exec.",
+                "suffix": " order suppressing votes will meet unrelenting",
+                "offset": 1633,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c14241b6-5f57-315c-9d5e-aa617f57bfc1": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "head",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ investigation</Title> \n<Body> \n \nWashington (CNN)]The head[ of the NAACP warned Thursday that his group will]",
+                "prefix": " investigation</Title> \n<Body> \n \nWashington (CNN)",
+                "exact": "The head",
+                "suffix": " of the NAACP warned Thursday that his group will",
+                "offset": 404,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[to 5 million people voted illegally in the 2016 ]US[ election, although this belief has been widely]",
+                "prefix": "to 5 million people voted illegally in the 2016 ",
+                "exact": "US",
+                "suffix": " election, although this belief has been widely",
+                "offset": 665,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/542b3c90-ad04-3fa9-a710-473586becf01": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "president and CEO",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[They don't exist,\" Cornell William Brooks, ]president and CEO[ of the NAACP, told CNN's Wolf Blitzer on \"The]",
+                "prefix": "They don't exist,\" Cornell William Brooks, ",
+                "exact": "president and CEO",
+                "suffix": " of the NAACP, told CNN's Wolf Blitzer on \"The",
+                "offset": 1004,
+                "length": 17
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/c77c8811-56c2-3bd7-a721-bda3807b49c0": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Cornell William Brooks",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.835",
+        "firstname": "Cornell",
+        "middlename": "William",
+        "lastname": "Brooks",
+        "commonname": "Cornell William Brooks",
+        "confidence": {
+            "statisticalfeature": "0.881",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.835"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[of President Trump. They don't exist,\" ]Cornell William Brooks[, president and CEO of the NAACP, told CNN's Wolf]",
+                "prefix": "of President Trump. They don't exist,\" ",
+                "exact": "Cornell William Brooks",
+                "suffix": ", president and CEO of the NAACP, told CNN's Wolf",
+                "offset": 980,
+                "length": 22
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/859be9b4-d805-30f2-9e84-c0f0dd833938": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Cornell",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[of President Trump. They don't exist,\" ]Cornell[ William Brooks, president and CEO of the NAACP,]",
+                "prefix": "of President Trump. They don't exist,\" ",
+                "exact": "Cornell",
+                "suffix": " William Brooks, president and CEO of the NAACP,",
+                "offset": 980,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "persontype": "entertainment",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Title>NAACP leader: We will 'resist' ]Trump['s voter fraud investigation</Title> \n<Body> \n]",
+                "prefix": "\n<Title>NAACP leader: We will 'resist' ",
+                "exact": "Trump",
+                "suffix": "'s voter fraud investigation</Title> \n<Body> \n",
+                "offset": 335,
+                "length": 5
+            },
+            {
+                "detection": "[(CNN)The head of the NAACP warned Thursday that ]his[ group will \"resist\" if President Donald Trump]",
+                "prefix": "(CNN)The head of the NAACP warned Thursday that ",
+                "exact": "his",
+                "suffix": " group will \"resist\" if President Donald Trump",
+                "offset": 447,
+                "length": 3
+            },
+            {
+                "detection": "[that his group will \"resist\" if President ]Donald Trump[ goes forward with his \"major investigation\" into]",
+                "prefix": "that his group will \"resist\" if President ",
+                "exact": "Donald Trump",
+                "suffix": " goes forward with his \"major investigation\" into",
+                "offset": 484,
+                "length": 12
+            },
+            {
+                "detection": "[if President Donald Trump goes forward with ]his[ \"major investigation\" into voter fraud. \n \nThe]",
+                "prefix": "if President Donald Trump goes forward with ",
+                "exact": "his",
+                "suffix": " \"major investigation\" into voter fraud. \n \nThe",
+                "offset": 515,
+                "length": 3
+            },
+            {
+                "detection": "[Obama, inside the imagination of President ]Trump[. They don't exist,\" Cornell William Brooks,]",
+                "prefix": "Obama, inside the imagination of President ",
+                "exact": "Trump",
+                "suffix": ". They don't exist,\" Cornell William Brooks,",
+                "offset": 954,
+                "length": 5
+            },
+            {
+                "detection": "[\nBrooks said he would strongly encourage ]Trump[ to \"focus on ensuring access to the ballot box]",
+                "prefix": "\nBrooks said he would strongly encourage ",
+                "exact": "Trump",
+                "suffix": " to \"focus on ensuring access to the ballot box",
+                "offset": 2016,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "CNN",
+        "nationality": "N/A",
+        "confidencelevel": "0.942",
+        "resolutions": [
+            {
+                "name": "CABLE NEWS NETWORK, INC.",
+                "permid": "4298210469",
+                "commonname": "CNN",
+                "score": 1,
+                "id": "https://permid.org/1-4298210469"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.939",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.942"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[Brooks, president and CEO of the NAACP, told ]CNN['s Wolf Blitzer on \"The Situation Room.\" \nBrooks]",
+                "prefix": "Brooks, president and CEO of the NAACP, told ",
+                "exact": "CNN",
+                "suffix": "'s Wolf Blitzer on \"The Situation Room.\" \nBrooks",
+                "offset": 1041,
+                "length": 3
+            }
+        ],
+        "relevance": 0
+    },
+    "http://d.opencalais.com/genericHasher-1/6db5075e-9519-372c-98ae-25e26a1fd09f": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he would strongly encourage Trump to \"focus on ensuring access to the ballot box instead of erecting barriers to the ballot box",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2",
+        "instances": [
+            {
+                "detection": "[he needs to do is strengthen voting rights.\" \n]Brooks said he would strongly encourage Trump to \"focus on ensuring access to the ballot box instead of erecting barriers to the ballot box.[ This is something literally people have died]",
+                "prefix": "he needs to do is strengthen voting rights.\" \n",
+                "exact": "Brooks said he would strongly encourage Trump to \"focus on ensuring access to the ballot box instead of erecting barriers to the ballot box.",
+                "suffix": " This is something literally people have died",
+                "offset": 1976,
+                "length": 140
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7ea05779-bca9-3ec8-bd8d-4fdd8522895b": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[warned Thursday that his group will \"resist\" if ]President Donald Trump[ goes forward with his \"major investigation\" into]",
+                "prefix": "warned Thursday that his group will \"resist\" if ",
+                "exact": "President Donald Trump",
+                "suffix": " goes forward with his \"major investigation\" into",
+                "offset": 474,
+                "length": 22
+            },
+            {
+                "detection": "[for Barack Obama, inside the imagination of ]President Trump[. They don't exist,\" Cornell William Brooks,]",
+                "prefix": "for Barack Obama, inside the imagination of ",
+                "exact": "President Trump",
+                "suffix": ". They don't exist,\" Cornell William Brooks,",
+                "offset": 944,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/abd7df7b-66a5-3223-9181-6adfade80317": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/a9555aa4-5678-31f4-9388-edbb27eab2ea",
+        "company": "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f",
+        "instances": [
+            {
+                "detection": "[Brooks, president and CEO of the NAACP, told ]CNN's Wolf Blitzer[ on \"The Situation Room.\" \nBrooks said over the]",
+                "prefix": "Brooks, president and CEO of the NAACP, told ",
+                "exact": "CNN's Wolf Blitzer",
+                "suffix": " on \"The Situation Room.\" \nBrooks said over the",
+                "offset": 1041,
+                "length": 18
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ea2fc802-3e70-3221-aa04-7d83cc24ffb6": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "We have seen our rights denied as Americans.; Particularly seniors, African-Americans, Latinos and younger people; So, if the President insists upon conducting an investigation into voter fraud as a pretext for voter suppression, the NAACP, along with millions of Americans of every human heritage, will resist. We will push back.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2",
+        "instances": [
+            {
+                "detection": "[ there has been \"unrelenting voter suppression.\" \n]\"We have seen our rights denied as Americans. Particularly seniors, African-Americans, Latinos and younger people,\" Brooks said. \"So, if the President insists upon conducting an investigation into voter fraud as a pretext for voter suppression, the NAACP, along with millions of Americans of every human heritage, will resist. We will push back.\"[ \nEarlier in the day, Brooks tweeted, \"Dear]",
+                "prefix": " there has been \"unrelenting voter suppression.\" \n",
+                "exact": "\"We have seen our rights denied as Americans. Particularly seniors, African-Americans, Latinos and younger people,\" Brooks said. \"So, if the President insists upon conducting an investigation into voter fraud as a pretext for voter suppression, the NAACP, along with millions of Americans of every human heritage, will resist. We will push back.\"",
+                "suffix": " \nEarlier in the day, Brooks tweeted, \"Dear",
+                "offset": 1184,
+                "length": 346
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3e59fdad-e5e9-3dc1-8799-d743f9b320c5": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": [
+            "http://d.opencalais.com/pershash-1/c77c8811-56c2-3bd7-a721-bda3807b49c0",
+            "http://d.opencalais.com/pershash-1/a9555aa4-5678-31f4-9388-edbb27eab2ea"
+        ],
+        "instances": [
+            {
+                "detection": "[of President Trump. They don't exist,\" ]Cornell William Brooks, president and CEO of the NAACP, told CNN's Wolf Blitzer[ on \"The Situation Room.\" \nBrooks said over the]",
+                "prefix": "of President Trump. They don't exist,\" ",
+                "exact": "Cornell William Brooks, president and CEO of the NAACP, told CNN's Wolf Blitzer",
+                "suffix": " on \"The Situation Room.\" \nBrooks said over the",
+                "offset": 980,
+                "length": 79
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ff2edb3d-1b32-3ef5-b765-a568cc8672c0": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "no threat at all.; This is a new, old, bad, expensive idea. The definition of fraud, waste and abuse. We don't need to go down that road. In fact, what he needs to do is strengthen voting rights.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2",
+        "instances": [
+            {
+                "detection": "[votes will meet unrelenting #resistance.\" \n]Blitzer asked Brooks if this was a threat in any way, to which he replied, \"no threat at all.\" \n\"This is a new, old, bad, expensive idea. The definition of fraud, waste and abuse. We don't need to go down that road. In fact, what he needs to do is strengthen voting rights.\"[ \nBrooks said he would strongly encourage Trump]",
+                "prefix": "votes will meet unrelenting #resistance.\" \n",
+                "exact": "Blitzer asked Brooks if this was a threat in any way, to which he replied, \"no threat at all.\" \n\"This is a new, old, bad, expensive idea. The definition of fraud, waste and abuse. We don't need to go down that road. In fact, what he needs to do is strengthen voting rights.\"",
+                "suffix": " \nBrooks said he would strongly encourage Trump",
+                "offset": 1700,
+                "length": 274
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4a09093e-969d-3332-bc9c-d1ec75610027": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "president and CEO",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/c77c8811-56c2-3bd7-a721-bda3807b49c0",
+        "instances": [
+            {
+                "detection": "[of President Trump. They don't exist,\" ]Cornell William Brooks, president and CEO[ of the NAACP, told CNN's Wolf Blitzer on \"The]",
+                "prefix": "of President Trump. They don't exist,\" ",
+                "exact": "Cornell William Brooks, president and CEO",
+                "suffix": " of the NAACP, told CNN's Wolf Blitzer on \"The",
+                "offset": 980,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9cc181fc-d8c8-3d16-ab1a-d1857d314614": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "If the President goes down this road, we must resist, and we must resist massively",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2",
+        "instances": [
+            {
+                "detection": "[is something literally people have died for.\" \n]\"If the President goes down this road, we must resist, and we must resist massively,\" Brooks said.[ \n \n</Body> \n</Document>]",
+                "prefix": "is something literally people have died for.\" \n",
+                "exact": "\"If the President goes down this road, we must resist, and we must resist massively,\" Brooks said.",
+                "suffix": " \n \n</Body> \n</Document>",
+                "offset": 2169,
+                "length": 98
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3ac2af16-67a1-3aae-be1a-5b41bf731e2a": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "over the course of the past election there has been \"unrelenting voter suppression.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/637ff094-2bc3-3a8d-b389-c67e285a7cc2",
+        "instances": [
+            {
+                "detection": "[CNN's Wolf Blitzer on \"The Situation Room.\" \n]Brooks said over the course of the past election there has been \"unrelenting voter suppression.\"[ \n\"We have seen our rights denied as Americans.]",
+                "prefix": "CNN's Wolf Blitzer on \"The Situation Room.\" \n",
+                "exact": "Brooks said over the course of the past election there has been \"unrelenting voter suppression.\"",
+                "suffix": " \n\"We have seen our rights denied as Americans.",
+                "offset": 1086,
+                "length": 96
+            }
+        ]
+    }
+}

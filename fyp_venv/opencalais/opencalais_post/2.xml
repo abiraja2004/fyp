@@ -1,0 +1,1878 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "b162c2af-c948-523c-1599-b94f81114b67",
+            "id": "http://id.opencalais.com/LlU9-CB3L1HK-DXFTr9Nyw",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970",
+            "document": "--4c17125c99b2417f89045eb6092d4cd5 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Trump’s Transition in a ‘Long History’ of Rocky Presidential Handovers</Title> \n<Body> \nWASHINGTON — The briefing materials are ready, loaded into tablet computers, secure internet sites or cloud computing applications. Officials from the White House and 100 federal agencies are on standby, waiting to meet “landing teams” from the president-elect’s staff and brief them on how things really work in government. The organizational charts have been meticulously mapped. \n \nBut eight days after President-elect Donald J. Trump won election in a stunning upset, surprising even himself, the process of transferring power from the Obama administration to the Trump administration has yet to grind into motion, delayed by a series of shake-ups at Trump Tower that have sown confusion and discord. One associate of Mr. Trump’s has told people that his operation is a month behind schedule. \n \nUnder ideal circumstances, the process — months in the planning by the Obama administration and aides to both Mr. Trump and his defeated opponent, Hillary Clinton — looks far different. Parts of it are governed by a statute President Obama signed this year to streamline the transition process and ensure an early start to a task that has been compared to a giant corporate merger involving a $4 trillion budget. \n \nBut for all the drama surrounding his transition to power, Mr. Trump is hardly the first president-elect to preside over a disorderly takeover. \n \nThe 1988 transition from Ronald Reagan to George Bush was particularly nasty, because many Reagan administration aides assumed — wrongly, as it turned out — that they would be in line to keep their jobs in a government that remained in Republican hands. \n \nContinue reading the main story \nBill Clinton’s transition in 1992 was marred by a staff shake-up that upended a carefully planned process: Mr. Clinton replaced his transition chief, Mickey Kantor, who had been Mr. Clinton’s campaign chairman, with Warren Christopher, who would become secretary of state. It was also hobbled by Mr. Clinton’s campaign promise to slash White House staff by 25 percent, which made it more difficult to manage the government. \n \nAnd even in the 2008-9 transition from George W. Bush to Mr. Obama that members of both parties consider a model of efficiency, Mr. Obama had to replace his head of personnel several times. \n \n“There is a long history of unfortunate transition activity,” said Max Stier, the president and chief executive of the Center for Presidential Transition, a project run by the nonpartisan Partnership for Public Service. \n \nStill, he added, the Trump transition is different in that it appears to lack guidance from seasoned government professionals who grasp the magnitude of the bureaucracy he is about to inherit. \n \n“You have a president-elect who has been elected on a platform of change from the outside,” Mr. Stier said. “This is distinctive in that there is not anybody in the inner orbit who has deep understanding of the institution that Trump is going to have to run.” \n \nSetting the ground rules \n \nA memorandum of understanding between the White House chief of staff and the leader of the president-elect’s transition team is typically signed by both immediately after the election, as was the case when Mr. Obama was preparing to take office. The document governs the terms by which the president’s staff and that of the president-elect collaborate, including important nondisclosure requirements for both sides, and its completion unlocks the rest of the transition process. \n \nGov. Chris Christie of New Jersey signed such an agreement on Nov. 8, before the election result was determined, but it was invalidated on Friday when Mr. Trump turned over the transition operation to Vice President-elect Mike Pence. A transition spokesman said late Tuesday that Mr. Pence had signed the document. But Brandi Hoffine, a White House spokeswoman, said the transition team had not yet provided the list of officials who would be participating in the process, a requirement before the handover can begin. \n \nLanding teams arrive \n \nWithin a few days of the election, the landing teams are supposed to begin work at federal offices to learn about their inner workings, functions and responsibilities; to determine how to staff crucial positions there; and to figure out how they fit in with the new administration’s goals and priorities. They receive briefings about the pressing issues facing the agencies and immediate tasks that the president-elect must undertake on Day 1. \n \nThis crucial time period in November is when the incoming president’s team typically devises plans for carrying out top policy priorities and develops a budget proposal that will be presented early the next year, defining the administration’s goals and laying out a pathway for achieving them. \n \nAs of Wednesday evening, nobody from Mr. Trump’s transition team had arrived at a federal agency to begin the review process, according to Obama administration officials. \n \nPersonnel is policy \n \nThe transition team typically works quickly, based on plans put in place months before, to recruit, vet and hire the 4,000 presidential appointees needed to run the government, including about 1,000 who will require Senate confirmation. Presidential candidates typically pre-vet hundreds of potential appointees well before the election, cognizant of how quickly they must move once elected to build out their teams. \n \nThe Obama administration, which found the process cumbersome and the government’s mechanisms for managing it outdated in 2008, has built a new software system for the president-elect to track candidates for the appointments and process those selected. \n \nAccording to the independent, nonpartisan Center for Presidential Transition, a project of the Partnership for Public Service, the president-elect should aim to select 50 top cabinet appointees and key White House personnel before Thanksgiving. \n \nPreparing for the worst \n \nSince the Sept. 11, 2001, terrorist attacks, national security preparedness has taken on outsized importance in transition planning. In January 2009, the week before Mr. Obama was inaugurated, the Bush administration held a war-game exercise in the White House Situation Room, simulating a series of explosions in American cities so that current national security officials could guide incoming aides on how to respond to such an attack. \n \nThe Obama administration is planning two such exercises for Mr. Trump’s team, one in December and one in January. As of Tuesday, Mr. Trump had dismissed two top national security officials on his transition team, leaving the question of who might attend such sessions up in the air for the time being. \n</Body> \n</Document> \n--4c17125c99b2417f89045eb6092d4cd5-- \n",
+            "docTitle": "Trump’s Transition in a ‘Long History’ of Rocky Presidential Handovers",
+            "docDate": "2017-01-14 06:05:49.406"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.2-RELEASE:133",
+            "stagsVer": "OneCalais_10.2-RELEASE-b21-2016-11-29_14:53:15",
+            "submissionDate": "2017-01-14 06:05:48.433",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|rAImrM7BHGq7se2F3MFqjtXE+2o=|FbqFnV0fhSCxZZlpT9Qp3zd6pyaKHJceeqzE1MnBgh5isMV0VOpvkQ==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.982,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "1",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "1",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "importance": "2",
+        "originalValue": "United States"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4460a2dd-717b-314d-ba90-768da45dd3fc",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "importance": "2",
+        "originalValue": "Mike Pence"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/473ae34b-e7f0-3ddd-a1cc-c0007d7ac6cf",
+        "forenduserdisplay": "true",
+        "name": "Presidential transition of Donald Trump",
+        "importance": "2",
+        "originalValue": "Presidential transition of Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a6421d89-721d-310b-b15b-1641c92c1807",
+        "forenduserdisplay": "true",
+        "name": "President of the United States",
+        "importance": "2",
+        "originalValue": "President of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ca6fc8a9-a961-3e5e-a941-14c957361c83",
+        "forenduserdisplay": "true",
+        "name": "Presidency of Barack Obama",
+        "importance": "2",
+        "originalValue": "Presidency of Barack Obama"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/7c15e789-dfca-3520-9afd-1da661d158b5",
+        "forenduserdisplay": "true",
+        "name": "Chris Christie",
+        "importance": "2",
+        "originalValue": "Chris Christie"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f",
+        "forenduserdisplay": "true",
+        "name": "Barack Obama",
+        "importance": "2",
+        "originalValue": "Barack Obama"
+    },
+    "http://d.opencalais.com/dochash-1/9312f04f-8a99-3ed3-b7d1-cf6f47a58970/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701140520:201701140520",
+            "index-refineries:201701072351:201701072351",
+            "config-physicalAssets-powerStations:545:545",
+            "NextTags:OneCalais_10.2-RELEASE:133",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701140310:201701140310",
+            "config-negativeSignature:545:545",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:575:575",
+            "People Override:545:545",
+            "index-company-oa3:201701131805:201701131805",
+            "index-vessels:201701072338:201701072338",
+            "config-refineries:545:545",
+            "config-cse:575:575",
+            "config-vessels:545:545",
+            "OneCalais:OneCalais_10.2-RELEASE:133",
+            "config-physicalAssets-mines:545:545",
+            "SocialTags Index:201701051901:201701051901",
+            "BlackList:575:575",
+            "index-ports:201701071733:201701071733",
+            "config-physicalAssets-ports:545:545",
+            "config-drugs:545:545"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ad57c373-8766-30c3-b947-710fea60f4f1": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "software system",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[for managing it outdated in 2008, has built a ]new software system[ for the president-elect to track candidates for]",
+                "prefix": "for managing it outdated in 2008, has built a ",
+                "exact": "new software system",
+                "suffix": " for the president-elect to track candidates for",
+                "offset": 5902,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/fb55ac09-d09d-301f-883c-f144c6e7b6dd": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Trump administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[power from the Obama administration to the ]Trump administration[ has yet to grind into motion, delayed by a]",
+                "prefix": "power from the Obama administration to the ",
+                "exact": "Trump administration",
+                "suffix": " has yet to grind into motion, delayed by a",
+                "offset": 960,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0b5b6463-2697-3fa4-8b63-a1df57166e72": {
+        "_typeGroup": "entities",
+        "_type": "Facility",
+        "forenduserdisplay": "false",
+        "name": "Trump Tower",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Facility",
+        "instances": [
+            {
+                "detection": "[ into motion, delayed by a series of shake-ups at ]Trump Tower[ that have sown confusion and discord. One]",
+                "prefix": " into motion, delayed by a series of shake-ups at ",
+                "exact": "Trump Tower",
+                "suffix": " that have sown confusion and discord. One",
+                "offset": 1047,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/f6ef4719-de8f-373b-becf-d6dc08efe40a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Bill Clinton",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Bill",
+        "lastname": "Clinton",
+        "commonname": "Bill Clinton",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[hands. \n \nContinue reading the main story \n]Bill Clinton[’s transition in 1992 was marred by a staff]",
+                "prefix": "hands. \n \nContinue reading the main story \n",
+                "exact": "Bill Clinton",
+                "suffix": "’s transition in 1992 was marred by a staff",
+                "offset": 2045,
+                "length": 12
+            },
+            {
+                "detection": "[carefully planned process: Mr. Clinton replaced ]his[ transition chief, Mickey Kantor, who had been]",
+                "prefix": "carefully planned process: Mr. Clinton replaced ",
+                "exact": "his",
+                "suffix": " transition chief, Mickey Kantor, who had been",
+                "offset": 2173,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/a50a093b-7e08-394a-9a27-3093483d6a9d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "George W. Bush",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.997",
+        "firstname": "George",
+        "middlename": "W.",
+        "lastname": "Bush",
+        "commonname": "George Bush",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n \nAnd even in the 2008-9 transition from ]George W. Bush[ to Mr. Obama that members of both parties]",
+                "prefix": "\n \nAnd even in the 2008-9 transition from ",
+                "exact": "George W. Bush",
+                "suffix": " to Mr. Obama that members of both parties",
+                "offset": 2511,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.997"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/4c6267da-9459-3106-89d1-43d5abce6e45": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Mickey Kantor",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Mickey",
+        "lastname": "Kantor",
+        "commonname": "Mickey Kantor",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Mr. Clinton replaced his transition chief, ]Mickey Kantor[, who had been Mr. Clinton’s campaign chairman,]",
+                "prefix": "Mr. Clinton replaced his transition chief, ",
+                "exact": "Mickey Kantor",
+                "suffix": ", who had been Mr. Clinton’s campaign chairman,",
+                "offset": 2195,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/67b69b6d-8872-3300-a33a-6a5e13c110b9": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "New Jersey",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[transition process. \n \nGov. Chris Christie of ]New Jersey[ signed such an agreement on Nov. 8, before the]",
+                "prefix": "transition process. \n \nGov. Chris Christie of ",
+                "exact": "New Jersey",
+                "suffix": " signed such an agreement on Nov. 8, before the",
+                "offset": 3880,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "New Jersey,United States",
+                "shortname": "New Jersey",
+                "latitude": "40.3278286374",
+                "longitude": "-74.511843005",
+                "containedbycountry": "United States",
+                "rcscode": "G:5V",
+                "permid": "100209"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/f4d67280-f63a-3937-826f-52eb7d0fe491": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Warren Christopher",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Warren",
+        "lastname": "Christopher",
+        "commonname": "Warren Christopher",
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[had been Mr. Clinton’s campaign chairman, with ]Warren Christopher[, who would become secretary of state. It was]",
+                "prefix": "had been Mr. Clinton’s campaign chairman, with ",
+                "exact": "Warren Christopher",
+                "suffix": ", who would become secretary of state. It was",
+                "offset": 2261,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/db7149cd-cd91-34e6-9128-d5f8968b3c75": {
+        "_typeGroup": "entities",
+        "_type": "Holiday",
+        "forenduserdisplay": "false",
+        "name": "Thanksgiving",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Holiday",
+        "instances": [
+            {
+                "detection": "[appointees and key White House personnel before ]Thanksgiving[. \n \nPreparing for the worst \n \nSince the Sept.]",
+                "prefix": "appointees and key White House personnel before ",
+                "exact": "Thanksgiving",
+                "suffix": ". \n \nPreparing for the worst \n \nSince the Sept.",
+                "offset": 6249,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a68b0c54-9c80-3c4c-a507-d8e754506c58": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "incoming president",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[\n \nThis crucial time period in November is when ]the incoming president[’s team typically devises plans for carrying out]",
+                "prefix": "\n \nThis crucial time period in November is when ",
+                "exact": "the incoming president",
+                "suffix": "’s team typically devises plans for carrying out",
+                "offset": 4894,
+                "length": 22
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c0670f31-c7b5-3fce-b4d9-d26cb34236c0": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Governor",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[unlocks the rest of the transition process. \n \n]Gov.[ Chris Christie of New Jersey signed such an]",
+                "prefix": "unlocks the rest of the transition process. \n \n",
+                "exact": "Gov.",
+                "suffix": " Chris Christie of New Jersey signed such an",
+                "offset": 3857,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "White House",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ cloud computing applications. Officials from the ]White House[ and 100 federal agencies are on standby, waiting]",
+                "prefix": " cloud computing applications. Officials from the ",
+                "exact": "White House",
+                "suffix": " and 100 federal agencies are on standby, waiting",
+                "offset": 543,
+                "length": 11
+            },
+            {
+                "detection": "[by Mr. Clinton’s campaign promise to slash ]White House[ staff by 25 percent, which made it more]",
+                "prefix": "by Mr. Clinton’s campaign promise to slash ",
+                "exact": "White House",
+                "suffix": " staff by 25 percent, which made it more",
+                "offset": 2381,
+                "length": 11
+            },
+            {
+                "detection": "[\n \nA memorandum of understanding between the ]White House[ chief of staff and the leader of the]",
+                "prefix": "\n \nA memorandum of understanding between the ",
+                "exact": "White House",
+                "suffix": " chief of staff and the leader of the",
+                "offset": 3417,
+                "length": 11
+            },
+            {
+                "detection": "[had signed the document. But Brandi Hoffine, a ]White House[ spokeswoman, said the transition team had not]",
+                "prefix": "had signed the document. But Brandi Hoffine, a ",
+                "exact": "White House",
+                "suffix": " spokeswoman, said the transition team had not",
+                "offset": 4194,
+                "length": 11
+            },
+            {
+                "detection": "[aim to select 50 top cabinet appointees and key ]White House[ personnel before Thanksgiving. \n \nPreparing for]",
+                "prefix": "aim to select 50 top cabinet appointees and key ",
+                "exact": "White House",
+                "suffix": " personnel before Thanksgiving. \n \nPreparing for",
+                "offset": 6220,
+                "length": 11
+            },
+            {
+                "detection": "[administration held a war-game exercise in the ]White House[ Situation Room, simulating a series of]",
+                "prefix": "administration held a war-game exercise in the ",
+                "exact": "White House",
+                "suffix": " Situation Room, simulating a series of",
+                "offset": 6542,
+                "length": 11
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/867696d5-e201-3d99-a4f0-7b22742fc4d2": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Reagan administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ George Bush was particularly nasty, because many ]Reagan administration[ aides assumed — wrongly, as it turned out — that]",
+                "prefix": " George Bush was particularly nasty, because many ",
+                "exact": "Reagan administration",
+                "suffix": " aides assumed — wrongly, as it turned out — that",
+                "offset": 1846,
+                "length": 21
+            },
+            {
+                "detection": "[and to figure out how they fit in with the ]new administration[’s goals and priorities. They receive briefings]",
+                "prefix": "and to figure out how they fit in with the ",
+                "exact": "new administration",
+                "suffix": "’s goals and priorities. They receive briefings",
+                "offset": 4664,
+                "length": 18
+            },
+            {
+                "detection": "[be presented early the next year, defining the ]administration[’s goals and laying out a pathway for achieving]",
+                "prefix": "be presented early the next year, defining the ",
+                "exact": "administration",
+                "suffix": "’s goals and laying out a pathway for achieving",
+                "offset": 5075,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e1f6df45-9d7e-3842-950e-0688b16e4df0": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "transition spokesman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[operation to Vice President-elect Mike Pence. ]A transition spokesman[ said late Tuesday that Mr. Pence had signed the]",
+                "prefix": "operation to Vice President-elect Mike Pence. ",
+                "exact": "A transition spokesman",
+                "suffix": " said late Tuesday that Mr. Pence had signed the",
+                "offset": 4091,
+                "length": 22
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/83fcfc85-dabd-3d8f-a731-60cfe6c24642": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "cloud computing applications",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[into tablet computers, secure internet sites or ]cloud computing applications[. Officials from the White House and 100 federal]",
+                "prefix": "into tablet computers, secure internet sites or ",
+                "exact": "cloud computing applications",
+                "suffix": ". Officials from the White House and 100 federal",
+                "offset": 494,
+                "length": 28
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "president",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ on standby, waiting to meet “landing teams” from ]the president-elect[’s staff and brief them on how things really work]",
+                "prefix": " on standby, waiting to meet “landing teams” from ",
+                "exact": "the president-elect",
+                "suffix": "’s staff and brief them on how things really work",
+                "offset": 633,
+                "length": 19
+            },
+            {
+                "detection": "[meticulously mapped. \n \nBut eight days after ]President-elect[ Donald J. Trump won election in a stunning]",
+                "prefix": "meticulously mapped. \n \nBut eight days after ",
+                "exact": "President-elect",
+                "suffix": " Donald J. Trump won election in a stunning",
+                "offset": 798,
+                "length": 15
+            },
+            {
+                "detection": "[ different. Parts of it are governed by a statute ]President[ Obama signed this year to streamline the]",
+                "prefix": " different. Parts of it are governed by a statute ",
+                "exact": "President",
+                "suffix": " Obama signed this year to streamline the",
+                "offset": 1416,
+                "length": 9
+            },
+            {
+                "detection": "[to power, Mr. Trump is hardly the first ]president-elect[ to preside over a disorderly takeover. \n \nThe]",
+                "prefix": "to power, Mr. Trump is hardly the first ",
+                "exact": "president-elect",
+                "suffix": " to preside over a disorderly takeover. \n \nThe",
+                "offset": 1697,
+                "length": 15
+            },
+            {
+                "detection": "[ bureaucracy he is about to inherit. \n \n“You have ]a president-elect[ who has been elected on a platform of change]",
+                "prefix": " bureaucracy he is about to inherit. \n \n“You have ",
+                "exact": "a president-elect",
+                "suffix": " who has been elected on a platform of change",
+                "offset": 3094,
+                "length": 17
+            },
+            {
+                "detection": "[ the White House chief of staff and the leader of ]the president-elect[’s transition team is typically signed by both]",
+                "prefix": " the White House chief of staff and the leader of ",
+                "exact": "the president-elect",
+                "suffix": "’s transition team is typically signed by both",
+                "offset": 3462,
+                "length": 19
+            },
+            {
+                "detection": "[office. The document governs the terms by which ]the president[’s staff and that of the president-elect]",
+                "prefix": "office. The document governs the terms by which ",
+                "exact": "the president",
+                "suffix": "’s staff and that of the president-elect",
+                "offset": 3661,
+                "length": 13
+            },
+            {
+                "detection": "[ terms by which the president’s staff and that of ]the president-elect[ collaborate, including important nondisclosure]",
+                "prefix": " terms by which the president’s staff and that of ",
+                "exact": "the president-elect",
+                "suffix": " collaborate, including important nondisclosure",
+                "offset": 3695,
+                "length": 19
+            },
+            {
+                "detection": "[facing the agencies and immediate tasks that ]the president-elect[ must undertake on Day 1. \n \nThis crucial time]",
+                "prefix": "facing the agencies and immediate tasks that ",
+                "exact": "the president-elect",
+                "suffix": " must undertake on Day 1. \n \nThis crucial time",
+                "offset": 4801,
+                "length": 19
+            },
+            {
+                "detection": "[in 2008, has built a new software system for ]the president-elect[ to track candidates for the appointments and]",
+                "prefix": "in 2008, has built a new software system for ",
+                "exact": "the president-elect",
+                "suffix": " to track candidates for the appointments and",
+                "offset": 5926,
+                "length": 19
+            },
+            {
+                "detection": "[ a project of the Partnership for Public Service, ]the president-elect[ should aim to select 50 top cabinet appointees]",
+                "prefix": " a project of the Partnership for Public Service, ",
+                "exact": "the president-elect",
+                "suffix": " should aim to select 50 top cabinet appointees",
+                "offset": 6145,
+                "length": 19
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/pershash-1/10570e9b-e8a7-35c0-8027-0481655e9529": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Brandi Hoffine",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.984",
+        "firstname": "Brandi",
+        "lastname": "Hoffine",
+        "commonname": "Brandi Hoffine",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[that Mr. Pence had signed the document. But ]Brandi Hoffine[, a White House spokeswoman, said the transition]",
+                "prefix": "that Mr. Pence had signed the document. But ",
+                "exact": "Brandi Hoffine",
+                "suffix": ", a White House spokeswoman, said the transition",
+                "offset": 4176,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.989",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.984"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/8709d2a1-4437-334e-aaa9-dfb6991a739a": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "campaign chairman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ chief, Mickey Kantor, who had been Mr. Clinton’s ]campaign chairman[, with Warren Christopher, who would become]",
+                "prefix": " chief, Mickey Kantor, who had been Mr. Clinton’s ",
+                "exact": "campaign chairman",
+                "suffix": ", with Warren Christopher, who would become",
+                "offset": 2237,
+                "length": 17
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Obama",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.985",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Parts of it are governed by a statute President ]Obama[ signed this year to streamline the transition]",
+                "prefix": "Parts of it are governed by a statute President ",
+                "exact": "Obama",
+                "suffix": " signed this year to streamline the transition",
+                "offset": 1426,
+                "length": 5
+            },
+            {
+                "detection": "[in the 2008-9 transition from George W. Bush to ]Mr. Obama[ that members of both parties consider a model of]",
+                "prefix": "in the 2008-9 transition from George W. Bush to ",
+                "exact": "Mr. Obama",
+                "suffix": " that members of both parties consider a model of",
+                "offset": 2529,
+                "length": 9
+            },
+            {
+                "detection": "[of both parties consider a model of efficiency, ]Mr. Obama[ had to replace his head of personnel several]",
+                "prefix": "of both parties consider a model of efficiency, ",
+                "exact": "Mr. Obama",
+                "suffix": " had to replace his head of personnel several",
+                "offset": 2600,
+                "length": 9
+            },
+            {
+                "detection": "[a model of efficiency, Mr. Obama had to replace ]his[ head of personnel several times. \n \n“There is a]",
+                "prefix": "a model of efficiency, Mr. Obama had to replace ",
+                "exact": "his",
+                "suffix": " head of personnel several times. \n \n“There is a",
+                "offset": 2625,
+                "length": 3
+            },
+            {
+                "detection": "[after the election, as was the case when ]Mr. Obama[ was preparing to take office. The document]",
+                "prefix": "after the election, as was the case when ",
+                "exact": "Mr. Obama",
+                "suffix": " was preparing to take office. The document",
+                "offset": 3581,
+                "length": 9
+            },
+            {
+                "detection": "[ agency to begin the review process, according to ]Obama[ administration officials. \n \nPersonnel is policy]",
+                "prefix": " agency to begin the review process, according to ",
+                "exact": "Obama",
+                "suffix": " administration officials. \n \nPersonnel is policy",
+                "offset": 5285,
+                "length": 5
+            },
+            {
+                "detection": "[planning. In January 2009, the week before ]Mr. Obama[ was inaugurated, the Bush administration held a]",
+                "prefix": "planning. In January 2009, the week before ",
+                "exact": "Mr. Obama",
+                "suffix": " was inaugurated, the Bush administration held a",
+                "offset": 6459,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.984",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.985"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/082e2433-7eb7-3905-b3fb-d5c2ece093d0": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Vice President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Trump turned over the transition operation to ]Vice President-elect[ Mike Pence. A transition spokesman said late]",
+                "prefix": "Trump turned over the transition operation to ",
+                "exact": "Vice President-elect",
+                "suffix": " Mike Pence. A transition spokesman said late",
+                "offset": 4058,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c40ffb8c-c089-342f-94a2-6e656fdc9d0f": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Obama administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[the process of transferring power from the ]Obama administration[ to the Trump administration has yet to grind]",
+                "prefix": "the process of transferring power from the ",
+                "exact": "Obama administration",
+                "suffix": " to the Trump administration has yet to grind",
+                "offset": 932,
+                "length": 20
+            },
+            {
+                "detection": "[the process — months in the planning by the ]Obama administration[ and aides to both Mr. Trump and his defeated]",
+                "prefix": "the process — months in the planning by the ",
+                "exact": "Obama administration",
+                "suffix": " and aides to both Mr. Trump and his defeated",
+                "offset": 1263,
+                "length": 20
+            },
+            {
+                "detection": "[ agency to begin the review process, according to ]Obama administration[ officials. \n \nPersonnel is policy \n \nThe]",
+                "prefix": " agency to begin the review process, according to ",
+                "exact": "Obama administration",
+                "suffix": " officials. \n \nPersonnel is policy \n \nThe",
+                "offset": 5285,
+                "length": 20
+            },
+            {
+                "detection": "[once elected to build out their teams. \n \nThe ]Obama administration[, which found the process cumbersome and the]",
+                "prefix": "once elected to build out their teams. \n \nThe ",
+                "exact": "Obama administration",
+                "suffix": ", which found the process cumbersome and the",
+                "offset": 5767,
+                "length": 20
+            },
+            {
+                "detection": "[on how to respond to such an attack. \n \nThe ]Obama administration[ is planning two such exercises for Mr. Trump’s]",
+                "prefix": "on how to respond to such an attack. \n \nThe ",
+                "exact": "Obama administration",
+                "suffix": " is planning two such exercises for Mr. Trump’s",
+                "offset": 6738,
+                "length": 20
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/d841a4f6-0097-35ff-840f-1d3164a24d10": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Bush administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[the week before Mr. Obama was inaugurated, the ]Bush administration[ held a war-game exercise in the White House]",
+                "prefix": "the week before Mr. Obama was inaugurated, the ",
+                "exact": "Bush administration",
+                "suffix": " held a war-game exercise in the White House",
+                "offset": 6490,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/90369ed5-88e6-3c89-933c-c8b30ccb1879": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "head of personnel several times",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[of efficiency, Mr. Obama had to replace his ]head of personnel several times[. \n \n“There is a long history of unfortunate]",
+                "prefix": "of efficiency, Mr. Obama had to replace his ",
+                "exact": "head of personnel several times",
+                "suffix": ". \n \n“There is a long history of unfortunate",
+                "offset": 2629,
+                "length": 31
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "WASHINGTON",
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[ of Rocky Presidential Handovers</Title> \n<Body> \n]WASHINGTON[ — The briefing materials are ready, loaded into]",
+                "prefix": " of Rocky Presidential Handovers</Title> \n<Body> \n",
+                "exact": "WASHINGTON",
+                "suffix": " — The briefing materials are ready, loaded into",
+                "offset": 392,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/ba9517fa-9e78-3436-8620-55e54f1e24d5": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.975",
+        "firstname": "Mike",
+        "lastname": "Pence",
+        "commonname": "Mike Pence",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ the transition operation to Vice President-elect ]Mike Pence[. A transition spokesman said late Tuesday that]",
+                "prefix": " the transition operation to Vice President-elect ",
+                "exact": "Mike Pence",
+                "suffix": ". A transition spokesman said late Tuesday that",
+                "offset": 4079,
+                "length": 10
+            },
+            {
+                "detection": "[A transition spokesman said late Tuesday that ]Mr. Pence[ had signed the document. But Brandi Hoffine, a]",
+                "prefix": "A transition spokesman said late Tuesday that ",
+                "exact": "Mr. Pence",
+                "suffix": " had signed the document. But Brandi Hoffine, a",
+                "offset": 4137,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.972",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.975"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/63b9ca66-bfdb-3533-9a19-8b1110336b5c": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "George Bush",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "George",
+        "lastname": "Bush",
+        "commonname": "George Bush",
+        "confidence": {
+            "statisticalfeature": "0.995",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n \nThe 1988 transition from Ronald Reagan to ]George Bush[ was particularly nasty, because many Reagan]",
+                "prefix": "\n \nThe 1988 transition from Ronald Reagan to ",
+                "exact": "George Bush",
+                "suffix": " was particularly nasty, because many Reagan",
+                "offset": 1797,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2a32bae8-6962-315a-8999-3190113ee7a3": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "transition chief",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[planned process: Mr. Clinton replaced his ]transition chief[, Mickey Kantor, who had been Mr. Clinton’s]",
+                "prefix": "planned process: Mr. Clinton replaced his ",
+                "exact": "transition chief",
+                "suffix": ", Mickey Kantor, who had been Mr. Clinton’s",
+                "offset": 2177,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Hillary Clinton",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Hillary",
+        "lastname": "Clinton",
+        "commonname": "Hillary Clinton",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[to both Mr. Trump and his defeated opponent, ]Hillary Clinton[ — looks far different. Parts of it are governed]",
+                "prefix": "to both Mr. Trump and his defeated opponent, ",
+                "exact": "Hillary Clinton",
+                "suffix": " — looks far different. Parts of it are governed",
+                "offset": 1339,
+                "length": 15
+            },
+            {
+                "detection": "[that upended a carefully planned process: ]Mr. Clinton[ replaced his transition chief, Mickey Kantor,]",
+                "prefix": "that upended a carefully planned process: ",
+                "exact": "Mr. Clinton",
+                "suffix": " replaced his transition chief, Mickey Kantor,",
+                "offset": 2152,
+                "length": 11
+            },
+            {
+                "detection": "[transition chief, Mickey Kantor, who had been ]Mr. Clinton[’s campaign chairman, with Warren Christopher,]",
+                "prefix": "transition chief, Mickey Kantor, who had been ",
+                "exact": "Mr. Clinton",
+                "suffix": "’s campaign chairman, with Warren Christopher,",
+                "offset": 2223,
+                "length": 11
+            },
+            {
+                "detection": "[secretary of state. It was also hobbled by ]Mr. Clinton[’s campaign promise to slash White House staff by]",
+                "prefix": "secretary of state. It was also hobbled by ",
+                "exact": "Mr. Clinton",
+                "suffix": "’s campaign promise to slash White House staff by",
+                "offset": 2341,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/bffbcc38-baec-3024-bf89-5d00b13c5131": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Ronald Reagan",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Ronald",
+        "lastname": "Reagan",
+        "commonname": "Ronald Reagan",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ disorderly takeover. \n \nThe 1988 transition from ]Ronald Reagan[ to George Bush was particularly nasty, because]",
+                "prefix": " disorderly takeover. \n \nThe 1988 transition from ",
+                "exact": "Ronald Reagan",
+                "suffix": " to George Bush was particularly nasty, because",
+                "offset": 1780,
+                "length": 13
+            },
+            {
+                "detection": "[ George Bush was particularly nasty, because many ]Reagan[ administration aides assumed — wrongly, as it]",
+                "prefix": " George Bush was particularly nasty, because many ",
+                "exact": "Reagan",
+                "suffix": " administration aides assumed — wrongly, as it",
+                "offset": 1846,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/ea7e6db1-e1a2-3d73-b46b-29deab212133": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chief of staff and the leader",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[of understanding between the White House ]chief of staff and the leader[ of the president-elect’s transition team is]",
+                "prefix": "of understanding between the White House ",
+                "exact": "chief of staff and the leader",
+                "suffix": " of the president-elect’s transition team is",
+                "offset": 3429,
+                "length": 29
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/826736d3-3b2b-382c-bf2d-a9fb4c75a55f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Max Stier",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Max",
+        "lastname": "Stier",
+        "commonname": "Max Stier",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[of unfortunate transition activity,” said ]Max Stier[, the president and chief executive of the Center]",
+                "prefix": "of unfortunate transition activity,” said ",
+                "exact": "Max Stier",
+                "suffix": ", the president and chief executive of the Center",
+                "offset": 2732,
+                "length": 9
+            },
+            {
+                "detection": "[Partnership for Public Service. \n \nStill, ]he[ added, the Trump transition is different in that]",
+                "prefix": "Partnership for Public Service. \n \nStill, ",
+                "exact": "he",
+                "suffix": " added, the Trump transition is different in that",
+                "offset": 2895,
+                "length": 2
+            },
+            {
+                "detection": "[who grasp the magnitude of the bureaucracy ]he[ is about to inherit. \n \n“You have a]",
+                "prefix": "who grasp the magnitude of the bureaucracy ",
+                "exact": "he",
+                "suffix": " is about to inherit. \n \n“You have a",
+                "offset": 3057,
+                "length": 2
+            },
+            {
+                "detection": "[on a platform of change from the outside,” ]Mr. Stier[ said. “This is distinctive in that there is not]",
+                "prefix": "on a platform of change from the outside,” ",
+                "exact": "Mr. Stier",
+                "suffix": " said. “This is distinctive in that there is not",
+                "offset": 3176,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/f1d77aa8-f9b9-3ad1-b6a3-2d516d2d31c6": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "secretary of state",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[with Warren Christopher, who would become ]secretary of state[. It was also hobbled by Mr. Clinton’s campaign]",
+                "prefix": "with Warren Christopher, who would become ",
+                "exact": "secretary of state",
+                "suffix": ". It was also hobbled by Mr. Clinton’s campaign",
+                "offset": 2298,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/5e6477d5-2845-3cd9-9d29-4e7a0e8699a3": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Chris Christie",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Chris Christie",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[unlocks the rest of the transition process. \n \n]Gov. Chris Christie[ of New Jersey signed such an agreement on Nov.]",
+                "prefix": "unlocks the rest of the transition process. \n \n",
+                "exact": "Gov. Chris Christie",
+                "suffix": " of New Jersey signed such an agreement on Nov.",
+                "offset": 3857,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/32c4ae97-ce04-3441-8bef-983ef741a869": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Public Service",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ a project run by the nonpartisan Partnership for ]Public Service[. \n \nStill, he added, the Trump transition is]",
+                "prefix": " a project run by the nonpartisan Partnership for ",
+                "exact": "Public Service",
+                "suffix": ". \n \nStill, he added, the Trump transition is",
+                "offset": 2869,
+                "length": 14
+            },
+            {
+                "detection": "[Transition, a project of the Partnership for ]Public Service[, the president-elect should aim to select 50 top]",
+                "prefix": "Transition, a project of the Partnership for ",
+                "exact": "Public Service",
+                "suffix": ", the president-elect should aim to select 50 top",
+                "offset": 6129,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/806197a9-3e7b-33ec-9fa8-103f45fb6649": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "spokeswoman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[the document. But Brandi Hoffine, a White House ]spokeswoman[, said the transition team had not yet provided]",
+                "prefix": "the document. But Brandi Hoffine, a White House ",
+                "exact": "spokeswoman",
+                "suffix": ", said the transition team had not yet provided",
+                "offset": 4206,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald J. Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Trump[’s Transition in a ‘Long History’ of Rocky]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Trump",
+                "suffix": "’s Transition in a ‘Long History’ of Rocky",
+                "offset": 304,
+                "length": 5
+            },
+            {
+                "detection": "[mapped. \n \nBut eight days after President-elect ]Donald J. Trump[ won election in a stunning upset, surprising]",
+                "prefix": "mapped. \n \nBut eight days after President-elect ",
+                "exact": "Donald J. Trump",
+                "suffix": " won election in a stunning upset, surprising",
+                "offset": 814,
+                "length": 15
+            },
+            {
+                "detection": "[sown confusion and discord. One associate of ]Mr. Trump[’s has told people that his operation is a month]",
+                "prefix": "sown confusion and discord. One associate of ",
+                "exact": "Mr. Trump",
+                "suffix": "’s has told people that his operation is a month",
+                "offset": 1114,
+                "length": 9
+            },
+            {
+                "detection": "[associate of Mr. Trump’s has told people that ]his[ operation is a month behind schedule. \n \nUnder]",
+                "prefix": "associate of Mr. Trump’s has told people that ",
+                "exact": "his",
+                "suffix": " operation is a month behind schedule. \n \nUnder",
+                "offset": 1147,
+                "length": 3
+            },
+            {
+                "detection": "[by the Obama administration and aides to both ]Mr. Trump[ and his defeated opponent, Hillary Clinton —]",
+                "prefix": "by the Obama administration and aides to both ",
+                "exact": "Mr. Trump",
+                "suffix": " and his defeated opponent, Hillary Clinton —",
+                "offset": 1302,
+                "length": 9
+            },
+            {
+                "detection": "[administration and aides to both Mr. Trump and ]his[ defeated opponent, Hillary Clinton — looks far]",
+                "prefix": "administration and aides to both Mr. Trump and ",
+                "exact": "his",
+                "suffix": " defeated opponent, Hillary Clinton — looks far",
+                "offset": 1316,
+                "length": 3
+            },
+            {
+                "detection": "[budget. \n \nBut for all the drama surrounding ]his[ transition to power, Mr. Trump is hardly the]",
+                "prefix": "budget. \n \nBut for all the drama surrounding ",
+                "exact": "his",
+                "suffix": " transition to power, Mr. Trump is hardly the",
+                "offset": 1642,
+                "length": 3
+            },
+            {
+                "detection": "[the drama surrounding his transition to power, ]Mr. Trump[ is hardly the first president-elect to preside]",
+                "prefix": "the drama surrounding his transition to power, ",
+                "exact": "Mr. Trump",
+                "suffix": " is hardly the first president-elect to preside",
+                "offset": 1667,
+                "length": 9
+            },
+            {
+                "detection": "[has deep understanding of the institution that ]Trump[ is going to have to run.” \n \nSetting the ground]",
+                "prefix": "has deep understanding of the institution that ",
+                "exact": "Trump",
+                "suffix": " is going to have to run.” \n \nSetting the ground",
+                "offset": 3312,
+                "length": 5
+            },
+            {
+                "detection": "[but it was invalidated on Friday when ]Mr. Trump[ turned over the transition operation to Vice]",
+                "prefix": "but it was invalidated on Friday when ",
+                "exact": "Mr. Trump",
+                "suffix": " turned over the transition operation to Vice",
+                "offset": 4008,
+                "length": 9
+            },
+            {
+                "detection": "[them. \n \nAs of Wednesday evening, nobody from ]Mr. Trump[’s transition team had arrived at a federal]",
+                "prefix": "them. \n \nAs of Wednesday evening, nobody from ",
+                "exact": "Mr. Trump",
+                "suffix": "’s transition team had arrived at a federal",
+                "offset": 5183,
+                "length": 9
+            },
+            {
+                "detection": "[is planning two such exercises for ]Mr. Trump[’s team, one in December and one in January. As]",
+                "prefix": "is planning two such exercises for ",
+                "exact": "Mr. Trump",
+                "suffix": "’s team, one in December and one in January. As",
+                "offset": 6794,
+                "length": 9
+            },
+            {
+                "detection": "[in December and one in January. As of Tuesday, ]Mr. Trump[ had dismissed two top national security]",
+                "prefix": "in December and one in January. As of Tuesday, ",
+                "exact": "Mr. Trump",
+                "suffix": " had dismissed two top national security",
+                "offset": 6863,
+                "length": 9
+            },
+            {
+                "detection": "[ dismissed two top national security officials on ]his[ transition team, leaving the question of who]",
+                "prefix": " dismissed two top national security officials on ",
+                "exact": "his",
+                "suffix": " transition team, leaving the question of who",
+                "offset": 6926,
+                "length": 3
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/5e4c03d3-273d-321b-83ba-dd42e4ca3061": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Center for Presidential Transition",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[Stier, the president and chief executive of the ]Center for Presidential Transition[, a project run by the nonpartisan Partnership]",
+                "prefix": "Stier, the president and chief executive of the ",
+                "exact": "Center for Presidential Transition",
+                "suffix": ", a project run by the nonpartisan Partnership",
+                "offset": 2784,
+                "length": 34
+            },
+            {
+                "detection": "[\n \nAccording to the independent, nonpartisan ]Center for Presidential Transition[, a project of the Partnership for Public]",
+                "prefix": "\n \nAccording to the independent, nonpartisan ",
+                "exact": "Center for Presidential Transition",
+                "suffix": ", a project of the Partnership for Public",
+                "offset": 6060,
+                "length": 34
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/ceff08ff-ea71-3d8f-8056-258a6a51be38": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "secure internet sites",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[are ready, loaded into tablet computers, ]secure internet sites[ or cloud computing applications. Officials from]",
+                "prefix": "are ready, loaded into tablet computers, ",
+                "exact": "secure internet sites",
+                "suffix": " or cloud computing applications. Officials from",
+                "offset": 469,
+                "length": 21
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/6df2b0d0-0a15-3923-a15f-ff3d866e039b": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Senate",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[including about 1,000 who will require ]Senate[ confirmation. Presidential candidates typically]",
+                "prefix": "including about 1,000 who will require ",
+                "exact": "Senate",
+                "suffix": " confirmation. Presidential candidates typically",
+                "offset": 5559,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a3cf9f23-2e9a-3978-b666-f31f7851f5ce": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "president and chief executive",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[transition activity,” said Max Stier, ]the president and chief executive[ of the Center for Presidential Transition, a]",
+                "prefix": "transition activity,” said Max Stier, ",
+                "exact": "the president and chief executive",
+                "suffix": " of the Center for Presidential Transition, a",
+                "offset": 2743,
+                "length": 33
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/b1bd7061-fe91-38f0-9fb2-157aa514b97e": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "transition chief",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88",
+        "instances": [
+            {
+                "detection": "[that upended a carefully planned process: ]Mr. Clinton replaced his transition chief, Mickey Kantor[, who had been Mr. Clinton’s campaign chairman,]",
+                "prefix": "that upended a carefully planned process: ",
+                "exact": "Mr. Clinton replaced his transition chief, Mickey Kantor",
+                "suffix": ", who had been Mr. Clinton’s campaign chairman,",
+                "offset": 2152,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c0e98f25-ef3f-30e5-a7d8-9b3f3c69b2a7": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentRelation",
+        "forenduserdisplay": "true",
+        "position": "transition chief",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentRelation",
+        "person_employer": "http://d.opencalais.com/pershash-1/f6ef4719-de8f-373b-becf-d6dc08efe40a",
+        "person_employee": "http://d.opencalais.com/pershash-1/4c6267da-9459-3106-89d1-43d5abce6e45",
+        "instances": [
+            {
+                "detection": "[carefully planned process: Mr. Clinton replaced ]his transition chief, Mickey Kantor[, who had been Mr. Clinton’s campaign chairman,]",
+                "prefix": "carefully planned process: Mr. Clinton replaced ",
+                "exact": "his transition chief, Mickey Kantor",
+                "suffix": ", who had been Mr. Clinton’s campaign chairman,",
+                "offset": 2173,
+                "length": 35
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/bc365ce7-4421-3ee3-9d43-77fdb0e313b3": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“There is a long history of unfortunate transition activity,”",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/826736d3-3b2b-382c-bf2d-a9fb4c75a55f",
+        "instances": [
+            {
+                "detection": "[replace his head of personnel several times. \n \n]“There is a long history of unfortunate transition activity,” said Max Stier, the president and chief executive of the Center for Presidential Transition, a project run by the nonpartisan Partnership for Public Service.[ \n \nStill, he added, the Trump transition is]",
+                "prefix": "replace his head of personnel several times. \n \n",
+                "exact": "“There is a long history of unfortunate transition activity,” said Max Stier, the president and chief executive of the Center for Presidential Transition, a project run by the nonpartisan Partnership for Public Service.",
+                "suffix": " \n \nStill, he added, the Trump transition is",
+                "offset": 2665,
+                "length": 219
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4e91b403-22e2-3a01-9e22-f84b7b9d76ae": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "spokeswoman",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/10570e9b-e8a7-35c0-8027-0481655e9529",
+        "organization": "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa",
+        "instances": [
+            {
+                "detection": "[that Mr. Pence had signed the document. But ]Brandi Hoffine, a White House spokeswoman[, said the transition team had not yet provided]",
+                "prefix": "that Mr. Pence had signed the document. But ",
+                "exact": "Brandi Hoffine, a White House spokeswoman",
+                "suffix": ", said the transition team had not yet provided",
+                "offset": 4176,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9251d242-00a1-3e73-a2e2-3a2df6337ccc": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Vice President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/ba9517fa-9e78-3436-8620-55e54f1e24d5",
+        "organization": "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa",
+        "instances": [
+            {
+                "detection": "[Trump turned over the transition operation to ]Vice President-elect Mike Pence[. A transition spokesman said late Tuesday that]",
+                "prefix": "Trump turned over the transition operation to ",
+                "exact": "Vice President-elect Mike Pence",
+                "suffix": ". A transition spokesman said late Tuesday that",
+                "offset": 4058,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/456f4d4b-15d7-3f29-8fb9-e73eaad6bc04": {
+        "_typeGroup": "relations",
+        "_type": "VotingResult",
+        "forenduserdisplay": "false",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/VotingResult",
+        "winningcandidate": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[meticulously mapped. \n \nBut eight days after ]President-elect Donald J. Trump won election[ in a stunning upset, surprising even himself,]",
+                "prefix": "meticulously mapped. \n \nBut eight days after ",
+                "exact": "President-elect Donald J. Trump won election",
+                "suffix": " in a stunning upset, surprising even himself,",
+                "offset": 798,
+                "length": 44
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c1f38fe4-8400-3042-85db-24cb11c1f957": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "president and chief executive",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/826736d3-3b2b-382c-bf2d-a9fb4c75a55f",
+        "organization": "http://d.opencalais.com/genericHasher-1/5e4c03d3-273d-321b-83ba-dd42e4ca3061",
+        "instances": [
+            {
+                "detection": "[of unfortunate transition activity,” said ]Max Stier, the president and chief executive of the Center for Presidential Transition[, a project run by the nonpartisan Partnership]",
+                "prefix": "of unfortunate transition activity,” said ",
+                "exact": "Max Stier, the president and chief executive of the Center for Presidential Transition",
+                "suffix": ", a project run by the nonpartisan Partnership",
+                "offset": 2732,
+                "length": 86
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/df167616-7f15-3965-b24f-cb835125b14a": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "New Jersey",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/5e6477d5-2845-3cd9-9d29-4e7a0e8699a3",
+        "instances": [
+            {
+                "detection": "[unlocks the rest of the transition process. \n \n]Gov. Chris Christie of New Jersey[ signed such an agreement on Nov. 8, before the]",
+                "prefix": "unlocks the rest of the transition process. \n \n",
+                "exact": "Gov. Chris Christie of New Jersey",
+                "suffix": " signed such an agreement on Nov. 8, before the",
+                "offset": 3857,
+                "length": 33
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7de3f981-109f-3fef-8b53-4d802e237253": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "the transition team had not yet provided the list of officials who would be participating in the process, a requirement before the handover can begin",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/10570e9b-e8a7-35c0-8027-0481655e9529",
+        "instances": [
+            {
+                "detection": "[Tuesday that Mr. Pence had signed the document. ]But Brandi Hoffine, a White House spokeswoman, said the transition team had not yet provided the list of officials who would be participating in the process, a requirement before the handover can begin.[ \n \nLanding teams arrive \n \nWithin a few days of]",
+                "prefix": "Tuesday that Mr. Pence had signed the document. ",
+                "exact": "But Brandi Hoffine, a White House spokeswoman, said the transition team had not yet provided the list of officials who would be participating in the process, a requirement before the handover can begin.",
+                "suffix": " \n \nLanding teams arrive \n \nWithin a few days of",
+                "offset": 4172,
+                "length": 202
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/65e8afd2-914e-3f3a-b94f-61e3cf94ef2a": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentChange",
+        "forenduserdisplay": "false",
+        "position": "transition chief",
+        "changetype": "leaves",
+        "employmentchangestatus": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentChange",
+        "person": "http://d.opencalais.com/pershash-1/4c6267da-9459-3106-89d1-43d5abce6e45",
+        "instances": [
+            {
+                "detection": "[carefully planned process: Mr. Clinton replaced ]his transition chief, Mickey Kantor[, who had been Mr. Clinton’s campaign chairman,]",
+                "prefix": "carefully planned process: Mr. Clinton replaced ",
+                "exact": "his transition chief, Mickey Kantor",
+                "suffix": ", who had been Mr. Clinton’s campaign chairman,",
+                "offset": 2173,
+                "length": 35
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/58b2d94c-abdb-3a7f-b15d-bac85ff5a999": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Mr. Clinton’s campaign chairman",
+        "careertype": "professional",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/4c6267da-9459-3106-89d1-43d5abce6e45",
+        "organization": "http://d.opencalais.com/genericHasher-1/867696d5-e201-3d99-a4f0-7b22742fc4d2",
+        "instances": [
+            {
+                "detection": "[Mr. Clinton replaced his transition chief, ]Mickey Kantor, who had been Mr. Clinton’s campaign chairman[, with Warren Christopher, who would become]",
+                "prefix": "Mr. Clinton replaced his transition chief, ",
+                "exact": "Mickey Kantor, who had been Mr. Clinton’s campaign chairman",
+                "suffix": ", with Warren Christopher, who would become",
+                "offset": 2195,
+                "length": 59
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/991bfbe5-5aba-3638-89ec-88ee942d62b5": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a",
+        "instances": [
+            {
+                "detection": "[ different. Parts of it are governed by a statute ]President Obama[ signed this year to streamline the transition]",
+                "prefix": " different. Parts of it are governed by a statute ",
+                "exact": "President Obama",
+                "suffix": " signed this year to streamline the transition",
+                "offset": 1416,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8f7b15e9-c47c-3b82-a5ef-50f7f763a332": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentChange",
+        "forenduserdisplay": "false",
+        "position": "transition chief",
+        "changetype": "enters",
+        "employmentchangestatus": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentChange",
+        "person": "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88",
+        "instances": [
+            {
+                "detection": "[that upended a carefully planned process: ]Mr. Clinton replaced his transition chief, Mickey Kantor[, who had been Mr. Clinton’s campaign chairman,]",
+                "prefix": "that upended a carefully planned process: ",
+                "exact": "Mr. Clinton replaced his transition chief, Mickey Kantor",
+                "suffix": ", who had been Mr. Clinton’s campaign chairman,",
+                "offset": 2152,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/68265496-3dc6-326a-af59-b482e065779e": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "organization": "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa",
+        "instances": [
+            {
+                "detection": "[meticulously mapped. \n \nBut eight days after ]President-elect Donald J. Trump[ won election in a stunning upset, surprising]",
+                "prefix": "meticulously mapped. \n \nBut eight days after ",
+                "exact": "President-elect Donald J. Trump",
+                "suffix": " won election in a stunning upset, surprising",
+                "offset": 798,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/2475a4ca-cca6-3fac-a8fb-ef169be90c7f": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "the Trump transition is different in that it appears to lack guidance from seasoned government professionals who grasp the magnitude of the bureaucracy he is about to inherit",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/826736d3-3b2b-382c-bf2d-a9fb4c75a55f",
+        "instances": [
+            {
+                "detection": "[nonpartisan Partnership for Public Service. \n \n]Still, he added, the Trump transition is different in that it appears to lack guidance from seasoned government professionals who grasp the magnitude of the bureaucracy he is about to inherit.[ \n \n“You have a president-elect who has been]",
+                "prefix": "nonpartisan Partnership for Public Service. \n \n",
+                "exact": "Still, he added, the Trump transition is different in that it appears to lack guidance from seasoned government professionals who grasp the magnitude of the bureaucracy he is about to inherit.",
+                "suffix": " \n \n“You have a president-elect who has been",
+                "offset": 2888,
+                "length": 192
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/59d4abf7-ac71-3a33-ad3d-165854cbf2b4": {
+        "_typeGroup": "relations",
+        "_type": "EmploymentRelation",
+        "forenduserdisplay": "true",
+        "position": "campaign chairman",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/EmploymentRelation",
+        "person_employer": "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88",
+        "person_employee": "http://d.opencalais.com/pershash-1/f4d67280-f63a-3937-826f-52eb7d0fe491",
+        "instances": [
+            {
+                "detection": "[transition chief, Mickey Kantor, who had been ]Mr. Clinton’s campaign chairman, with Warren Christopher[, who would become secretary of state. It was]",
+                "prefix": "transition chief, Mickey Kantor, who had been ",
+                "exact": "Mr. Clinton’s campaign chairman, with Warren Christopher",
+                "suffix": ", who would become secretary of state. It was",
+                "offset": 2223,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e03b57c2-865c-3d3f-b7f7-cfde0cc96687": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Governor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/5e6477d5-2845-3cd9-9d29-4e7a0e8699a3",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/67b69b6d-8872-3300-a33a-6a5e13c110b9",
+        "instances": [
+            {
+                "detection": "[unlocks the rest of the transition process. \n \n]Gov. Chris Christie of New Jersey[ signed such an agreement on Nov. 8, before the]",
+                "prefix": "unlocks the rest of the transition process. \n \n",
+                "exact": "Gov. Chris Christie of New Jersey",
+                "suffix": " signed such an agreement on Nov. 8, before the",
+                "offset": 3857,
+                "length": 33
+            }
+        ]
+    }
+}

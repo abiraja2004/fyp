@@ -1,0 +1,1268 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "6892f0e6-78d8-a339-159d-e332abb6acde",
+            "id": "http://id.opencalais.com/DbAl7BqQhxirlkaSUZnJMw",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c",
+            "document": "--653fe2c283884eb2b36d9f6a79f08b7f \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Is Donald Trump governing by gossip?</Title> \n<Body> \n(CNN)Donald Trump kicked off his primary campaign with an infamous attack on the Mexican government -- one he was privately searching for evidence to sustain weeks after he made it. \n \n\"They're sending people that have lots of problems (across the border),\" Trump said at his June 2015 announcement in New York. \"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.\" \n \nIt was a remarkable charge, presented without any proof. In his remarks that day, Trump added that he speaks \"to border guards and they tell us what we're getting.\" But even as his young campaign took flight in the weeks that followed, Trump was unsure and seeking new information -- in any form -- to back his initial claim. \nDuring a visit to Laredo, Texas, that July, he found himself in an SUV, speeding toward the border for a photo opp with the city's mayor, Pete Saenz. \n \n\"(Trump) asked me whether I knew whether or not Mexico had a policy, direct or indirect, of sending bad guys over here,\" Saenz told CNN last May, almost a year after the exchange. He recalled telling Trump that he was unaware of anything like it. \n\"I guess he wanted confirmation or verification of some sort,\" Saenz said, adding that Trump sourced the story to Border Patrol officers in the area. \n \nTrump rode his anti-immigration message to the White House, where, even after winning a general election and assuming office, he continues to stake policy and public declarations to hearsay and muddily sourced gossip. \nAs the New York Times first reported on Wednesday, Trump, in a closed door meeting with congressional leaders earlier this week sought to pin his latest round of unfounded voter fraud accusations on an incident relayed to him by the retired German golfer, Bernhard Langer. \nIn Trump's telling, Langer had been turned away at a Florida polling place on Election Day, even as other voters on line -- including many of Latin American descent -- filled out provisional ballots. \nIt was an odd yarn and it created what one lawmaker described as \"an exceedingly awkward moment.\" Less than 24 hours after the story was made public, Langer himself denied having told Trump anything of the sort. \n\"The voting situation reported was not conveyed from me to President Trump, but rather was told to me by a friend,\" he said in a statement. \"I then relayed the story in conversation with another friend, who shared it with a person with ties to the White House.\" \nLanger added that, although he lives in the US, he is not a citizen and cannot vote. \nThese twin instances of policymaking by dubious or false anecdote are emblematic of a White House driven by the whims of a leader staked to a slew of aggressive positions, many at odds with the verifiable truth. \nFrom the hordes of criminals crossing the border -- a charge rejected even by leading border security advocates -- to the 3.5 million people who voted illegally -- all for Hillary Clinton, according to Trump -- and the \"million, million and a half people\" the President claimed to have attended his swearing-in -- the pictures disagree -- there is often a space between the new administration and real, hard facts. \n</Body> \n</Document> \n--653fe2c283884eb2b36d9f6a79f08b7f-- \n",
+            "docTitle": "Is Donald Trump governing by gossip?",
+            "docDate": "2017-01-27 04:33:32.875"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:33:32.347",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|m240t/B7N2p3yXoQqI5XvDQ9j30=|IIWzdiQ+HTSWEXcyraIbujjjhJhpucH97xGA9xOm+TXwQIyj5gsrZA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.773,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "1",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "2",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "2",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/077112a0-efad-3011-b265-36c36a845314",
+        "forenduserdisplay": "true",
+        "name": "The Apprentice",
+        "importance": "2",
+        "originalValue": "The Apprentice (TV series)"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a6051ca1-eaea-3c11-84c6-ce10dfaa62bf",
+        "forenduserdisplay": "true",
+        "name": "Pete Saenz",
+        "importance": "2",
+        "originalValue": "Pete Saenz"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/25af6ed4-e6be-386b-9656-a7e45cea776b",
+        "forenduserdisplay": "true",
+        "name": "Political positions of Donald Trump",
+        "importance": "2",
+        "originalValue": "Political positions of Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Newspaper Publishing",
+        "rcscode": "B:1458",
+        "permid": "4294951543",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Broadcasting - NEC",
+        "rcscode": "B:1446",
+        "permid": "4294951555",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/dca68480-eb2d-3270-a82e-9575330bd43c/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270355:201701270355",
+            "index-refineries:201701220305:201701220305",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270210:201701270210",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701270210:201701270210",
+            "index-vessels:201701212100:201701212100",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201701211455:201701211455",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b6607136-0945-32d7-b4fa-a99019467fd9": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Texas",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[his initial claim. \nDuring a visit to Laredo, ]Texas[, that July, he found himself in an SUV, speeding]",
+                "prefix": "his initial claim. \nDuring a visit to Laredo, ",
+                "exact": "Texas",
+                "suffix": ", that July, he found himself in an SUV, speeding",
+                "offset": 1130,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Texas,United States",
+                "shortname": "Texas",
+                "latitude": "31.4484328889",
+                "longitude": "-97.7816569778",
+                "containedbycountry": "United States",
+                "rcscode": "G:50",
+                "permid": "100299"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/f0dbca91-4d19-3a8b-ae21-eb71b892bc03": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "the New York Times",
+        "nationality": "American",
+        "confidencelevel": "0.97",
+        "resolutions": [
+            {
+                "name": "THE NEW YORK TIMES COMPANY",
+                "permid": "4295904606",
+                "primaryric": "NYT.N",
+                "commonname": "New York Times",
+                "score": 0.94584256,
+                "id": "https://permid.org/1-4295904606",
+                "ticker": "NYT"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[to hearsay and muddily sourced gossip. \nAs ]the New York Times[ first reported on Wednesday, Trump, in a closed]",
+                "prefix": "to hearsay and muddily sourced gossip. \nAs ",
+                "exact": "the New York Times",
+                "suffix": " first reported on Wednesday, Trump, in a closed",
+                "offset": 1880,
+                "length": 18
+            }
+        ],
+        "relevance": 0,
+        "confidence": {
+            "statisticalfeature": "0.917",
+            "dblookup": "0.0",
+            "resolution": "0.94584256",
+            "aggregate": "0.97"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "mayor",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[the border for a photo opp with the city's ]mayor[, Pete Saenz. \n \n\"(Trump) asked me whether I knew]",
+                "prefix": "the border for a photo opp with the city's ",
+                "exact": "mayor",
+                "suffix": ", Pete Saenz. \n \n\"(Trump) asked me whether I knew",
+                "offset": 1235,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e27cba57-b409-34f0-82c8-9328f02ed0fb": {
+        "_typeGroup": "entities",
+        "_type": "PublishedMedium",
+        "forenduserdisplay": "false",
+        "name": "the New York Times",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/PublishedMedium",
+        "instances": [
+            {
+                "detection": "[to hearsay and muddily sourced gossip. \nAs ]the New York Times[ first reported on Wednesday, Trump, in a closed]",
+                "prefix": "to hearsay and muddily sourced gossip. \nAs ",
+                "exact": "the New York Times",
+                "suffix": " first reported on Wednesday, Trump, in a closed",
+                "offset": 1880,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Hillary Clinton",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.98",
+        "firstname": "Hillary",
+        "lastname": "Clinton",
+        "commonname": "Hillary Clinton",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[million people who voted illegally -- all for ]Hillary Clinton[, according to Trump -- and the \"million, million]",
+                "prefix": "million people who voted illegally -- all for ",
+                "exact": "Hillary Clinton",
+                "suffix": ", according to Trump -- and the \"million, million",
+                "offset": 3299,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.97",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.98"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "White House",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[\nTrump rode his anti-immigration message to the ]White House[, where, even after winning a general election]",
+                "prefix": "\nTrump rode his anti-immigration message to the ",
+                "exact": "White House",
+                "suffix": ", where, even after winning a general election",
+                "offset": 1705,
+                "length": 11
+            },
+            {
+                "detection": "[who shared it with a person with ties to the ]White House[.\" \nLanger added that, although he lives in the]",
+                "prefix": "who shared it with a person with ties to the ",
+                "exact": "White House",
+                "suffix": ".\" \nLanger added that, although he lives in the",
+                "offset": 2813,
+                "length": 11
+            },
+            {
+                "detection": "[ by dubious or false anecdote are emblematic of a ]White House[ driven by the whims of a leader staked to a slew]",
+                "prefix": " by dubious or false anecdote are emblematic of a ",
+                "exact": "White House",
+                "suffix": " driven by the whims of a leader staked to a slew",
+                "offset": 3000,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/b5bf3113-97ac-319c-a20d-308c716c8d7b": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Florida",
+        "resolutions": [
+            {
+                "name": "Florida,United States",
+                "shortname": "Florida",
+                "latitude": "28.0908069444",
+                "longitude": "-81.960407533",
+                "containedbycountry": "United States",
+                "rcscode": "G:4X",
+                "permid": "100104"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[telling, Langer had been turned away at a ]Florida[ polling place on Election Day, even as other]",
+                "prefix": "telling, Langer had been turned away at a ",
+                "exact": "Florida",
+                "suffix": " polling place on Election Day, even as other",
+                "offset": 2204,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Mexico",
+        "resolutions": [
+            {
+                "name": "Mexico",
+                "shortname": "Mexico",
+                "latitude": "19.0",
+                "longitude": "-99.0",
+                "rcscode": "G:2V",
+                "permid": "100184"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[ \n\"(Trump) asked me whether I knew whether or not ]Mexico[ had a policy, direct or indirect, of sending bad]",
+                "prefix": " \n\"(Trump) asked me whether I knew whether or not ",
+                "exact": "Mexico",
+                "suffix": " had a policy, direct or indirect, of sending bad",
+                "offset": 1305,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0427dbb3-ca79-3d92-a191-fb7361e49c84": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Mexican government",
+        "organizationtype": "governmental civilian",
+        "nationality": "Mexican",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[primary campaign with an infamous attack on the ]Mexican government[ -- one he was privately searching for evidence]",
+                "prefix": "primary campaign with an infamous attack on the ",
+                "exact": "Mexican government",
+                "suffix": " -- one he was privately searching for evidence",
+                "offset": 439,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[situation reported was not conveyed from me to ]President[ Trump, but rather was told to me by a friend,\"]",
+                "prefix": "situation reported was not conveyed from me to ",
+                "exact": "President",
+                "suffix": " Trump, but rather was told to me by a friend,\"",
+                "offset": 2624,
+                "length": 9
+            },
+            {
+                "detection": "[-- and the \"million, million and a half people\" ]the President[ claimed to have attended his swearing-in -- the]",
+                "prefix": "-- and the \"million, million and a half people\" ",
+                "exact": "the President",
+                "suffix": " claimed to have attended his swearing-in -- the",
+                "offset": 3383,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/147791df-9dac-32ef-8315-c8eed0e2be42": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Bernhard Langer",
+        "persontype": "sports",
+        "nationality": "German",
+        "confidencelevel": "0.998",
+        "commonname": "Bernhard Langer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[relayed to him by the retired German golfer, ]Bernhard Langer[. \nIn Trump's telling, Langer had been turned]",
+                "prefix": "relayed to him by the retired German golfer, ",
+                "exact": "Bernhard Langer",
+                "suffix": ". \nIn Trump's telling, Langer had been turned",
+                "offset": 2133,
+                "length": 15
+            },
+            {
+                "detection": "[golfer, Bernhard Langer. \nIn Trump's telling, ]Langer[ had been turned away at a Florida polling place]",
+                "prefix": "golfer, Bernhard Langer. \nIn Trump's telling, ",
+                "exact": "Langer",
+                "suffix": " had been turned away at a Florida polling place",
+                "offset": 2171,
+                "length": 6
+            },
+            {
+                "detection": "[than 24 hours after the story was made public, ]Langer[ himself denied having told Trump anything of the]",
+                "prefix": "than 24 hours after the story was made public, ",
+                "exact": "Langer",
+                "suffix": " himself denied having told Trump anything of the",
+                "offset": 2502,
+                "length": 6
+            },
+            {
+                "detection": "[Trump, but rather was told to me by a friend,\" ]he[ said in a statement. \"I then relayed the story]",
+                "prefix": "Trump, but rather was told to me by a friend,\" ",
+                "exact": "he",
+                "suffix": " said in a statement. \"I then relayed the story",
+                "offset": 2681,
+                "length": 2
+            },
+            {
+                "detection": "[ it with a person with ties to the White House.\" \n]Langer[ added that, although he lives in the US, he is]",
+                "prefix": " it with a person with ties to the White House.\" \n",
+                "exact": "Langer",
+                "suffix": " added that, although he lives in the US, he is",
+                "offset": 2828,
+                "length": 6
+            },
+            {
+                "detection": "[the White House.\" \nLanger added that, although ]he[ lives in the US, he is not a citizen and cannot]",
+                "prefix": "the White House.\" \nLanger added that, although ",
+                "exact": "he",
+                "suffix": " lives in the US, he is not a citizen and cannot",
+                "offset": 2856,
+                "length": 2
+            },
+            {
+                "detection": "[ \nLanger added that, although he lives in the US, ]he[ is not a citizen and cannot vote. \nThese twin]",
+                "prefix": " \nLanger added that, although he lives in the US, ",
+                "exact": "he",
+                "suffix": " is not a citizen and cannot vote. \nThese twin",
+                "offset": 2876,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "New York",
+        "resolutions": [
+            {
+                "name": "New York City,New York,United States",
+                "shortname": "New York City",
+                "latitude": "40.7142",
+                "longitude": "-74.0064",
+                "containedbystate": "New York",
+                "containedbycountry": "United States",
+                "rcscode": "G:7T"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Trump said at his June 2015 announcement in ]New York[. \"They're bringing drugs. They're bringing]",
+                "prefix": "Trump said at his June 2015 announcement in ",
+                "exact": "New York",
+                "suffix": ". \"They're bringing drugs. They're bringing",
+                "offset": 660,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/51dcfa67-086e-3f8a-b29e-7471b396c32e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "golfer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ an incident relayed to him by the retired German ]golfer[, Bernhard Langer. \nIn Trump's telling, Langer]",
+                "prefix": " an incident relayed to him by the retired German ",
+                "exact": "golfer",
+                "suffix": ", Bernhard Langer. \nIn Trump's telling, Langer",
+                "offset": 2125,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\nLanger added that, although he lives in the ]US[, he is not a citizen and cannot vote. \nThese]",
+                "prefix": "\nLanger added that, although he lives in the ",
+                "exact": "US",
+                "suffix": ", he is not a citizen and cannot vote. \nThese",
+                "offset": 2872,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "persontype": "entertainment",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Donald",
+        "lastname": "Trump",
+        "commonname": "Donald Trump",
+        "resolutions": [
+            {
+                "name": "Donald John Trump",
+                "personid": "55206",
+                "paid": "34413176227",
+                "officerid": [
+                    "1309208",
+                    "55206",
+                    "650373"
+                ],
+                "commonname": "Donald Trump",
+                "score": 0.83514583
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.83514583",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Is ]Donald Trump[ governing by gossip?</Title> \n<Body>]",
+                "prefix": "\n<Document> \n<Title>Is ",
+                "exact": "Donald Trump",
+                "suffix": " governing by gossip?</Title> \n<Body>",
+                "offset": 307,
+                "length": 12
+            },
+            {
+                "detection": "[ Trump governing by gossip?</Title> \n<Body> \n(CNN)]Donald Trump[ kicked off his primary campaign with an infamous]",
+                "prefix": " Trump governing by gossip?</Title> \n<Body> \n(CNN)",
+                "exact": "Donald Trump",
+                "suffix": " kicked off his primary campaign with an infamous",
+                "offset": 363,
+                "length": 12
+            },
+            {
+                "detection": "[\n<Body> \n(CNN)Donald Trump kicked off ]his[ primary campaign with an infamous attack on the]",
+                "prefix": "\n<Body> \n(CNN)Donald Trump kicked off ",
+                "exact": "his",
+                "suffix": " primary campaign with an infamous attack on the",
+                "offset": 387,
+                "length": 3
+            },
+            {
+                "detection": "[ infamous attack on the Mexican government -- one ]he[ was privately searching for evidence to sustain]",
+                "prefix": " infamous attack on the Mexican government -- one ",
+                "exact": "he",
+                "suffix": " was privately searching for evidence to sustain",
+                "offset": 465,
+                "length": 2
+            },
+            {
+                "detection": "[searching for evidence to sustain weeks after ]he[ made it. \n \n\"They're sending people that have]",
+                "prefix": "searching for evidence to sustain weeks after ",
+                "exact": "he",
+                "suffix": " made it. \n \n\"They're sending people that have",
+                "offset": 528,
+                "length": 2
+            },
+            {
+                "detection": "[ that have lots of problems (across the border),\" ]Trump[ said at his June 2015 announcement in New York.]",
+                "prefix": " that have lots of problems (across the border),\" ",
+                "exact": "Trump",
+                "suffix": " said at his June 2015 announcement in New York.",
+                "offset": 616,
+                "length": 5
+            },
+            {
+                "detection": "[of problems (across the border),\" Trump said at ]his[ June 2015 announcement in New York. \"They're]",
+                "prefix": "of problems (across the border),\" Trump said at ",
+                "exact": "his",
+                "suffix": " June 2015 announcement in New York. \"They're",
+                "offset": 630,
+                "length": 3
+            },
+            {
+                "detection": "[charge, presented without any proof. In ]his[ remarks that day, Trump added that he speaks \"to]",
+                "prefix": "charge, presented without any proof. In ",
+                "exact": "his",
+                "suffix": " remarks that day, Trump added that he speaks \"to",
+                "offset": 837,
+                "length": 3
+            },
+            {
+                "detection": "[without any proof. In his remarks that day, ]Trump[ added that he speaks \"to border guards and they]",
+                "prefix": "without any proof. In his remarks that day, ",
+                "exact": "Trump",
+                "suffix": " added that he speaks \"to border guards and they",
+                "offset": 859,
+                "length": 5
+            },
+            {
+                "detection": "[ proof. In his remarks that day, Trump added that ]he[ speaks \"to border guards and they tell us what]",
+                "prefix": " proof. In his remarks that day, Trump added that ",
+                "exact": "he",
+                "suffix": " speaks \"to border guards and they tell us what",
+                "offset": 876,
+                "length": 2
+            },
+            {
+                "detection": "[they tell us what we're getting.\" But even as ]his[ young campaign took flight in the weeks that]",
+                "prefix": "they tell us what we're getting.\" But even as ",
+                "exact": "his",
+                "suffix": " young campaign took flight in the weeks that",
+                "offset": 954,
+                "length": 3
+            },
+            {
+                "detection": "[ campaign took flight in the weeks that followed, ]Trump[ was unsure and seeking new information -- in any]",
+                "prefix": " campaign took flight in the weeks that followed, ",
+                "exact": "Trump",
+                "suffix": " was unsure and seeking new information -- in any",
+                "offset": 1013,
+                "length": 5
+            },
+            {
+                "detection": "[new information -- in any form -- to back ]his[ initial claim. \nDuring a visit to Laredo, Texas,]",
+                "prefix": "new information -- in any form -- to back ",
+                "exact": "his",
+                "suffix": " initial claim. \nDuring a visit to Laredo, Texas,",
+                "offset": 1084,
+                "length": 3
+            },
+            {
+                "detection": "[\nDuring a visit to Laredo, Texas, that July, ]he[ found himself in an SUV, speeding toward the]",
+                "prefix": "\nDuring a visit to Laredo, Texas, that July, ",
+                "exact": "he",
+                "suffix": " found himself in an SUV, speeding toward the",
+                "offset": 1148,
+                "length": 2
+            },
+            {
+                "detection": "[opp with the city's mayor, Pete Saenz. \n \n\"(]Trump[) asked me whether I knew whether or not Mexico]",
+                "prefix": "opp with the city's mayor, Pete Saenz. \n \n\"(",
+                "exact": "Trump",
+                "suffix": ") asked me whether I knew whether or not Mexico",
+                "offset": 1259,
+                "length": 5
+            },
+            {
+                "detection": "[a year after the exchange. He recalled telling ]Trump[ that he was unaware of anything like it. \n\"I]",
+                "prefix": "a year after the exchange. He recalled telling ",
+                "exact": "Trump",
+                "suffix": " that he was unaware of anything like it. \n\"I",
+                "offset": 1457,
+                "length": 5
+            },
+            {
+                "detection": "[the exchange. He recalled telling Trump that ]he[ was unaware of anything like it. \n\"I guess he]",
+                "prefix": "the exchange. He recalled telling Trump that ",
+                "exact": "he",
+                "suffix": " was unaware of anything like it. \n\"I guess he",
+                "offset": 1468,
+                "length": 2
+            },
+            {
+                "detection": "[he was unaware of anything like it. \n\"I guess ]he[ wanted confirmation or verification of some]",
+                "prefix": "he was unaware of anything like it. \n\"I guess ",
+                "exact": "he",
+                "suffix": " wanted confirmation or verification of some",
+                "offset": 1514,
+                "length": 2
+            },
+            {
+                "detection": "[of some sort,\" Saenz said, adding that ]Trump[ sourced the story to Border Patrol officers in]",
+                "prefix": "of some sort,\" Saenz said, adding that ",
+                "exact": "Trump",
+                "suffix": " sourced the story to Border Patrol officers in",
+                "offset": 1592,
+                "length": 5
+            },
+            {
+                "detection": "[story to Border Patrol officers in the area. \n \n]Trump[ rode his anti-immigration message to the White]",
+                "prefix": "story to Border Patrol officers in the area. \n \n",
+                "exact": "Trump",
+                "suffix": " rode his anti-immigration message to the White",
+                "offset": 1658,
+                "length": 5
+            },
+            {
+                "detection": "[Patrol officers in the area. \n \nTrump rode ]his[ anti-immigration message to the White House,]",
+                "prefix": "Patrol officers in the area. \n \nTrump rode ",
+                "exact": "his",
+                "suffix": " anti-immigration message to the White House,",
+                "offset": 1669,
+                "length": 3
+            },
+            {
+                "detection": "[winning a general election and assuming office, ]he[ continues to stake policy and public]",
+                "prefix": "winning a general election and assuming office, ",
+                "exact": "he",
+                "suffix": " continues to stake policy and public",
+                "offset": 1784,
+                "length": 2
+            },
+            {
+                "detection": "[the New York Times first reported on Wednesday, ]Trump[, in a closed door meeting with congressional]",
+                "prefix": "the New York Times first reported on Wednesday, ",
+                "exact": "Trump",
+                "suffix": ", in a closed door meeting with congressional",
+                "offset": 1928,
+                "length": 5
+            },
+            {
+                "detection": "[leaders earlier this week sought to pin ]his[ latest round of unfounded voter fraud]",
+                "prefix": "leaders earlier this week sought to pin ",
+                "exact": "his",
+                "suffix": " latest round of unfounded voter fraud",
+                "offset": 2019,
+                "length": 3
+            },
+            {
+                "detection": "[fraud accusations on an incident relayed to ]him[ by the retired German golfer, Bernhard Langer.]",
+                "prefix": "fraud accusations on an incident relayed to ",
+                "exact": "him",
+                "suffix": " by the retired German golfer, Bernhard Langer.",
+                "offset": 2099,
+                "length": 3
+            },
+            {
+                "detection": "[the retired German golfer, Bernhard Langer. \nIn ]Trump['s telling, Langer had been turned away at a]",
+                "prefix": "the retired German golfer, Bernhard Langer. \nIn ",
+                "exact": "Trump",
+                "suffix": "'s telling, Langer had been turned away at a",
+                "offset": 2154,
+                "length": 5
+            },
+            {
+                "detection": "[made public, Langer himself denied having told ]Trump[ anything of the sort. \n\"The voting situation]",
+                "prefix": "made public, Langer himself denied having told ",
+                "exact": "Trump",
+                "suffix": " anything of the sort. \n\"The voting situation",
+                "offset": 2536,
+                "length": 5
+            },
+            {
+                "detection": "[reported was not conveyed from me to President ]Trump[, but rather was told to me by a friend,\" he said]",
+                "prefix": "reported was not conveyed from me to President ",
+                "exact": "Trump",
+                "suffix": ", but rather was told to me by a friend,\" he said",
+                "offset": 2634,
+                "length": 5
+            },
+            {
+                "detection": "[-- all for Hillary Clinton, according to ]Trump[ -- and the \"million, million and a half people\"]",
+                "prefix": "-- all for Hillary Clinton, according to ",
+                "exact": "Trump",
+                "suffix": " -- and the \"million, million and a half people\"",
+                "offset": 3329,
+                "length": 5
+            },
+            {
+                "detection": "[people\" the President claimed to have attended ]his[ swearing-in -- the pictures disagree -- there is]",
+                "prefix": "people\" the President claimed to have attended ",
+                "exact": "his",
+                "suffix": " swearing-in -- the pictures disagree -- there is",
+                "offset": 3422,
+                "length": 3
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "CNN",
+        "nationality": "N/A",
+        "confidencelevel": "0.942",
+        "resolutions": [
+            {
+                "name": "CABLE NEWS NETWORK, INC.",
+                "permid": "4298210469",
+                "commonname": "CNN",
+                "score": 1,
+                "id": "https://permid.org/1-4298210469"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.939",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.942"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[of sending bad guys over here,\" Saenz told ]CNN[ last May, almost a year after the exchange. He]",
+                "prefix": "of sending bad guys over here,\" Saenz told ",
+                "exact": "CNN",
+                "suffix": " last May, almost a year after the exchange. He",
+                "offset": 1389,
+                "length": 3
+            }
+        ],
+        "relevance": 0
+    },
+    "http://d.opencalais.com/genericHasher-1/7e2ce660-4f00-3f11-8fd2-a684b0fc3f71": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Laredo",
+        "resolutions": [
+            {
+                "name": "Laredo,Texas,United States",
+                "shortname": "Laredo",
+                "latitude": "27.5061",
+                "longitude": "-99.5072",
+                "containedbystate": "Texas",
+                "containedbycountry": "United States"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[ -- to back his initial claim. \nDuring a visit to ]Laredo[, Texas, that July, he found himself in an SUV,]",
+                "prefix": " -- to back his initial claim. \nDuring a visit to ",
+                "exact": "Laredo",
+                "suffix": ", Texas, that July, he found himself in an SUV,",
+                "offset": 1122,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/8f2fcd8d-ed1c-391c-9adc-88e21edb2484": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Pete Saenz",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Pete",
+        "lastname": "Saenz",
+        "commonname": "Pete Saenz",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[border for a photo opp with the city's mayor, ]Pete Saenz[. \n \n\"(Trump) asked me whether I knew whether or]",
+                "prefix": "border for a photo opp with the city's mayor, ",
+                "exact": "Pete Saenz",
+                "suffix": ". \n \n\"(Trump) asked me whether I knew whether or",
+                "offset": 1242,
+                "length": 10
+            },
+            {
+                "detection": "[or indirect, of sending bad guys over here,\" ]Saenz[ told CNN last May, almost a year after the]",
+                "prefix": "or indirect, of sending bad guys over here,\" ",
+                "exact": "Saenz",
+                "suffix": " told CNN last May, almost a year after the",
+                "offset": 1378,
+                "length": 5
+            },
+            {
+                "detection": "[CNN last May, almost a year after the exchange. ]He[ recalled telling Trump that he was unaware of]",
+                "prefix": "CNN last May, almost a year after the exchange. ",
+                "exact": "He",
+                "suffix": " recalled telling Trump that he was unaware of",
+                "offset": 1437,
+                "length": 2
+            },
+            {
+                "detection": "[confirmation or verification of some sort,\" ]Saenz[ said, adding that Trump sourced the story to]",
+                "prefix": "confirmation or verification of some sort,\" ",
+                "exact": "Saenz",
+                "suffix": " said, adding that Trump sourced the story to",
+                "offset": 1568,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/cd2b7484-a098-37ad-8235-6ffb05bb0a0f": {
+        "_typeGroup": "entities",
+        "_type": "PoliticalEvent",
+        "forenduserdisplay": "false",
+        "name": "general election",
+        "politicaleventtype": "Voting",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/PoliticalEvent",
+        "instances": [
+            {
+                "detection": "[to the White House, where, even after winning a ]general election[ and assuming office, he continues to stake]",
+                "prefix": "to the White House, where, even after winning a ",
+                "exact": "general election",
+                "suffix": " and assuming office, he continues to stake",
+                "offset": 1746,
+                "length": 16
+            },
+            {
+                "detection": "[been turned away at a Florida polling place on ]Election[ Day, even as other voters on line -- including]",
+                "prefix": "been turned away at a Florida polling place on ",
+                "exact": "Election",
+                "suffix": " Day, even as other voters on line -- including",
+                "offset": 2229,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/d7c8a4f7-9bb1-3776-a329-b6788ee77771": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "datestring": "last May",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/8f2fcd8d-ed1c-391c-9adc-88e21edb2484",
+        "organizationorcompany": "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f",
+        "instances": [
+            {
+                "detection": "[or indirect, of sending bad guys over here,\" ]Saenz told CNN last May[, almost a year after the exchange. He recalled]",
+                "prefix": "or indirect, of sending bad guys over here,\" ",
+                "exact": "Saenz told CNN last May",
+                "suffix": ", almost a year after the exchange. He recalled",
+                "offset": 1378,
+                "length": 23
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9bc0b98c-2d24-31fd-89d1-aa9a4655bef4": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "company": "http://d.opencalais.com/comphash-1/f0dbca91-4d19-3a8b-ae21-eb71b892bc03",
+        "instances": [
+            {
+                "detection": "[situation reported was not conveyed from me to ]President Trump[, but rather was told to me by a friend,\" he said]",
+                "prefix": "situation reported was not conveyed from me to ",
+                "exact": "President Trump",
+                "suffix": ", but rather was told to me by a friend,\" he said",
+                "offset": 2624,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/99218b87-5eca-3a44-8986-0f7312bd6364": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "The voting situation reported was not conveyed from me to President Trump, but rather was told to me by a friend; I then relayed the story in conversation with another friend, who shared it with a person with ties to the White House.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/147791df-9dac-32ef-8315-c8eed0e2be42",
+        "instances": [
+            {
+                "detection": "[denied having told Trump anything of the sort. \n]\"The voting situation reported was not conveyed from me to President Trump, but rather was told to me by a friend,\" he said in a statement. \"I then relayed the story in conversation with another friend, who shared it with a person with ties to the White House.\"[ \nLanger added that, although he lives in the US,]",
+                "prefix": "denied having told Trump anything of the sort. \n",
+                "exact": "\"The voting situation reported was not conveyed from me to President Trump, but rather was told to me by a friend,\" he said in a statement. \"I then relayed the story in conversation with another friend, who shared it with a person with ties to the White House.\"",
+                "suffix": " \nLanger added that, although he lives in the US,",
+                "offset": 2565,
+                "length": 261
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/5d8d61aa-b452-3af8-a535-be372b3db51e": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "They're sending people that have lots of problems (across the border); They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[evidence to sustain weeks after he made it. \n \n]\"They're sending people that have lots of problems (across the border),\" Trump said at his June 2015 announcement in New York. \"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.\"[ \n \nIt was a remarkable charge, presented without]",
+                "prefix": "evidence to sustain weeks after he made it. \n \n",
+                "exact": "\"They're sending people that have lots of problems (across the border),\" Trump said at his June 2015 announcement in New York. \"They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.\"",
+                "suffix": " \n \nIt was a remarkable charge, presented without",
+                "offset": 543,
+                "length": 230
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fb22e589-be47-3703-9196-0c881aa3e3a9": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "mayor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/8f2fcd8d-ed1c-391c-9adc-88e21edb2484",
+        "instances": [
+            {
+                "detection": "[speeding toward the border for a photo opp with ]the city's mayor, Pete Saenz[. \n \n\"(Trump) asked me whether I knew whether or]",
+                "prefix": "speeding toward the border for a photo opp with ",
+                "exact": "the city's mayor, Pete Saenz",
+                "suffix": ". \n \n\"(Trump) asked me whether I knew whether or",
+                "offset": 1224,
+                "length": 28
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4ab346fe-d846-3e07-888f-50973c8e5569": {
+        "_typeGroup": "relations",
+        "_type": "ArmedAttack",
+        "forenduserdisplay": "true",
+        "partyinvolved2": "the Mexican government",
+        "attacktype": "attack",
+        "status": "confirmed",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/ArmedAttack",
+        "instances": [
+            {
+                "detection": "[Trump kicked off his primary campaign with ]an infamous attack on the Mexican government[ -- one he was privately searching for evidence]",
+                "prefix": "Trump kicked off his primary campaign with ",
+                "exact": "an infamous attack on the Mexican government",
+                "suffix": " -- one he was privately searching for evidence",
+                "offset": 413,
+                "length": 44
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/1699ee42-ce07-30d7-9e64-871e915c8781": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "although he lives in the US, he is not a citizen and cannot vote.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/147791df-9dac-32ef-8315-c8eed0e2be42",
+        "instances": [
+            {
+                "detection": "[ it with a person with ties to the White House.\" \n]Langer added that, although he lives in the US, he is not a citizen and cannot vote.[ \nThese twin instances of policymaking by dubious]",
+                "prefix": " it with a person with ties to the White House.\" \n",
+                "exact": "Langer added that, although he lives in the US, he is not a citizen and cannot vote.",
+                "suffix": " \nThese twin instances of policymaking by dubious",
+                "offset": 2828,
+                "length": 84
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/1de3c80e-4760-38c9-9da9-f58f2581dbc8": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "to border guards and they tell us what we're getting.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[remarkable charge, presented without any proof. ]In his remarks that day, Trump added that he speaks \"to border guards and they tell us what we're getting.\"[ But even as his young campaign took flight in]",
+                "prefix": "remarkable charge, presented without any proof. ",
+                "exact": "In his remarks that day, Trump added that he speaks \"to border guards and they tell us what we're getting.\"",
+                "suffix": " But even as his young campaign took flight in",
+                "offset": 834,
+                "length": 107
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8f1928af-30e8-3666-81f7-ab161a5c147c": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "friend",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/147791df-9dac-32ef-8315-c8eed0e2be42",
+        "instances": [
+            {
+                "detection": "[in a statement. \"I then relayed the story in ]conversation with another friend[, who shared it with a person with ties to the]",
+                "prefix": "in a statement. \"I then relayed the story in ",
+                "exact": "conversation with another friend",
+                "suffix": ", who shared it with a person with ties to the",
+                "offset": 2734,
+                "length": 32
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3a88ca3d-b36e-3e17-aca5-181c65da9315": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "golfer",
+        "careertype": "professional",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/147791df-9dac-32ef-8315-c8eed0e2be42",
+        "company": "http://d.opencalais.com/comphash-1/f0dbca91-4d19-3a8b-ae21-eb71b892bc03",
+        "instances": [
+            {
+                "detection": "[accusations on an incident relayed to him by ]the retired German golfer, Bernhard Langer[. \nIn Trump's telling, Langer had been turned]",
+                "prefix": "accusations on an incident relayed to him by ",
+                "exact": "the retired German golfer, Bernhard Langer",
+                "suffix": ". \nIn Trump's telling, Langer had been turned",
+                "offset": 2106,
+                "length": 42
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4a5629a9-f207-321a-8fda-de410a23674b": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "I guess he wanted confirmation or verification of some sort",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[Trump that he was unaware of anything like it. \n]\"I guess he wanted confirmation or verification of some sort,\" Saenz said, adding that Trump sourced the story to Border Patrol officers in the area.[ \n \nTrump rode his anti-immigration message to]",
+                "prefix": "Trump that he was unaware of anything like it. \n",
+                "exact": "\"I guess he wanted confirmation or verification of some sort,\" Saenz said, adding that Trump sourced the story to Border Patrol officers in the area.",
+                "suffix": " \n \nTrump rode his anti-immigration message to",
+                "offset": 1505,
+                "length": 149
+            }
+        ]
+    }
+}

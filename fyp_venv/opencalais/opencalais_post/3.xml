@@ -1,0 +1,2568 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "70e90647-f10f-7b1e-1599-b9588ab560dc",
+            "id": "http://id.opencalais.com/G-cWl4txk0BE-n-GLOaOlA",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222",
+            "document": "--e176c9f997704b3b82d51b8d9701cb43 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Senate Democrats’ Surprising Strategy: Trying to Align With Trump</Title> \n<Body> \nWASHINGTON — Congressional Democrats, divided and struggling for a path from the electoral wilderness, are constructing an agenda to align with many proposals of President-elect Donald J. Trump that put him at odds with his own party. \n \nOn infrastructure spending, child tax credits, paid maternity leave and dismantling trade agreements, Democrats are looking for ways they can work with Mr. Trump and force Republican leaders to choose between their new president and their small-government, free-market principles. Senator Chuck Schumer of New York, elected Wednesday as the new Democratic minority leader, has spoken with Mr. Trump several times, and Democrats in coming weeks plan to announce populist economic and ethics initiatives they think Mr. Trump might like. \n \nDemocrats, who lost the White House and made only nominal gains in the House and Senate, face a profound decision after last week’s stunning defeat: Make common cause where they can with Mr. Trump to try to win back the white, working-class voters he took from them, or resist at every turn, trying to rally their disparate coalition in hopes that discontent with an ineffectual new president will benefit them in 2018. \n \nMr. Trump campaigned on some issues that Democrats have long championed and Republicans resisted: spending more on roads, bridges and rail, punishing American companies that move jobs overseas, ending a lucrative tax break for hedge fund and private equity titans, and making paid maternity leave mandatory. \n \nContinue reading the main story \nSome Democrats are even co-opting Mr. Trump’s language from the campaign. “Every single person in our caucus agrees the system is rigged,” said Senator Debbie Stabenow, Democrat of Michigan. \n \nStill, there will be areas of bright-line disagreement. Democrats are speaking out against Mr. Trump’s appointment of Stephen K. Bannon as his chief strategist, and will oppose his promised tax cuts for the wealthy and his vow to deport millions of illegal immigrants. \n \nWhat is not clear is whether Mr. Trump will hew to his stated agenda or turn it over to Republican lawmakers who seek a far more traditional conservative program. \n \nIn several key states, namely Pennsylvania, Ohio and Wisconsin, Democratic Senate candidates and the party’s presidential nominee, Hillary Clinton, failed to connect with middle-class voters, who gravitated instead to the populist appeals of Mr. Trump. \n \n“There is an acknowledgment that it is very shortsighted to blame this loss on a letter from the F.B.I. or what states Hillary went to,” said Senator Amy Klobuchar, Democrat of Minnesota. “We need to do a better job having a bold sharp focus on the economy,” she said, like the cost of prescription drugs and predatory pricing on foreign steel. \n \n“It is not just being a collection of groups,” she added. “It’s talking about policies in a serious way and talking about them in a way that touches all Americans.” \n \nThe competing political forces were evident in Mr. Schumer’s selection of a leadership slate that reflects competing strains within the party, from Senators Bernie Sanders of Vermont and Elizabeth Warren of Massachusetts, the best-known figures in the progressive wing, to Senator Joe Manchin III of West Virginia, one of a half-dozen moderate Democrats up for re-election in 2018. \n \n“This team is ideologically and geographically diverse, it mixes the wisdom of experience with the vigor of youth, at least in Senate years,” Mr. Schumer said. \n \nBut Mr. Schumer’s immediate challenge will be to meet the often competing imperatives of those senators, who reflect the Democrats’ larger struggle of whether to try to tailor an appeal to the working-class white voters who defected to Mr. Trump or to try to increase the so-called Obama coalition anchored by minority and younger voters. \n \nThat debate is playing out in some ways in the House, where Democrats have been knotted up in an internal battle over whether Representative Nancy Pelosi of California, who hails from one of the wealthiest, most liberal districts in the nation, ought to make room at the top for a new leader, possibly from a Rust Belt state. \n \nRepresentative Tim Ryan of Ohio, a former football player from the ailing industrial region around Youngstown, is talking about challenging Ms. Pelosi, and the contrast he would present would be stark. \n \nDemocrats need someone “like me, who has constituents and friends who are steelworkers or work in construction,” Mr. Ryan told The Youngstown Vindicator. “The economy and blue-collar jobs are important for us as a party. We need leaders who can go into these Great Lakes districts.” \n \nThe struggle to stitch together a winning coalition will play out in the competing policy ideas that Democrats are offering. \n \nIn a speech this week to the A.F.L.-C.I.O. Executive Council, Ms. Warren, who sparred in viciously personal terms with Mr. Trump during the campaign, noted the many ways she agreed with the president-elect. \n \n“He spoke of the need to reform our trade deals so they aren’t raw deals for the American people,” she said. “He said he will not cut Social Security benefits. He talked about the need to address the rising cost of college and about helping working parents struggling with the high cost of child care. He spoke of the urgency of rebuilding our crumbling infrastructure and putting people back to work. He spoke to the very real sense of millions of Americans that their government and their economy has abandoned them. And he promised to rebuild our economy for working people.” \n \nSenator Sherrod Brown, Democrat of Ohio, long a critic of trade deals, said in an interview that he had spoken extensively with Mr. Trump’s trade adviser and would work with him on issues concerning steel workers. “We can work with him on things we agree on,” Mr. Brown said. “On Bannon, no.” \n \nMr. Brown sent a letter to Mr. Trump urging him to renegotiate the North American Free Trade Agreement, withdraw from the Trans-Pacific Partnership, make changes to the trade relationship with China and fight currency manipulation, which is also a pet issue of Mr. Schumer. Mr. Sanders put out a statement after the election saying he too would work with Mr. Trump on areas of populist agreement. \n \nAt the same time, they remain his adversary on other matters. For example, Senator Dianne Feinstein of California, now the highest-ranking Democrat on the Senate Judiciary Committee, said in a statement on Wednesday that “the committee will pay very close attention to proposed nominees to ensure the fundamental constitutional rights of Americans are protected.” \n \nRepublicans will not like many of these proposals, but they have been fulsome in their praise of Mr. Trump since his election. Speaker Paul D. Ryan, for instance, has repeatedly said that he expects Mr. Trump to work with Republicans on their agenda of rolling back the Affordable Care Act and making large-scale changes to the tax code and entitlements. \n \nWhile Mr. Trump’s policies are one matter, his nominations to his cabinet and other senior positions are another, and there, Senate Republicans who will vote on their confirmations are in a quandary. Just as they were asked to comment on Mr. Trump’s more incendiary statements during the campaign, they are now being asked to weigh in on contentious names being floated for high positions. Republican senators like John McCain of Arizona also have been implicitly critical of Mr. Trump’s cozy views toward Russia. \n \nOn one area, though, Democrats and Republicans agree: Most of them strongly oppose Mr. Trump’s proposal for congressional term limits. \n</Body> \n</Document> \n--e176c9f997704b3b82d51b8d9701cb43-- \n",
+            "docTitle": "Senate Democrats’ Surprising Strategy: Trying to Align With Trump",
+            "docDate": "2017-01-14 06:06:26.603"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.2-RELEASE:133",
+            "stagsVer": "OneCalais_10.2-RELEASE-b21-2016-11-29_14:53:15",
+            "submissionDate": "2017-01-14 06:06:25.451",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|/2Vh7DHuvIoW49Jc0lp5Qj1CYyg=|gwkgw+7enY5PcFZ6XZkc2flsmbiDIZ5OcsInjcOb34gUXt6Kdh903g==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 1,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f",
+        "forenduserdisplay": "true",
+        "name": "Politics",
+        "importance": "1",
+        "originalValue": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "importance": "1",
+        "originalValue": "United States"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4460a2dd-717b-314d-ba90-768da45dd3fc",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "importance": "2",
+        "originalValue": "Mike Pence"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a3e554fe-36bf-3cb5-ac64-32d6ada18df3",
+        "forenduserdisplay": "true",
+        "name": "Alt-right",
+        "importance": "2",
+        "originalValue": "Alt-right"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/187e9b0f-e747-35dc-a25d-c06c162ddb8b",
+        "forenduserdisplay": "true",
+        "name": "Political parties in the United States",
+        "importance": "2",
+        "originalValue": "Political parties in the United States"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "2",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/c1bcf03d-a054-3fa0-b622-75311bdd1bea",
+        "forenduserdisplay": "true",
+        "name": "Democratic Party",
+        "importance": "2",
+        "originalValue": "Democratic Party (United States)"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b38a6db1-1929-3b6c-b095-60a27499b048",
+        "forenduserdisplay": "true",
+        "name": "Steve Bannon",
+        "importance": "2",
+        "originalValue": "Steve Bannon"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/bfd64e2d-4f91-34d0-8426-1a6ad839c6f1",
+        "forenduserdisplay": "true",
+        "name": "Chuck Schumer",
+        "importance": "2",
+        "originalValue": "Chuck Schumer"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a",
+        "forenduserdisplay": "true",
+        "name": "Republican Party",
+        "importance": "2",
+        "originalValue": "Republican Party (United States)"
+    },
+    "http://d.opencalais.com/dochash-1/1046973c-6812-357c-8dbf-fad58c8f5222/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701140520:201701140520",
+            "index-refineries:201701072351:201701072351",
+            "config-physicalAssets-powerStations:545:545",
+            "NextTags:OneCalais_10.2-RELEASE:133",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701140310:201701140310",
+            "config-negativeSignature:545:545",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:575:575",
+            "People Override:545:545",
+            "index-company-oa3:201701131805:201701131805",
+            "index-vessels:201701072338:201701072338",
+            "config-refineries:545:545",
+            "config-cse:575:575",
+            "config-vessels:545:545",
+            "OneCalais:OneCalais_10.2-RELEASE:133",
+            "config-physicalAssets-mines:545:545",
+            "SocialTags Index:201701051901:201701051901",
+            "BlackList:575:575",
+            "index-ports:201701071733:201701071733",
+            "config-physicalAssets-ports:545:545",
+            "config-drugs:545:545"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/ff916135-4329-3a7e-9162-2e717d9afdc9": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Vermont",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[the party, from Senators Bernie Sanders of ]Vermont[ and Elizabeth Warren of Massachusetts, the]",
+                "prefix": "the party, from Senators Bernie Sanders of ",
+                "exact": "Vermont",
+                "suffix": " and Elizabeth Warren of Massachusetts, the",
+                "offset": 3509,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Vermont,United States",
+                "shortname": "Vermont",
+                "latitude": "44.2035",
+                "longitude": "-72.5623",
+                "containedbycountry": "United States",
+                "rcscode": "G:5T",
+                "permid": "100326"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/36b5afbd-5d78-31e8-93af-c4fb22702690": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "West Virginia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[progressive wing, to Senator Joe Manchin III of ]West Virginia[, one of a half-dozen moderate Democrats up for]",
+                "prefix": "progressive wing, to Senator Joe Manchin III of ",
+                "exact": "West Virginia",
+                "suffix": ", one of a half-dozen moderate Democrats up for",
+                "offset": 3634,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "West Virginia,United States",
+                "shortname": "West Virginia",
+                "latitude": "38.7800944309",
+                "longitude": "-80.3694176534",
+                "containedbycountry": "United States",
+                "rcscode": "G:8D",
+                "permid": "100333"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3464e47d-a869-3783-8fdc-d17cb8f13c2e": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Ohio",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[\n \nIn several key states, namely Pennsylvania, ]Ohio[ and Wisconsin, Democratic Senate candidates and]",
+                "prefix": "\n \nIn several key states, namely Pennsylvania, ",
+                "exact": "Ohio",
+                "suffix": " and Wisconsin, Democratic Senate candidates and",
+                "offset": 2606,
+                "length": 4
+            },
+            {
+                "detection": "[ a Rust Belt state. \n \nRepresentative Tim Ryan of ]Ohio[, a former football player from the ailing]",
+                "prefix": " a Rust Belt state. \n \nRepresentative Tim Ryan of ",
+                "exact": "Ohio",
+                "suffix": ", a former football player from the ailing",
+                "offset": 4580,
+                "length": 4
+            },
+            {
+                "detection": "[people.” \n \nSenator Sherrod Brown, Democrat of ]Ohio[, long a critic of trade deals, said in an]",
+                "prefix": "people.” \n \nSenator Sherrod Brown, Democrat of ",
+                "exact": "Ohio",
+                "suffix": ", long a critic of trade deals, said in an",
+                "offset": 5999,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Ohio,United States",
+                "shortname": "Ohio",
+                "latitude": "40.5",
+                "longitude": "-82.5",
+                "containedbycountry": "United States",
+                "rcscode": "G:1D",
+                "permid": "100228"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/365557ea-7a83-3ab4-b76e-fc438a901f98": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Wisconsin",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[key states, namely Pennsylvania, Ohio and ]Wisconsin[, Democratic Senate candidates and the party’s]",
+                "prefix": "key states, namely Pennsylvania, Ohio and ",
+                "exact": "Wisconsin",
+                "suffix": ", Democratic Senate candidates and the party’s",
+                "offset": 2615,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Wisconsin,United States",
+                "shortname": "Wisconsin",
+                "latitude": "44.5",
+                "longitude": "-89.5",
+                "containedbycountry": "United States",
+                "rcscode": "G:A1",
+                "permid": "100336"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/42d25a71-4cd0-340d-947d-00ecd8c74d95": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Trans-Pacific Partnership",
+        "nationality": "N/A",
+        "confidencelevel": "0.692",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ American Free Trade Agreement, withdraw from the ]Trans-Pacific Partnership[, make changes to the trade relationship with]",
+                "prefix": " American Free Trade Agreement, withdraw from the ",
+                "exact": "Trans-Pacific Partnership",
+                "suffix": ", make changes to the trade relationship with",
+                "offset": 6382,
+                "length": 25
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.906",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.692"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/771908a9-2488-34bf-9d40-52ac937686d8": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Minnesota",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[to,” said Senator Amy Klobuchar, Democrat of ]Minnesota[. “We need to do a better job having a bold sharp]",
+                "prefix": "to,” said Senator Amy Klobuchar, Democrat of ",
+                "exact": "Minnesota",
+                "suffix": ". “We need to do a better job having a bold sharp",
+                "offset": 2995,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Minnesota,United States",
+                "shortname": "Minnesota",
+                "latitude": "46.0",
+                "longitude": "-94.0",
+                "containedbycountry": "United States",
+                "rcscode": "G:5W",
+                "permid": "100188"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[an agenda to align with many proposals of ]President-elect[ Donald J. Trump that put him at odds with his]",
+                "prefix": "an agenda to align with many proposals of ",
+                "exact": "President-elect",
+                "suffix": " Donald J. Trump that put him at odds with his",
+                "offset": 549,
+                "length": 15
+            },
+            {
+                "detection": "[Republican leaders to choose between their new ]president[ and their small-government, free-market]",
+                "prefix": "Republican leaders to choose between their new ",
+                "exact": "president",
+                "suffix": " and their small-government, free-market",
+                "offset": 844,
+                "length": 9
+            },
+            {
+                "detection": "[ in hopes that discontent with an ineffectual new ]president[ will benefit them in 2018. \n \nMr. Trump]",
+                "prefix": " in hopes that discontent with an ineffectual new ",
+                "exact": "president",
+                "suffix": " will benefit them in 2018. \n \nMr. Trump",
+                "offset": 1546,
+                "length": 9
+            },
+            {
+                "detection": "[campaign, noted the many ways she agreed with ]the president-elect[. \n \n“He spoke of the need to reform our trade]",
+                "prefix": "campaign, noted the many ways she agreed with ",
+                "exact": "the president-elect",
+                "suffix": ". \n \n“He spoke of the need to reform our trade",
+                "offset": 5358,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/86d8da40-218e-3486-bcbb-b3d5a7e39d20": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Speaker",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ in their praise of Mr. Trump since his election. ]Speaker[ Paul D. Ryan, for instance, has repeatedly said]",
+                "prefix": " in their praise of Mr. Trump since his election. ",
+                "exact": "Speaker",
+                "suffix": " Paul D. Ryan, for instance, has repeatedly said",
+                "offset": 7154,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/6b88bfc0-174d-365e-9001-2f247713e779": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Stephen K. Bannon",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Stephen",
+        "middlename": "K.",
+        "lastname": "Bannon",
+        "commonname": "Stephen Bannon",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[speaking out against Mr. Trump’s appointment of ]Stephen K. Bannon[ as his chief strategist, and will oppose his]",
+                "prefix": "speaking out against Mr. Trump’s appointment of ",
+                "exact": "Stephen K. Bannon",
+                "suffix": " as his chief strategist, and will oppose his",
+                "offset": 2242,
+                "length": 17
+            },
+            {
+                "detection": "[him on things we agree on,” Mr. Brown said. “On ]Bannon[, no.” \n \nMr. Brown sent a letter to Mr. Trump]",
+                "prefix": "him on things we agree on,” Mr. Brown said. “On ",
+                "exact": "Bannon",
+                "suffix": ", no.” \n \nMr. Brown sent a letter to Mr. Trump",
+                "offset": 6244,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.7742937",
+            "aggregate": "0.999"
+        },
+        "resolutions": [
+            {
+                "name": "Stephen K. Bannon",
+                "personid": "340821",
+                "paid": "34413340229",
+                "officerid": "340821",
+                "commonname": "Stephen Bannon",
+                "score": 0.7742937
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/acde4776-6d59-32b2-8f46-d12c2d930729": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Dianne Feinstein",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Dianne",
+        "lastname": "Feinstein",
+        "commonname": "Dianne Feinstein",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[his adversary on other matters. For example, ]Senator Dianne Feinstein[ of California, now the highest-ranking Democrat]",
+                "prefix": "his adversary on other matters. For example, ",
+                "exact": "Senator Dianne Feinstein",
+                "suffix": " of California, now the highest-ranking Democrat",
+                "offset": 6735,
+                "length": 24
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/8a03a80b-7f06-30a3-a325-1ab2f5d1a18a": {
+        "_typeGroup": "entities",
+        "_type": "NaturalFeature",
+        "forenduserdisplay": "false",
+        "name": "Great Lakes",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/NaturalFeature",
+        "instances": [
+            {
+                "detection": "[us as a party. We need leaders who can go into ]these Great Lakes[ districts.” \n \nThe struggle to stitch together a]",
+                "prefix": "us as a party. We need leaders who can go into ",
+                "exact": "these Great Lakes",
+                "suffix": " districts.” \n \nThe struggle to stitch together a",
+                "offset": 5011,
+                "length": 17
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0dbdcb91-9010-3bd2-a6de-af045b997e43": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "trade adviser",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[that he had spoken extensively with Mr. Trump’s ]trade adviser[ and would work with him on issues concerning]",
+                "prefix": "that he had spoken extensively with Mr. Trump’s ",
+                "exact": "trade adviser",
+                "suffix": " and would work with him on issues concerning",
+                "offset": 6104,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/14f8edf6-8681-36d2-b39c-1ade87e8e646": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Democratic minority leader",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[of New York, elected Wednesday as the new ]Democratic minority leader[, has spoken with Mr. Trump several times, and]",
+                "prefix": "of New York, elected Wednesday as the new ",
+                "exact": "Democratic minority leader",
+                "suffix": ", has spoken with Mr. Trump several times, and",
+                "offset": 970,
+                "length": 26
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2bb21622-2f6d-39eb-9a60-98612f27b9d7": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "critic",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ \n \nSenator Sherrod Brown, Democrat of Ohio, long ]a critic[ of trade deals, said in an interview that he had]",
+                "prefix": " \n \nSenator Sherrod Brown, Democrat of Ohio, long ",
+                "exact": "a critic",
+                "suffix": " of trade deals, said in an interview that he had",
+                "offset": 6010,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Hillary Clinton",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.979",
+        "firstname": "Hillary",
+        "lastname": "Clinton",
+        "commonname": "Hillary Clinton",
+        "confidence": {
+            "statisticalfeature": "0.97",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.979"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ candidates and the party’s presidential nominee, ]Hillary Clinton[, failed to connect with middle-class voters, who]",
+                "prefix": " candidates and the party’s presidential nominee, ",
+                "exact": "Hillary Clinton",
+                "suffix": ", failed to connect with middle-class voters, who",
+                "offset": 2693,
+                "length": 15
+            },
+            {
+                "detection": "[loss on a letter from the F.B.I. or what states ]Hillary[ went to,” said Senator Amy Klobuchar, Democrat]",
+                "prefix": "loss on a letter from the F.B.I. or what states ",
+                "exact": "Hillary",
+                "suffix": " went to,” said Senator Amy Klobuchar, Democrat",
+                "offset": 2937,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/452304c9-c9cf-3c5f-a8cb-cca30c48d4c9": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Executive Council",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[\n \nIn a speech this week to the A.F.L.-C.I.O. ]Executive Council[, Ms. Warren, who sparred in viciously personal]",
+                "prefix": "\n \nIn a speech this week to the A.F.L.-C.I.O. ",
+                "exact": "Executive Council",
+                "suffix": ", Ms. Warren, who sparred in viciously personal",
+                "offset": 5215,
+                "length": 17
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/641804d8-7e6e-31e8-af50-02823ee3a4ed": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "player",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Tim Ryan of Ohio, a former football ]player[ from the ailing industrial region around]",
+                "prefix": "Tim Ryan of Ohio, a former football ",
+                "exact": "player",
+                "suffix": " from the ailing industrial region around",
+                "offset": 4604,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "New York",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[ free-market principles. Senator Chuck Schumer of ]New York[, elected Wednesday as the new Democratic]",
+                "prefix": " free-market principles. Senator Chuck Schumer of ",
+                "exact": "New York",
+                "suffix": ", elected Wednesday as the new Democratic",
+                "offset": 931,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "New York City,New York,United States",
+                "shortname": "New York City",
+                "latitude": "40.7142",
+                "longitude": "-74.0064",
+                "containedbystate": "New York",
+                "containedbycountry": "United States",
+                "rcscode": "G:7T"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/69e7e17e-d4b1-3bbc-972f-66d7464f7ed6": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "John McCain",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.984",
+        "firstname": "John",
+        "lastname": "McCain",
+        "commonname": "John McCain",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[for high positions. Republican senators like ]John McCain[ of Arizona also have been implicitly critical of]",
+                "prefix": "for high positions. Republican senators like ",
+                "exact": "John McCain",
+                "suffix": " of Arizona also have been implicitly critical of",
+                "offset": 7800,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.97",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.984"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald J. Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.997",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.997"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Surprising Strategy: Trying to Align With ]Trump[</Title> \n<Body> \nWASHINGTON — Congressional]",
+                "prefix": "Surprising Strategy: Trying to Align With ",
+                "exact": "Trump",
+                "suffix": "</Title> \n<Body> \nWASHINGTON — Congressional",
+                "offset": 364,
+                "length": 5
+            },
+            {
+                "detection": "[to align with many proposals of President-elect ]Donald J. Trump[ that put him at odds with his own party. \n \nOn]",
+                "prefix": "to align with many proposals of President-elect ",
+                "exact": "Donald J. Trump",
+                "suffix": " that put him at odds with his own party. \n \nOn",
+                "offset": 565,
+                "length": 15
+            },
+            {
+                "detection": "[of President-elect Donald J. Trump that put ]him[ at odds with his own party. \n \nOn infrastructure]",
+                "prefix": "of President-elect Donald J. Trump that put ",
+                "exact": "him",
+                "suffix": " at odds with his own party. \n \nOn infrastructure",
+                "offset": 590,
+                "length": 3
+            },
+            {
+                "detection": "[Donald J. Trump that put him at odds with ]his[ own party. \n \nOn infrastructure spending, child]",
+                "prefix": "Donald J. Trump that put him at odds with ",
+                "exact": "his",
+                "suffix": " own party. \n \nOn infrastructure spending, child",
+                "offset": 607,
+                "length": 3
+            },
+            {
+                "detection": "[are looking for ways they can work with ]Mr. Trump[ and force Republican leaders to choose between]",
+                "prefix": "are looking for ways they can work with ",
+                "exact": "Mr. Trump",
+                "suffix": " and force Republican leaders to choose between",
+                "offset": 777,
+                "length": 9
+            },
+            {
+                "detection": "[new Democratic minority leader, has spoken with ]Mr. Trump[ several times, and Democrats in coming weeks]",
+                "prefix": "new Democratic minority leader, has spoken with ",
+                "exact": "Mr. Trump",
+                "suffix": " several times, and Democrats in coming weeks",
+                "offset": 1014,
+                "length": 9
+            },
+            {
+                "detection": "[economic and ethics initiatives they think ]Mr. Trump[ might like. \n \nDemocrats, who lost the White]",
+                "prefix": "economic and ethics initiatives they think ",
+                "exact": "Mr. Trump",
+                "suffix": " might like. \n \nDemocrats, who lost the White",
+                "offset": 1138,
+                "length": 9
+            },
+            {
+                "detection": "[defeat: Make common cause where they can with ]Mr. Trump[ to try to win back the white, working-class]",
+                "prefix": "defeat: Make common cause where they can with ",
+                "exact": "Mr. Trump",
+                "suffix": " to try to win back the white, working-class",
+                "offset": 1350,
+                "length": 9
+            },
+            {
+                "detection": "[try to win back the white, working-class voters ]he[ took from them, or resist at every turn, trying]",
+                "prefix": "try to win back the white, working-class voters ",
+                "exact": "he",
+                "suffix": " took from them, or resist at every turn, trying",
+                "offset": 1411,
+                "length": 2
+            },
+            {
+                "detection": "[new president will benefit them in 2018. \n \n]Mr. Trump[ campaigned on some issues that Democrats have]",
+                "prefix": "new president will benefit them in 2018. \n \n",
+                "exact": "Mr. Trump",
+                "suffix": " campaigned on some issues that Democrats have",
+                "offset": 1586,
+                "length": 9
+            },
+            {
+                "detection": "[main story \nSome Democrats are even co-opting ]Mr. Trump[’s language from the campaign. “Every single]",
+                "prefix": "main story \nSome Democrats are even co-opting ",
+                "exact": "Mr. Trump",
+                "suffix": "’s language from the campaign. “Every single",
+                "offset": 1964,
+                "length": 9
+            },
+            {
+                "detection": "[ disagreement. Democrats are speaking out against ]Mr. Trump[’s appointment of Stephen K. Bannon as his chief]",
+                "prefix": " disagreement. Democrats are speaking out against ",
+                "exact": "Mr. Trump",
+                "suffix": "’s appointment of Stephen K. Bannon as his chief",
+                "offset": 2215,
+                "length": 9
+            },
+            {
+                "detection": "[Mr. Trump’s appointment of Stephen K. Bannon as ]his[ chief strategist, and will oppose his promised]",
+                "prefix": "Mr. Trump’s appointment of Stephen K. Bannon as ",
+                "exact": "his",
+                "suffix": " chief strategist, and will oppose his promised",
+                "offset": 2263,
+                "length": 3
+            },
+            {
+                "detection": "[Bannon as his chief strategist, and will oppose ]his[ promised tax cuts for the wealthy and his vow to]",
+                "prefix": "Bannon as his chief strategist, and will oppose ",
+                "exact": "his",
+                "suffix": " promised tax cuts for the wealthy and his vow to",
+                "offset": 2301,
+                "length": 3
+            },
+            {
+                "detection": "[ oppose his promised tax cuts for the wealthy and ]his[ vow to deport millions of illegal immigrants. \n]",
+                "prefix": " oppose his promised tax cuts for the wealthy and ",
+                "exact": "his",
+                "suffix": " vow to deport millions of illegal immigrants. \n",
+                "offset": 2343,
+                "length": 3
+            },
+            {
+                "detection": "[immigrants. \n \nWhat is not clear is whether ]Mr. Trump[ will hew to his stated agenda or turn it over to]",
+                "prefix": "immigrants. \n \nWhat is not clear is whether ",
+                "exact": "Mr. Trump",
+                "suffix": " will hew to his stated agenda or turn it over to",
+                "offset": 2425,
+                "length": 9
+            },
+            {
+                "detection": "[is not clear is whether Mr. Trump will hew to ]his[ stated agenda or turn it over to Republican]",
+                "prefix": "is not clear is whether Mr. Trump will hew to ",
+                "exact": "his",
+                "suffix": " stated agenda or turn it over to Republican",
+                "offset": 2447,
+                "length": 3
+            },
+            {
+                "detection": "[gravitated instead to the populist appeals of ]Mr. Trump[. \n \n“There is an acknowledgment that it is very]",
+                "prefix": "gravitated instead to the populist appeals of ",
+                "exact": "Mr. Trump",
+                "suffix": ". \n \n“There is an acknowledgment that it is very",
+                "offset": 2804,
+                "length": 9
+            },
+            {
+                "detection": "[the working-class white voters who defected to ]Mr. Trump[ or to try to increase the so-called Obama]",
+                "prefix": "the working-class white voters who defected to ",
+                "exact": "Mr. Trump",
+                "suffix": " or to try to increase the so-called Obama",
+                "offset": 4118,
+                "length": 9
+            },
+            {
+                "detection": "[who sparred in viciously personal terms with ]Mr. Trump[ during the campaign, noted the many ways she]",
+                "prefix": "who sparred in viciously personal terms with ",
+                "exact": "Mr. Trump",
+                "suffix": " during the campaign, noted the many ways she",
+                "offset": 5291,
+                "length": 9
+            },
+            {
+                "detection": "[ an interview that he had spoken extensively with ]Mr. Trump[’s trade adviser and would work with him on]",
+                "prefix": " an interview that he had spoken extensively with ",
+                "exact": "Mr. Trump",
+                "suffix": "’s trade adviser and would work with him on",
+                "offset": 6092,
+                "length": 9
+            },
+            {
+                "detection": "[“On Bannon, no.” \n \nMr. Brown sent a letter to ]Mr. Trump[ urging him to renegotiate the North American]",
+                "prefix": "“On Bannon, no.” \n \nMr. Brown sent a letter to ",
+                "exact": "Mr. Trump",
+                "suffix": " urging him to renegotiate the North American",
+                "offset": 6287,
+                "length": 9
+            },
+            {
+                "detection": "[ after the election saying he too would work with ]Mr. Trump[ on areas of populist agreement. \n \nAt the same]",
+                "prefix": " after the election saying he too would work with ",
+                "exact": "Mr. Trump",
+                "suffix": " on areas of populist agreement. \n \nAt the same",
+                "offset": 6615,
+                "length": 9
+            },
+            {
+                "detection": "[but they have been fulsome in their praise of ]Mr. Trump[ since his election. Speaker Paul D. Ryan, for]",
+                "prefix": "but they have been fulsome in their praise of ",
+                "exact": "Mr. Trump",
+                "suffix": " since his election. Speaker Paul D. Ryan, for",
+                "offset": 7124,
+                "length": 9
+            },
+            {
+                "detection": "[instance, has repeatedly said that he expects ]Mr. Trump[ to work with Republicans on their agenda of]",
+                "prefix": "instance, has repeatedly said that he expects ",
+                "exact": "Mr. Trump",
+                "suffix": " to work with Republicans on their agenda of",
+                "offset": 7226,
+                "length": 9
+            },
+            {
+                "detection": "[to the tax code and entitlements. \n \nWhile ]Mr. Trump[’s policies are one matter, his nominations to]",
+                "prefix": "to the tax code and entitlements. \n \nWhile ",
+                "exact": "Mr. Trump",
+                "suffix": "’s policies are one matter, his nominations to",
+                "offset": 7391,
+                "length": 9
+            },
+            {
+                "detection": "[\n \nWhile Mr. Trump’s policies are one matter, ]his[ nominations to his cabinet and other senior]",
+                "prefix": "\n \nWhile Mr. Trump’s policies are one matter, ",
+                "exact": "his",
+                "suffix": " nominations to his cabinet and other senior",
+                "offset": 7428,
+                "length": 3
+            },
+            {
+                "detection": "[policies are one matter, his nominations to ]his[ cabinet and other senior positions are another,]",
+                "prefix": "policies are one matter, his nominations to ",
+                "exact": "his",
+                "suffix": " cabinet and other senior positions are another,",
+                "offset": 7447,
+                "length": 3
+            },
+            {
+                "detection": "[quandary. Just as they were asked to comment on ]Mr. Trump[’s more incendiary statements during the]",
+                "prefix": "quandary. Just as they were asked to comment on ",
+                "exact": "Mr. Trump",
+                "suffix": "’s more incendiary statements during the",
+                "offset": 7623,
+                "length": 9
+            },
+            {
+                "detection": "[ of Arizona also have been implicitly critical of ]Mr. Trump[’s cozy views toward Russia. \n \nOn one area,]",
+                "prefix": " of Arizona also have been implicitly critical of ",
+                "exact": "Mr. Trump",
+                "suffix": "’s cozy views toward Russia. \n \nOn one area,",
+                "offset": 7861,
+                "length": 9
+            },
+            {
+                "detection": "[Republicans agree: Most of them strongly oppose ]Mr. Trump[’s proposal for congressional term limits.]",
+                "prefix": "Republicans agree: Most of them strongly oppose ",
+                "exact": "Mr. Trump",
+                "suffix": "’s proposal for congressional term limits.",
+                "offset": 7985,
+                "length": 9
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/de9fa9e7-565a-3d76-beab-7e6363548235": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Michigan",
+        "resolutions": [
+            {
+                "name": "Michigan,United States",
+                "shortname": "Michigan",
+                "latitude": "43.6867450175",
+                "longitude": "-85.0101500936",
+                "containedbycountry": "United States",
+                "rcscode": "G:10",
+                "permid": "100185"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[said Senator Debbie Stabenow, Democrat of ]Michigan[. \n \nStill, there will be areas of bright-line]",
+                "prefix": "said Senator Debbie Stabenow, Democrat of ",
+                "exact": "Michigan",
+                "suffix": ". \n \nStill, there will be areas of bright-line",
+                "offset": 2111,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/abbcb80e-dd9e-3672-b9f7-f5d3fcc0ff11": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Nancy Pelosi",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Nancy Pelosi",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[knotted up in an internal battle over whether ]Representative Nancy Pelosi[ of California, who hails from one of the]",
+                "prefix": "knotted up in an internal battle over whether ",
+                "exact": "Representative Nancy Pelosi",
+                "suffix": " of California, who hails from one of the",
+                "offset": 4350,
+                "length": 27
+            },
+            {
+                "detection": "[around Youngstown, is talking about challenging ]Ms. Pelosi[, and the contrast he would present would be]",
+                "prefix": "around Youngstown, is talking about challenging ",
+                "exact": "Ms. Pelosi",
+                "suffix": ", and the contrast he would present would be",
+                "offset": 4693,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/6df2b0d0-0a15-3923-a15f-ff3d866e039b": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Senate",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Senate[ Democrats’ Surprising Strategy: Trying to Align]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Senate",
+                "suffix": " Democrats’ Surprising Strategy: Trying to Align",
+                "offset": 304,
+                "length": 6
+            },
+            {
+                "detection": "[and made only nominal gains in the House and ]Senate[, face a profound decision after last week’s]",
+                "prefix": "and made only nominal gains in the House and ",
+                "exact": "Senate",
+                "suffix": ", face a profound decision after last week’s",
+                "offset": 1244,
+                "length": 6
+            },
+            {
+                "detection": "[Pennsylvania, Ohio and Wisconsin, Democratic ]Senate[ candidates and the party’s presidential nominee,]",
+                "prefix": "Pennsylvania, Ohio and Wisconsin, Democratic ",
+                "exact": "Senate",
+                "suffix": " candidates and the party’s presidential nominee,",
+                "offset": 2637,
+                "length": 6
+            },
+            {
+                "detection": "[experience with the vigor of youth, at least in ]Senate[ years,” Mr. Schumer said. \n \nBut Mr. Schumer’s]",
+                "prefix": "experience with the vigor of youth, at least in ",
+                "exact": "Senate",
+                "suffix": " years,” Mr. Schumer said. \n \nBut Mr. Schumer’s",
+                "offset": 3846,
+                "length": 6
+            },
+            {
+                "detection": "[now the highest-ranking Democrat on the ]Senate[ Judiciary Committee, said in a statement on]",
+                "prefix": "now the highest-ranking Democrat on the ",
+                "exact": "Senate",
+                "suffix": " Judiciary Committee, said in a statement on",
+                "offset": 6815,
+                "length": 6
+            },
+            {
+                "detection": "[other senior positions are another, and there, ]Senate[ Republicans who will vote on their confirmations]",
+                "prefix": "other senior positions are another, and there, ",
+                "exact": "Senate",
+                "suffix": " Republicans who will vote on their confirmations",
+                "offset": 7510,
+                "length": 6
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/d75c47cc-e17f-3cbb-9a28-e17d5d9f1af2": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Judiciary Committee",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[now the highest-ranking Democrat on the Senate ]Judiciary Committee[, said in a statement on Wednesday that “the]",
+                "prefix": "now the highest-ranking Democrat on the Senate ",
+                "exact": "Judiciary Committee",
+                "suffix": ", said in a statement on Wednesday that “the",
+                "offset": 6822,
+                "length": 19
+            },
+            {
+                "detection": "[said in a statement on Wednesday that “the ]committee[ will pay very close attention to proposed]",
+                "prefix": "said in a statement on Wednesday that “the ",
+                "exact": "committee",
+                "suffix": " will pay very close attention to proposed",
+                "offset": 6886,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/eecc1078-135d-3727-81d7-a9fa5bc07cae": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chief strategist",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Trump’s appointment of Stephen K. Bannon as his ]chief strategist[, and will oppose his promised tax cuts for the]",
+                "prefix": "Trump’s appointment of Stephen K. Bannon as his ",
+                "exact": "chief strategist",
+                "suffix": ", and will oppose his promised tax cuts for the",
+                "offset": 2267,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/054dc79f-9566-33df-9f69-5c136e414913": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "issues concerning steel workers",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[ Trump’s trade adviser and would work with him on ]issues concerning steel workers[. “We can work with him on things we agree on,”]",
+                "prefix": " Trump’s trade adviser and would work with him on ",
+                "exact": "issues concerning steel workers",
+                "suffix": ". “We can work with him on things we agree on,”",
+                "offset": 6145,
+                "length": 31
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "White House",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ Mr. Trump might like. \n \nDemocrats, who lost the ]White House[ and made only nominal gains in the House and]",
+                "prefix": " Mr. Trump might like. \n \nDemocrats, who lost the ",
+                "exact": "White House",
+                "suffix": " and made only nominal gains in the House and",
+                "offset": 1187,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/4771f280-395d-3755-b3c9-a7e2af4ad549": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Bernie Sanders",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.996",
+        "commonname": "Bernie Sanders",
+        "confidence": {
+            "statisticalfeature": "0.994",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.996"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[strains within the party, from Senators ]Bernie Sanders[ of Vermont and Elizabeth Warren of]",
+                "prefix": "strains within the party, from Senators ",
+                "exact": "Bernie Sanders",
+                "suffix": " of Vermont and Elizabeth Warren of",
+                "offset": 3491,
+                "length": 14
+            },
+            {
+                "detection": "[which is also a pet issue of Mr. Schumer. ]Mr. Sanders[ put out a statement after the election saying he]",
+                "prefix": "which is also a pet issue of Mr. Schumer. ",
+                "exact": "Mr. Sanders",
+                "suffix": " put out a statement after the election saying he",
+                "offset": 6534,
+                "length": 11
+            },
+            {
+                "detection": "[put out a statement after the election saying ]he[ too would work with Mr. Trump on areas of]",
+                "prefix": "put out a statement after the election saying ",
+                "exact": "he",
+                "suffix": " too would work with Mr. Trump on areas of",
+                "offset": 6592,
+                "length": 2
+            },
+            {
+                "detection": "[agreement. \n \nAt the same time, they remain ]his[ adversary on other matters. For example, Senator]",
+                "prefix": "agreement. \n \nAt the same time, they remain ",
+                "exact": "his",
+                "suffix": " adversary on other matters. For example, Senator",
+                "offset": 6690,
+                "length": 3
+            },
+            {
+                "detection": "[been fulsome in their praise of Mr. Trump since ]his[ election. Speaker Paul D. Ryan, for instance,]",
+                "prefix": "been fulsome in their praise of Mr. Trump since ",
+                "exact": "his",
+                "suffix": " election. Speaker Paul D. Ryan, for instance,",
+                "offset": 7140,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f743828d-b27c-3140-976f-ebfe49992471": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "F.B.I.",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[to blame this loss on a letter from the ]F.B.I.[ or what states Hillary went to,” said Senator]",
+                "prefix": "to blame this loss on a letter from the ",
+                "exact": "F.B.I.",
+                "suffix": " or what states Hillary went to,” said Senator",
+                "offset": 2915,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Russia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[critical of Mr. Trump’s cozy views toward ]Russia[. \n \nOn one area, though, Democrats and]",
+                "prefix": "critical of Mr. Trump’s cozy views toward ",
+                "exact": "Russia",
+                "suffix": ". \n \nOn one area, though, Democrats and",
+                "offset": 7891,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Russia",
+                "shortname": "Russia",
+                "latitude": "54.8270488441",
+                "longitude": "55.0423189997",
+                "rcscode": "G:38",
+                "permid": "100253"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ae5cf21a-cfeb-32b7-9bf1-9b56015f1589": {
+        "_typeGroup": "entities",
+        "_type": "SportsGame",
+        "forenduserdisplay": "false",
+        "name": "football",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/SportsGame",
+        "instances": [
+            {
+                "detection": "[\n \nRepresentative Tim Ryan of Ohio, a former ]football[ player from the ailing industrial region around]",
+                "prefix": "\n \nRepresentative Tim Ryan of Ohio, a former ",
+                "exact": "football",
+                "suffix": " player from the ailing industrial region around",
+                "offset": 4595,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/c80492d6-cf11-3fa7-b973-0060c435e42f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Paul D. Ryan",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Paul",
+        "middlename": "D.",
+        "lastname": "Ryan",
+        "commonname": "Paul Ryan",
+        "resolutions": [
+            {
+                "name": "Paul Bradley Ryan",
+                "personid": "2125753",
+                "paid": "34417322840",
+                "officerid": "N/A",
+                "commonname": "Paul Ryan",
+                "score": 0.7663846
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.997",
+            "dblookup": "0.95",
+            "resolution": "0.7663846",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[praise of Mr. Trump since his election. Speaker ]Paul D. Ryan[, for instance, has repeatedly said that he]",
+                "prefix": "praise of Mr. Trump since his election. Speaker ",
+                "exact": "Paul D. Ryan",
+                "suffix": ", for instance, has repeatedly said that he",
+                "offset": 7162,
+                "length": 12
+            },
+            {
+                "detection": "[D. Ryan, for instance, has repeatedly said that ]he[ expects Mr. Trump to work with Republicans on]",
+                "prefix": "D. Ryan, for instance, has repeatedly said that ",
+                "exact": "he",
+                "suffix": " expects Mr. Trump to work with Republicans on",
+                "offset": 7215,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/7c087bd5-a2fb-39e1-8408-5265348ee5a5": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Elizabeth Warren",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Elizabeth",
+        "lastname": "Warren",
+        "commonname": "Elizabeth Warren",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[from Senators Bernie Sanders of Vermont and ]Elizabeth Warren[ of Massachusetts, the best-known figures in the]",
+                "prefix": "from Senators Bernie Sanders of Vermont and ",
+                "exact": "Elizabeth Warren",
+                "suffix": " of Massachusetts, the best-known figures in the",
+                "offset": 3521,
+                "length": 16
+            },
+            {
+                "detection": "[week to the A.F.L.-C.I.O. Executive Council, ]Ms. Warren[, who sparred in viciously personal terms with]",
+                "prefix": "week to the A.F.L.-C.I.O. Executive Council, ",
+                "exact": "Ms. Warren",
+                "suffix": ", who sparred in viciously personal terms with",
+                "offset": 5234,
+                "length": 10
+            },
+            {
+                "detection": "[Trump during the campaign, noted the many ways ]she[ agreed with the president-elect. \n \n“He spoke of]",
+                "prefix": "Trump during the campaign, noted the many ways ",
+                "exact": "she",
+                "suffix": " agreed with the president-elect. \n \n“He spoke of",
+                "offset": 5342,
+                "length": 3
+            },
+            {
+                "detection": "[they aren’t raw deals for the American people,” ]she[ said. “He said he will not cut Social Security]",
+                "prefix": "they aren’t raw deals for the American people,” ",
+                "exact": "she",
+                "suffix": " said. “He said he will not cut Social Security",
+                "offset": 5481,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/51bb10d7-d54c-3aed-8cf9-b7782e8eeda9": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Pennsylvania",
+        "resolutions": [
+            {
+                "name": "Pennsylvania,United States",
+                "shortname": "Pennsylvania",
+                "latitude": "40.6649812556",
+                "longitude": "-77.9064900333",
+                "containedbycountry": "United States",
+                "rcscode": "G:3M",
+                "permid": "100239"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[program. \n \nIn several key states, namely ]Pennsylvania[, Ohio and Wisconsin, Democratic Senate]",
+                "prefix": "program. \n \nIn several key states, namely ",
+                "exact": "Pennsylvania",
+                "suffix": ", Ohio and Wisconsin, Democratic Senate",
+                "offset": 2592,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/b3ef6b77-5a27-3e20-9f3e-44abe6ce286f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Sherrod Brown",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.977",
+        "firstname": "Sherrod",
+        "lastname": "Brown",
+        "commonname": "Sherrod Brown",
+        "confidence": {
+            "statisticalfeature": "0.949",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.977"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[to rebuild our economy for working people.” \n \n]Senator Sherrod Brown[, Democrat of Ohio, long a critic of trade deals,]",
+                "prefix": "to rebuild our economy for working people.” \n \n",
+                "exact": "Senator Sherrod Brown",
+                "suffix": ", Democrat of Ohio, long a critic of trade deals,",
+                "offset": 5964,
+                "length": 21
+            },
+            {
+                "detection": "[ critic of trade deals, said in an interview that ]he[ had spoken extensively with Mr. Trump’s trade]",
+                "prefix": " critic of trade deals, said in an interview that ",
+                "exact": "he",
+                "suffix": " had spoken extensively with Mr. Trump’s trade",
+                "offset": 6061,
+                "length": 2
+            },
+            {
+                "detection": "[Mr. Trump’s trade adviser and would work with ]him[ on issues concerning steel workers. “We can work]",
+                "prefix": "Mr. Trump’s trade adviser and would work with ",
+                "exact": "him",
+                "suffix": " on issues concerning steel workers. “We can work",
+                "offset": 6138,
+                "length": 3
+            },
+            {
+                "detection": "[concerning steel workers. “We can work with ]him[ on things we agree on,” Mr. Brown said. “On]",
+                "prefix": "concerning steel workers. “We can work with ",
+                "exact": "him",
+                "suffix": " on things we agree on,” Mr. Brown said. “On",
+                "offset": 6196,
+                "length": 3
+            },
+            {
+                "detection": "[“We can work with him on things we agree on,” ]Mr. Brown[ said. “On Bannon, no.” \n \nMr. Brown sent a]",
+                "prefix": "“We can work with him on things we agree on,” ",
+                "exact": "Mr. Brown",
+                "suffix": " said. “On Bannon, no.” \n \nMr. Brown sent a",
+                "offset": 6224,
+                "length": 9
+            },
+            {
+                "detection": "[agree on,” Mr. Brown said. “On Bannon, no.” \n \n]Mr. Brown[ sent a letter to Mr. Trump urging him to]",
+                "prefix": "agree on,” Mr. Brown said. “On Bannon, no.” \n \n",
+                "exact": "Mr. Brown",
+                "suffix": " sent a letter to Mr. Trump urging him to",
+                "offset": 6260,
+                "length": 9
+            },
+            {
+                "detection": "[\n \nMr. Brown sent a letter to Mr. Trump urging ]him[ to renegotiate the North American Free Trade]",
+                "prefix": "\n \nMr. Brown sent a letter to Mr. Trump urging ",
+                "exact": "him",
+                "suffix": " to renegotiate the North American Free Trade",
+                "offset": 6304,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/01958c7a-5240-3cee-a5a7-5cfa5059314f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Chuck Schumer",
+        "persontype": "N/A",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Chuck Schumer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[their small-government, free-market principles. ]Senator Chuck Schumer[ of New York, elected Wednesday as the new]",
+                "prefix": "their small-government, free-market principles. ",
+                "exact": "Senator Chuck Schumer",
+                "suffix": " of New York, elected Wednesday as the new",
+                "offset": 906,
+                "length": 21
+            },
+            {
+                "detection": "[\nThe competing political forces were evident in ]Mr. Schumer[’s selection of a leadership slate that reflects]",
+                "prefix": "\nThe competing political forces were evident in ",
+                "exact": "Mr. Schumer",
+                "suffix": "’s selection of a leadership slate that reflects",
+                "offset": 3381,
+                "length": 11
+            },
+            {
+                "detection": "[the vigor of youth, at least in Senate years,” ]Mr. Schumer[ said. \n \nBut Mr. Schumer’s immediate challenge]",
+                "prefix": "the vigor of youth, at least in Senate years,” ",
+                "exact": "Mr. Schumer",
+                "suffix": " said. \n \nBut Mr. Schumer’s immediate challenge",
+                "offset": 3861,
+                "length": 11
+            },
+            {
+                "detection": "[ least in Senate years,” Mr. Schumer said. \n \nBut ]Mr. Schumer[’s immediate challenge will be to meet the often]",
+                "prefix": " least in Senate years,” Mr. Schumer said. \n \nBut ",
+                "exact": "Mr. Schumer",
+                "suffix": "’s immediate challenge will be to meet the often",
+                "offset": 3886,
+                "length": 11
+            },
+            {
+                "detection": "[manipulation, which is also a pet issue of ]Mr. Schumer[. Mr. Sanders put out a statement after the]",
+                "prefix": "manipulation, which is also a pet issue of ",
+                "exact": "Mr. Schumer",
+                "suffix": ". Mr. Sanders put out a statement after the",
+                "offset": 6521,
+                "length": 11
+            }
+        ],
+        "relevance": 0.8,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/600d7bcd-d31e-315f-8c2f-bc447ebb733f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Amy Klobuchar",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Amy",
+        "lastname": "Klobuchar",
+        "commonname": "Amy Klobuchar",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ the F.B.I. or what states Hillary went to,” said ]Senator Amy Klobuchar[, Democrat of Minnesota. “We need to do a better]",
+                "prefix": " the F.B.I. or what states Hillary went to,” said ",
+                "exact": "Senator Amy Klobuchar",
+                "suffix": ", Democrat of Minnesota. “We need to do a better",
+                "offset": 2960,
+                "length": 21
+            },
+            {
+                "detection": "[job having a bold sharp focus on the economy,” ]she[ said, like the cost of prescription drugs and]",
+                "prefix": "job having a bold sharp focus on the economy,” ",
+                "exact": "she",
+                "suffix": " said, like the cost of prescription drugs and",
+                "offset": 3077,
+                "length": 3
+            },
+            {
+                "detection": "[\n“It is not just being a collection of groups,” ]she[ added. “It’s talking about policies in a serious]",
+                "prefix": "\n“It is not just being a collection of groups,” ",
+                "exact": "she",
+                "suffix": " added. “It’s talking about policies in a serious",
+                "offset": 3213,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "WASHINGTON",
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Trying to Align With Trump</Title> \n<Body> \n]WASHINGTON[ — Congressional Democrats, divided and]",
+                "prefix": "Trying to Align With Trump</Title> \n<Body> \n",
+                "exact": "WASHINGTON",
+                "suffix": " — Congressional Democrats, divided and",
+                "offset": 387,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/d3e81c35-01e4-3799-b5c4-cf9e94eecd5c": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Joe Manchin III",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Joe",
+        "lastname": "Manchin",
+        "commonname": "Joe Manchin III",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[best-known figures in the progressive wing, to ]Senator Joe Manchin III[ of West Virginia, one of a half-dozen moderate]",
+                "prefix": "best-known figures in the progressive wing, to ",
+                "exact": "Senator Joe Manchin III",
+                "suffix": " of West Virginia, one of a half-dozen moderate",
+                "offset": 3607,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f028efd3-e776-3870-9c05-8b9cfd107dac": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Representative",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[knotted up in an internal battle over whether ]Representative[ Nancy Pelosi of California, who hails from one]",
+                "prefix": "knotted up in an internal battle over whether ",
+                "exact": "Representative",
+                "suffix": " Nancy Pelosi of California, who hails from one",
+                "offset": 4350,
+                "length": 14
+            },
+            {
+                "detection": "[new leader, possibly from a Rust Belt state. \n \n]Representative[ Tim Ryan of Ohio, a former football player from]",
+                "prefix": "new leader, possibly from a Rust Belt state. \n \n",
+                "exact": "Representative",
+                "suffix": " Tim Ryan of Ohio, a former football player from",
+                "offset": 4553,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "China",
+        "resolutions": [
+            {
+                "name": "China",
+                "shortname": "China",
+                "latitude": "32.9042932784",
+                "longitude": "110.467708512",
+                "rcscode": "G:B1",
+                "permid": "100064"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[make changes to the trade relationship with ]China[ and fight currency manipulation, which is also a]",
+                "prefix": "make changes to the trade relationship with ",
+                "exact": "China",
+                "suffix": " and fight currency manipulation, which is also a",
+                "offset": 6453,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/524c076a-410e-3999-a795-0e725892f15f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Tim Ryan",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Tim Ryan",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[new leader, possibly from a Rust Belt state. \n \n]Representative Tim Ryan[ of Ohio, a former football player from the]",
+                "prefix": "new leader, possibly from a Rust Belt state. \n \n",
+                "exact": "Representative Tim Ryan",
+                "suffix": " of Ohio, a former football player from the",
+                "offset": 4553,
+                "length": 23
+            },
+            {
+                "detection": "[about challenging Ms. Pelosi, and the contrast ]he[ would present would be stark. \n \nDemocrats need]",
+                "prefix": "about challenging Ms. Pelosi, and the contrast ",
+                "exact": "he",
+                "suffix": " would present would be stark. \n \nDemocrats need",
+                "offset": 4722,
+                "length": 2
+            },
+            {
+                "detection": "[who are steelworkers or work in construction,” ]Mr. Ryan[ told The Youngstown Vindicator. “The economy and]",
+                "prefix": "who are steelworkers or work in construction,” ",
+                "exact": "Mr. Ryan",
+                "suffix": " told The Youngstown Vindicator. “The economy and",
+                "offset": 4871,
+                "length": 8
+            },
+            {
+                "detection": "[ways she agreed with the president-elect. \n \n“]He[ spoke of the need to reform our trade deals so]",
+                "prefix": "ways she agreed with the president-elect. \n \n“",
+                "exact": "He",
+                "suffix": " spoke of the need to reform our trade deals so",
+                "offset": 5383,
+                "length": 2
+            },
+            {
+                "detection": "[raw deals for the American people,” she said. “]He[ said he will not cut Social Security benefits.]",
+                "prefix": "raw deals for the American people,” she said. “",
+                "exact": "He",
+                "suffix": " said he will not cut Social Security benefits.",
+                "offset": 5492,
+                "length": 2
+            },
+            {
+                "detection": "[for the American people,” she said. “He said ]he[ will not cut Social Security benefits. He talked]",
+                "prefix": "for the American people,” she said. “He said ",
+                "exact": "he",
+                "suffix": " will not cut Social Security benefits. He talked",
+                "offset": 5500,
+                "length": 2
+            },
+            {
+                "detection": "[said he will not cut Social Security benefits. ]He[ talked about the need to address the rising cost]",
+                "prefix": "said he will not cut Social Security benefits. ",
+                "exact": "He",
+                "suffix": " talked about the need to address the rising cost",
+                "offset": 5542,
+                "length": 2
+            },
+            {
+                "detection": "[struggling with the high cost of child care. ]He[ spoke of the urgency of rebuilding our crumbling]",
+                "prefix": "struggling with the high cost of child care. ",
+                "exact": "He",
+                "suffix": " spoke of the urgency of rebuilding our crumbling",
+                "offset": 5684,
+                "length": 2
+            },
+            {
+                "detection": "[infrastructure and putting people back to work. ]He[ spoke to the very real sense of millions of]",
+                "prefix": "infrastructure and putting people back to work. ",
+                "exact": "He",
+                "suffix": " spoke to the very real sense of millions of",
+                "offset": 5784,
+                "length": 2
+            },
+            {
+                "detection": "[and their economy has abandoned them. And ]he[ promised to rebuild our economy for working]",
+                "prefix": "and their economy has abandoned them. And ",
+                "exact": "he",
+                "suffix": " promised to rebuild our economy for working",
+                "offset": 5905,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/c81067c8-ba00-39fa-99d3-b4eca28251d1": {
+        "_typeGroup": "entities",
+        "_type": "Region",
+        "forenduserdisplay": "false",
+        "name": "West Virginia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Region",
+        "instances": [
+            {
+                "detection": "[progressive wing, to Senator Joe Manchin III of ]West Virginia[, one of a half-dozen moderate Democrats up for]",
+                "prefix": "progressive wing, to Senator Joe Manchin III of ",
+                "exact": "West Virginia",
+                "suffix": ", one of a half-dozen moderate Democrats up for",
+                "offset": 3634,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/d31bfcc0-cfa4-393c-ba13-e42dcf952f22": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "foreign steel",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[of prescription drugs and predatory pricing on ]foreign steel[. \n \n“It is not just being a collection of]",
+                "prefix": "of prescription drugs and predatory pricing on ",
+                "exact": "foreign steel",
+                "suffix": ". \n \n“It is not just being a collection of",
+                "offset": 3148,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "California",
+        "resolutions": [
+            {
+                "name": "California,United States",
+                "shortname": "California",
+                "latitude": "36.4885198674",
+                "longitude": "-119.701379437",
+                "containedbycountry": "United States",
+                "rcscode": "G:4V",
+                "permid": "100049"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[over whether Representative Nancy Pelosi of ]California[, who hails from one of the wealthiest, most]",
+                "prefix": "over whether Representative Nancy Pelosi of ",
+                "exact": "California",
+                "suffix": ", who hails from one of the wealthiest, most",
+                "offset": 4381,
+                "length": 10
+            },
+            {
+                "detection": "[For example, Senator Dianne Feinstein of ]California[, now the highest-ranking Democrat on the Senate]",
+                "prefix": "For example, Senator Dianne Feinstein of ",
+                "exact": "California",
+                "suffix": ", now the highest-ranking Democrat on the Senate",
+                "offset": 6763,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/317bd67c-156a-32bd-8a5f-dd97b6d4c5a2": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Arizona",
+        "resolutions": [
+            {
+                "name": "Arizona,United States",
+                "shortname": "Arizona",
+                "latitude": "33.8947715893",
+                "longitude": "-111.509465331",
+                "containedbycountry": "United States",
+                "rcscode": "G:23",
+                "permid": "100018"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[Republican senators like John McCain of ]Arizona[ also have been implicitly critical of Mr.]",
+                "prefix": "Republican senators like John McCain of ",
+                "exact": "Arizona",
+                "suffix": " also have been implicitly critical of Mr.",
+                "offset": 7815,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7acdcb17-60d8-35c2-ad99-3b224d74f25f": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Massachusetts",
+        "resolutions": [
+            {
+                "name": "Massachusetts,United States",
+                "shortname": "Massachusetts",
+                "latitude": "42.3",
+                "longitude": "-71.8",
+                "containedbycountry": "United States",
+                "rcscode": "G:3K",
+                "permid": "100180"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[Sanders of Vermont and Elizabeth Warren of ]Massachusetts[, the best-known figures in the progressive wing,]",
+                "prefix": "Sanders of Vermont and Elizabeth Warren of ",
+                "exact": "Massachusetts",
+                "suffix": ", the best-known figures in the progressive wing,",
+                "offset": 3541,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f22bbb3b-3579-3ce0-a482-f8a25783c927": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Youngstown",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[player from the ailing industrial region around ]Youngstown[, is talking about challenging Ms. Pelosi, and]",
+                "prefix": "player from the ailing industrial region around ",
+                "exact": "Youngstown",
+                "suffix": ", is talking about challenging Ms. Pelosi, and",
+                "offset": 4652,
+                "length": 10
+            },
+            {
+                "detection": "[or work in construction,” Mr. Ryan told The ]Youngstown[ Vindicator. “The economy and blue-collar jobs]",
+                "prefix": "or work in construction,” Mr. Ryan told The ",
+                "exact": "Youngstown",
+                "suffix": " Vindicator. “The economy and blue-collar jobs",
+                "offset": 4889,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/83e55498-b5df-3a6b-8602-868df9833909": {
+        "_typeGroup": "entities",
+        "_type": "TVShow",
+        "forenduserdisplay": "false",
+        "name": "the F.B.I.",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/TVShow",
+        "instances": [
+            {
+                "detection": "[ shortsighted to blame this loss on a letter from ]the F.B.I.[ or what states Hillary went to,” said Senator]",
+                "prefix": " shortsighted to blame this loss on a letter from ",
+                "exact": "the F.B.I.",
+                "suffix": " or what states Hillary went to,” said Senator",
+                "offset": 2911,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/867dc235-a976-3cf2-af70-31e54a3a94ac": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Debbie Stabenow",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Debbie",
+        "lastname": "Stabenow",
+        "commonname": "Debbie Stabenow",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ in our caucus agrees the system is rigged,” said ]Senator Debbie Stabenow[, Democrat of Michigan. \n \nStill, there will be]",
+                "prefix": " in our caucus agrees the system is rigged,” said ",
+                "exact": "Senator Debbie Stabenow",
+                "suffix": ", Democrat of Michigan. \n \nStill, there will be",
+                "offset": 2074,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7ba9ad97-a39c-329d-8b46-cf3d14b335d2": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "like the cost of prescription drugs and predatory pricing on foreign steel",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/600d7bcd-d31e-315f-8c2f-bc447ebb733f",
+        "instances": [
+            {
+                "detection": "[Senator Amy Klobuchar, Democrat of Minnesota. ]“We need to do a better job having a bold sharp focus on the economy,” she said, like the cost of prescription drugs and predatory pricing on foreign steel.[ \n \n“It is not just being a collection of]",
+                "prefix": "Senator Amy Klobuchar, Democrat of Minnesota. ",
+                "exact": "“We need to do a better job having a bold sharp focus on the economy,” she said, like the cost of prescription drugs and predatory pricing on foreign steel.",
+                "suffix": " \n \n“It is not just being a collection of",
+                "offset": 3006,
+                "length": 156
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a7da8fbb-0624-332f-9b83-185d41f46048": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Arizona",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/69e7e17e-d4b1-3bbc-972f-66d7464f7ed6",
+        "instances": [
+            {
+                "detection": "[for high positions. Republican senators like ]John McCain of Arizona[ also have been implicitly critical of Mr.]",
+                "prefix": "for high positions. Republican senators like ",
+                "exact": "John McCain of Arizona",
+                "suffix": " also have been implicitly critical of Mr.",
+                "offset": 7800,
+                "length": 22
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/3918af0c-3980-3501-a34e-faab53f7c5e9": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he will not cut Social Security benefits",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/524c076a-410e-3999-a795-0e725892f15f",
+        "instances": [
+            {
+                "detection": "[raw deals for the American people,” she said. ]“He said he will not cut Social Security benefits.[ He talked about the need to address the rising]",
+                "prefix": "raw deals for the American people,” she said. ",
+                "exact": "“He said he will not cut Social Security benefits.",
+                "suffix": " He talked about the need to address the rising",
+                "offset": 5491,
+                "length": 50
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/beec3c5f-0996-32e2-a0b0-685507c99f34": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Speaker",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/c80492d6-cf11-3fa7-b973-0060c435e42f",
+        "instances": [
+            {
+                "detection": "[ in their praise of Mr. Trump since his election. ]Speaker Paul D. Ryan[, for instance, has repeatedly said that he]",
+                "prefix": " in their praise of Mr. Trump since his election. ",
+                "exact": "Speaker Paul D. Ryan",
+                "suffix": ", for instance, has repeatedly said that he",
+                "offset": 7154,
+                "length": 20
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fb5ddd03-e776-3581-9e01-83310927226a": {
+        "_typeGroup": "relations",
+        "_type": "PersonParty",
+        "forenduserdisplay": "false",
+        "party": "Democrats",
+        "locationstring": "michigan",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonParty",
+        "person": "http://d.opencalais.com/pershash-1/867dc235-a976-3cf2-af70-31e54a3a94ac",
+        "instances": [
+            {
+                "detection": "[ in our caucus agrees the system is rigged,” said ]Senator Debbie Stabenow, Democrat of Michigan[. \n \nStill, there will be areas of bright-line]",
+                "prefix": " in our caucus agrees the system is rigged,” said ",
+                "exact": "Senator Debbie Stabenow, Democrat of Michigan",
+                "suffix": ". \n \nStill, there will be areas of bright-line",
+                "offset": 2074,
+                "length": 45
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/aceff228-c6b4-3156-900e-fbb09ebe90cb": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he expects Mr. Trump to work with Republicans on their agenda of rolling back the Affordable Care Act and making large-scale changes to the tax code and entitlements.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/c80492d6-cf11-3fa7-b973-0060c435e42f",
+        "instances": [
+            {
+                "detection": "[ in their praise of Mr. Trump since his election. ]Speaker Paul D. Ryan, for instance, has repeatedly said that he expects Mr. Trump to work with Republicans on their agenda of rolling back the Affordable Care Act and making large-scale changes to the tax code and entitlements.[ \n \nWhile Mr. Trump’s policies are one matter,]",
+                "prefix": " in their praise of Mr. Trump since his election. ",
+                "exact": "Speaker Paul D. Ryan, for instance, has repeatedly said that he expects Mr. Trump to work with Republicans on their agenda of rolling back the Affordable Care Act and making large-scale changes to the tax code and entitlements.",
+                "suffix": " \n \nWhile Mr. Trump’s policies are one matter,",
+                "offset": 7154,
+                "length": 227
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8d405874-cbdf-32fa-9ef2-7bffaad642f5": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Representative",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/abbcb80e-dd9e-3672-b9f7-f5d3fcc0ff11",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/9679b237-33e8-3478-ba13-d9af3c4b943e",
+        "instances": [
+            {
+                "detection": "[knotted up in an internal battle over whether ]Representative Nancy Pelosi of California[, who hails from one of the wealthiest, most]",
+                "prefix": "knotted up in an internal battle over whether ",
+                "exact": "Representative Nancy Pelosi of California",
+                "suffix": ", who hails from one of the wealthiest, most",
+                "offset": 4350,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4841f657-418e-3e1c-9b13-2ede6a80d7b4": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Senator",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/4771f280-395d-3755-b3c9-a7e2af4ad549",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/ff916135-4329-3a7e-9162-2e717d9afdc9",
+        "instances": [
+            {
+                "detection": "[strains within the party, from Senators ]Bernie Sanders of Vermont[ and Elizabeth Warren of Massachusetts, the]",
+                "prefix": "strains within the party, from Senators ",
+                "exact": "Bernie Sanders of Vermont",
+                "suffix": " and Elizabeth Warren of Massachusetts, the",
+                "offset": 3491,
+                "length": 25
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0d9227a5-43aa-36f3-aa5b-cf48c2b7e17c": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "West Virginia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/d3e81c35-01e4-3799-b5c4-cf9e94eecd5c",
+        "instances": [
+            {
+                "detection": "[best-known figures in the progressive wing, to ]Senator Joe Manchin III of West Virginia[, one of a half-dozen moderate Democrats up for]",
+                "prefix": "best-known figures in the progressive wing, to ",
+                "exact": "Senator Joe Manchin III of West Virginia",
+                "suffix": ", one of a half-dozen moderate Democrats up for",
+                "offset": 3607,
+                "length": 40
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/76e2f734-c90b-3e6b-89fd-d7609d3e9fb4": {
+        "_typeGroup": "relations",
+        "_type": "PersonParty",
+        "forenduserdisplay": "false",
+        "party": "Democrats",
+        "locationstring": "minnesota",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonParty",
+        "person": "http://d.opencalais.com/pershash-1/600d7bcd-d31e-315f-8c2f-bc447ebb733f",
+        "instances": [
+            {
+                "detection": "[ the F.B.I. or what states Hillary went to,” said ]Senator Amy Klobuchar, Democrat of Minnesota[. “We need to do a better job having a bold sharp]",
+                "prefix": " the F.B.I. or what states Hillary went to,” said ",
+                "exact": "Senator Amy Klobuchar, Democrat of Minnesota",
+                "suffix": ". “We need to do a better job having a bold sharp",
+                "offset": 2960,
+                "length": 44
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e01690bd-6d5d-3c6d-8b27-c83c4ac93d70": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "Mr. Trump’s trade adviser",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/b3ef6b77-5a27-3e20-9f3e-44abe6ce286f",
+        "instances": [
+            {
+                "detection": "[ critic of trade deals, said in an interview that ]he had spoken extensively with Mr. Trump’s trade adviser[ and would work with him on issues concerning]",
+                "prefix": " critic of trade deals, said in an interview that ",
+                "exact": "he had spoken extensively with Mr. Trump’s trade adviser",
+                "suffix": " and would work with him on issues concerning",
+                "offset": 6061,
+                "length": 56
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8f242c48-5a4b-3771-af56-52a9d68c4a43": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "California",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/abbcb80e-dd9e-3672-b9f7-f5d3fcc0ff11",
+        "instances": [
+            {
+                "detection": "[knotted up in an internal battle over whether ]Representative Nancy Pelosi of California[, who hails from one of the wealthiest, most]",
+                "prefix": "knotted up in an internal battle over whether ",
+                "exact": "Representative Nancy Pelosi of California",
+                "suffix": ", who hails from one of the wealthiest, most",
+                "offset": 4350,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/af6e28a2-3ad7-3677-acd9-52e79d739f6a": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Representative",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/524c076a-410e-3999-a795-0e725892f15f",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/3464e47d-a869-3783-8fdc-d17cb8f13c2e",
+        "instances": [
+            {
+                "detection": "[new leader, possibly from a Rust Belt state. \n \n]Representative Tim Ryan of Ohio[, a former football player from the ailing]",
+                "prefix": "new leader, possibly from a Rust Belt state. \n \n",
+                "exact": "Representative Tim Ryan of Ohio",
+                "suffix": ", a former football player from the ailing",
+                "offset": 4553,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4f4cf576-591e-3a81-aa13-7b58eae4dfa7": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Vermont",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/4771f280-395d-3755-b3c9-a7e2af4ad549",
+        "instances": [
+            {
+                "detection": "[strains within the party, from Senators ]Bernie Sanders of Vermont[ and Elizabeth Warren of Massachusetts, the]",
+                "prefix": "strains within the party, from Senators ",
+                "exact": "Bernie Sanders of Vermont",
+                "suffix": " and Elizabeth Warren of Massachusetts, the",
+                "offset": 3491,
+                "length": 25
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e4e9b715-4e60-3ab9-acc5-8683818e5c87": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "organization": "http://d.opencalais.com/genericHasher-1/6df2b0d0-0a15-3923-a15f-ff3d866e039b",
+        "instances": [
+            {
+                "detection": "[an agenda to align with many proposals of ]President-elect Donald J. Trump[ that put him at odds with his own party. \n \nOn]",
+                "prefix": "an agenda to align with many proposals of ",
+                "exact": "President-elect Donald J. Trump",
+                "suffix": " that put him at odds with his own party. \n \nOn",
+                "offset": 549,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c3a91597-460d-3879-9f50-6cb421441cd3": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Massachusetts",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/7c087bd5-a2fb-39e1-8408-5265348ee5a5",
+        "instances": [
+            {
+                "detection": "[from Senators Bernie Sanders of Vermont and ]Elizabeth Warren of Massachusetts[, the best-known figures in the progressive wing,]",
+                "prefix": "from Senators Bernie Sanders of Vermont and ",
+                "exact": "Elizabeth Warren of Massachusetts",
+                "suffix": ", the best-known figures in the progressive wing,",
+                "offset": 3521,
+                "length": 33
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fca6c709-16ad-3ab4-a134-e8fc3f112e43": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "New York",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/01958c7a-5240-3cee-a5a7-5cfa5059314f",
+        "instances": [
+            {
+                "detection": "[their small-government, free-market principles. ]Senator Chuck Schumer of New York[, elected Wednesday as the new Democratic]",
+                "prefix": "their small-government, free-market principles. ",
+                "exact": "Senator Chuck Schumer of New York",
+                "suffix": ", elected Wednesday as the new Democratic",
+                "offset": 906,
+                "length": 33
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/05f5ea4a-542b-3fec-9e66-e9867e76f467": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "new Democratic minority leader",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[Chuck Schumer of New York, elected Wednesday as ]the new Democratic minority leader, has spoken with Mr. Trump[ several times, and Democrats in coming weeks]",
+                "prefix": "Chuck Schumer of New York, elected Wednesday as ",
+                "exact": "the new Democratic minority leader, has spoken with Mr. Trump",
+                "suffix": " several times, and Democrats in coming weeks",
+                "offset": 962,
+                "length": 61
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a237078a-1006-3945-a961-0782eb3e1b6d": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Ohio",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/524c076a-410e-3999-a795-0e725892f15f",
+        "instances": [
+            {
+                "detection": "[new leader, possibly from a Rust Belt state. \n \n]Representative Tim Ryan of Ohio[, a former football player from the ailing]",
+                "prefix": "new leader, possibly from a Rust Belt state. \n \n",
+                "exact": "Representative Tim Ryan of Ohio",
+                "suffix": ", a former football player from the ailing",
+                "offset": 4553,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/2ea7c3e4-5edb-31d1-8734-7af405079e28": {
+        "_typeGroup": "relations",
+        "_type": "CandidatePosition",
+        "forenduserdisplay": "false",
+        "positionaspirational": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CandidatePosition",
+        "candidate": "http://d.opencalais.com/pershash-1/b8148a41-c46e-3f4c-b8d6-d8b368a05c88",
+        "instances": [
+            {
+                "detection": "[ candidates and the party’s presidential nominee, ]Hillary Clinton[, failed to connect with middle-class voters, who]",
+                "prefix": " candidates and the party’s presidential nominee, ",
+                "exact": "Hillary Clinton",
+                "suffix": ", failed to connect with middle-class voters, who",
+                "offset": 2693,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0be97662-e5dc-33bf-86c0-69e99a5394bb": {
+        "_typeGroup": "relations",
+        "_type": "PersonParty",
+        "forenduserdisplay": "false",
+        "party": "Democrats",
+        "partydescription": "long a critic of trade deals",
+        "locationstring": "ohio",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonParty",
+        "person": "http://d.opencalais.com/pershash-1/b3ef6b77-5a27-3e20-9f3e-44abe6ce286f",
+        "instances": [
+            {
+                "detection": "[to rebuild our economy for working people.” \n \n]Senator Sherrod Brown, Democrat of Ohio, long a critic of trade deals,[ said in an interview that he had spoken]",
+                "prefix": "to rebuild our economy for working people.” \n \n",
+                "exact": "Senator Sherrod Brown, Democrat of Ohio, long a critic of trade deals,",
+                "suffix": " said in an interview that he had spoken",
+                "offset": 5964,
+                "length": 70
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0b94272c-9239-3d64-bcc3-cc4d1856155a": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“There is an acknowledgment that it is very shortsighted to blame this loss on a letter from the F.B.I. or what states Hillary went to,”",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/600d7bcd-d31e-315f-8c2f-bc447ebb733f",
+        "instances": [
+            {
+                "detection": "[ instead to the populist appeals of Mr. Trump. \n \n]“There is an acknowledgment that it is very shortsighted to blame this loss on a letter from the F.B.I. or what states Hillary went to,” said Senator Amy Klobuchar, Democrat of Minnesota.[ “We need to do a better job having a bold sharp]",
+                "prefix": " instead to the populist appeals of Mr. Trump. \n \n",
+                "exact": "“There is an acknowledgment that it is very shortsighted to blame this loss on a letter from the F.B.I. or what states Hillary went to,” said Senator Amy Klobuchar, Democrat of Minnesota.",
+                "suffix": " “We need to do a better job having a bold sharp",
+                "offset": 2818,
+                "length": 187
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a66011de-8560-3baf-af39-362f21cb5f28": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“Every single person in our caucus agrees the system is rigged,”",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/867dc235-a976-3cf2-af70-31e54a3a94ac",
+        "instances": [
+            {
+                "detection": "[Mr. Trump’s language from the campaign. ]“Every single person in our caucus agrees the system is rigged,” said Senator Debbie Stabenow, Democrat of Michigan.[ \n \nStill, there will be areas of bright-line]",
+                "prefix": "Mr. Trump’s language from the campaign. ",
+                "exact": "“Every single person in our caucus agrees the system is rigged,” said Senator Debbie Stabenow, Democrat of Michigan.",
+                "suffix": " \n \nStill, there will be areas of bright-line",
+                "offset": 2004,
+                "length": 116
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c8dda75f-cade-3ce3-9836-f83307d836c9": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "California",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/acde4776-6d59-32b2-8f46-d12c2d930729",
+        "instances": [
+            {
+                "detection": "[his adversary on other matters. For example, ]Senator Dianne Feinstein of California[, now the highest-ranking Democrat on the Senate]",
+                "prefix": "his adversary on other matters. For example, ",
+                "exact": "Senator Dianne Feinstein of California",
+                "suffix": ", now the highest-ranking Democrat on the Senate",
+                "offset": 6735,
+                "length": 38
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9cb8bb74-e48a-3aab-bcab-2e0c073b43d4": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "In a speech this week to the A.F.L.-C.I.O. Executive Council",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/7c087bd5-a2fb-39e1-8408-5265348ee5a5",
+        "instances": [
+            {
+                "detection": "[policy ideas that Democrats are offering. \n \n]In a speech this week to the A.F.L.-C.I.O. Executive Council, Ms. Warren, who sparred in viciously personal terms with Mr. Trump during the campaign, noted the many ways she agreed with the president-elect.[ \n \n“He spoke of the need to reform our trade]",
+                "prefix": "policy ideas that Democrats are offering. \n \n",
+                "exact": "In a speech this week to the A.F.L.-C.I.O. Executive Council, Ms. Warren, who sparred in viciously personal terms with Mr. Trump during the campaign, noted the many ways she agreed with the president-elect.",
+                "suffix": " \n \n“He spoke of the need to reform our trade",
+                "offset": 5172,
+                "length": 206
+            }
+        ]
+    }
+}

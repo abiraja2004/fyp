@@ -1,0 +1,919 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "dd250bfc-bafd-677f-1599-ba5f8dd7daf1",
+            "id": "http://id.opencalais.com/FQsetItD54kenlb5n-E5ew",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032",
+            "document": "--ca223832d2884f4494c67fecb0130b77 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>From Iran to Syria, Trump’s ‘America First’ Approach Faces Its First Tests</Title> \n<Body> \nWASHINGTON — Lurking behind the turmoil and the jockeying for advantage in President-elect Donald J. Trump’s effort to assemble a national security team lies the more fundamental question of how he will address the immediate and complex challenges he inherits upon taking office. \n \n“I’m America First,” Mr. Trump said in a March interview with The New York Times, describing for the first time what the phrase meant to him. “We have been disrespected, mocked and ripped off for many, many years by people that were smarter, shrewder, tougher.” \n \nAt moments during the campaign, he suggested both approaches. He said he would “take the oil” from Islamic State-controlled areas of Iraq, and he criticized President Obama for pulling troops out too soon. But he is also the man who rejected nation-building and asked, “Why is it always the United States that gets right in the middle of things?” \n \nHe added, “At some point, we cannot be the policeman of the world.” \n \nTo Mr. Trump, the Iran deal was not only misguided, but also badly negotiated. “They should’ve walked,” he said of Secretary of State John Kerry and his negotiating team. Mr. Trump said he would have left the negotiating room, doubled down on sanctions, and never agreed to give back billions of dollars, money that belonged to Iran and was frozen in American financial institutions. \n \n \n \n \n</Body> \n</Document> \n--ca223832d2884f4494c67fecb0130b77-- \n",
+            "docTitle": "From Iran to Syria, Trump’s ‘America First’ Approach Faces Its First Tests",
+            "docDate": "2017-01-14 06:24:23.052"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.2-RELEASE:133",
+            "stagsVer": "OneCalais_10.2-RELEASE-b21-2016-11-29_14:53:15",
+            "submissionDate": "2017-01-14 06:24:22.749",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|xMAX67gft9PbZOU1lO8M5KMTvlA=|BB1VIU1FVpDOEdo+A3rrUmEukmN59ZZqshlwo7MugjddZTs1LLfDUw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.845,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4460a2dd-717b-314d-ba90-768da45dd3fc",
+        "forenduserdisplay": "true",
+        "name": "Mike Pence",
+        "importance": "1",
+        "originalValue": "Mike Pence"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/35791f2d-ebb9-3d55-a952-631d002bc4d2",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump presidential campaign",
+        "importance": "1",
+        "originalValue": "Donald Trump presidential campaign, 2016"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "2",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "2",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/077112a0-efad-3011-b265-36c36a845314",
+        "forenduserdisplay": "true",
+        "name": "The Apprentice",
+        "importance": "2",
+        "originalValue": "The Apprentice (TV series)"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/3ce530f4-622a-369c-b61c-64490c736349",
+        "forenduserdisplay": "true",
+        "name": "Trump",
+        "importance": "2",
+        "originalValue": "Trump"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "importance": "2",
+        "originalValue": "United States"
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Newspaper Publishing",
+        "rcscode": "B:1458",
+        "permid": "4294951543",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/a81052ed-83d3-3a52-abc1-bf26e349d032/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701121541:201701121541",
+            "index-refineries:201612242322:201612242322",
+            "config-physicalAssets-powerStations:545:545",
+            "NextTags:OneCalais_10.2-RELEASE:133",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701122346:201701122346",
+            "config-negativeSignature:545:545",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:575:575",
+            "People Override:545:545",
+            "index-company-oa3:201701121741:201701121741",
+            "index-vessels:201612311629:201612311629",
+            "config-refineries:545:545",
+            "config-cse:575:575",
+            "config-vessels:545:545",
+            "OneCalais:OneCalais_10.2-RELEASE:133",
+            "config-physicalAssets-mines:545:545",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:575:575",
+            "index-ports:201612312234:201612312234",
+            "config-physicalAssets-ports:545:545",
+            "config-drugs:545:545"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a": {
+        "_typeGroup": "entities",
+        "_type": "Continent",
+        "forenduserdisplay": "false",
+        "name": "America",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Continent",
+        "instances": [
+            {
+                "detection": "[ \n<Document> \n<Title>From Iran to Syria, Trump’s ‘]America[ First’ Approach Faces Its First Tests</Title>]",
+                "prefix": " \n<Document> \n<Title>From Iran to Syria, Trump’s ‘",
+                "exact": "America",
+                "suffix": " First’ Approach Faces Its First Tests</Title>",
+                "offset": 333,
+                "length": 7
+            },
+            {
+                "detection": "[he inherits upon taking office. \n \n“I’m ]America[ First,” Mr. Trump said in a March interview with]",
+                "prefix": "he inherits upon taking office. \n \n“I’m ",
+                "exact": "America",
+                "suffix": " First,” Mr. Trump said in a March interview with",
+                "offset": 684,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "WASHINGTON",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Approach Faces Its First Tests</Title> \n<Body> \n]WASHINGTON[ — Lurking behind the turmoil and the jockeying]",
+                "prefix": "Approach Faces Its First Tests</Title> \n<Body> \n",
+                "exact": "WASHINGTON",
+                "suffix": " — Lurking behind the turmoil and the jockeying",
+                "offset": 396,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ]
+    },
+    "http://d.opencalais.com/comphash-1/f0dbca91-4d19-3a8b-ae21-eb71b892bc03": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "The New York Times",
+        "nationality": "American",
+        "confidencelevel": "0.97",
+        "resolutions": [
+            {
+                "name": "THE NEW YORK TIMES COMPANY",
+                "permid": "4295904606",
+                "primaryric": "NYT.N",
+                "commonname": "New York Times",
+                "score": 0.94584256,
+                "id": "https://permid.org/1-4295904606",
+                "ticker": "NYT"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ First,” Mr. Trump said in a March interview with ]The New York Times[, describing for the first time what the phrase]",
+                "prefix": " First,” Mr. Trump said in a March interview with ",
+                "exact": "The New York Times",
+                "suffix": ", describing for the first time what the phrase",
+                "offset": 741,
+                "length": 18
+            }
+        ],
+        "relevance": 0,
+        "confidence": {
+            "statisticalfeature": "0.917",
+            "dblookup": "0.0",
+            "resolution": "0.94584256",
+            "aggregate": "0.97"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e27cba57-b409-34f0-82c8-9328f02ed0fb": {
+        "_typeGroup": "entities",
+        "_type": "PublishedMedium",
+        "forenduserdisplay": "false",
+        "name": "The New York Times",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/PublishedMedium",
+        "instances": [
+            {
+                "detection": "[ First,” Mr. Trump said in a March interview with ]The New York Times[, describing for the first time what the phrase]",
+                "prefix": " First,” Mr. Trump said in a March interview with ",
+                "exact": "The New York Times",
+                "suffix": ", describing for the first time what the phrase",
+                "offset": 741,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/87e54e7c-e49e-38fe-a539-eefa69d9580b": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "policeman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[\n \nHe added, “At some point, we cannot be ]the policeman[ of the world.” \n \nTo Mr. Trump, the Iran deal]",
+                "prefix": "\n \nHe added, “At some point, we cannot be ",
+                "exact": "the policeman",
+                "suffix": " of the world.” \n \nTo Mr. Trump, the Iran deal",
+                "offset": 1333,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[the turmoil and the jockeying for advantage in ]President-elect[ Donald J. Trump’s effort to assemble a national]",
+                "prefix": "the turmoil and the jockeying for advantage in ",
+                "exact": "President-elect",
+                "suffix": " Donald J. Trump’s effort to assemble a national",
+                "offset": 471,
+                "length": 15
+            },
+            {
+                "detection": "[areas of Iraq, and he criticized ]President[ Obama for pulling troops out too soon. But he is]",
+                "prefix": "areas of Iraq, and he criticized ",
+                "exact": "President",
+                "suffix": " Obama for pulling troops out too soon. But he is",
+                "offset": 1101,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/31ec6404-85fe-33f5-af02-cb37fec6b170": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "oil",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[both approaches. He said he would “take the ]oil[” from Islamic State-controlled areas of Iraq,]",
+                "prefix": "both approaches. He said he would “take the ",
+                "exact": "oil",
+                "suffix": "” from Islamic State-controlled areas of Iraq,",
+                "offset": 1033,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Iraq",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[the oil” from Islamic State-controlled areas of ]Iraq[, and he criticized President Obama for pulling]",
+                "prefix": "the oil” from Islamic State-controlled areas of ",
+                "exact": "Iraq",
+                "suffix": ", and he criticized President Obama for pulling",
+                "offset": 1077,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Iraq",
+                "shortname": "Iraq",
+                "latitude": "33.0",
+                "longitude": "44.0",
+                "rcscode": "G:8G",
+                "permid": "100141"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/da74dbfc-f3fc-397b-93b0-25115642a515": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Iran",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>From ]Iran[ to Syria, Trump’s ‘America First’ Approach Faces]",
+                "prefix": "\n<Document> \n<Title>From ",
+                "exact": "Iran",
+                "suffix": " to Syria, Trump’s ‘America First’ Approach Faces",
+                "offset": 309,
+                "length": 4
+            },
+            {
+                "detection": "[policeman of the world.” \n \nTo Mr. Trump, the ]Iran[ deal was not only misguided, but also badly]",
+                "prefix": "policeman of the world.” \n \nTo Mr. Trump, the ",
+                "exact": "Iran",
+                "suffix": " deal was not only misguided, but also badly",
+                "offset": 1383,
+                "length": 4
+            },
+            {
+                "detection": "[ back billions of dollars, money that belonged to ]Iran[ and was frozen in American financial]",
+                "prefix": " back billions of dollars, money that belonged to ",
+                "exact": "Iran",
+                "suffix": " and was frozen in American financial",
+                "offset": 1693,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Iran",
+                "shortname": "Iran",
+                "latitude": "33.6803609863",
+                "longitude": "51.1688766542",
+                "rcscode": "G:56",
+                "permid": "100140"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "John Kerry",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "John",
+        "lastname": "Kerry",
+        "commonname": "John Kerry",
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ should’ve walked,” he said of Secretary of State ]John Kerry[ and his negotiating team. Mr. Trump said he]",
+                "prefix": " should’ve walked,” he said of Secretary of State ",
+                "exact": "John Kerry",
+                "suffix": " and his negotiating team. Mr. Trump said he",
+                "offset": 1499,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f1d77aa8-f9b9-3ad1-b6a3-2d516d2d31c6": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Secretary of State",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[negotiated. “They should’ve walked,” he said of ]Secretary of State[ John Kerry and his negotiating team. Mr. Trump]",
+                "prefix": "negotiated. “They should’ve walked,” he said of ",
+                "exact": "Secretary of State",
+                "suffix": " John Kerry and his negotiating team. Mr. Trump",
+                "offset": 1480,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Obama",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.938",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "confidence": {
+            "statisticalfeature": "0.917",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.938"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[areas of Iraq, and he criticized President ]Obama[ for pulling troops out too soon. But he is also]",
+                "prefix": "areas of Iraq, and he criticized President ",
+                "exact": "Obama",
+                "suffix": " for pulling troops out too soon. But he is also",
+                "offset": 1111,
+                "length": 5
+            },
+            {
+                "detection": "[Obama for pulling troops out too soon. But ]he[ is also the man who rejected nation-building and]",
+                "prefix": "Obama for pulling troops out too soon. But ",
+                "exact": "he",
+                "suffix": " is also the man who rejected nation-building and",
+                "offset": 1154,
+                "length": 2
+            },
+            {
+                "detection": "[that gets right in the middle of things?” \n \n]He[ added, “At some point, we cannot be the]",
+                "prefix": "that gets right in the middle of things?” \n \n",
+                "exact": "He",
+                "suffix": " added, “At some point, we cannot be the",
+                "offset": 1294,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[ nation-building and asked, “Why is it always the ]United States[ that gets right in the middle of things?” \n \nHe]",
+                "prefix": " nation-building and asked, “Why is it always the ",
+                "exact": "United States",
+                "suffix": " that gets right in the middle of things?” \n \nHe",
+                "offset": 1235,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2a5b86af-0a01-3d73-bdd9-39f71e9558b0": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Syria",
+        "resolutions": [
+            {
+                "name": "Syria",
+                "shortname": "Syria",
+                "latitude": "34.8544688889",
+                "longitude": "37.0261150427",
+                "rcscode": "G:4P",
+                "permid": "100293"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>From Iran to ]Syria[, Trump’s ‘America First’ Approach Faces Its]",
+                "prefix": "\n<Document> \n<Title>From Iran to ",
+                "exact": "Syria",
+                "suffix": ", Trump’s ‘America First’ Approach Faces Its",
+                "offset": 317,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald J. Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>From Iran to Syria, ]Trump[’s ‘America First’ Approach Faces Its First]",
+                "prefix": "\n<Document> \n<Title>From Iran to Syria, ",
+                "exact": "Trump",
+                "suffix": "’s ‘America First’ Approach Faces Its First",
+                "offset": 324,
+                "length": 5
+            },
+            {
+                "detection": "[the jockeying for advantage in President-elect ]Donald J. Trump[’s effort to assemble a national security team]",
+                "prefix": "the jockeying for advantage in President-elect ",
+                "exact": "Donald J. Trump",
+                "suffix": "’s effort to assemble a national security team",
+                "offset": 487,
+                "length": 15
+            },
+            {
+                "detection": "[team lies the more fundamental question of how ]he[ will address the immediate and complex]",
+                "prefix": "team lies the more fundamental question of how ",
+                "exact": "he",
+                "suffix": " will address the immediate and complex",
+                "offset": 591,
+                "length": 2
+            },
+            {
+                "detection": "[address the immediate and complex challenges ]he[ inherits upon taking office. \n \n“I’m America]",
+                "prefix": "address the immediate and complex challenges ",
+                "exact": "he",
+                "suffix": " inherits upon taking office. \n \n“I’m America",
+                "offset": 644,
+                "length": 2
+            },
+            {
+                "detection": "[upon taking office. \n \n“I’m America First,” ]Mr. Trump[ said in a March interview with The New York]",
+                "prefix": "upon taking office. \n \n“I’m America First,” ",
+                "exact": "Mr. Trump",
+                "suffix": " said in a March interview with The New York",
+                "offset": 700,
+                "length": 9
+            },
+            {
+                "detection": "[for the first time what the phrase meant to ]him[. “We have been disrespected, mocked and ripped]",
+                "prefix": "for the first time what the phrase meant to ",
+                "exact": "him",
+                "suffix": ". “We have been disrespected, mocked and ripped",
+                "offset": 816,
+                "length": 3
+            },
+            {
+                "detection": "[tougher.” \n \nAt moments during the campaign, ]he[ suggested both approaches. He said he would]",
+                "prefix": "tougher.” \n \nAt moments during the campaign, ",
+                "exact": "he",
+                "suffix": " suggested both approaches. He said he would",
+                "offset": 976,
+                "length": 2
+            },
+            {
+                "detection": "[the campaign, he suggested both approaches. ]He[ said he would “take the oil” from Islamic]",
+                "prefix": "the campaign, he suggested both approaches. ",
+                "exact": "He",
+                "suffix": " said he would “take the oil” from Islamic",
+                "offset": 1006,
+                "length": 2
+            },
+            {
+                "detection": "[campaign, he suggested both approaches. He said ]he[ would “take the oil” from Islamic]",
+                "prefix": "campaign, he suggested both approaches. He said ",
+                "exact": "he",
+                "suffix": " would “take the oil” from Islamic",
+                "offset": 1014,
+                "length": 2
+            },
+            {
+                "detection": "[ from Islamic State-controlled areas of Iraq, and ]he[ criticized President Obama for pulling troops]",
+                "prefix": " from Islamic State-controlled areas of Iraq, and ",
+                "exact": "he",
+                "suffix": " criticized President Obama for pulling troops",
+                "offset": 1087,
+                "length": 2
+            },
+            {
+                "detection": "[we cannot be the policeman of the world.” \n \nTo ]Mr. Trump[, the Iran deal was not only misguided, but also]",
+                "prefix": "we cannot be the policeman of the world.” \n \nTo ",
+                "exact": "Mr. Trump",
+                "suffix": ", the Iran deal was not only misguided, but also",
+                "offset": 1368,
+                "length": 9
+            },
+            {
+                "detection": "[also badly negotiated. “They should’ve walked,” ]he[ said of Secretary of State John Kerry and his]",
+                "prefix": "also badly negotiated. “They should’ve walked,” ",
+                "exact": "he",
+                "suffix": " said of Secretary of State John Kerry and his",
+                "offset": 1469,
+                "length": 2
+            },
+            {
+                "detection": "[he said of Secretary of State John Kerry and ]his[ negotiating team. Mr. Trump said he would have]",
+                "prefix": "he said of Secretary of State John Kerry and ",
+                "exact": "his",
+                "suffix": " negotiating team. Mr. Trump said he would have",
+                "offset": 1514,
+                "length": 3
+            },
+            {
+                "detection": "[of State John Kerry and his negotiating team. ]Mr. Trump[ said he would have left the negotiating room,]",
+                "prefix": "of State John Kerry and his negotiating team. ",
+                "exact": "Mr. Trump",
+                "suffix": " said he would have left the negotiating room,",
+                "offset": 1536,
+                "length": 9
+            },
+            {
+                "detection": "[Kerry and his negotiating team. Mr. Trump said ]he[ would have left the negotiating room, doubled]",
+                "prefix": "Kerry and his negotiating team. Mr. Trump said ",
+                "exact": "he",
+                "suffix": " would have left the negotiating room, doubled",
+                "offset": 1551,
+                "length": 2
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/47b20cdc-a140-3d2c-91ab-fe050c588d12": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he would have left the negotiating room, doubled down on sanctions, and never agreed to give back billions of dollars, money that belonged to Iran and was frozen in American financial institutions",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[of State John Kerry and his negotiating team. ]Mr. Trump said he would have left the negotiating room, doubled down on sanctions, and never agreed to give back billions of dollars, money that belonged to Iran and was frozen in American financial institutions.[ \n \n \n \n \n</Body> \n</Document>]",
+                "prefix": "of State John Kerry and his negotiating team. ",
+                "exact": "Mr. Trump said he would have left the negotiating room, doubled down on sanctions, and never agreed to give back billions of dollars, money that belonged to Iran and was frozen in American financial institutions.",
+                "suffix": " \n \n \n \n \n</Body> \n</Document>",
+                "offset": 1536,
+                "length": 212
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c4681f85-ce00-33c4-b5b3-b42f50459730": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“At some point, we cannot be the policeman of the world.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a",
+        "instances": [
+            {
+                "detection": "[that gets right in the middle of things?” \n \n]He added, “At some point, we cannot be the policeman of the world.”[ \n \nTo Mr. Trump, the Iran deal was not only]",
+                "prefix": "that gets right in the middle of things?” \n \n",
+                "exact": "He added, “At some point, we cannot be the policeman of the world.”",
+                "suffix": " \n \nTo Mr. Trump, the Iran deal was not only",
+                "offset": 1294,
+                "length": 67
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b0a9d9e0-bc32-3d0e-86ec-a0bd144fcdc7": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "in a March interview with The New York Times, describing for the first time what the phrase meant to him",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[challenges he inherits upon taking office. \n \n]“I’m America First,” Mr. Trump said in a March interview with The New York Times, describing for the first time what the phrase meant to him.[ “We have been disrespected, mocked and ripped]",
+                "prefix": "challenges he inherits upon taking office. \n \n",
+                "exact": "“I’m America First,” Mr. Trump said in a March interview with The New York Times, describing for the first time what the phrase meant to him.",
+                "suffix": " “We have been disrespected, mocked and ripped",
+                "offset": 679,
+                "length": 141
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/78f20838-daaf-3727-ac4a-a898820a0c42": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he would “take the oil” from Islamic State-controlled areas of Iraq, and he criticized President Obama for pulling troops out too soon",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[the campaign, he suggested both approaches. ]He said he would “take the oil” from Islamic State-controlled areas of Iraq, and he criticized President Obama for pulling troops out too soon.[ But he is also the man who rejected]",
+                "prefix": "the campaign, he suggested both approaches. ",
+                "exact": "He said he would “take the oil” from Islamic State-controlled areas of Iraq, and he criticized President Obama for pulling troops out too soon.",
+                "suffix": " But he is also the man who rejected",
+                "offset": 1006,
+                "length": 143
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/331ec5c5-0dbc-388d-b85f-1f082fd0b707": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[the turmoil and the jockeying for advantage in ]President-elect Donald J. Trump[’s effort to assemble a national security team]",
+                "prefix": "the turmoil and the jockeying for advantage in ",
+                "exact": "President-elect Donald J. Trump",
+                "suffix": "’s effort to assemble a national security team",
+                "offset": 471,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/99317bc2-99b2-35fe-bb50-3eda14b19c33": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a",
+        "instances": [
+            {
+                "detection": "[areas of Iraq, and he criticized ]President Obama[ for pulling troops out too soon. But he is also]",
+                "prefix": "areas of Iraq, and he criticized ",
+                "exact": "President Obama",
+                "suffix": " for pulling troops out too soon. But he is also",
+                "offset": 1101,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e44aa65b-104f-3151-99ae-7a2925073cf1": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "of Secretary of State John Kerry and his negotiating team",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[not only misguided, but also badly negotiated. ]“They should’ve walked,” he said of Secretary of State John Kerry and his negotiating team.[ Mr. Trump said he would have left the]",
+                "prefix": "not only misguided, but also badly negotiated. ",
+                "exact": "“They should’ve walked,” he said of Secretary of State John Kerry and his negotiating team.",
+                "suffix": " Mr. Trump said he would have left the",
+                "offset": 1444,
+                "length": 91
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ebf9f7d5-4748-396a-a7de-82fe9723b787": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Secretary of State",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/2bb0d282-1d6a-3306-9b77-d6b7c03182a7",
+        "instances": [
+            {
+                "detection": "[negotiated. “They should’ve walked,” he said of ]Secretary of State John Kerry[ and his negotiating team. Mr. Trump said he]",
+                "prefix": "negotiated. “They should’ve walked,” he said of ",
+                "exact": "Secretary of State John Kerry",
+                "suffix": " and his negotiating team. Mr. Trump said he",
+                "offset": 1480,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4b31d9ff-6023-349e-883d-e1208f3d8b9d": {
+        "_typeGroup": "relations",
+        "_type": "DiplomaticRelations",
+        "forenduserdisplay": "false",
+        "diplomaticaction": "criticism",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/DiplomaticRelations",
+        "diplomaticentity1": "http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb",
+        "diplomaticentity2": "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a",
+        "instances": [
+            {
+                "detection": "[the oil” from Islamic State-controlled areas of ]Iraq, and he criticized President Obama[ for pulling troops out too soon. But he is also]",
+                "prefix": "the oil” from Islamic State-controlled areas of ",
+                "exact": "Iraq, and he criticized President Obama",
+                "suffix": " for pulling troops out too soon. But he is also",
+                "offset": 1077,
+                "length": 39
+            }
+        ]
+    }
+}

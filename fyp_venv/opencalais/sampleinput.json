@@ -1,0 +1,1244 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "97ddb1fc-6c05-048d-15a0-e50d24e25961",
+            "id": "http://id.opencalais.com/ncxzj2FigLxJ5MQ*j0oaaA",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c",
+            "document": "--8fede204c8cf4431a615f15dc9698672 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Apple sues chip-maker Qualcomm in China</Title> \n<Body> \nApple has filed a lawsuit against Qualcomm in China seeking 1bn yuan (£115m) in damages, claiming the chip maker has abused its market position. \nApple has also filed a second case alleging Qualcomm had broken the terms of a deal covering how Apple could use technologies it had licensed. \nQualcomm said it was ready to defend its business practices in court. \nThe lawsuits come soon after US regulators sued Qualcomm, alleging that the firm was guilty of market abuse. \nIn its legal papers, Apple said Qualcomm was using its dominant position as a supplier of communication chips for mobile phones to squeeze more cash from firms that use its technologies. \nIn the second legal case, Apple said that Qualcomm had denied it access to chip technologies it was entitled to under the terms of an agreed licensing deal. \nIn a statement, Qualcomm said it had not yet seen all the details of the two cases. \n\"These filings by Apple's Chinese subsidiary are just part of Apple's efforts to find ways to pay less for Qualcomm's technology,\" said Don Rosenberg, head lawyer for Qualcomm. \nHe added that Apple was offered terms and conditions that were drawn up in 2015 following a ruling by Chinese trade regulators that dictated how Qualcomm should deal with companies keen to use its modem chips. \nMore than 100 Chinese firms signed up to these terms and conditions, he said, adding that Apple \"refused to even consider them\". \n\"Qualcomm is prepared to defend its business model anywhere in the world,\" said Mr Rosenberg. \nLegal battles \nLast week, the US Federal Trade Commission sued Qualcomm claiming it had abused its dominance in modem chips for mobile phones. The FTC said Qualcomm's use of low licensing fees was helping it to enforce its monopoly. \nIn response, Qualcomm said the FTC complaint was based on a \"flawed legal theory\" and \"significant misconceptions\" about the way the mobile industry worked. \nSoon after the FTC filed its complaint, Apple followed up with its own legal action seeking $1bn (£793m) in rebates and accusing Qualcomm of overcharging it for chips. \nQualcomm said it planned to fight both legal cases. \nThe chip-maker has been hit with legal challenges and regulatory action around the world over the last few years. \nIn December 2016, South Korean regulators fined it 1.03trn won (£698m) for breaking competition laws. \nIn 2015, it paid a $975m (£775m) fine in China following an anti-trust probe. The European Commission has also accused it of anti-competitive practices. \n</Body> \n</Document> \n--8fede204c8cf4431a615f15dc9698672-- \n",
+            "docTitle": "Apple sues chip-maker Qualcomm in China",
+            "docDate": "2017-02-05 12:47:42.585"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-02-05 12:47:42.158",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|eW7y/plbqZ6tOq7ZWzGXQpKRsq0=|c5b/yu/uDLGN6lRlRChIlOmy7vJvHnHoGWtHgsUqBj5ayNsF7lAFJg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.876,
+        "name": "Law_Crime"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/cat/2": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.828,
+        "name": "Technology_Internet"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/cat/3": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.82,
+        "name": "Business_Finance"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4",
+        "forenduserdisplay": "true",
+        "name": "Technology",
+        "importance": "1",
+        "originalValue": "Technology"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169",
+        "forenduserdisplay": "true",
+        "name": "Computing",
+        "importance": "1",
+        "originalValue": "Computing"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/73245bdc-a9e7-33b9-975f-30439800569d",
+        "forenduserdisplay": "true",
+        "name": "Computer hardware",
+        "importance": "1",
+        "originalValue": "Computer hardware"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e7310825-ced2-3b80-b4e7-e1e1c9dec40e",
+        "forenduserdisplay": "true",
+        "name": "Fabless semiconductor companies",
+        "importance": "2",
+        "originalValue": "Fabless semiconductor companies"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4e46d639-15d7-31c1-98ba-6c484efd72ef",
+        "forenduserdisplay": "true",
+        "name": "ARM architecture",
+        "importance": "2",
+        "originalValue": "ARM architecture"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/6f699740-7ebc-359b-a2e3-683366dcdbac",
+        "forenduserdisplay": "true",
+        "name": "System on a chip",
+        "importance": "2",
+        "originalValue": "System on a chip"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ae639873-b234-30f7-ae3b-ae13d69999e6",
+        "forenduserdisplay": "true",
+        "name": "HSA Foundation",
+        "importance": "2",
+        "originalValue": "HSA Foundation"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/2e5c45df-68d9-3b6c-bf0c-8e6d0b8bc536",
+        "forenduserdisplay": "true",
+        "name": "Qualcomm",
+        "importance": "2",
+        "originalValue": "Qualcomm"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/1205cb52-d703-34d2-83b2-a09d4d47575c",
+        "forenduserdisplay": "true",
+        "name": "Apple Inc.",
+        "importance": "2",
+        "originalValue": "Apple Inc."
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/177db1ea-099f-3bd6-93da-2a82f4a68a9f",
+        "forenduserdisplay": "true",
+        "name": "ATI Technologies",
+        "importance": "2",
+        "originalValue": "ATI Technologies"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0f311876-2878-3597-b9e0-c69c50d1c823",
+        "forenduserdisplay": "true",
+        "name": "Apple mobile application processors",
+        "importance": "2",
+        "originalValue": "Apple mobile application processors"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/04514bf2-709f-3354-be04-93db749c3592",
+        "forenduserdisplay": "true",
+        "name": "Qualcomm Snapdragon",
+        "importance": "2",
+        "originalValue": "Qualcomm Snapdragon"
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Communications & Networking - NEC",
+        "rcscode": "B:1750",
+        "permid": "4294951251",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Computer Hardware - NEC",
+        "rcscode": "B:1758",
+        "permid": "4294951243",
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/dochash-1/203f4fe8-6040-34e4-a8c1-49ef2d73b50c/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201702051220:201702051220",
+            "index-refineries:201702041334:201702041334",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201702050327:201702050327",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701290415:201701290415",
+            "index-vessels:201702041345:201702041345",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201702041325:201702041325",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/784cd0b5-e4f0-3358-b06f-295b67b58352": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "communication chips",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[ was using its dominant position as a supplier of ]communication chips[ for mobile phones to squeeze more cash from]",
+                "prefix": " was using its dominant position as a supplier of ",
+                "exact": "communication chips",
+                "suffix": " for mobile phones to squeeze more cash from",
+                "offset": 922,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/19ce373f-e5f4-35a4-8688-78146a28bc37": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "chip maker",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[1bn yuan (£115m) in damages, claiming the ]chip maker[ has abused its market position. \nApple has also]",
+                "prefix": "1bn yuan (£115m) in damages, claiming the ",
+                "exact": "chip maker",
+                "suffix": " has abused its market position. \nApple has also",
+                "offset": 463,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/4908b894-dbc8-3b88-9536-c7b346e2b2e5": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "communication chips",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[ was using its dominant position as a supplier of ]communication chips[ for mobile phones to squeeze more cash from]",
+                "prefix": " was using its dominant position as a supplier of ",
+                "exact": "communication chips",
+                "suffix": " for mobile phones to squeeze more cash from",
+                "offset": 922,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/bc5e2f67-2c6d-3446-a048-92d78aeb5eb2": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "mobile phones",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[as a supplier of communication chips for ]mobile phones[ to squeeze more cash from firms that use its]",
+                "prefix": "as a supplier of communication chips for ",
+                "exact": "mobile phones",
+                "suffix": " to squeeze more cash from firms that use its",
+                "offset": 946,
+                "length": 13
+            },
+            {
+                "detection": "[it had abused its dominance in modem chips for ]mobile phones[. The FTC said Qualcomm's use of low licensing]",
+                "prefix": "it had abused its dominance in modem chips for ",
+                "exact": "mobile phones",
+                "suffix": ". The FTC said Qualcomm's use of low licensing",
+                "offset": 2005,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/768833a4-632c-3ae4-b5d2-2cb38551d2ec": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "US Federal Trade Commission",
+        "organizationtype": "governmental civilian",
+        "nationality": "American",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[Mr Rosenberg. \nLegal battles \nLast week, the ]US Federal Trade Commission[ sued Qualcomm claiming it had abused its]",
+                "prefix": "Mr Rosenberg. \nLegal battles \nLast week, the ",
+                "exact": "US Federal Trade Commission",
+                "suffix": " sued Qualcomm claiming it had abused its",
+                "offset": 1907,
+                "length": 27
+            },
+            {
+                "detection": "[dominance in modem chips for mobile phones. The ]FTC[ said Qualcomm's use of low licensing fees was]",
+                "prefix": "dominance in modem chips for mobile phones. The ",
+                "exact": "FTC",
+                "suffix": " said Qualcomm's use of low licensing fees was",
+                "offset": 2024,
+                "length": 3
+            },
+            {
+                "detection": "[its monopoly. \nIn response, Qualcomm said the ]FTC[ complaint was based on a \"flawed legal theory\"]",
+                "prefix": "its monopoly. \nIn response, Qualcomm said the ",
+                "exact": "FTC",
+                "suffix": " complaint was based on a \"flawed legal theory\"",
+                "offset": 2142,
+                "length": 3
+            },
+            {
+                "detection": "[way the mobile industry worked. \nSoon after the ]FTC[ filed its complaint, Apple followed up with its]",
+                "prefix": "way the mobile industry worked. \nSoon after the ",
+                "exact": "FTC",
+                "suffix": " filed its complaint, Apple followed up with its",
+                "offset": 2284,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "China",
+        "resolutions": [
+            {
+                "name": "China",
+                "shortname": "China",
+                "latitude": "32.9042932784",
+                "longitude": "110.467708512",
+                "rcscode": "G:B1",
+                "permid": "100064"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[\n<Title>Apple sues chip-maker Qualcomm in ]China[</Title> \n<Body> \nApple has filed a lawsuit]",
+                "prefix": "\n<Title>Apple sues chip-maker Qualcomm in ",
+                "exact": "China",
+                "suffix": "</Title> \n<Body> \nApple has filed a lawsuit",
+                "offset": 338,
+                "length": 5
+            },
+            {
+                "detection": "[\nApple has filed a lawsuit against Qualcomm in ]China[ seeking 1bn yuan (£115m) in damages, claiming]",
+                "prefix": "\nApple has filed a lawsuit against Qualcomm in ",
+                "exact": "China",
+                "suffix": " seeking 1bn yuan (£115m) in damages, claiming",
+                "offset": 407,
+                "length": 5
+            },
+            {
+                "detection": "[laws. \nIn 2015, it paid a $975m (£775m) fine in ]China[ following an anti-trust probe. The European]",
+                "prefix": "laws. \nIn 2015, it paid a $975m (£775m) fine in ",
+                "exact": "China",
+                "suffix": " following an anti-trust probe. The European",
+                "offset": 2750,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/967faa4b-91fa-3124-8813-d28175c31f9e": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "modem chips",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[Qualcomm should deal with companies keen to use ]its modem chips[. \nMore than 100 Chinese firms signed up to these]",
+                "prefix": "Qualcomm should deal with companies keen to use ",
+                "exact": "its modem chips",
+                "suffix": ". \nMore than 100 Chinese firms signed up to these",
+                "offset": 1634,
+                "length": 15
+            },
+            {
+                "detection": "[ Qualcomm claiming it had abused its dominance in ]modem chips[ for mobile phones. The FTC said Qualcomm's use]",
+                "prefix": " Qualcomm claiming it had abused its dominance in ",
+                "exact": "modem chips",
+                "suffix": " for mobile phones. The FTC said Qualcomm's use",
+                "offset": 1989,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Qualcomm",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "confidence": {
+            "statisticalfeature": "0.992",
+            "dblookup": "0.0",
+            "resolution": "0.9882291",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>Apple sues chip-maker ]Qualcomm[ in China</Title> \n<Body> \nApple has filed a]",
+                "prefix": "\n<Document> \n<Title>Apple sues chip-maker ",
+                "exact": "Qualcomm",
+                "suffix": " in China</Title> \n<Body> \nApple has filed a",
+                "offset": 326,
+                "length": 8
+            },
+            {
+                "detection": "[\n<Body> \nApple has filed a lawsuit against ]Qualcomm[ in China seeking 1bn yuan (£115m) in damages,]",
+                "prefix": "\n<Body> \nApple has filed a lawsuit against ",
+                "exact": "Qualcomm",
+                "suffix": " in China seeking 1bn yuan (£115m) in damages,",
+                "offset": 395,
+                "length": 8
+            },
+            {
+                "detection": "[\nApple has also filed a second case alleging ]Qualcomm[ had broken the terms of a deal covering how]",
+                "prefix": "\nApple has also filed a second case alleging ",
+                "exact": "Qualcomm",
+                "suffix": " had broken the terms of a deal covering how",
+                "offset": 551,
+                "length": 8
+            },
+            {
+                "detection": "[Apple could use technologies it had licensed. \n]Qualcomm[ said it was ready to defend its business]",
+                "prefix": "Apple could use technologies it had licensed. \n",
+                "exact": "Qualcomm",
+                "suffix": " said it was ready to defend its business",
+                "offset": 651,
+                "length": 8
+            },
+            {
+                "detection": "[ \nThe lawsuits come soon after US regulators sued ]Qualcomm[, alleging that the firm was guilty of market]",
+                "prefix": " \nThe lawsuits come soon after US regulators sued ",
+                "exact": "Qualcomm",
+                "suffix": ", alleging that the firm was guilty of market",
+                "offset": 770,
+                "length": 8
+            },
+            {
+                "detection": "[market abuse. \nIn its legal papers, Apple said ]Qualcomm[ was using its dominant position as a supplier of]",
+                "prefix": "market abuse. \nIn its legal papers, Apple said ",
+                "exact": "Qualcomm",
+                "suffix": " was using its dominant position as a supplier of",
+                "offset": 864,
+                "length": 8
+            },
+            {
+                "detection": "[\nIn the second legal case, Apple said that ]Qualcomm[ had denied it access to chip technologies it was]",
+                "prefix": "\nIn the second legal case, Apple said that ",
+                "exact": "Qualcomm",
+                "suffix": " had denied it access to chip technologies it was",
+                "offset": 1062,
+                "length": 8
+            },
+            {
+                "detection": "[of an agreed licensing deal. \nIn a statement, ]Qualcomm[ said it had not yet seen all the details of the]",
+                "prefix": "of an agreed licensing deal. \nIn a statement, ",
+                "exact": "Qualcomm",
+                "suffix": " said it had not yet seen all the details of the",
+                "offset": 1194,
+                "length": 8
+            },
+            {
+                "detection": "[of Apple's efforts to find ways to pay less for ]Qualcomm['s technology,\" said Don Rosenberg, head lawyer]",
+                "prefix": "of Apple's efforts to find ways to pay less for ",
+                "exact": "Qualcomm",
+                "suffix": "'s technology,\" said Don Rosenberg, head lawyer",
+                "offset": 1370,
+                "length": 8
+            },
+            {
+                "detection": "[ technology,\" said Don Rosenberg, head lawyer for ]Qualcomm[. \nHe added that Apple was offered terms and]",
+                "prefix": " technology,\" said Don Rosenberg, head lawyer for ",
+                "exact": "Qualcomm",
+                "suffix": ". \nHe added that Apple was offered terms and",
+                "offset": 1430,
+                "length": 8
+            },
+            {
+                "detection": "[by Chinese trade regulators that dictated how ]Qualcomm[ should deal with companies keen to use its modem]",
+                "prefix": "by Chinese trade regulators that dictated how ",
+                "exact": "Qualcomm",
+                "suffix": " should deal with companies keen to use its modem",
+                "offset": 1586,
+                "length": 8
+            },
+            {
+                "detection": "[that Apple \"refused to even consider them\". \n\"]Qualcomm[ is prepared to defend its business model]",
+                "prefix": "that Apple \"refused to even consider them\". \n\"",
+                "exact": "Qualcomm",
+                "suffix": " is prepared to defend its business model",
+                "offset": 1783,
+                "length": 8
+            },
+            {
+                "detection": "[ \nLast week, the US Federal Trade Commission sued ]Qualcomm[ claiming it had abused its dominance in modem]",
+                "prefix": " \nLast week, the US Federal Trade Commission sued ",
+                "exact": "Qualcomm",
+                "suffix": " claiming it had abused its dominance in modem",
+                "offset": 1940,
+                "length": 8
+            },
+            {
+                "detection": "[in modem chips for mobile phones. The FTC said ]Qualcomm['s use of low licensing fees was helping it to]",
+                "prefix": "in modem chips for mobile phones. The FTC said ",
+                "exact": "Qualcomm",
+                "suffix": "'s use of low licensing fees was helping it to",
+                "offset": 2033,
+                "length": 8
+            },
+            {
+                "detection": "[it to enforce its monopoly. \nIn response, ]Qualcomm[ said the FTC complaint was based on a \"flawed]",
+                "prefix": "it to enforce its monopoly. \nIn response, ",
+                "exact": "Qualcomm",
+                "suffix": " said the FTC complaint was based on a \"flawed",
+                "offset": 2124,
+                "length": 8
+            },
+            {
+                "detection": "[seeking $1bn (£793m) in rebates and accusing ]Qualcomm[ of overcharging it for chips. \nQualcomm said it]",
+                "prefix": "seeking $1bn (£793m) in rebates and accusing ",
+                "exact": "Qualcomm",
+                "suffix": " of overcharging it for chips. \nQualcomm said it",
+                "offset": 2398,
+                "length": 8
+            },
+            {
+                "detection": "[ accusing Qualcomm of overcharging it for chips. \n]Qualcomm[ said it planned to fight both legal cases. \nThe]",
+                "prefix": " accusing Qualcomm of overcharging it for chips. \n",
+                "exact": "Qualcomm",
+                "suffix": " said it planned to fight both legal cases. \nThe",
+                "offset": 2438,
+                "length": 8
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "QUALCOMM INCORPORATED",
+                "permid": "4295907706",
+                "primaryric": "QCOM.OQ",
+                "commonname": "Qualcomm",
+                "score": 0.9882291,
+                "id": "https://permid.org/1-4295907706",
+                "ticker": "QCOM"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/33ac02b4-0949-3094-bd6c-5737d70ef34e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "head lawyer",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[for Qualcomm's technology,\" said Don Rosenberg, ]head lawyer[ for Qualcomm. \nHe added that Apple was offered]",
+                "prefix": "for Qualcomm's technology,\" said Don Rosenberg, ",
+                "exact": "head lawyer",
+                "suffix": " for Qualcomm. \nHe added that Apple was offered",
+                "offset": 1414,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[in court. \nThe lawsuits come soon after ]US[ regulators sued Qualcomm, alleging that the firm]",
+                "prefix": "in court. \nThe lawsuits come soon after ",
+                "exact": "US",
+                "suffix": " regulators sued Qualcomm, alleging that the firm",
+                "offset": 751,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Don Rosenberg",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Don",
+        "lastname": "Rosenberg",
+        "commonname": "Don Rosenberg",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.83172494",
+            "aggregate": "0.999"
+        },
+        "resolutions": [
+            {
+                "name": "Donald J. Rosenberg",
+                "personid": "742667",
+                "paid": "34413563889",
+                "officerid": [
+                    "1050975",
+                    "887927"
+                ],
+                "commonname": "Don Rosenberg",
+                "score": 0.83172494
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[to pay less for Qualcomm's technology,\" said ]Don Rosenberg[, head lawyer for Qualcomm. \nHe added that Apple]",
+                "prefix": "to pay less for Qualcomm's technology,\" said ",
+                "exact": "Don Rosenberg",
+                "suffix": ", head lawyer for Qualcomm. \nHe added that Apple",
+                "offset": 1399,
+                "length": 13
+            },
+            {
+                "detection": "[said Don Rosenberg, head lawyer for Qualcomm. \n]He[ added that Apple was offered terms and]",
+                "prefix": "said Don Rosenberg, head lawyer for Qualcomm. \n",
+                "exact": "He",
+                "suffix": " added that Apple was offered terms and",
+                "offset": 1441,
+                "length": 2
+            },
+            {
+                "detection": "[firms signed up to these terms and conditions, ]he[ said, adding that Apple \"refused to even]",
+                "prefix": "firms signed up to these terms and conditions, ",
+                "exact": "he",
+                "suffix": " said, adding that Apple \"refused to even",
+                "offset": 1721,
+                "length": 2
+            },
+            {
+                "detection": "[its business model anywhere in the world,\" said ]Mr Rosenberg[. \nLegal battles \nLast week, the US Federal Trade]",
+                "prefix": "its business model anywhere in the world,\" said ",
+                "exact": "Mr Rosenberg",
+                "suffix": ". \nLegal battles \nLast week, the US Federal Trade",
+                "offset": 1862,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/39760254-e69e-33c9-ad97-1da35456cb4d": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "modem chips",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[should deal with companies keen to use its ]modem chips[. \nMore than 100 Chinese firms signed up to these]",
+                "prefix": "should deal with companies keen to use its ",
+                "exact": "modem chips",
+                "suffix": ". \nMore than 100 Chinese firms signed up to these",
+                "offset": 1638,
+                "length": 11
+            },
+            {
+                "detection": "[ Qualcomm claiming it had abused its dominance in ]modem chips[ for mobile phones. The FTC said Qualcomm's use]",
+                "prefix": " Qualcomm claiming it had abused its dominance in ",
+                "exact": "modem chips",
+                "suffix": " for mobile phones. The FTC said Qualcomm's use",
+                "offset": 1989,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Apple",
+        "nationality": "N/A",
+        "confidencelevel": "0.961",
+        "resolutions": [
+            {
+                "name": "APPLE INC.",
+                "permid": "4295905573",
+                "primaryric": "AAPL.OQ",
+                "commonname": "Apple",
+                "score": 0.9716998,
+                "id": "https://permid.org/1-4295905573",
+                "ticker": "AAPL"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.962",
+            "dblookup": "0.0",
+            "resolution": "0.9716998",
+            "aggregate": "0.961"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Apple[ sues chip-maker Qualcomm in China</Title>]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Apple",
+                "suffix": " sues chip-maker Qualcomm in China</Title>",
+                "offset": 304,
+                "length": 5
+            },
+            {
+                "detection": "[chip-maker Qualcomm in China</Title> \n<Body> \n]Apple[ has filed a lawsuit against Qualcomm in China]",
+                "prefix": "chip-maker Qualcomm in China</Title> \n<Body> \n",
+                "exact": "Apple",
+                "suffix": " has filed a lawsuit against Qualcomm in China",
+                "offset": 361,
+                "length": 5
+            },
+            {
+                "detection": "[the chip maker has abused its market position. \n]Apple[ has also filed a second case alleging Qualcomm]",
+                "prefix": "the chip maker has abused its market position. \n",
+                "exact": "Apple",
+                "suffix": " has also filed a second case alleging Qualcomm",
+                "offset": 507,
+                "length": 5
+            },
+            {
+                "detection": "[had broken the terms of a deal covering how ]Apple[ could use technologies it had licensed.]",
+                "prefix": "had broken the terms of a deal covering how ",
+                "exact": "Apple",
+                "suffix": " could use technologies it had licensed.",
+                "offset": 604,
+                "length": 5
+            },
+            {
+                "detection": "[guilty of market abuse. \nIn its legal papers, ]Apple[ said Qualcomm was using its dominant position as]",
+                "prefix": "guilty of market abuse. \nIn its legal papers, ",
+                "exact": "Apple",
+                "suffix": " said Qualcomm was using its dominant position as",
+                "offset": 853,
+                "length": 5
+            },
+            {
+                "detection": "[ use its technologies. \nIn the second legal case, ]Apple[ said that Qualcomm had denied it access to chip]",
+                "prefix": " use its technologies. \nIn the second legal case, ",
+                "exact": "Apple",
+                "suffix": " said that Qualcomm had denied it access to chip",
+                "offset": 1046,
+                "length": 5
+            },
+            {
+                "detection": "[by Apple's Chinese subsidiary are just part of ]Apple['s efforts to find ways to pay less for]",
+                "prefix": "by Apple's Chinese subsidiary are just part of ",
+                "exact": "Apple",
+                "suffix": "'s efforts to find ways to pay less for",
+                "offset": 1325,
+                "length": 5
+            },
+            {
+                "detection": "[head lawyer for Qualcomm. \nHe added that ]Apple[ was offered terms and conditions that were drawn]",
+                "prefix": "head lawyer for Qualcomm. \nHe added that ",
+                "exact": "Apple",
+                "suffix": " was offered terms and conditions that were drawn",
+                "offset": 1455,
+                "length": 5
+            },
+            {
+                "detection": "[ these terms and conditions, he said, adding that ]Apple[ \"refused to even consider them\". \n\"Qualcomm is]",
+                "prefix": " these terms and conditions, he said, adding that ",
+                "exact": "Apple",
+                "suffix": " \"refused to even consider them\". \n\"Qualcomm is",
+                "offset": 1742,
+                "length": 5
+            },
+            {
+                "detection": "[ worked. \nSoon after the FTC filed its complaint, ]Apple[ followed up with its own legal action seeking]",
+                "prefix": " worked. \nSoon after the FTC filed its complaint, ",
+                "exact": "Apple",
+                "suffix": " followed up with its own legal action seeking",
+                "offset": 2309,
+                "length": 5
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/8113697a-e16f-380d-be84-b13656632e0f": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "European Commission",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ fine in China following an anti-trust probe. The ]European Commission[ has also accused it of anti-competitive]",
+                "prefix": " fine in China following an anti-trust probe. The ",
+                "exact": "European Commission",
+                "suffix": " has also accused it of anti-competitive",
+                "offset": 2791,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/8f54edd2-e1a3-3349-abe2-227987738dbf": {
+        "_typeGroup": "entities",
+        "_type": "Product",
+        "forenduserdisplay": "false",
+        "name": "legal theory",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Product",
+        "instances": [
+            {
+                "detection": "[said the FTC complaint was based on a \"flawed ]legal theory[\" and \"significant misconceptions\" about the way]",
+                "prefix": "said the FTC complaint was based on a \"flawed ",
+                "exact": "legal theory",
+                "suffix": "\" and \"significant misconceptions\" about the way",
+                "offset": 2179,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/936ebfae-3b4d-34bc-a4fa-341084914936": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "US Federal Trade Commission",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[dominance in modem chips for mobile phones. The ]FTC[ said Qualcomm's use of low licensing fees was]",
+                "prefix": "dominance in modem chips for mobile phones. The ",
+                "exact": "FTC",
+                "suffix": " said Qualcomm's use of low licensing fees was",
+                "offset": 2024,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f885a34e-d16e-3df3-b37e-bb03bcaccafd": {
+        "_typeGroup": "relations",
+        "_type": "CompanyLegalIssues",
+        "forenduserdisplay": "true",
+        "lawsuitclass": "lawsuit",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyLegalIssues",
+        "company_sued": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "company_plaintiff": "http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4",
+        "instances": [
+            {
+                "detection": "[chip-maker Qualcomm in China</Title> \n<Body> \n]Apple has filed a lawsuit against Qualcomm in China[ seeking 1bn yuan (£115m) in damages, claiming]",
+                "prefix": "chip-maker Qualcomm in China</Title> \n<Body> \n",
+                "exact": "Apple has filed a lawsuit against Qualcomm in China",
+                "suffix": " seeking 1bn yuan (£115m) in damages, claiming",
+                "offset": 361,
+                "length": 51
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e2c61bc3-881b-3c46-83d2-80dcfeb22ac6": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Qualcomm was using its dominant position as a supplier of communication chips for mobile phones to squeeze more cash from firms that use its technologies",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4",
+        "instances": [
+            {
+                "detection": "[that the firm was guilty of market abuse. \n]In its legal papers, Apple said Qualcomm was using its dominant position as a supplier of communication chips for mobile phones to squeeze more cash from firms that use its technologies.[ \nIn the second legal case, Apple said that]",
+                "prefix": "that the firm was guilty of market abuse. \n",
+                "exact": "In its legal papers, Apple said Qualcomm was using its dominant position as a supplier of communication chips for mobile phones to squeeze more cash from firms that use its technologies.",
+                "suffix": " \nIn the second legal case, Apple said that",
+                "offset": 832,
+                "length": 186
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4d85a3d9-df1b-32f9-bf07-bc3857cb9f8d": {
+        "_typeGroup": "relations",
+        "_type": "CompanyTechnology",
+        "forenduserdisplay": "false",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyTechnology",
+        "company": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "technology": "http://d.opencalais.com/genericHasher-1/4908b894-dbc8-3b88-9536-c7b346e2b2e5",
+        "instances": [
+            {
+                "detection": "[market abuse. \nIn its legal papers, Apple said ]Qualcomm was using its dominant position as a supplier of communication chips for mobile phones[ to squeeze more cash from firms that use its]",
+                "prefix": "market abuse. \nIn its legal papers, Apple said ",
+                "exact": "Qualcomm was using its dominant position as a supplier of communication chips for mobile phones",
+                "suffix": " to squeeze more cash from firms that use its",
+                "offset": 864,
+                "length": 95
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/eaa20f69-c0f6-3442-b941-41663ece53f5": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "it planned to fight both legal cases",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[ accusing Qualcomm of overcharging it for chips. \n]Qualcomm said it planned to fight both legal cases.[ \nThe chip-maker has been hit with legal]",
+                "prefix": " accusing Qualcomm of overcharging it for chips. \n",
+                "exact": "Qualcomm said it planned to fight both legal cases.",
+                "suffix": " \nThe chip-maker has been hit with legal",
+                "offset": 2438,
+                "length": 51
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fa3c8540-210a-3783-9d1b-735d21118db3": {
+        "_typeGroup": "relations",
+        "_type": "ProductIssues",
+        "forenduserdisplay": "false",
+        "producttype": "Other",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/ProductIssues",
+        "product": "http://d.opencalais.com/genericHasher-1/8f54edd2-e1a3-3349-abe2-227987738dbf",
+        "instances": [
+            {
+                "detection": "[its monopoly. \nIn response, Qualcomm said the ]FTC complaint was based on a \"flawed legal theory[\" and \"significant misconceptions\" about the way]",
+                "prefix": "its monopoly. \nIn response, Qualcomm said the ",
+                "exact": "FTC complaint was based on a \"flawed legal theory",
+                "suffix": "\" and \"significant misconceptions\" about the way",
+                "offset": 2142,
+                "length": 49
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/6300e8fd-c97c-3322-97ec-ce66e09bbabf": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "it was ready to defend its business practices in court",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[Apple could use technologies it had licensed. \n]Qualcomm said it was ready to defend its business practices in court.[ \nThe lawsuits come soon after US regulators sued]",
+                "prefix": "Apple could use technologies it had licensed. \n",
+                "exact": "Qualcomm said it was ready to defend its business practices in court.",
+                "suffix": " \nThe lawsuits come soon after US regulators sued",
+                "offset": 651,
+                "length": 69
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0935f293-cc03-3307-9c3a-de2d405e4a96": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Qualcomm had denied it access to chip technologies it was entitled to under the terms of an agreed licensing deal.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/705cd5cf-93e1-323c-8d4e-1ea3200d37e4",
+        "instances": [
+            {
+                "detection": "[ use its technologies. \nIn the second legal case, ]Apple said that Qualcomm had denied it access to chip technologies it was entitled to under the terms of an agreed licensing deal.[ \nIn a statement, Qualcomm said it had not yet]",
+                "prefix": " use its technologies. \nIn the second legal case, ",
+                "exact": "Apple said that Qualcomm had denied it access to chip technologies it was entitled to under the terms of an agreed licensing deal.",
+                "suffix": " \nIn a statement, Qualcomm said it had not yet",
+                "offset": 1046,
+                "length": 130
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/182a0755-5db7-3334-b585-f8e888c39693": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "it had not yet seen all the details of the two cases",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[ to under the terms of an agreed licensing deal. \n]In a statement, Qualcomm said it had not yet seen all the details of the two cases.[ \n\"These filings by Apple's Chinese subsidiary]",
+                "prefix": " to under the terms of an agreed licensing deal. \n",
+                "exact": "In a statement, Qualcomm said it had not yet seen all the details of the two cases.",
+                "suffix": " \n\"These filings by Apple's Chinese subsidiary",
+                "offset": 1178,
+                "length": 83
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/a3599efd-4c68-3377-bf7a-f480302a35c9": {
+        "_typeGroup": "relations",
+        "_type": "CompanyInvestigation",
+        "forenduserdisplay": "false",
+        "investigationtype": "Others",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyInvestigation",
+        "company_investigated": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[chip-maker Qualcomm in China</Title> \n<Body> \n]Apple has filed a lawsuit against Qualcomm in China seeking 1bn yuan (£115m) in damages, claiming the chip maker has abused its market position.[ \nApple has also filed a second case alleging]",
+                "prefix": "chip-maker Qualcomm in China</Title> \n<Body> \n",
+                "exact": "Apple has filed a lawsuit against Qualcomm in China seeking 1bn yuan (£115m) in damages, claiming the chip maker has abused its market position.",
+                "suffix": " \nApple has also filed a second case alleging",
+                "offset": 361,
+                "length": 144
+            },
+            {
+                "detection": "[ after US regulators sued Qualcomm, alleging that ]the firm was guilty[ of market abuse. \nIn its legal papers, Apple]",
+                "prefix": " after US regulators sued Qualcomm, alleging that ",
+                "exact": "the firm was guilty",
+                "suffix": " of market abuse. \nIn its legal papers, Apple",
+                "offset": 794,
+                "length": 19
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ce715b6a-dc91-3d65-b5ad-912ba6650570": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "More than 100 Chinese firms signed up to these terms and conditions",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203",
+        "instances": [
+            {
+                "detection": "[with companies keen to use its modem chips. \n]More than 100 Chinese firms signed up to these terms and conditions, he said, adding that Apple \"refused to even consider them\".[ \n\"Qualcomm is prepared to defend its business]",
+                "prefix": "with companies keen to use its modem chips. \n",
+                "exact": "More than 100 Chinese firms signed up to these terms and conditions, he said, adding that Apple \"refused to even consider them\".",
+                "suffix": " \n\"Qualcomm is prepared to defend its business",
+                "offset": 1652,
+                "length": 128
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/379e9145-8931-37cd-b981-63c4c0b504d4": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Apple was offered terms and conditions that were drawn up in 2015 following a ruling by Chinese trade regulators that dictated how Qualcomm should deal with companies keen to use its modem chips.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203",
+        "instances": [
+            {
+                "detection": "[said Don Rosenberg, head lawyer for Qualcomm. \n]He added that Apple was offered terms and conditions that were drawn up in 2015 following a ruling by Chinese trade regulators that dictated how Qualcomm should deal with companies keen to use its modem chips.[ \nMore than 100 Chinese firms signed up to these]",
+                "prefix": "said Don Rosenberg, head lawyer for Qualcomm. \n",
+                "exact": "He added that Apple was offered terms and conditions that were drawn up in 2015 following a ruling by Chinese trade regulators that dictated how Qualcomm should deal with companies keen to use its modem chips.",
+                "suffix": " \nMore than 100 Chinese firms signed up to these",
+                "offset": 1441,
+                "length": 209
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/bbadf980-c7bd-39fd-9eda-e96f0f1ec4ca": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Qualcomm's use of low licensing fees was helping it to enforce its monopoly",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/936ebfae-3b4d-34bc-a4fa-341084914936",
+        "instances": [
+            {
+                "detection": "[its dominance in modem chips for mobile phones. ]The FTC said Qualcomm's use of low licensing fees was helping it to enforce its monopoly.[ \nIn response, Qualcomm said the FTC complaint]",
+                "prefix": "its dominance in modem chips for mobile phones. ",
+                "exact": "The FTC said Qualcomm's use of low licensing fees was helping it to enforce its monopoly.",
+                "suffix": " \nIn response, Qualcomm said the FTC complaint",
+                "offset": 2020,
+                "length": 89
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/60968d72-09d0-3b95-a9f9-cb87c0010413": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "the FTC complaint was based on a \"flawed legal theory\" and \"significant misconceptions\" about the way the mobile industry worked",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[fees was helping it to enforce its monopoly. \n]In response, Qualcomm said the FTC complaint was based on a \"flawed legal theory\" and \"significant misconceptions\" about the way the mobile industry worked.[ \nSoon after the FTC filed its complaint, Apple]",
+                "prefix": "fees was helping it to enforce its monopoly. \n",
+                "exact": "In response, Qualcomm said the FTC complaint was based on a \"flawed legal theory\" and \"significant misconceptions\" about the way the mobile industry worked.",
+                "suffix": " \nSoon after the FTC filed its complaint, Apple",
+                "offset": 2111,
+                "length": 156
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/5e3c4e03-878e-3fba-bc0d-9af2fb4ddaf8": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Qualcomm is prepared to defend its business model anywhere in the world",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203",
+        "instances": [
+            {
+                "detection": "[that Apple \"refused to even consider them\". \n]\"Qualcomm is prepared to defend its business model anywhere in the world,\" said Mr Rosenberg.[ \nLegal battles \nLast week, the US Federal Trade]",
+                "prefix": "that Apple \"refused to even consider them\". \n",
+                "exact": "\"Qualcomm is prepared to defend its business model anywhere in the world,\" said Mr Rosenberg.",
+                "suffix": " \nLegal battles \nLast week, the US Federal Trade",
+                "offset": 1782,
+                "length": 93
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/08452ca7-7080-3785-ab68-70ea91275ed6": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "These filings by Apple's Chinese subsidiary are just part of Apple's efforts to find ways to pay less for Qualcomm's technology",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203",
+        "instances": [
+            {
+                "detection": "[not yet seen all the details of the two cases. \n]\"These filings by Apple's Chinese subsidiary are just part of Apple's efforts to find ways to pay less for Qualcomm's technology,\" said Don Rosenberg, head lawyer for Qualcomm.[ \nHe added that Apple was offered terms and]",
+                "prefix": "not yet seen all the details of the two cases. \n",
+                "exact": "\"These filings by Apple's Chinese subsidiary are just part of Apple's efforts to find ways to pay less for Qualcomm's technology,\" said Don Rosenberg, head lawyer for Qualcomm.",
+                "suffix": " \nHe added that Apple was offered terms and",
+                "offset": 1263,
+                "length": 176
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/aac469d4-4717-34e9-ba5e-46a55753cabf": {
+        "_typeGroup": "relations",
+        "_type": "CompanyTechnology",
+        "forenduserdisplay": "false",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyTechnology",
+        "company": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "technology": "http://d.opencalais.com/genericHasher-1/bc5e2f67-2c6d-3446-a048-92d78aeb5eb2",
+        "instances": [
+            {
+                "detection": "[market abuse. \nIn its legal papers, Apple said ]Qualcomm was using its dominant position as a supplier of communication chips for mobile phones[ to squeeze more cash from firms that use its]",
+                "prefix": "market abuse. \nIn its legal papers, Apple said ",
+                "exact": "Qualcomm was using its dominant position as a supplier of communication chips for mobile phones",
+                "suffix": " to squeeze more cash from firms that use its",
+                "offset": 864,
+                "length": 95
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/9bf8005f-5118-3309-9376-44da6d9492f0": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "head lawyer",
+        "positionnormalized": "attorney",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/d9db024c-1419-3557-b460-b50993e63203",
+        "company": "http://d.opencalais.com/comphash-1/d3019954-b34c-3a15-b79b-49ec018311fc",
+        "instances": [
+            {
+                "detection": "[to pay less for Qualcomm's technology,\" said ]Don Rosenberg, head lawyer for Qualcomm[. \nHe added that Apple was offered terms and]",
+                "prefix": "to pay less for Qualcomm's technology,\" said ",
+                "exact": "Don Rosenberg, head lawyer for Qualcomm",
+                "suffix": ". \nHe added that Apple was offered terms and",
+                "offset": 1399,
+                "length": 39
+            }
+        ]
+    }
+}

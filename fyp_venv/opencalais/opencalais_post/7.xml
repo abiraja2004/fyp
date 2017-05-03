@@ -1,0 +1,1388 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "507ba29f-05fe-e008-1599-ba057de3ec14",
+            "id": "http://id.opencalais.com/aqF9bFDplFcCQSi*KgDA5w",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.2/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061",
+            "document": "--ba601bf8e2f14beea499e4e601486e2d \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>As Trump Embraces Term Limits, Allies in Congress Pull Away</Title> \n<Body> \nWASHINGTON — Congressional Republicans are settling in for what they hope is a long run in the majority, but President-elect Donald J. Trump doesn’t want them to get too comfortable. \n \n“We’re going to put on term limits, which a lot of people aren’t happy about, but we’re putting on term limits,” Mr. Trump said in an interview with “60 Minutes” that aired on Sunday. “We’re doing a lot of things to clean up the system.” \n \nIf one thing could put Mr. Trump on a collision course with his new allies on Capitol Hill, it is his embrace of proposals such as term limits and tougher restrictions on allowing lawmakers and top aides to become lobbyists in the lucrative world of Washington influence peddling. \n \nMembers of Congress like to talk about returning power to the people, but many would prefer not to vote to limit their own tenure or future employment opportunities. Bringing up term limits is seen by some as raining on their postelection parade. \n \nContinue reading the main story \nSenator Mitch McConnell, Republican of Kentucky and the majority leader, made that quite clear last week when he said the Senate outlook for term limits was severely limited. \n \n“I would say we have term limits now,” Mr. McConnell told reporters. “They’re called elections. And it will not be on the agenda in the Senate.” \n \nStill, Mr. Trump’s highlighting of his call for term limits — it is No. 1 on his list of priorities to “clean up the corruption and special interest collusion in Washington, D.C.” — revives an initiative that has been dormant in Washington for years after Republicans rode it to the House takeover in 1994 but then failed to make it happen. \n \nMr. Trump found a surprising kindred spirit on term limits on Monday when President Obama seemed to endorse the concept. \n \n“I think we want to see new voices and new ideas emerge,” Mr. Obama said at a news conference. “That’s part of the reason why I think term limits are a really useful thing.” \n \nAides said later that Mr. Obama might have been referring more to the limit on presidential tenure, and his view that George Washington set the right precedent by leaving after two terms. But his words could certainly be extended to Congress. \n \nProponents of term limits say Mr. Trump’s position has put new energy behind the campaign to adopt a constitutional amendment restricting House members to three two-year terms and senators to two six-year terms. \n \n“The other part of the pressure is going to come from the public,” said Nick Tomboulides, the executive director of the group U.S. Term Limits. “When they know term limits is an issue on the table, they will make it very difficult for Congress to ignore. I think Congress is going to be forced to vote on it.” \n \nTerm limits have always been popular with voters and got a surge of momentum in the “throw the bums out” political atmosphere of the early 1990s, leading multiple states to adopt them for their legislatures through ballot initiatives and other means. \n \nAs part of the “Contract With America” in 1994, Republicans led by Representative Newt Gingrich of Georgia promised the “Citizen Legislature Act” and a “first-ever vote on term limits to replace career politicians with citizen legislators.” The mantra helped them topple Speaker Thomas S. Foley of Washington, a staunch opponent of term limits, via a challenger, George Nethercutt, who promised to serve just six years (though he later violated that pledge). \n \nThat term limits vote did come in March 1995 and won a majority but fell more than 60 votes short of the two-thirds majority necessary to advance a constitutional amendment. Forty Republicans, many of them committee and subcommittee chairmen, joined Democratic opponents in defeating the proposal. The amendment again fell short a year later. \n \nOpponents argued then, and argue now, that arbitrary term limits would rob Congress of the institutional knowledge and expertise needed to conduct business and that voters had regular opportunities to end the service of their lawmakers. They don’t talk about how gerrymandering and the advantages of incumbency make it hard to defeat sitting lawmakers. \n \nWhether the proposal can go anywhere this year will depend on how serious Mr. Trump and his advisers are about pushing it against the wishes of congressional leaders, or whether it was just part of his message to stir up frustrated voters. At this point, it is impossible to say, but it was a primary element of his call to “drain the swamp” that appeared to resonate with the public. \n \nAnd term limits are just one issue. Conservatives also are raising the alarm about a move by House Republicans to restore congressional earmarks — special home-state spending — as long as they are directed to a government agency rather than a private interest, a source of corruption in the past. \n \nSome lawmakers have argued that restoring the ability of individual lawmakers to earmark money would make it easier to pass spending bills, but critics are moving quickly to quash any effort to bring them back. \n \nWith the earmark proposal on the verge of being adopted by Republicans on Wednesday, Speaker Paul D. Ryan called off the vote, fearing it would send a bad signal so soon after the election. He promised a review of the idea and a vote early next year. \n \nLike other self-professed outsiders before him, Mr. Trump will discover that draining the swamp is much easier said than done. \n</Body> \n</Document> \n--ba601bf8e2f14beea499e4e601486e2d-- \n",
+            "docTitle": "As Trump Embraces Term Limits, Allies in Congress Pull Away",
+            "docDate": "2017-01-14 06:18:14.611"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.2-RELEASE:133",
+            "stagsVer": "OneCalais_10.2-RELEASE-b21-2016-11-29_14:53:15",
+            "submissionDate": "2017-01-14 06:18:13.854",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|rHF44dXGp91LNg8Oh7o+xFf6avg=|WlbV7iE1YP5eTqlwrg57TyCl6ng8FPbsv5d4jvyzKzP3mMfd6sOHLw==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.974,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+        "forenduserdisplay": "true",
+        "name": "Politics of the United States",
+        "importance": "1",
+        "originalValue": "Politics of the United States"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "1",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f71ba5a5-389e-3a2f-818b-278a17dcd775",
+        "forenduserdisplay": "true",
+        "name": "Conservatism in the United States",
+        "importance": "1",
+        "originalValue": "Conservatism in the United States"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f",
+        "forenduserdisplay": "true",
+        "name": "Politics",
+        "importance": "2",
+        "originalValue": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "importance": "2",
+        "originalValue": "United States"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/077112a0-efad-3011-b265-36c36a845314",
+        "forenduserdisplay": "true",
+        "name": "The Apprentice",
+        "importance": "2",
+        "originalValue": "The Apprentice (TV series)"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/312ffab8-6e89-3aa4-90a4-f9d5ca60f00a",
+        "forenduserdisplay": "true",
+        "name": "WWE Hall of Fame",
+        "importance": "2",
+        "originalValue": "WWE Hall of Fame"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/cf9a7fb7-24e6-387a-a436-9a572e4b315d",
+        "forenduserdisplay": "true",
+        "name": "Newt Gingrich",
+        "importance": "2",
+        "originalValue": "Newt Gingrich"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/e68ca560-ed5b-386f-a803-77f637cbc1d5",
+        "forenduserdisplay": "true",
+        "name": "Mitch McConnell",
+        "importance": "2",
+        "originalValue": "Mitch McConnell"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/4a3baa32-f26d-3446-b874-d5eaf538bac4",
+        "forenduserdisplay": "true",
+        "name": "United States Congress",
+        "importance": "2",
+        "originalValue": "United States Congress"
+    },
+    "http://d.opencalais.com/dochash-1/f2d23c47-d77f-3672-a4b4-0c778ccfe061/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701131011:201701131011",
+            "index-refineries:201612242322:201612242322",
+            "config-physicalAssets-powerStations:545:545",
+            "NextTags:OneCalais_10.2-RELEASE:133",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701121438:201701121438",
+            "config-negativeSignature:545:545",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:575:575",
+            "People Override:545:545",
+            "index-company-oa3:201701122041:201701122041",
+            "index-vessels:201612311629:201612311629",
+            "config-refineries:545:545",
+            "config-cse:575:575",
+            "config-vessels:545:545",
+            "OneCalais:OneCalais_10.2-RELEASE:133",
+            "config-physicalAssets-mines:545:545",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:575:575",
+            "index-ports:201612312234:201612312234",
+            "config-physicalAssets-ports:545:545",
+            "config-drugs:545:545"
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/da6a58a1-8ce5-3a43-84e0-2536cf8360ff": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Thomas S. Foley",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Thomas Foley",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[The mantra helped them topple Speaker ]Thomas S. Foley[ of Washington, a staunch opponent of term]",
+                "prefix": "The mantra helped them topple Speaker ",
+                "exact": "Thomas S. Foley",
+                "suffix": " of Washington, a staunch opponent of term",
+                "offset": 3653,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/22b7ced9-f8a7-328d-b061-241cb9bc908a": {
+        "_typeGroup": "entities",
+        "_type": "Continent",
+        "forenduserdisplay": "false",
+        "name": "America",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Continent",
+        "instances": [
+            {
+                "detection": "[other means. \n \nAs part of the “Contract With ]America[” in 1994, Republicans led by Representative Newt]",
+                "prefix": "other means. \n \nAs part of the “Contract With ",
+                "exact": "America",
+                "suffix": "” in 1994, Republicans led by Representative Newt",
+                "offset": 3404,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1ede3efe-4938-3c88-bd76-753a95f5593c": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Congress",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ \n<Title>As Trump Embraces Term Limits, Allies in ]Congress[ Pull Away</Title> \n<Body> \nWASHINGTON —]",
+                "prefix": " \n<Title>As Trump Embraces Term Limits, Allies in ",
+                "exact": "Congress",
+                "suffix": " Pull Away</Title> \n<Body> \nWASHINGTON —",
+                "offset": 345,
+                "length": 8
+            },
+            {
+                "detection": "[of Washington influence peddling. \n \nMembers of ]Congress[ like to talk about returning power to the]",
+                "prefix": "of Washington influence peddling. \n \nMembers of ",
+                "exact": "Congress",
+                "suffix": " like to talk about returning power to the",
+                "offset": 1103,
+                "length": 8
+            },
+            {
+                "detection": "[But his words could certainly be extended to ]Congress[. \n \nProponents of term limits say Mr. Trump’s]",
+                "prefix": "But his words could certainly be extended to ",
+                "exact": "Congress",
+                "suffix": ". \n \nProponents of term limits say Mr. Trump’s",
+                "offset": 2579,
+                "length": 8
+            },
+            {
+                "detection": "[the table, they will make it very difficult for ]Congress[ to ignore. I think Congress is going to be]",
+                "prefix": "the table, they will make it very difficult for ",
+                "exact": "Congress",
+                "suffix": " to ignore. I think Congress is going to be",
+                "offset": 3042,
+                "length": 8
+            },
+            {
+                "detection": "[very difficult for Congress to ignore. I think ]Congress[ is going to be forced to vote on it.” \n \nTerm]",
+                "prefix": "very difficult for Congress to ignore. I think ",
+                "exact": "Congress",
+                "suffix": " is going to be forced to vote on it.” \n \nTerm",
+                "offset": 3070,
+                "length": 8
+            },
+            {
+                "detection": "[argue now, that arbitrary term limits would rob ]Congress[ of the institutional knowledge and expertise]",
+                "prefix": "argue now, that arbitrary term limits would rob ",
+                "exact": "Congress",
+                "suffix": " of the institutional knowledge and expertise",
+                "offset": 4257,
+                "length": 8
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/dfc29d35-4398-3dfa-823b-265eae689692": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Washington, D.C.",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[ the corruption and special interest collusion in ]Washington, D.C.[” — revives an initiative that has been dormant]",
+                "prefix": " the corruption and special interest collusion in ",
+                "exact": "Washington, D.C.",
+                "suffix": "” — revives an initiative that has been dormant",
+                "offset": 1863,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2399683b-f6bb-366a-b209-7e861c9b0df1": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Kentucky",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[story \nSenator Mitch McConnell, Republican of ]Kentucky[ and the majority leader, made that quite clear]",
+                "prefix": "story \nSenator Mitch McConnell, Republican of ",
+                "exact": "Kentucky",
+                "suffix": " and the majority leader, made that quite clear",
+                "offset": 1414,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Kentucky,United States",
+                "shortname": "Kentucky",
+                "latitude": "37.7884710645",
+                "longitude": "-85.3279475422",
+                "containedbycountry": "United States",
+                "rcscode": "G:1E",
+                "permid": "100153"
+            }
+        ]
+    },
+    "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Newt Gingrich",
+        "persontype": "political",
+        "nationality": "Georgian",
+        "confidencelevel": "0.998",
+        "commonname": "Newt Gingrich",
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[With America” in 1994, Republicans led by ]Representative Newt Gingrich[ of Georgia promised the “Citizen Legislature]",
+                "prefix": "With America” in 1994, Republicans led by ",
+                "exact": "Representative Newt Gingrich",
+                "suffix": " of Georgia promised the “Citizen Legislature",
+                "offset": 3441,
+                "length": 28
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[they hope is a long run in the majority, but ]President-elect[ Donald J. Trump doesn’t want them to get too]",
+                "prefix": "they hope is a long run in the majority, but ",
+                "exact": "President-elect",
+                "suffix": " Donald J. Trump doesn’t want them to get too",
+                "offset": 490,
+                "length": 15
+            },
+            {
+                "detection": "[kindred spirit on term limits on Monday when ]President[ Obama seemed to endorse the concept. \n \n“I think]",
+                "prefix": "kindred spirit on term limits on Monday when ",
+                "exact": "President",
+                "suffix": " Obama seemed to endorse the concept. \n \n“I think",
+                "offset": 2119,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/c80492d6-cf11-3fa7-b973-0060c435e42f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Paul D. Ryan",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Paul",
+        "middlename": "D.",
+        "lastname": "Ryan",
+        "commonname": "Paul Ryan",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[adopted by Republicans on Wednesday, Speaker ]Paul D. Ryan[ called off the vote, fearing it would send a bad]",
+                "prefix": "adopted by Republicans on Wednesday, Speaker ",
+                "exact": "Paul D. Ryan",
+                "suffix": " called off the vote, fearing it would send a bad",
+                "offset": 5533,
+                "length": 12
+            },
+            {
+                "detection": "[send a bad signal so soon after the election. ]He[ promised a review of the idea and a vote early]",
+                "prefix": "send a bad signal so soon after the election. ",
+                "exact": "He",
+                "suffix": " promised a review of the idea and a vote early",
+                "offset": 5630,
+                "length": 2
+            },
+            {
+                "detection": "[\n \nLike other self-professed outsiders before ]him[, Mr. Trump will discover that draining the swamp]",
+                "prefix": "\n \nLike other self-professed outsiders before ",
+                "exact": "him",
+                "suffix": ", Mr. Trump will discover that draining the swamp",
+                "offset": 5737,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Obama",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.986",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[spirit on term limits on Monday when President ]Obama[ seemed to endorse the concept. \n \n“I think we]",
+                "prefix": "spirit on term limits on Monday when President ",
+                "exact": "Obama",
+                "suffix": " seemed to endorse the concept. \n \n“I think we",
+                "offset": 2129,
+                "length": 5
+            },
+            {
+                "detection": "[ we want to see new voices and new ideas emerge,” ]Mr. Obama[ said at a news conference. “That’s part of the]",
+                "prefix": " we want to see new voices and new ideas emerge,” ",
+                "exact": "Mr. Obama",
+                "suffix": " said at a news conference. “That’s part of the",
+                "offset": 2227,
+                "length": 9
+            },
+            {
+                "detection": "[ a really useful thing.” \n \nAides said later that ]Mr. Obama[ might have been referring more to the limit on]",
+                "prefix": " a really useful thing.” \n \nAides said later that ",
+                "exact": "Mr. Obama",
+                "suffix": " might have been referring more to the limit on",
+                "offset": 2368,
+                "length": 9
+            },
+            {
+                "detection": "[more to the limit on presidential tenure, and ]his[ view that George Washington set the right]",
+                "prefix": "more to the limit on presidential tenure, and ",
+                "exact": "his",
+                "suffix": " view that George Washington set the right",
+                "offset": 2450,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.984",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.986"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/86d8da40-218e-3486-bcbb-b3d5a7e39d20": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Speaker",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[legislators.” The mantra helped them topple ]Speaker[ Thomas S. Foley of Washington, a staunch]",
+                "prefix": "legislators.” The mantra helped them topple ",
+                "exact": "Speaker",
+                "suffix": " Thomas S. Foley of Washington, a staunch",
+                "offset": 3645,
+                "length": 7
+            },
+            {
+                "detection": "[of being adopted by Republicans on Wednesday, ]Speaker[ Paul D. Ryan called off the vote, fearing it]",
+                "prefix": "of being adopted by Republicans on Wednesday, ",
+                "exact": "Speaker",
+                "suffix": " Paul D. Ryan called off the vote, fearing it",
+                "offset": 5525,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/4316e508-5bdb-3149-bc3d-ad852c3a269f": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "executive director of the group",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[ to come from the public,” said Nick Tomboulides, ]the executive director of the group[ U.S. Term Limits. “When they know term limits is]",
+                "prefix": " to come from the public,” said Nick Tomboulides, ",
+                "exact": "the executive director of the group",
+                "suffix": " U.S. Term Limits. “When they know term limits is",
+                "offset": 2897,
+                "length": 35
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/1f29c7a4-2a3a-3ea4-93cf-5f9188a4e2da": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Nick Tomboulides",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Nick",
+        "lastname": "Tomboulides",
+        "commonname": "Nick Tomboulides",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ pressure is going to come from the public,” said ]Nick Tomboulides[, the executive director of the group U.S. Term]",
+                "prefix": " pressure is going to come from the public,” said ",
+                "exact": "Nick Tomboulides",
+                "suffix": ", the executive director of the group U.S. Term",
+                "offset": 2879,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/41ed1185-693f-39ce-82d7-4d1dafec74d1": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "George Nethercutt",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "George",
+        "lastname": "Nethercutt",
+        "commonname": "George Nethercutt",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[opponent of term limits, via a challenger, ]George Nethercutt[, who promised to serve just six years (though he]",
+                "prefix": "opponent of term limits, via a challenger, ",
+                "exact": "George Nethercutt",
+                "suffix": ", who promised to serve just six years (though he",
+                "offset": 3737,
+                "length": 17
+            },
+            {
+                "detection": "[who promised to serve just six years (though ]he[ later violated that pledge). \n \nThat term limits]",
+                "prefix": "who promised to serve just six years (though ",
+                "exact": "he",
+                "suffix": " later violated that pledge). \n \nThat term limits",
+                "offset": 3801,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/d3b3346d-06a3-372a-9a44-c1763e6604aa": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "majority leader",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Mitch McConnell, Republican of Kentucky and ]the majority leader[, made that quite clear last week when he said]",
+                "prefix": "Mitch McConnell, Republican of Kentucky and ",
+                "exact": "the majority leader",
+                "suffix": ", made that quite clear last week when he said",
+                "offset": 1427,
+                "length": 19
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/adec28d8-9ca1-3904-9d95-a90006fa5399": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Mitch McConnell",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Mitch",
+        "lastname": "McConnell",
+        "commonname": "Mitch McConnell",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[parade. \n \nContinue reading the main story \n]Senator Mitch McConnell[, Republican of Kentucky and the majority leader,]",
+                "prefix": "parade. \n \nContinue reading the main story \n",
+                "exact": "Senator Mitch McConnell",
+                "suffix": ", Republican of Kentucky and the majority leader,",
+                "offset": 1375,
+                "length": 23
+            },
+            {
+                "detection": "[leader, made that quite clear last week when ]he[ said the Senate outlook for term limits was]",
+                "prefix": "leader, made that quite clear last week when ",
+                "exact": "he",
+                "suffix": " said the Senate outlook for term limits was",
+                "offset": 1485,
+                "length": 2
+            },
+            {
+                "detection": "[\n \n“I would say we have term limits now,” ]Mr. McConnell[ told reporters. “They’re called elections. And]",
+                "prefix": "\n \n“I would say we have term limits now,” ",
+                "exact": "Mr. McConnell",
+                "suffix": " told reporters. “They’re called elections. And",
+                "offset": 1592,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f028efd3-e776-3870-9c05-8b9cfd107dac": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Representative",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[With America” in 1994, Republicans led by ]Representative[ Newt Gingrich of Georgia promised the “Citizen]",
+                "prefix": "With America” in 1994, Republicans led by ",
+                "exact": "Representative",
+                "suffix": " Newt Gingrich of Georgia promised the “Citizen",
+                "offset": 3441,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/ac8a6549-69b6-3370-abcd-d63c43e40f41": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "George Washington",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "commonname": "George Washington",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.97",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[Allies in Congress Pull Away</Title> \n<Body> \n]WASHINGTON[ — Congressional Republicans are settling in for]",
+                "prefix": "Allies in Congress Pull Away</Title> \n<Body> \n",
+                "exact": "WASHINGTON",
+                "suffix": " — Congressional Republicans are settling in for",
+                "offset": 381,
+                "length": 10
+            },
+            {
+                "detection": "[to become lobbyists in the lucrative world of ]Washington[ influence peddling. \n \nMembers of Congress like]",
+                "prefix": "to become lobbyists in the lucrative world of ",
+                "exact": "Washington",
+                "suffix": " influence peddling. \n \nMembers of Congress like",
+                "offset": 1058,
+                "length": 10
+            },
+            {
+                "detection": "[ the corruption and special interest collusion in ]Washington[, D.C.” — revives an initiative that has been]",
+                "prefix": " the corruption and special interest collusion in ",
+                "exact": "Washington",
+                "suffix": ", D.C.” — revives an initiative that has been",
+                "offset": 1863,
+                "length": 10
+            },
+            {
+                "detection": "[ — revives an initiative that has been dormant in ]Washington[ for years after Republicans rode it to the House]",
+                "prefix": " — revives an initiative that has been dormant in ",
+                "exact": "Washington",
+                "suffix": " for years after Republicans rode it to the House",
+                "offset": 1930,
+                "length": 10
+            },
+            {
+                "detection": "[limit on presidential tenure, and his view that ]George Washington[ set the right precedent by leaving after two]",
+                "prefix": "limit on presidential tenure, and his view that ",
+                "exact": "George Washington",
+                "suffix": " set the right precedent by leaving after two",
+                "offset": 2464,
+                "length": 17
+            },
+            {
+                "detection": "[right precedent by leaving after two terms. But ]his[ words could certainly be extended to Congress. \n]",
+                "prefix": "right precedent by leaving after two terms. But ",
+                "exact": "his",
+                "suffix": " words could certainly be extended to Congress. \n",
+                "offset": 2538,
+                "length": 3
+            },
+            {
+                "detection": "[helped them topple Speaker Thomas S. Foley of ]Washington[, a staunch opponent of term limits, via a]",
+                "prefix": "helped them topple Speaker Thomas S. Foley of ",
+                "exact": "Washington",
+                "suffix": ", a staunch opponent of term limits, via a",
+                "offset": 3672,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e4fe5e61-0000-3b15-9d70-d8c317ea934f": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Georgia",
+        "resolutions": [
+            {
+                "name": "Georgia,United States",
+                "shortname": "Georgia",
+                "latitude": "123456.0",
+                "longitude": "123456.0",
+                "containedbycountry": "United States",
+                "rcscode": "G:9F",
+                "permid": "100112"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[led by Representative Newt Gingrich of ]Georgia[ promised the “Citizen Legislature Act” and a]",
+                "prefix": "led by Representative Newt Gingrich of ",
+                "exact": "Georgia",
+                "suffix": " promised the “Citizen Legislature Act” and a",
+                "offset": 3473,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/dac05d27-cff0-366c-a623-594ee185a34e": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "U.S. Term Limits",
+        "nationality": "N/A",
+        "confidencelevel": "0.804",
+        "confidence": {
+            "statisticalfeature": "0.913",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.804"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ Tomboulides, the executive director of the group ]U.S. Term Limits[. “When they know term limits is an issue on the]",
+                "prefix": " Tomboulides, the executive director of the group ",
+                "exact": "U.S. Term Limits",
+                "suffix": ". “When they know term limits is an issue on the",
+                "offset": 2933,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald J. Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "commonname": "Donald Trump",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>As ]Trump[ Embraces Term Limits, Allies in Congress Pull]",
+                "prefix": "\n<Document> \n<Title>As ",
+                "exact": "Trump",
+                "suffix": " Embraces Term Limits, Allies in Congress Pull",
+                "offset": 307,
+                "length": 5
+            },
+            {
+                "detection": "[a long run in the majority, but President-elect ]Donald J. Trump[ doesn’t want them to get too comfortable. \n]",
+                "prefix": "a long run in the majority, but President-elect ",
+                "exact": "Donald J. Trump",
+                "suffix": " doesn’t want them to get too comfortable. \n",
+                "offset": 506,
+                "length": 15
+            },
+            {
+                "detection": "[happy about, but we’re putting on term limits,” ]Mr. Trump[ said in an interview with “60 Minutes” that]",
+                "prefix": "happy about, but we’re putting on term limits,” ",
+                "exact": "Mr. Trump",
+                "suffix": " said in an interview with “60 Minutes” that",
+                "offset": 680,
+                "length": 9
+            },
+            {
+                "detection": "[clean up the system.” \n \nIf one thing could put ]Mr. Trump[ on a collision course with his new allies on]",
+                "prefix": "clean up the system.” \n \nIf one thing could put ",
+                "exact": "Mr. Trump",
+                "suffix": " on a collision course with his new allies on",
+                "offset": 831,
+                "length": 9
+            },
+            {
+                "detection": "[could put Mr. Trump on a collision course with ]his[ new allies on Capitol Hill, it is his embrace of]",
+                "prefix": "could put Mr. Trump on a collision course with ",
+                "exact": "his",
+                "suffix": " new allies on Capitol Hill, it is his embrace of",
+                "offset": 868,
+                "length": 3
+            },
+            {
+                "detection": "[with his new allies on Capitol Hill, it is ]his[ embrace of proposals such as term limits and]",
+                "prefix": "with his new allies on Capitol Hill, it is ",
+                "exact": "his",
+                "suffix": " embrace of proposals such as term limits and",
+                "offset": 906,
+                "length": 3
+            },
+            {
+                "detection": "[not be on the agenda in the Senate.” \n \nStill, ]Mr. Trump[’s highlighting of his call for term limits — it]",
+                "prefix": "not be on the agenda in the Senate.” \n \nStill, ",
+                "exact": "Mr. Trump",
+                "suffix": "’s highlighting of his call for term limits — it",
+                "offset": 1708,
+                "length": 9
+            },
+            {
+                "detection": "[Senate.” \n \nStill, Mr. Trump’s highlighting of ]his[ call for term limits — it is No. 1 on his list]",
+                "prefix": "Senate.” \n \nStill, Mr. Trump’s highlighting of ",
+                "exact": "his",
+                "suffix": " call for term limits — it is No. 1 on his list",
+                "offset": 1736,
+                "length": 3
+            },
+            {
+                "detection": "[of his call for term limits — it is No. 1 on ]his[ list of priorities to “clean up the corruption]",
+                "prefix": "of his call for term limits — it is No. 1 on ",
+                "exact": "his",
+                "suffix": " list of priorities to “clean up the corruption",
+                "offset": 1778,
+                "length": 3
+            },
+            {
+                "detection": "[in 1994 but then failed to make it happen. \n \n]Mr. Trump[ found a surprising kindred spirit on term limits]",
+                "prefix": "in 1994 but then failed to make it happen. \n \n",
+                "exact": "Mr. Trump",
+                "suffix": " found a surprising kindred spirit on term limits",
+                "offset": 2045,
+                "length": 9
+            },
+            {
+                "detection": "[to Congress. \n \nProponents of term limits say ]Mr. Trump[’s position has put new energy behind the]",
+                "prefix": "to Congress. \n \nProponents of term limits say ",
+                "exact": "Mr. Trump",
+                "suffix": "’s position has put new energy behind the",
+                "offset": 2622,
+                "length": 9
+            },
+            {
+                "detection": "[ go anywhere this year will depend on how serious ]Mr. Trump[ and his advisers are about pushing it against]",
+                "prefix": " go anywhere this year will depend on how serious ",
+                "exact": "Mr. Trump",
+                "suffix": " and his advisers are about pushing it against",
+                "offset": 4612,
+                "length": 9
+            },
+            {
+                "detection": "[year will depend on how serious Mr. Trump and ]his[ advisers are about pushing it against the wishes]",
+                "prefix": "year will depend on how serious Mr. Trump and ",
+                "exact": "his",
+                "suffix": " advisers are about pushing it against the wishes",
+                "offset": 4626,
+                "length": 3
+            },
+            {
+                "detection": "[leaders, or whether it was just part of ]his[ message to stir up frustrated voters. At this]",
+                "prefix": "leaders, or whether it was just part of ",
+                "exact": "his",
+                "suffix": " message to stir up frustrated voters. At this",
+                "offset": 4736,
+                "length": 3
+            },
+            {
+                "detection": "[to say, but it was a primary element of ]his[ call to “drain the swamp” that appeared to]",
+                "prefix": "to say, but it was a primary element of ",
+                "exact": "his",
+                "suffix": " call to “drain the swamp” that appeared to",
+                "offset": 4850,
+                "length": 3
+            },
+            {
+                "detection": "[ \nLike other self-professed outsiders before him, ]Mr. Trump[ will discover that draining the swamp is much]",
+                "prefix": " \nLike other self-professed outsiders before him, ",
+                "exact": "Mr. Trump",
+                "suffix": " will discover that draining the swamp is much",
+                "offset": 5742,
+                "length": 9
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/6df2b0d0-0a15-3923-a15f-ff3d866e039b": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Senate",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[ made that quite clear last week when he said the ]Senate[ outlook for term limits was severely limited. \n]",
+                "prefix": " made that quite clear last week when he said the ",
+                "exact": "Senate",
+                "suffix": " outlook for term limits was severely limited. \n",
+                "offset": 1497,
+                "length": 6
+            },
+            {
+                "detection": "[And it will not be on the agenda in the ]Senate[.” \n \nStill, Mr. Trump’s highlighting of his call]",
+                "prefix": "And it will not be on the agenda in the ",
+                "exact": "Senate",
+                "suffix": ".” \n \nStill, Mr. Trump’s highlighting of his call",
+                "offset": 1689,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/05bb2646-0ab8-3a48-b4eb-d29cfd33ce39": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "energy",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[ term limits say Mr. Trump’s position has put new ]energy[ behind the campaign to adopt a constitutional]",
+                "prefix": " term limits say Mr. Trump’s position has put new ",
+                "exact": "energy",
+                "suffix": " behind the campaign to adopt a constitutional",
+                "offset": 2655,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1304fffe-f320-3911-ab13-659ed389c920": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Washington",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[helped them topple Speaker Thomas S. Foley of ]Washington[, a staunch opponent of term limits, via a]",
+                "prefix": "helped them topple Speaker Thomas S. Foley of ",
+                "exact": "Washington",
+                "suffix": ", a staunch opponent of term limits, via a",
+                "offset": 3672,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Georgia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[led by Representative Newt Gingrich of ]Georgia[ promised the “Citizen Legislature Act” and a]",
+                "prefix": "led by Representative Newt Gingrich of ",
+                "exact": "Georgia",
+                "suffix": " promised the “Citizen Legislature Act” and a",
+                "offset": 3473,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/7f8b5127-803b-3b7c-a4ef-b26410b64111": {
+        "_typeGroup": "relations",
+        "_type": "PersonParty",
+        "forenduserdisplay": "false",
+        "party": "Republicans",
+        "locationstring": "kentucky",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonParty",
+        "person": "http://d.opencalais.com/pershash-1/adec28d8-9ca1-3904-9d95-a90006fa5399",
+        "instances": [
+            {
+                "detection": "[parade. \n \nContinue reading the main story \n]Senator Mitch McConnell, Republican of Kentucky[ and the majority leader, made that quite clear]",
+                "prefix": "parade. \n \nContinue reading the main story \n",
+                "exact": "Senator Mitch McConnell, Republican of Kentucky",
+                "suffix": " and the majority leader, made that quite clear",
+                "offset": 1375,
+                "length": 47
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/927daeb4-6d15-3035-9c33-7ce90d2b4e1f": {
+        "_typeGroup": "relations",
+        "_type": "PersonLocation",
+        "forenduserdisplay": "false",
+        "locationstring": "Georgia",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonLocation",
+        "person": "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b",
+        "instances": [
+            {
+                "detection": "[With America” in 1994, Republicans led by ]Representative Newt Gingrich of Georgia[ promised the “Citizen Legislature Act” and a]",
+                "prefix": "With America” in 1994, Republicans led by ",
+                "exact": "Representative Newt Gingrich of Georgia",
+                "suffix": " promised the “Citizen Legislature Act” and a",
+                "offset": 3441,
+                "length": 39
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ecf7d158-e28c-36ff-be18-00a8ad505377": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "“The other part of the pressure is going to come from the public,”",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/1f29c7a4-2a3a-3ea4-93cf-5f9188a4e2da",
+        "instances": [
+            {
+                "detection": "[terms and senators to two six-year terms. \n \n]“The other part of the pressure is going to come from the public,” said Nick Tomboulides, the executive director of the group U.S. Term Limits.[ “When they know term limits is an issue on the]",
+                "prefix": "terms and senators to two six-year terms. \n \n",
+                "exact": "“The other part of the pressure is going to come from the public,” said Nick Tomboulides, the executive director of the group U.S. Term Limits.",
+                "suffix": " “When they know term limits is an issue on the",
+                "offset": 2807,
+                "length": 143
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/beec3c5f-0996-32e2-a0b0-685507c99f34": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Speaker",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/c80492d6-cf11-3fa7-b973-0060c435e42f",
+        "instances": [
+            {
+                "detection": "[of being adopted by Republicans on Wednesday, ]Speaker Paul D. Ryan[ called off the vote, fearing it would send a bad]",
+                "prefix": "of being adopted by Republicans on Wednesday, ",
+                "exact": "Speaker Paul D. Ryan",
+                "suffix": " called off the vote, fearing it would send a bad",
+                "offset": 5525,
+                "length": 20
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/00883916-0922-3ba8-9611-bdeb1c581492": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Representative",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b",
+        "instances": [
+            {
+                "detection": "[ the “Contract With America” in 1994, Republicans ]led by Representative Newt Gingrich[ of Georgia promised the “Citizen Legislature]",
+                "prefix": " the “Contract With America” in 1994, Republicans ",
+                "exact": "led by Representative Newt Gingrich",
+                "suffix": " of Georgia promised the “Citizen Legislature",
+                "offset": 3434,
+                "length": 35
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8d54337f-df02-3a4c-9005-2f62fda5f0c3": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b",
+        "country": "http://d.opencalais.com/genericHasher-1/fa520215-057f-36ab-ad6b-382f421c566e",
+        "instances": [
+            {
+                "detection": "[With America” in 1994, Republicans led by ]Representative Newt Gingrich of Georgia[ promised the “Citizen Legislature Act” and a]",
+                "prefix": "With America” in 1994, Republicans led by ",
+                "exact": "Representative Newt Gingrich of Georgia",
+                "suffix": " promised the “Citizen Legislature Act” and a",
+                "offset": 3441,
+                "length": 39
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/dee11c61-a27f-38b8-b918-fdb0a8dd900c": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "the Senate outlook for term limits was severely limited",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/adec28d8-9ca1-3904-9d95-a90006fa5399",
+        "instances": [
+            {
+                "detection": "[ some as raining on their postelection parade. \n \n]Continue reading the main story \nSenator Mitch McConnell, Republican of Kentucky and the majority leader, made that quite clear last week when he said the Senate outlook for term limits was severely limited.[ \n \n“I would say we have term limits now,” Mr.]",
+                "prefix": " some as raining on their postelection parade. \n \n",
+                "exact": "Continue reading the main story \nSenator Mitch McConnell, Republican of Kentucky and the majority leader, made that quite clear last week when he said the Senate outlook for term limits was severely limited.",
+                "suffix": " \n \n“I would say we have term limits now,” Mr.",
+                "offset": 1342,
+                "length": 207
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0604f822-7010-3a14-be96-49deaf0be42d": {
+        "_typeGroup": "relations",
+        "_type": "PersonParty",
+        "forenduserdisplay": "false",
+        "party": "Republicans",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonParty",
+        "person": "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b",
+        "instances": [
+            {
+                "detection": "[ \nAs part of the “Contract With America” in 1994, ]Republicans led by Representative Newt Gingrich[ of Georgia promised the “Citizen Legislature]",
+                "prefix": " \nAs part of the “Contract With America” in 1994, ",
+                "exact": "Republicans led by Representative Newt Gingrich",
+                "suffix": " of Georgia promised the “Citizen Legislature",
+                "offset": 3422,
+                "length": 47
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7343c447-2b9f-3bb9-88f6-993b3b8027a3": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "in an interview with “60 Minutes” that aired on Sunday",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "instances": [
+            {
+                "detection": "[doesn’t want them to get too comfortable. \n \n]“We’re going to put on term limits, which a lot of people aren’t happy about, but we’re putting on term limits,” Mr. Trump said in an interview with “60 Minutes” that aired on Sunday.[ “We’re doing a lot of things to clean up the]",
+                "prefix": "doesn’t want them to get too comfortable. \n \n",
+                "exact": "“We’re going to put on term limits, which a lot of people aren’t happy about, but we’re putting on term limits,” Mr. Trump said in an interview with “60 Minutes” that aired on Sunday.",
+                "suffix": " “We’re doing a lot of things to clean up the",
+                "offset": 567,
+                "length": 183
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7a40cebd-7afe-3a2b-a9d2-fa5dd669169b": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "executive director",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/1f29c7a4-2a3a-3ea4-93cf-5f9188a4e2da",
+        "company": "http://d.opencalais.com/comphash-1/dac05d27-cff0-366c-a623-594ee185a34e",
+        "instances": [
+            {
+                "detection": "[ pressure is going to come from the public,” said ]Nick Tomboulides, the executive director of the group U.S. Term Limits[. “When they know term limits is an issue on the]",
+                "prefix": " pressure is going to come from the public,” said ",
+                "exact": "Nick Tomboulides, the executive director of the group U.S. Term Limits",
+                "suffix": ". “When they know term limits is an issue on the",
+                "offset": 2879,
+                "length": 70
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/1ced4e21-40cf-3f64-913b-abf09901e032": {
+        "_typeGroup": "relations",
+        "_type": "CandidatePosition",
+        "forenduserdisplay": "false",
+        "positioncurrent": "representative",
+        "positionaspirational": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CandidatePosition",
+        "candidate": "http://d.opencalais.com/pershash-1/217df37f-e063-30d3-adb5-9bb8c033223b",
+        "instances": [
+            {
+                "detection": "[ the “Contract With America” in 1994, Republicans ]led by Representative Newt Gingrich[ of Georgia promised the “Citizen Legislature]",
+                "prefix": " the “Contract With America” in 1994, Republicans ",
+                "exact": "led by Representative Newt Gingrich",
+                "suffix": " of Georgia promised the “Citizen Legislature",
+                "offset": 3434,
+                "length": 35
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/303315e1-4a3f-3eae-a12c-410f97df1e5f": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/0914098e-78f9-3612-bf1c-2426468bb03d",
+        "organization": "http://d.opencalais.com/genericHasher-1/1ede3efe-4938-3c88-bd76-753a95f5593c",
+        "instances": [
+            {
+                "detection": "[they hope is a long run in the majority, but ]President-elect Donald J. Trump[ doesn’t want them to get too comfortable. \n]",
+                "prefix": "they hope is a long run in the majority, but ",
+                "exact": "President-elect Donald J. Trump",
+                "suffix": " doesn’t want them to get too comfortable. \n",
+                "offset": 490,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e803c2b2-874b-3c29-a790-aed2fa91d518": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "reporters",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/adec28d8-9ca1-3904-9d95-a90006fa5399",
+        "instances": [
+            {
+                "detection": "[\n \n“I would say we have term limits now,” ]Mr. McConnell told reporters[. “They’re called elections. And it will not be]",
+                "prefix": "\n \n“I would say we have term limits now,” ",
+                "exact": "Mr. McConnell told reporters",
+                "suffix": ". “They’re called elections. And it will not be",
+                "offset": 1592,
+                "length": 28
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/c098003c-0d7f-3d96-899b-04e2d4b17e05": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Speaker",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/da6a58a1-8ce5-3a43-84e0-2536cf8360ff",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/1304fffe-f320-3911-ab13-659ed389c920",
+        "instances": [
+            {
+                "detection": "[legislators.” The mantra helped them topple ]Speaker Thomas S. Foley of Washington[, a staunch opponent of term limits, via a]",
+                "prefix": "legislators.” The mantra helped them topple ",
+                "exact": "Speaker Thomas S. Foley of Washington",
+                "suffix": ", a staunch opponent of term limits, via a",
+                "offset": 3645,
+                "length": 37
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/991bfbe5-5aba-3638-89ec-88ee942d62b5": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/cbc8c069-5e3f-3778-b9e5-e93f1c6d323a",
+        "instances": [
+            {
+                "detection": "[kindred spirit on term limits on Monday when ]President Obama[ seemed to endorse the concept. \n \n“I think we]",
+                "prefix": "kindred spirit on term limits on Monday when ",
+                "exact": "President Obama",
+                "suffix": " seemed to endorse the concept. \n \n“I think we",
+                "offset": 2119,
+                "length": 15
+            }
+        ]
+    }
+}

@@ -1,0 +1,1484 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "4f24dc94-581e-396e-159d-e35596e664fa",
+            "id": "http://id.opencalais.com/a2BFa8NVUr-D3B56nJZZ*Q",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8",
+            "document": "--47d37aa9875a4ba09e2b305d7950f2d6 \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Alibaba's Ant Financial buys MoneyGram for $880m</Title> \n<Body> \n \nAnt Financial, the digital payments arm of e-commerce giant Alibaba, is buying US-based MoneyGram for $880m (£700m). \nMoneyGram has about 350,000 outlets in nearly 200 countries. Ant Financial has more than 630 million users. \nThe takeover by the Chinese group will need regulatory approval from the US Committee on Foreign Investment. \nThe inter-agency committee reviews foreign acquisitions of domestic American assets on grounds of national security. \nEric Jing, chief executive at Ant Financial, said in a statement that the marriage of the two companies will \"provide greater access, security and simplicity for people around the world to remit funds, especially in major economies such as the United States, China, India, Mexico and the Philippines\". \nAnt Financial has a big market share in the online payments industry in China. The acquisition could help the company extend the lead as well as expand overseas, as competition is growing in China with rival Tencent's WeChat payment system. \nUS-listed Moneygram's shares rose by nearly 9% on the news. The takeover has been approved by MoneyGram's board of directors. \nPolitics over profits? \nAnt Financial's shopping spree in the US comes against a backdrop of rising tensions between China and the world's biggest economy. \nBefore he took office, then president-elect Donald Trump was questioning whether the US should continue its \"One China\" policy, sparking fury from Chinese state media. And during his presidential campaign, Mr Trump threatened to impose punitive tariffs on Chinese imports. \nBut Jack Ma, the founder and chairman of Alibaba, held a meeting with Mr Trump in December last year. \nWhile President Trump has been critical of China, he said he had a \"great meeting\" with Mr Ma, who chose to float Alibaba on the New York Stock Exchange. The share sale in September 2014 was a record-breaker, as Alibaba raised $25bn in its initial public offering. \nIf the MoneyGram deal goes through, it will be Alibaba's second acquisition in the US. Last year the e-commerce giant purchased EyeVerify in a $70m deal. \nEyeVerify is a start-up based in Missouri, which uses biometric authentication technology for securing user's online data and transactions. \n \n</Body> \n</Document> \n--47d37aa9875a4ba09e2b305d7950f2d6-- \n",
+            "docTitle": "Alibaba's Ant Financial buys MoneyGram for $880m",
+            "docDate": "2017-01-27 04:35:55.825"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:35:55.373",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|Mf9YFOpk67rpusqlr1/Ho2EIOxE=|f6eRLyHE8OrypmXoZka4SplOVVUHyuCL/DUKMbBajU2BKb40Sg4FVg==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.959,
+        "name": "Business_Finance"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/412d2c87-2ead-391a-ae44-6add965d8ada",
+        "forenduserdisplay": "true",
+        "name": "Economy",
+        "importance": "1",
+        "originalValue": "Economy"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/b1136ece-95a8-3185-898a-ba37a289b586",
+        "forenduserdisplay": "true",
+        "name": "Alibaba Group",
+        "importance": "1",
+        "originalValue": "Alibaba Group"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ec8d37e5-8622-331f-8560-86c88b0c0b10",
+        "forenduserdisplay": "true",
+        "name": "Jack Ma",
+        "importance": "2",
+        "originalValue": "Jack Ma"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/52fa7476-bc57-3371-a7bd-57b37a3e8810",
+        "forenduserdisplay": "true",
+        "name": "Ant Financial Services Group",
+        "importance": "2",
+        "originalValue": "Ant Financial Services Group"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/757c3046-834a-334c-980e-d1a122768ced",
+        "forenduserdisplay": "true",
+        "name": "MoneyGram",
+        "importance": "2",
+        "originalValue": "MoneyGram"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/8d18d3ff-06d4-318d-aef1-4dd26bf789ce",
+        "forenduserdisplay": "true",
+        "name": "Tencent",
+        "importance": "2",
+        "originalValue": "Tencent"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/55c4fa6b-02ac-3970-964f-ce38d6d583e4",
+        "forenduserdisplay": "true",
+        "name": "E-commerce",
+        "importance": "2",
+        "originalValue": "E-commerce"
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Mobile Application Software",
+        "rcscode": "B:1800",
+        "permid": "4294951201",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Transaction & Payment Services",
+        "rcscode": "B:1236",
+        "permid": "4294951765",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/3": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Social Media & Networking",
+        "rcscode": "B:1806",
+        "permid": "4294951195",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/4": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "E-commerce & Auction Services",
+        "rcscode": "B:1807",
+        "permid": "4294951194",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/5": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Financial & Commodity Market Operators - NEC",
+        "rcscode": "B:1648",
+        "permid": "4294951353",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/Industry/6": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Diversified Investment Services",
+        "rcscode": "B:1647",
+        "permid": "4294951354",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/14372d7c-661c-3a2e-a506-afe9e0d24da8/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270355:201701270355",
+            "index-refineries:201701220305:201701220305",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270210:201701270210",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701270210:201701270210",
+            "index-vessels:201701212100:201701212100",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201701211455:201701211455",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4b59c1ad-8092-34d5-b763-a43226a1836c": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "Missouri",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[a $70m deal. \nEyeVerify is a start-up based in ]Missouri[, which uses biometric authentication technology]",
+                "prefix": "a $70m deal. \nEyeVerify is a start-up based in ",
+                "exact": "Missouri",
+                "suffix": ", which uses biometric authentication technology",
+                "offset": 2487,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Missouri,United States",
+                "shortname": "Missouri",
+                "latitude": "38.5",
+                "longitude": "-92.5",
+                "containedbycountry": "United States",
+                "rcscode": "G:45",
+                "permid": "100190"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/d0bbf51f-8fa1-306e-a5f0-bbe2d8a7bad2": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "online data",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[authentication technology for securing user's ]online data[ and transactions. \n \n</Body> \n</Document>]",
+                "prefix": "authentication technology for securing user's ",
+                "exact": "online data",
+                "suffix": " and transactions. \n \n</Body> \n</Document>",
+                "offset": 2564,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/46b7af0e-886c-3773-a3b7-01bafc45e692": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Alibaba",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[the digital payments arm of e-commerce giant ]Alibaba[, is buying US-based MoneyGram for $880m (£700m).]",
+                "prefix": "the digital payments arm of e-commerce giant ",
+                "exact": "Alibaba",
+                "suffix": ", is buying US-based MoneyGram for $880m (£700m).",
+                "offset": 432,
+                "length": 7
+            },
+            {
+                "detection": "[\nBut Jack Ma, the founder and chairman of ]Alibaba[, held a meeting with Mr Trump in December last]",
+                "prefix": "\nBut Jack Ma, the founder and chairman of ",
+                "exact": "Alibaba",
+                "suffix": ", held a meeting with Mr Trump in December last",
+                "offset": 1971,
+                "length": 7
+            },
+            {
+                "detection": "[ a \"great meeting\" with Mr Ma, who chose to float ]Alibaba[ on the New York Stock Exchange. The share sale]",
+                "prefix": " a \"great meeting\" with Mr Ma, who chose to float ",
+                "exact": "Alibaba",
+                "suffix": " on the New York Stock Exchange. The share sale",
+                "offset": 2147,
+                "length": 7
+            },
+            {
+                "detection": "[sale in September 2014 was a record-breaker, as ]Alibaba[ raised $25bn in its initial public offering. \nIf]",
+                "prefix": "sale in September 2014 was a record-breaker, as ",
+                "exact": "Alibaba",
+                "suffix": " raised $25bn in its initial public offering. \nIf",
+                "offset": 2245,
+                "length": 7
+            },
+            {
+                "detection": "[\n<Document> \n<Title>]Alibaba['s Ant Financial buys MoneyGram for $880m</Title>]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Alibaba",
+                "suffix": "'s Ant Financial buys MoneyGram for $880m</Title>",
+                "offset": 304,
+                "length": 7
+            },
+            {
+                "detection": "[\nIf the MoneyGram deal goes through, it will be ]Alibaba['s second acquisition in the US. Last year the]",
+                "prefix": "\nIf the MoneyGram deal goes through, it will be ",
+                "exact": "Alibaba",
+                "suffix": "'s second acquisition in the US. Last year the",
+                "offset": 2346,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Alibaba Group Holding Limited",
+                "permid": "5000066483",
+                "primaryric": "BABA.N",
+                "commonname": "Alibaba",
+                "score": 1,
+                "id": "https://permid.org/1-5000066483",
+                "ticker": "BABA"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.969",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "1.0"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/74698452-9dcb-3031-ae3a-a3e6bfc68a92": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "EyeVerify",
+        "nationality": "American",
+        "confidencelevel": "0.962",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ the US. Last year the e-commerce giant purchased ]EyeVerify[ in a $70m deal. \nEyeVerify is a start-up based]",
+                "prefix": " the US. Last year the e-commerce giant purchased ",
+                "exact": "EyeVerify",
+                "suffix": " in a $70m deal. \nEyeVerify is a start-up based",
+                "offset": 2427,
+                "length": 9
+            },
+            {
+                "detection": "[giant purchased EyeVerify in a $70m deal. \n]EyeVerify[ is a start-up based in Missouri, which uses]",
+                "prefix": "giant purchased EyeVerify in a $70m deal. \n",
+                "exact": "EyeVerify",
+                "suffix": " is a start-up based in Missouri, which uses",
+                "offset": 2454,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "EYEVERIFY LLC",
+                "permid": "5037587925",
+                "commonname": "EyeVerify",
+                "score": 0.65287566,
+                "id": "https://permid.org/1-5037587925"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "0.65287566",
+            "aggregate": "0.962"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/dce9901e-0056-3e2d-baf0-e35fdae6ad81": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "biometric authentication technology",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[is a start-up based in Missouri, which uses ]biometric authentication technology[ for securing user's online data and]",
+                "prefix": "is a start-up based in Missouri, which uses ",
+                "exact": "biometric authentication technology",
+                "suffix": " for securing user's online data and",
+                "offset": 2508,
+                "length": 35
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/5e7ff484-600b-353f-b527-f8ec71d7b444": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Eric Jing",
+        "persontype": "economic",
+        "nationality": "N/A",
+        "confidencelevel": "0.995",
+        "firstname": "Eric",
+        "lastname": "Jing",
+        "commonname": "Eric Jing",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[assets on grounds of national security. \n]Eric Jing[, chief executive at Ant Financial, said in a]",
+                "prefix": "assets on grounds of national security. \n",
+                "exact": "Eric Jing",
+                "suffix": ", chief executive at Ant Financial, said in a",
+                "offset": 827,
+                "length": 9
+            },
+            {
+                "detection": "[China and the world's biggest economy. \nBefore ]he[ took office, then president-elect Donald Trump]",
+                "prefix": "China and the world's biggest economy. \nBefore ",
+                "exact": "he",
+                "suffix": " took office, then president-elect Donald Trump",
+                "offset": 1663,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.995"
+        }
+    },
+    "http://d.opencalais.com/pershash-1/96004d04-334f-3a18-a994-2891b549182f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Jack Ma",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Jack",
+        "lastname": "Ma",
+        "commonname": "Jack Ma",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ impose punitive tariffs on Chinese imports. \nBut ]Jack Ma[, the founder and chairman of Alibaba, held a]",
+                "prefix": " impose punitive tariffs on Chinese imports. \nBut ",
+                "exact": "Jack Ma",
+                "suffix": ", the founder and chairman of Alibaba, held a",
+                "offset": 1934,
+                "length": 7
+            },
+            {
+                "detection": "[of China, he said he had a \"great meeting\" with ]Mr Ma[, who chose to float Alibaba on the New York]",
+                "prefix": "of China, he said he had a \"great meeting\" with ",
+                "exact": "Mr Ma",
+                "suffix": ", who chose to float Alibaba on the New York",
+                "offset": 2121,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "Yun Ma",
+                "personid": "1875885",
+                "paid": "34415001080",
+                "officerid": [
+                    "2423257",
+                    "1156702"
+                ],
+                "commonname": "Jack Ma",
+                "score": 0.7785481
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.95",
+            "resolution": "0.7785481",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/e20de102-6312-3e6e-a07c-d20fdbe29ccb": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chairman",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[Chinese imports. \nBut Jack Ma, the founder and ]chairman[ of Alibaba, held a meeting with Mr Trump in]",
+                "prefix": "Chinese imports. \nBut Jack Ma, the founder and ",
+                "exact": "chairman",
+                "suffix": " of Alibaba, held a meeting with Mr Trump in",
+                "offset": 1959,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "president",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[biggest economy. \nBefore he took office, then ]president-elect[ Donald Trump was questioning whether the US]",
+                "prefix": "biggest economy. \nBefore he took office, then ",
+                "exact": "president-elect",
+                "suffix": " Donald Trump was questioning whether the US",
+                "offset": 1684,
+                "length": 15
+            },
+            {
+                "detection": "[with Mr Trump in December last year. \nWhile ]President[ Trump has been critical of China, he said he had]",
+                "prefix": "with Mr Trump in December last year. \nWhile ",
+                "exact": "President",
+                "suffix": " Trump has been critical of China, he said he had",
+                "offset": 2039,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/cff0ad91-0dd9-3ca7-94e9-d0eeb7a7cef5": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "online payments industry",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[\nAnt Financial has a big market share in the ]online payments industry[ in China. The acquisition could help the company]",
+                "prefix": "\nAnt Financial has a big market share in the ",
+                "exact": "online payments industry",
+                "suffix": " in China. The acquisition could help the company",
+                "offset": 1174,
+                "length": 24
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/2d67e2d7-fdad-3e4c-a84e-825badc0aa0c": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "chief executive",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[on grounds of national security. \nEric Jing, ]chief executive[ at Ant Financial, said in a statement that the]",
+                "prefix": "on grounds of national security. \nEric Jing, ",
+                "exact": "chief executive",
+                "suffix": " at Ant Financial, said in a statement that the",
+                "offset": 838,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[arm of e-commerce giant Alibaba, is buying ]US[-based MoneyGram for $880m (£700m). \nMoneyGram]",
+                "prefix": "arm of e-commerce giant Alibaba, is buying ",
+                "exact": "US",
+                "suffix": "-based MoneyGram for $880m (£700m). \nMoneyGram",
+                "offset": 451,
+                "length": 2
+            },
+            {
+                "detection": "[group will need regulatory approval from the ]US[ Committee on Foreign Investment. \nThe]",
+                "prefix": "group will need regulatory approval from the ",
+                "exact": "US",
+                "suffix": " Committee on Foreign Investment. \nThe",
+                "offset": 672,
+                "length": 2
+            },
+            {
+                "detection": "[ funds, especially in major economies such as the ]United States[, China, India, Mexico and the Philippines\". \nAnt]",
+                "prefix": " funds, especially in major economies such as the ",
+                "exact": "United States",
+                "suffix": ", China, India, Mexico and the Philippines\". \nAnt",
+                "offset": 1071,
+                "length": 13
+            },
+            {
+                "detection": "[with rival Tencent's WeChat payment system. \n]US[-listed Moneygram's shares rose by nearly 9% on]",
+                "prefix": "with rival Tencent's WeChat payment system. \n",
+                "exact": "US",
+                "suffix": "-listed Moneygram's shares rose by nearly 9% on",
+                "offset": 1372,
+                "length": 2
+            },
+            {
+                "detection": "[profits? \nAnt Financial's shopping spree in the ]US[ comes against a backdrop of rising tensions]",
+                "prefix": "profits? \nAnt Financial's shopping spree in the ",
+                "exact": "US",
+                "suffix": " comes against a backdrop of rising tensions",
+                "offset": 1561,
+                "length": 2
+            },
+            {
+                "detection": "[Donald Trump was questioning whether the ]US[ should continue its \"One China\" policy, sparking]",
+                "prefix": "Donald Trump was questioning whether the ",
+                "exact": "US",
+                "suffix": " should continue its \"One China\" policy, sparking",
+                "offset": 1741,
+                "length": 2
+            },
+            {
+                "detection": "[it will be Alibaba's second acquisition in the ]US[. Last year the e-commerce giant purchased]",
+                "prefix": "it will be Alibaba's second acquisition in the ",
+                "exact": "US",
+                "suffix": ". Last year the e-commerce giant purchased",
+                "offset": 2382,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Ant Financial",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "resolutions": [
+            {
+                "name": "Zhejiang Ant Small & Micro Financial Service Goup Co Ltd",
+                "permid": "5000706505",
+                "commonname": "ZJ Ant Financial",
+                "score": 0.009900032,
+                "id": "https://permid.org/1-5000706505"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.986",
+            "dblookup": "0.0",
+            "resolution": "0.009900032",
+            "aggregate": "1.0"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[buys MoneyGram for $880m</Title> \n<Body> \n \n]Ant Financial[, the digital payments arm of e-commerce giant]",
+                "prefix": "buys MoneyGram for $880m</Title> \n<Body> \n \n",
+                "exact": "Ant Financial",
+                "suffix": ", the digital payments arm of e-commerce giant",
+                "offset": 372,
+                "length": 13
+            },
+            {
+                "detection": "[about 350,000 outlets in nearly 200 countries. ]Ant Financial[ has more than 630 million users. \nThe takeover]",
+                "prefix": "about 350,000 outlets in nearly 200 countries. ",
+                "exact": "Ant Financial",
+                "suffix": " has more than 630 million users. \nThe takeover",
+                "offset": 551,
+                "length": 13
+            },
+            {
+                "detection": "[security. \nEric Jing, chief executive at ]Ant Financial[, said in a statement that the marriage of the]",
+                "prefix": "security. \nEric Jing, chief executive at ",
+                "exact": "Ant Financial",
+                "suffix": ", said in a statement that the marriage of the",
+                "offset": 857,
+                "length": 13
+            },
+            {
+                "detection": "[China, India, Mexico and the Philippines\". \n]Ant Financial[ has a big market share in the online payments]",
+                "prefix": "China, India, Mexico and the Philippines\". \n",
+                "exact": "Ant Financial",
+                "suffix": " has a big market share in the online payments",
+                "offset": 1130,
+                "length": 13
+            },
+            {
+                "detection": "[board of directors. \nPolitics over profits? \n]Ant Financial['s shopping spree in the US comes against a]",
+                "prefix": "board of directors. \nPolitics over profits? \n",
+                "exact": "Ant Financial",
+                "suffix": "'s shopping spree in the US comes against a",
+                "offset": 1523,
+                "length": 13
+            }
+        ],
+        "relevance": 0
+    },
+    "http://d.opencalais.com/comphash-1/b2bde97f-90b5-344f-bac8-cac26cb1d9d7": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "New York Stock Exchange.",
+        "nationality": "N/A",
+        "confidencelevel": "0.767",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[with Mr Ma, who chose to float Alibaba on the ]New York Stock Exchange.[ The share sale in September 2014 was a]",
+                "prefix": "with Mr Ma, who chose to float Alibaba on the ",
+                "exact": "New York Stock Exchange.",
+                "suffix": " The share sale in September 2014 was a",
+                "offset": 2162,
+                "length": 24
+            }
+        ],
+        "relevance": 0,
+        "confidence": {
+            "statisticalfeature": "0.835",
+            "dblookup": "0.0",
+            "resolution": "0.01631093",
+            "aggregate": "0.767"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/bbb79763-61a2-3e97-90fc-5b7619d31bb8": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "biometric authentication technology",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[is a start-up based in Missouri, which uses ]biometric authentication technology[ for securing user's online data and]",
+                "prefix": "is a start-up based in Missouri, which uses ",
+                "exact": "biometric authentication technology",
+                "suffix": " for securing user's online data and",
+                "offset": 2508,
+                "length": 35
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/465d3e7b-750a-388b-912b-111ea6e58980": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "e-commerce giant",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[\n \nAnt Financial, the digital payments arm of ]e-commerce giant[ Alibaba, is buying US-based MoneyGram for $880m]",
+                "prefix": "\n \nAnt Financial, the digital payments arm of ",
+                "exact": "e-commerce giant",
+                "suffix": " Alibaba, is buying US-based MoneyGram for $880m",
+                "offset": 415,
+                "length": 16
+            },
+            {
+                "detection": "[second acquisition in the US. Last year the ]e-commerce giant[ purchased EyeVerify in a $70m deal. \nEyeVerify]",
+                "prefix": "second acquisition in the US. Last year the ",
+                "exact": "e-commerce giant",
+                "suffix": " purchased EyeVerify in a $70m deal. \nEyeVerify",
+                "offset": 2400,
+                "length": 16
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/1e12c089-0708-39d0-b92c-f1b7b58c737a": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "start-up",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[EyeVerify in a $70m deal. \nEyeVerify is a ]start-up[ based in Missouri, which uses biometric]",
+                "prefix": "EyeVerify in a $70m deal. \nEyeVerify is a ",
+                "exact": "start-up",
+                "suffix": " based in Missouri, which uses biometric",
+                "offset": 2469,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/e08bcc58-9e97-31e5-baca-f2cbf4f4d75b": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Philippines",
+        "resolutions": [
+            {
+                "name": "Philippines",
+                "shortname": "Philippines",
+                "latitude": "11.8727888889",
+                "longitude": "122.861327877",
+                "rcscode": "G:7L",
+                "permid": "100241"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[as the United States, China, India, Mexico and ]the Philippines[\". \nAnt Financial has a big market share in the]",
+                "prefix": "as the United States, China, India, Mexico and ",
+                "exact": "the Philippines",
+                "suffix": "\". \nAnt Financial has a big market share in the",
+                "offset": 1111,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3d1db47c-b851-32ab-af0b-0bffa4dad5d1": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "China",
+        "resolutions": [
+            {
+                "name": "China",
+                "shortname": "China",
+                "latitude": "32.9042932784",
+                "longitude": "110.467708512",
+                "rcscode": "G:B1",
+                "permid": "100064"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[in major economies such as the United States, ]China[, India, Mexico and the Philippines\". \nAnt]",
+                "prefix": "in major economies such as the United States, ",
+                "exact": "China",
+                "suffix": ", India, Mexico and the Philippines\". \nAnt",
+                "offset": 1086,
+                "length": 5
+            },
+            {
+                "detection": "[market share in the online payments industry in ]China[. The acquisition could help the company extend]",
+                "prefix": "market share in the online payments industry in ",
+                "exact": "China",
+                "suffix": ". The acquisition could help the company extend",
+                "offset": 1202,
+                "length": 5
+            },
+            {
+                "detection": "[ as expand overseas, as competition is growing in ]China[ with rival Tencent's WeChat payment system.]",
+                "prefix": " as expand overseas, as competition is growing in ",
+                "exact": "China",
+                "suffix": " with rival Tencent's WeChat payment system.",
+                "offset": 1321,
+                "length": 5
+            },
+            {
+                "detection": "[against a backdrop of rising tensions between ]China[ and the world's biggest economy. \nBefore he took]",
+                "prefix": "against a backdrop of rising tensions between ",
+                "exact": "China",
+                "suffix": " and the world's biggest economy. \nBefore he took",
+                "offset": 1616,
+                "length": 5
+            },
+            {
+                "detection": "[\nWhile President Trump has been critical of ]China[, he said he had a \"great meeting\" with Mr Ma,]",
+                "prefix": "\nWhile President Trump has been critical of ",
+                "exact": "China",
+                "suffix": ", he said he had a \"great meeting\" with Mr Ma,",
+                "offset": 2076,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/82be4416-e3a0-3114-9adb-be38ffd1a264": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "US Committee on Foreign Investment",
+        "organizationtype": "N/A",
+        "nationality": "American",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[group will need regulatory approval from the ]US Committee on Foreign Investment[. \nThe inter-agency committee reviews foreign]",
+                "prefix": "group will need regulatory approval from the ",
+                "exact": "US Committee on Foreign Investment",
+                "suffix": ". \nThe inter-agency committee reviews foreign",
+                "offset": 672,
+                "length": 34
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/206840a3-db68-382a-afc4-7026ba5ac45b": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "state media",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[\"One China\" policy, sparking fury from Chinese ]state media[. And during his presidential campaign, Mr Trump]",
+                "prefix": "\"One China\" policy, sparking fury from Chinese ",
+                "exact": "state media",
+                "suffix": ". And during his presidential campaign, Mr Trump",
+                "offset": 1811,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/3f776834-e459-3090-ae68-8ed6ffab5730": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "Tencent",
+        "confidencelevel": "0.982",
+        "resolutions": [
+            {
+                "name": "Tencent Holdings Limited",
+                "permid": "4295865078",
+                "primaryric": "0700.HK",
+                "commonname": "Tencent Holdings",
+                "score": 0.6158557,
+                "id": "https://permid.org/1-4295865078",
+                "ticker": "700"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.644",
+            "dblookup": "0.0",
+            "resolution": "0.6158557",
+            "aggregate": "0.982"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[as competition is growing in China with rival ]Tencent['s WeChat payment system. \nUS-listed Moneygram's]",
+                "prefix": "as competition is growing in China with rival ",
+                "exact": "Tencent",
+                "suffix": "'s WeChat payment system. \nUS-listed Moneygram's",
+                "offset": 1338,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/92956dc3-4c11-340f-b4b5-1266cd1c7c5c": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "Mexico",
+        "resolutions": [
+            {
+                "name": "Mexico",
+                "shortname": "Mexico",
+                "latitude": "19.0",
+                "longitude": "-99.0",
+                "rcscode": "G:2V",
+                "permid": "100184"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[such as the United States, China, India, ]Mexico[ and the Philippines\". \nAnt Financial has a big]",
+                "prefix": "such as the United States, China, India, ",
+                "exact": "Mexico",
+                "suffix": " and the Philippines\". \nAnt Financial has a big",
+                "offset": 1100,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/69b2e356-c1e7-3f3b-bab3-676f21d08e4d": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "India",
+        "resolutions": [
+            {
+                "name": "India",
+                "shortname": "India",
+                "latitude": "21.7678895778",
+                "longitude": "78.8717605778",
+                "rcscode": "G:5B",
+                "permid": "100136"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[economies such as the United States, China, ]India[, Mexico and the Philippines\". \nAnt Financial has]",
+                "prefix": "economies such as the United States, China, ",
+                "exact": "India",
+                "suffix": ", Mexico and the Philippines\". \nAnt Financial has",
+                "offset": 1093,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Donald",
+        "lastname": "Trump",
+        "commonname": "Donald Trump",
+        "resolutions": [
+            {
+                "name": "Donald John Trump",
+                "personid": "55206",
+                "paid": "34413176227",
+                "officerid": [
+                    "55206",
+                    "1309208",
+                    "650373"
+                ],
+                "commonname": "Donald Trump",
+                "score": 0.80443645
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.80443645",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[\nBefore he took office, then president-elect ]Donald Trump[ was questioning whether the US should continue]",
+                "prefix": "\nBefore he took office, then president-elect ",
+                "exact": "Donald Trump",
+                "suffix": " was questioning whether the US should continue",
+                "offset": 1700,
+                "length": 12
+            },
+            {
+                "detection": "[fury from Chinese state media. And during ]his[ presidential campaign, Mr Trump threatened to]",
+                "prefix": "fury from Chinese state media. And during ",
+                "exact": "his",
+                "suffix": " presidential campaign, Mr Trump threatened to",
+                "offset": 1835,
+                "length": 3
+            },
+            {
+                "detection": "[media. And during his presidential campaign, ]Mr Trump[ threatened to impose punitive tariffs on Chinese]",
+                "prefix": "media. And during his presidential campaign, ",
+                "exact": "Mr Trump",
+                "suffix": " threatened to impose punitive tariffs on Chinese",
+                "offset": 1862,
+                "length": 8
+            },
+            {
+                "detection": "[and chairman of Alibaba, held a meeting with ]Mr Trump[ in December last year. \nWhile President Trump]",
+                "prefix": "and chairman of Alibaba, held a meeting with ",
+                "exact": "Mr Trump",
+                "suffix": " in December last year. \nWhile President Trump",
+                "offset": 2000,
+                "length": 8
+            },
+            {
+                "detection": "[ Mr Trump in December last year. \nWhile President ]Trump[ has been critical of China, he said he had a]",
+                "prefix": " Mr Trump in December last year. \nWhile President ",
+                "exact": "Trump",
+                "suffix": " has been critical of China, he said he had a",
+                "offset": 2049,
+                "length": 5
+            },
+            {
+                "detection": "[President Trump has been critical of China, ]he[ said he had a \"great meeting\" with Mr Ma, who]",
+                "prefix": "President Trump has been critical of China, ",
+                "exact": "he",
+                "suffix": " said he had a \"great meeting\" with Mr Ma, who",
+                "offset": 2083,
+                "length": 2
+            },
+            {
+                "detection": "[Trump has been critical of China, he said ]he[ had a \"great meeting\" with Mr Ma, who chose to]",
+                "prefix": "Trump has been critical of China, he said ",
+                "exact": "he",
+                "suffix": " had a \"great meeting\" with Mr Ma, who chose to",
+                "offset": 2091,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/7c317ec8-c980-35b5-bbca-0896d7c7ccca": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "true",
+        "name": "MoneyGram",
+        "nationality": "N/A",
+        "confidencelevel": "1.0",
+        "resolutions": [
+            {
+                "name": "MONEYGRAM INTERNATIONAL, INC.",
+                "permid": "4295902987",
+                "primaryric": "MGI.OQ",
+                "commonname": "MoneyGram Intl",
+                "score": 0.66763884,
+                "id": "https://permid.org/1-4295902987",
+                "ticker": "MGI"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[ \n<Document> \n<Title>Alibaba's Ant Financial buys ]MoneyGram[ for $880m</Title> \n<Body> \n \nAnt Financial, the]",
+                "prefix": " \n<Document> \n<Title>Alibaba's Ant Financial buys ",
+                "exact": "MoneyGram",
+                "suffix": " for $880m</Title> \n<Body> \n \nAnt Financial, the",
+                "offset": 333,
+                "length": 9
+            },
+            {
+                "detection": "[of e-commerce giant Alibaba, is buying US-based ]MoneyGram[ for $880m (£700m). \nMoneyGram has about 350,000]",
+                "prefix": "of e-commerce giant Alibaba, is buying US-based ",
+                "exact": "MoneyGram",
+                "suffix": " for $880m (£700m). \nMoneyGram has about 350,000",
+                "offset": 460,
+                "length": 9
+            },
+            {
+                "detection": "[ is buying US-based MoneyGram for $880m (£700m). \n]MoneyGram[ has about 350,000 outlets in nearly 200]",
+                "prefix": " is buying US-based MoneyGram for $880m (£700m). \n",
+                "exact": "MoneyGram",
+                "suffix": " has about 350,000 outlets in nearly 200",
+                "offset": 490,
+                "length": 9
+            },
+            {
+                "detection": "[Tencent's WeChat payment system. \nUS-listed ]Moneygram['s shares rose by nearly 9% on the news. The]",
+                "prefix": "Tencent's WeChat payment system. \nUS-listed ",
+                "exact": "Moneygram",
+                "suffix": "'s shares rose by nearly 9% on the news. The",
+                "offset": 1382,
+                "length": 9
+            },
+            {
+                "detection": "[on the news. The takeover has been approved by ]MoneyGram['s board of directors. \nPolitics over profits?]",
+                "prefix": "on the news. The takeover has been approved by ",
+                "exact": "MoneyGram",
+                "suffix": "'s board of directors. \nPolitics over profits?",
+                "offset": 1466,
+                "length": 9
+            },
+            {
+                "detection": "[$25bn in its initial public offering. \nIf the ]MoneyGram[ deal goes through, it will be Alibaba's second]",
+                "prefix": "$25bn in its initial public offering. \nIf the ",
+                "exact": "MoneyGram",
+                "suffix": " deal goes through, it will be Alibaba's second",
+                "offset": 2306,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.0",
+            "resolution": "0.66763884",
+            "aggregate": "1.0"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/025f448a-6bbf-3417-8582-22edd51c2467": {
+        "_typeGroup": "relations",
+        "_type": "Acquisition",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "confidencelevel": "0.853",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Acquisition",
+        "company_acquirer": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "company_beingacquired": "http://d.opencalais.com/comphash-1/7c317ec8-c980-35b5-bbca-0896d7c7ccca",
+        "instances": [
+            {
+                "detection": "[\n<Document> \n<Title>]Alibaba's Ant Financial buys MoneyGram for $880m[</Title> \n<Body> \n \nAnt Financial, the digital]",
+                "prefix": "\n<Document> \n<Title>",
+                "exact": "Alibaba's Ant Financial buys MoneyGram for $880m",
+                "suffix": "</Title> \n<Body> \n \nAnt Financial, the digital",
+                "offset": 304,
+                "length": 48
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7835007c-cd11-3428-863a-223cfd902ab3": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "in a statement that the marriage of the two companies will \"provide greater access, security and simplicity for people around the world to remit funds, especially in major economies such as the United States, China, India, Mexico and the Philippines\"",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/5e7ff484-600b-353f-b527-f8ec71d7b444",
+        "instances": [
+            {
+                "detection": "[assets on grounds of national security. \n]Eric Jing, chief executive at Ant Financial, said in a statement that the marriage of the two companies will \"provide greater access, security and simplicity for people around the world to remit funds, especially in major economies such as the United States, China, India, Mexico and the Philippines\".[ \nAnt Financial has a big market share in the]",
+                "prefix": "assets on grounds of national security. \n",
+                "exact": "Eric Jing, chief executive at Ant Financial, said in a statement that the marriage of the two companies will \"provide greater access, security and simplicity for people around the world to remit funds, especially in major economies such as the United States, China, India, Mexico and the Philippines\".",
+                "suffix": " \nAnt Financial has a big market share in the",
+                "offset": 827,
+                "length": 301
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/77ad862b-0a66-339e-9c28-4fff0f5f32de": {
+        "_typeGroup": "relations",
+        "_type": "CompanyAffiliates",
+        "forenduserdisplay": "true",
+        "affiliaterelationtype": "arm",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyAffiliates",
+        "company_affiliate": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "company_parent": "http://d.opencalais.com/comphash-1/46b7af0e-886c-3773-a3b7-01bafc45e692",
+        "instances": [
+            {
+                "detection": "[buys MoneyGram for $880m</Title> \n<Body> \n \n]Ant Financial, the digital payments arm of e-commerce giant Alibaba,[ is buying US-based MoneyGram for $880m (£700m).]",
+                "prefix": "buys MoneyGram for $880m</Title> \n<Body> \n \n",
+                "exact": "Ant Financial, the digital payments arm of e-commerce giant Alibaba,",
+                "suffix": " is buying US-based MoneyGram for $880m (£700m).",
+                "offset": 372,
+                "length": 68
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/691f4602-455d-3ca0-a8e3-97f38fe74332": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "company": "http://d.opencalais.com/comphash-1/46b7af0e-886c-3773-a3b7-01bafc45e692",
+        "instances": [
+            {
+                "detection": "[with Mr Trump in December last year. \nWhile ]President Trump[ has been critical of China, he said he had a]",
+                "prefix": "with Mr Trump in December last year. \nWhile ",
+                "exact": "President Trump",
+                "suffix": " has been critical of China, he said he had a",
+                "offset": 2039,
+                "length": 15
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/bdde76bc-1cec-313e-be16-42b609b235ac": {
+        "_typeGroup": "relations",
+        "_type": "Acquisition",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "confidencelevel": "0.853",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Acquisition",
+        "company_acquirer": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "company_beingacquired": "http://d.opencalais.com/comphash-1/7c317ec8-c980-35b5-bbca-0896d7c7ccca",
+        "instances": [
+            {
+                "detection": "[buys MoneyGram for $880m</Title> \n<Body> \n \n]Ant Financial, the digital payments arm of e-commerce giant Alibaba, is buying US-based MoneyGram for $880m (£700m)[. \nMoneyGram has about 350,000 outlets in nearly]",
+                "prefix": "buys MoneyGram for $880m</Title> \n<Body> \n \n",
+                "exact": "Ant Financial, the digital payments arm of e-commerce giant Alibaba, is buying US-based MoneyGram for $880m (£700m)",
+                "suffix": ". \nMoneyGram has about 350,000 outlets in nearly",
+                "offset": 372,
+                "length": 115
+            },
+            {
+                "detection": "[Ant Financial has more than 630 million users. \n]The takeover by the Chinese group will need regulatory approval[ from the US Committee on Foreign Investment.]",
+                "prefix": "Ant Financial has more than 630 million users. \n",
+                "exact": "The takeover by the Chinese group will need regulatory approval",
+                "suffix": " from the US Committee on Foreign Investment.",
+                "offset": 599,
+                "length": 63
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/05cd1e07-ad8c-37a5-940e-093c4f6d3bf6": {
+        "_typeGroup": "relations",
+        "_type": "CompanyLocation",
+        "forenduserdisplay": "true",
+        "companylocationtype": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CompanyLocation",
+        "company": "http://d.opencalais.com/comphash-1/74698452-9dcb-3031-ae3a-a3e6bfc68a92",
+        "provinceorstate": "http://d.opencalais.com/genericHasher-1/4b59c1ad-8092-34d5-b763-a43226a1836c",
+        "instances": [
+            {
+                "detection": "[giant purchased EyeVerify in a $70m deal. \n]EyeVerify is a start-up based in Missouri[, which uses biometric authentication technology]",
+                "prefix": "giant purchased EyeVerify in a $70m deal. \n",
+                "exact": "EyeVerify is a start-up based in Missouri",
+                "suffix": ", which uses biometric authentication technology",
+                "offset": 2454,
+                "length": 41
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e3184487-4a7a-312e-a394-3ac1dd92d93c": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "he had a \"great meeting\" with Mr Ma, who chose to float Alibaba on the New York Stock Exchange",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[a meeting with Mr Trump in December last year. \n]While President Trump has been critical of China, he said he had a \"great meeting\" with Mr Ma, who chose to float Alibaba on the New York Stock Exchange.[ The share sale in September 2014 was a]",
+                "prefix": "a meeting with Mr Trump in December last year. \n",
+                "exact": "While President Trump has been critical of China, he said he had a \"great meeting\" with Mr Ma, who chose to float Alibaba on the New York Stock Exchange.",
+                "suffix": " The share sale in September 2014 was a",
+                "offset": 2033,
+                "length": 153
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/f8c50e93-bf8c-3917-adf9-d02c4b01fd05": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "president",
+        "careertype": "professional",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "company": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "instances": [
+            {
+                "detection": "[ world's biggest economy. \nBefore he took office, ]then president-elect Donald Trump[ was questioning whether the US should continue]",
+                "prefix": " world's biggest economy. \nBefore he took office, ",
+                "exact": "then president-elect Donald Trump",
+                "suffix": " was questioning whether the US should continue",
+                "offset": 1679,
+                "length": 33
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/32d3a242-bc78-3f6e-b8a4-28a75ab810fe": {
+        "_typeGroup": "relations",
+        "_type": "Acquisition",
+        "forenduserdisplay": "true",
+        "status": "known",
+        "confidencelevel": "0.83",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Acquisition",
+        "company_acquirer": "http://d.opencalais.com/comphash-1/7c317ec8-c980-35b5-bbca-0896d7c7ccca",
+        "company_beingacquired": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "instances": [
+            {
+                "detection": "[offering. \nIf the MoneyGram deal goes through, ]it will be Alibaba's second acquisition[ in the US. Last year the e-commerce giant]",
+                "prefix": "offering. \nIf the MoneyGram deal goes through, ",
+                "exact": "it will be Alibaba's second acquisition",
+                "suffix": " in the US. Last year the e-commerce giant",
+                "offset": 2335,
+                "length": 39
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4d89ce83-1996-3166-ae35-affe21d43044": {
+        "_typeGroup": "relations",
+        "_type": "Acquisition",
+        "forenduserdisplay": "true",
+        "datestring": "Last year",
+        "status": "known",
+        "confidencelevel": "0.883",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Acquisition",
+        "company_acquirer": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "company_beingacquired": "http://d.opencalais.com/comphash-1/74698452-9dcb-3031-ae3a-a3e6bfc68a92",
+        "instances": [
+            {
+                "detection": "[will be Alibaba's second acquisition in the US. ]Last year the e-commerce giant purchased EyeVerify[ in a $70m deal. \nEyeVerify is a start-up based]",
+                "prefix": "will be Alibaba's second acquisition in the US. ",
+                "exact": "Last year the e-commerce giant purchased EyeVerify",
+                "suffix": " in a $70m deal. \nEyeVerify is a start-up based",
+                "offset": 2386,
+                "length": 50
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/186f3341-7658-3757-9ab3-57ba1c627bb9": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "datestring": "December last year",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": [
+            "http://d.opencalais.com/pershash-1/96004d04-334f-3a18-a994-2891b549182f",
+            "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32"
+        ],
+        "instances": [
+            {
+                "detection": "[ impose punitive tariffs on Chinese imports. \nBut ]Jack Ma, the founder and chairman of Alibaba, held a meeting with Mr Trump in December last year[. \nWhile President Trump has been critical of]",
+                "prefix": " impose punitive tariffs on Chinese imports. \nBut ",
+                "exact": "Jack Ma, the founder and chairman of Alibaba, held a meeting with Mr Trump in December last year",
+                "suffix": ". \nWhile President Trump has been critical of",
+                "offset": 1934,
+                "length": 96
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/acb52053-3c3e-3ff3-9fe5-ec297862ba84": {
+        "_typeGroup": "relations",
+        "_type": "IPO",
+        "forenduserdisplay": "true",
+        "status": "known",
+        "confidencelevel": "0.939",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/IPO",
+        "company": "http://d.opencalais.com/comphash-1/46b7af0e-886c-3773-a3b7-01bafc45e692",
+        "instances": [
+            {
+                "detection": "[sale in September 2014 was a record-breaker, as ]Alibaba raised $25bn in its initial public offering[. \nIf the MoneyGram deal goes through, it will be]",
+                "prefix": "sale in September 2014 was a record-breaker, as ",
+                "exact": "Alibaba raised $25bn in its initial public offering",
+                "suffix": ". \nIf the MoneyGram deal goes through, it will be",
+                "offset": 2245,
+                "length": 51
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8488d6d6-bd0a-365f-b262-01adc09ec220": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "chief executive",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/5e7ff484-600b-353f-b527-f8ec71d7b444",
+        "company": "http://d.opencalais.com/comphash-1/ac3f89c0-462d-34b7-9363-ba1b2887261f",
+        "instances": [
+            {
+                "detection": "[assets on grounds of national security. \n]Eric Jing, chief executive at Ant Financial[, said in a statement that the marriage of the]",
+                "prefix": "assets on grounds of national security. \n",
+                "exact": "Eric Jing, chief executive at Ant Financial",
+                "suffix": ", said in a statement that the marriage of the",
+                "offset": 827,
+                "length": 43
+            }
+        ]
+    }
+}

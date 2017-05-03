@@ -1,0 +1,1910 @@
+{
+    "doc": {
+        "info": {
+            "calaisRequestID": "7d026965-9777-f802-159d-e34c9613ebfd",
+            "id": "http://id.opencalais.com/krhYniTzitpkfam2Qou-Mw",
+            "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/10.3/onecalais.owl.allmetadata.xml",
+            "docId": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff",
+            "document": "--0c736d95a65040ee996c32d36d66c8ad \nContent-Disposition: form-data; name=\"file\"; filename=\"sampleinput.xml\" \n \nHTTPS REST7 \nPOST https://api.thomsonreuters.com/permid/calais \nContent-Type: text/xml \noutputFormat:application/json \nx-ag-access-token: (370VPxssNkeLQUbJGmS4sQ885Oi2UDSf) \n<Document> \n<Title>Big city mayors confident they'll remain sanctuaries</Title> \n<Body> \n \nLos Angeles (CNN)Democratic mayors of the nation's largest cities are quickly banding together to fight President Donald Trump's crack down on so-called sanctuary cities. \n \nTrump signed an executive order Wednesday that White House press secretary Sean Spicer said will \"strip federal grant money from the sanctuary states and cities that harbor illegal immigrants.\" The President reiterated his desire to target such cities Thursday when he spoke to a congressional Republican retreat. \nBut mayors in cities including Los Angeles, Boston and New York, as well as legal scholars, are saying not so fast. They're confident their status as sanctuary cities -- jurisdictions that have policies in place designed to limit cooperation with or involvement in federal immigration enforcement actions -- is secure. \nWhat are sanctuary cities? \nSome are pointing to Supreme Court cases that have made it difficult for Washington to punitively withdraw money from state and local governments. \n\"We feel very strongly that the legal case is clear,\" Los Angeles Mayor Eric Garcetti told reporters after the executive order was announced. \nHe alluded to NFIB vs. Sebelius, a 2012 case that challenged aspects of former President Barack Obama's health care law. In one part of that decision, seven justices including Chief Justice John Roberts, agreed the Medicaid expansion provision under the ACA violated the Constitution by threatening to take away states' Medicaid money if they refused to comply with the expansion. \n \n\"Back then it was a different politics, maybe it's ideologically reversed, but it was loud and clear,\" Garcetti said. \"You can take away funding from a specific program if you don't adhere to the requirements of that program, but we don't have funding that is for the co-cooperation of our immigration federal officials and our local officials.\" \nUltimately, Garcetti said it's not up to his local police department to enforce federal immigration laws. \n\"They don't do immigration law any more than they do postal fraud or tax evasion,\" Garcetti said. \"That is the responsibility of the federal government.\" \nKaren Tumlin, legal director for the National Immigrant Law Center, said there is a long line of cases that deal with the spending clause of the US Constitution. They have underscored, she said, that the federal government can put some requirements on states when they parcel out funding, \"but it can't be unduly coercive.\" \n \nThe need for a clear correlation between an action by a state and a threat to pull federal funding, was affirmed in the 1987 case South Dakota vs. Dole. That case looked at states that wanted to have a drinking age under 21. The federal government threatened to restrict highway funding in those states because they believed the underage drinking laws affected highway safety. \nIn that case, the court ruled that the federal government wasn't being \"unduly coercive\" because underage drinking was indeed directly related to highway safety. \n\"There is a constitutional boundary there,\" Tumlin said, \"and the boundary really is coercion -- this notion of sanctity between what kinds of things localities get to decide and when the federal government can coerce them into action.\" \nOne of the many complex facets of how Trump's executive order will play out is the fact that the term \"sanctuary city\" has no universal meaning. \nPolice chiefs around the country have widely varying policies in the degree to which they cooperate with ICE agents and the lengths they will go to protect undocumented immigrants. \nLaw enforcement leaders in some cities have argued it is invaluable to have a strong relationship with immigrant communities -- and limit fear of deportation -- when they are trying to solve crimes. Undocumented immigrants, they note, can serve as helpful informants. \n \nBut Democratic mayors face a tricky balance. \nMany of them want to develop a good relationship with the Trump administration, because they see opportunities to bring dollars to their cities if the new President embarks on the major infrastructure projects he has promised. Garcetti, for example, has spoken to Trump three times since he was elected about projects that they could collaborate on. \nBut in the most liberal bastions of the country, mayors must also answer to their constituents who want to see path to citizenship for as many as 11 million immigrants living in the United States. \nBoston Mayor Marty Walsh was among the most strident voices in the resistance this week -- promising that if necessary, he would \"use City Hall itself to shelter and protect anyone who is targeted unjustly.\" \n \n\"We will not be intimidated by the threat to federal funding,\" Walsh said. \"We have each other's backs, and we have the Constitution of the United States of America on our side.\" \nNew York City Mayor Bill de Blasio declared Trump's executive order to be \"vague and in some ways contradictory\" and \"very susceptible to legal challenge.\" \n\"If they make an attempt to pull that money, it will be from NYPD, from security funding to fight terrorism,\" de Blasio told CNN's Alisyn Camerota Thursday on \"New Day.\" \"If an attempt is made to do that, we will go to court immediately for an injunction to stop it.\" \nIn Chicago, Mayor Rahm Emanuel, who has welcomed Trump's Twitter offer to send in federal resources to reduce Chicago's shooting and killings, told reporters that the executive order wouldn't change anything. \n\"We are going to stay a sanctuary city,\" he said during a press conference. \nNoting the executive order lacked any detail about what funds would be taken away, he decided to highlight the positive. \n\"I'm going to take the President's offer to give us resources, and that's where I'm going to focus,\" Emanuel said. \n \n</Body> \n</Document> \n--0c736d95a65040ee996c32d36d66c8ad-- \n",
+            "docTitle": "Big city mayors confident they'll remain sanctuaries",
+            "docDate": "2017-01-27 04:35:19.300"
+        },
+        "meta": {
+            "contentType": "text/raw",
+            "processingVer": "AllMetadata",
+            "serverVersion": "OneCalais_10.3-RELEASE:143",
+            "stagsVer": "OneCalais_10.3-RELEASE-b1-2017-01-08_13:13:53",
+            "submissionDate": "2017-01-27 04:35:18.497",
+            "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
+            "signature": "digestalg-1|WW/I26+UxV+ueuSyTG5zjLz4h2k=|VLPpTze/Wmu+snqu9loerFaxcG6HJUdbktptZWaLJ9ej+y5yipH/GA==",
+            "language": "English"
+        }
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/cat/1": {
+        "_typeGroup": "topics",
+        "forenduserdisplay": "false",
+        "score": 0.93,
+        "name": "Politics"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/lid/DefaultLangId": {
+        "_typeGroup": "language",
+        "language": "http://d.opencalais.com/lid/DefaultLangId/English",
+        "forenduserdisplay": "false",
+        "permid": "505062"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/1": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/1",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+        "forenduserdisplay": "true",
+        "name": "American people of German descent",
+        "importance": "1",
+        "originalValue": "American people of German descent"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/2": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/2",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "importance": "1",
+        "originalValue": "United States"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/3": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/3",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804",
+        "forenduserdisplay": "true",
+        "name": "Business",
+        "importance": "1",
+        "originalValue": "Business"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/4": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/4",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+        "forenduserdisplay": "true",
+        "name": "Climate change skepticism and denial",
+        "importance": "2",
+        "originalValue": "Climate change skepticism and denial"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/5": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/5",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/f71ba5a5-389e-3a2f-818b-278a17dcd775",
+        "forenduserdisplay": "true",
+        "name": "Conservatism in the United States",
+        "importance": "2",
+        "originalValue": "Conservatism in the United States"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/6": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/6",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/70a49b00-55d8-3dca-a88f-e26b86216054",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "importance": "2",
+        "originalValue": "Donald Trump"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/7": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/7",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/077112a0-efad-3011-b265-36c36a845314",
+        "forenduserdisplay": "true",
+        "name": "The Apprentice",
+        "importance": "2",
+        "originalValue": "The Apprentice (TV series)"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/8": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/8",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/312ffab8-6e89-3aa4-90a4-f9d5ca60f00a",
+        "forenduserdisplay": "true",
+        "name": "WWE Hall of Fame",
+        "importance": "2",
+        "originalValue": "WWE Hall of Fame"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/9": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/9",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/ae551067-5f76-3f16-8733-ece261dfb3ff",
+        "forenduserdisplay": "true",
+        "name": "Eric Garcetti",
+        "importance": "2",
+        "originalValue": "Eric Garcetti"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/10": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/10",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/32bd24b0-8599-339d-86fc-b4309d9a62ad",
+        "forenduserdisplay": "true",
+        "name": "Sanctuary city",
+        "importance": "2",
+        "originalValue": "Sanctuary city"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/11": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/11",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/a8dcd43a-2168-36bb-b02b-1985a4b0ed88",
+        "forenduserdisplay": "true",
+        "name": "Illegal immigration to the United States",
+        "importance": "2",
+        "originalValue": "Illegal immigration to the United States"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/12": {
+        "_typeGroup": "socialTag",
+        "id": "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/SocialTag/12",
+        "socialTag": "http://d.opencalais.com/genericHasher-1/0ab9c506-8031-3fe1-8080-ce2037a80a09",
+        "forenduserdisplay": "true",
+        "name": "Bill de Blasio",
+        "importance": "2",
+        "originalValue": "Bill de Blasio"
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/Industry/1": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Broadcasting - NEC",
+        "rcscode": "B:1446",
+        "permid": "4294951555",
+        "relevance": 0
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/Industry/2": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Social Media & Networking",
+        "rcscode": "B:1806",
+        "permid": "4294951195",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/Industry/3": {
+        "_typeGroup": "industry",
+        "forenduserdisplay": "false",
+        "name": "Fishing & Farming - NEC",
+        "rcscode": "B:1536",
+        "permid": "4294951465",
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/dochash-1/a48645b5-6374-38ec-8ad4-40abdb6e76ff/ComponentVersions": {
+        "_typeGroup": "versions",
+        "version": [
+            "Deals Index:201701270355:201701270355",
+            "index-refineries:201701220305:201701220305",
+            "config-physicalAssets-powerStations:567:567",
+            "NextTags:OneCalais_10.3-RELEASE:143",
+            "config-sca-DataPackage:38:38",
+            "People Index:201701270210:201701270210",
+            "config-negativeSignature:567:567",
+            "Dial4J:OneCalais_8.6-RELEASE:209",
+            "OA Override:579:579",
+            "People Override:567:567",
+            "index-company-oa3:201701270210:201701270210",
+            "index-vessels:201701212100:201701212100",
+            "config-refineries:567:567",
+            "config-cse:579:579",
+            "config-vessels:567:567",
+            "OneCalais:OneCalais_10.3-RELEASE:143",
+            "config-physicalAssets-mines:567:567",
+            "SocialTags Index:201701052238:201701052238",
+            "BlackList:579:579",
+            "index-ports:201701211455:201701211455",
+            "config-physicalAssets-ports:567:567",
+            "config-drugs:567:567"
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/d074ae97-748f-3804-b574-b91cccaa4732": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Chief Justice",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[part of that decision, seven justices including ]Chief Justice[ John Roberts, agreed the Medicaid expansion]",
+                "prefix": "part of that decision, seven justices including ",
+                "exact": "Chief Justice",
+                "suffix": " John Roberts, agreed the Medicaid expansion",
+                "offset": 1680,
+                "length": 13
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/fb55ac09-d09d-301f-883c-f144c6e7b6dd": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Trump administration",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[want to develop a good relationship with the ]Trump administration[, because they see opportunities to bring dollars]",
+                "prefix": "want to develop a good relationship with the ",
+                "exact": "Trump administration",
+                "suffix": ", because they see opportunities to bring dollars",
+                "offset": 4306,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/de09fe09-9f66-3b0d-81af-f87c75293281": {
+        "_typeGroup": "entities",
+        "_type": "ProvinceOrState",
+        "forenduserdisplay": "false",
+        "name": "South Dakota",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProvinceOrState",
+        "instances": [
+            {
+                "detection": "[federal funding, was affirmed in the 1987 case ]South Dakota[ vs. Dole. That case looked at states that wanted]",
+                "prefix": "federal funding, was affirmed in the 1987 case ",
+                "exact": "South Dakota",
+                "suffix": " vs. Dole. That case looked at states that wanted",
+                "offset": 2954,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "South Dakota,United States",
+                "shortname": "South Dakota",
+                "latitude": "44.2961309373",
+                "longitude": "-99.2367396523",
+                "containedbycountry": "United States",
+                "rcscode": "G:6M",
+                "permid": "100273"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/86665b64-caf2-3cfb-ba95-7d37aafc584d": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "press secretary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[an executive order Wednesday that White House ]press secretary[ Sean Spicer said will \"strip federal grant money]",
+                "prefix": "an executive order Wednesday that White House ",
+                "exact": "press secretary",
+                "suffix": " Sean Spicer said will \"strip federal grant money",
+                "offset": 609,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/0ace00c6-2b9f-32c2-8949-82a0f6c6b444": {
+        "_typeGroup": "entities",
+        "_type": "Technology",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Technology",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/5ec709f3-8447-3db2-a70a-b4aff43a699a": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "Mayor",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[that the legal case is clear,\" Los Angeles ]Mayor[ Eric Garcetti told reporters after the executive]",
+                "prefix": "that the legal case is clear,\" Los Angeles ",
+                "exact": "Mayor",
+                "suffix": " Eric Garcetti told reporters after the executive",
+                "offset": 1427,
+                "length": 5
+            },
+            {
+                "detection": "[immigrants living in the United States. \nBoston ]Mayor[ Marty Walsh was among the most strident voices]",
+                "prefix": "immigrants living in the United States. \nBoston ",
+                "exact": "Mayor",
+                "suffix": " Marty Walsh was among the most strident voices",
+                "offset": 4804,
+                "length": 5
+            },
+            {
+                "detection": "[States of America on our side.\" \nNew York City ]Mayor[ Bill de Blasio declared Trump's executive order]",
+                "prefix": "States of America on our side.\" \nNew York City ",
+                "exact": "Mayor",
+                "suffix": " Bill de Blasio declared Trump's executive order",
+                "offset": 5202,
+                "length": 5
+            },
+            {
+                "detection": "[for an injunction to stop it.\" \nIn Chicago, ]Mayor[ Rahm Emanuel, who has welcomed Trump's Twitter]",
+                "prefix": "for an injunction to stop it.\" \nIn Chicago, ",
+                "exact": "Mayor",
+                "suffix": " Rahm Emanuel, who has welcomed Trump's Twitter",
+                "offset": 5626,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "White House",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[\nTrump signed an executive order Wednesday that ]White House[ press secretary Sean Spicer said will \"strip]",
+                "prefix": "\nTrump signed an executive order Wednesday that ",
+                "exact": "White House",
+                "suffix": " press secretary Sean Spicer said will \"strip",
+                "offset": 597,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/93ca4bb8-f902-3341-879e-3ae63b2093e3": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "federal government",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[said. \"That is the responsibility of the ]federal government[.\" \nKaren Tumlin, legal director for the National]",
+                "prefix": "said. \"That is the responsibility of the ",
+                "exact": "federal government",
+                "suffix": ".\" \nKaren Tumlin, legal director for the National",
+                "offset": 2475,
+                "length": 18
+            },
+            {
+                "detection": "[They have underscored, she said, that the ]federal government[ can put some requirements on states when they]",
+                "prefix": "They have underscored, she said, that the ",
+                "exact": "federal government",
+                "suffix": " can put some requirements on states when they",
+                "offset": 2701,
+                "length": 18
+            },
+            {
+                "detection": "[ that wanted to have a drinking age under 21. The ]federal government[ threatened to restrict highway funding in those]",
+                "prefix": " that wanted to have a drinking age under 21. The ",
+                "exact": "federal government",
+                "suffix": " threatened to restrict highway funding in those",
+                "offset": 3053,
+                "length": 18
+            },
+            {
+                "detection": "[safety. \nIn that case, the court ruled that the ]federal government[ wasn't being \"unduly coercive\" because underage]",
+                "prefix": "safety. \nIn that case, the court ruled that the ",
+                "exact": "federal government",
+                "suffix": " wasn't being \"unduly coercive\" because underage",
+                "offset": 3241,
+                "length": 18
+            },
+            {
+                "detection": "[of things localities get to decide and when the ]federal government[ can coerce them into action.\" \nOne of the many]",
+                "prefix": "of things localities get to decide and when the ",
+                "exact": "federal government",
+                "suffix": " can coerce them into action.\" \nOne of the many",
+                "offset": 3553,
+                "length": 18
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/5e9a40ff-daf7-3c9c-aa3a-4f6897709f92": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "health care law",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[aspects of former President Barack Obama's ]health care law[. In one part of that decision, seven justices]",
+                "prefix": "aspects of former President Barack Obama's ",
+                "exact": "health care law",
+                "suffix": ". In one part of that decision, seven justices",
+                "offset": 1608,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/760c836a-f474-39be-97f5-677423dc0f1f": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "John Roberts",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "John",
+        "lastname": "Roberts",
+        "commonname": "John Roberts",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ of that decision, seven justices including Chief ]Justice John Roberts[, agreed the Medicaid expansion provision under]",
+                "prefix": " of that decision, seven justices including Chief ",
+                "exact": "Justice John Roberts",
+                "suffix": ", agreed the Medicaid expansion provision under",
+                "offset": 1686,
+                "length": 20
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        }
+    },
+    "http://d.opencalais.com/comphash-1/a76c1eab-e183-319f-8fda-ea8783b3d2e4": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Dole",
+        "nationality": "N/A",
+        "confidencelevel": "0.835",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[was affirmed in the 1987 case South Dakota vs. ]Dole[. That case looked at states that wanted to have]",
+                "prefix": "was affirmed in the 1987 case South Dakota vs. ",
+                "exact": "Dole",
+                "suffix": ". That case looked at states that wanted to have",
+                "offset": 2971,
+                "length": 4
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.876",
+            "dblookup": "0.0",
+            "resolution": "0.5429109",
+            "aggregate": "0.835"
+        },
+        "resolutions": [
+            {
+                "name": "DOLE FOOD COMPANY, INC.",
+                "permid": "4295903881",
+                "commonname": "Dole Food",
+                "score": 0.5429109,
+                "id": "https://permid.org/1-4295903881",
+                "ticker": "DOLE"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[cities are quickly banding together to fight ]President[ Donald Trump's crack down on so-called sanctuary]",
+                "prefix": "cities are quickly banding together to fight ",
+                "exact": "President",
+                "suffix": " Donald Trump's crack down on so-called sanctuary",
+                "offset": 480,
+                "length": 9
+            },
+            {
+                "detection": "[and cities that harbor illegal immigrants.\" ]The President[ reiterated his desire to target such cities]",
+                "prefix": "and cities that harbor illegal immigrants.\" ",
+                "exact": "The President",
+                "suffix": " reiterated his desire to target such cities",
+                "offset": 744,
+                "length": 13
+            },
+            {
+                "detection": "[a 2012 case that challenged aspects of former ]President[ Barack Obama's health care law. In one part of]",
+                "prefix": "a 2012 case that challenged aspects of former ",
+                "exact": "President",
+                "suffix": " Barack Obama's health care law. In one part of",
+                "offset": 1583,
+                "length": 9
+            },
+            {
+                "detection": "[to bring dollars to their cities if the new ]President[ embarks on the major infrastructure projects he]",
+                "prefix": "to bring dollars to their cities if the new ",
+                "exact": "President",
+                "suffix": " embarks on the major infrastructure projects he",
+                "offset": 4403,
+                "length": 9
+            },
+            {
+                "detection": "[to highlight the positive. \n\"I'm going to take ]the President['s offer to give us resources, and that's where]",
+                "prefix": "to highlight the positive. \n\"I'm going to take ",
+                "exact": "the President",
+                "suffix": "'s offer to give us resources, and that's where",
+                "offset": 6042,
+                "length": 13
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/d1ae45ad-5985-3f0c-a2d9-92d10730a8f0": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "Supreme Court",
+        "organizationtype": "governmental civilian",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[are sanctuary cities? \nSome are pointing to ]Supreme Court[ cases that have made it difficult for Washington]",
+                "prefix": "are sanctuary cities? \nSome are pointing to ",
+                "exact": "Supreme Court",
+                "suffix": " cases that have made it difficult for Washington",
+                "offset": 1234,
+                "length": 13
+            },
+            {
+                "detection": "[ laws affected highway safety. \nIn that case, the ]court[ ruled that the federal government wasn't being]",
+                "prefix": " laws affected highway safety. \nIn that case, the ",
+                "exact": "court",
+                "suffix": " ruled that the federal government wasn't being",
+                "offset": 3220,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305": {
+        "_typeGroup": "entities",
+        "_type": "Country",
+        "forenduserdisplay": "true",
+        "name": "United States",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Country",
+        "instances": [
+            {
+                "detection": "[cases that deal with the spending clause of the ]US[ Constitution. They have underscored, she said,]",
+                "prefix": "cases that deal with the spending clause of the ",
+                "exact": "US",
+                "suffix": " Constitution. They have underscored, she said,",
+                "offset": 2642,
+                "length": 2
+            },
+            {
+                "detection": "[as many as 11 million immigrants living in the ]United States[. \nBoston Mayor Marty Walsh was among the most]",
+                "prefix": "as many as 11 million immigrants living in the ",
+                "exact": "United States",
+                "suffix": ". \nBoston Mayor Marty Walsh was among the most",
+                "offset": 4781,
+                "length": 13
+            },
+            {
+                "detection": "[backs, and we have the Constitution of the ]United States of America[ on our side.\" \nNew York City Mayor Bill de]",
+                "prefix": "backs, and we have the Constitution of the ",
+                "exact": "United States of America",
+                "suffix": " on our side.\" \nNew York City Mayor Bill de",
+                "offset": 5148,
+                "length": 24
+            }
+        ],
+        "relevance": 0.2,
+        "resolutions": [
+            {
+                "name": "United States",
+                "shortname": "United States",
+                "latitude": "40.4230003233",
+                "longitude": "-98.7372244786",
+                "rcscode": "G:6J",
+                "permid": "100319"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7c9713c9-a3c2-3984-be1e-3dcff1d2a0db": {
+        "_typeGroup": "entities",
+        "_type": "ProgrammingLanguage",
+        "forenduserdisplay": "false",
+        "name": "XML",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/ProgrammingLanguage",
+        "instances": [
+            {
+                "detection": "[form-data; name=\"file\"; filename=\"sampleinput.]xml[\" \n \nHTTPS REST7 \nPOST]",
+                "prefix": "form-data; name=\"file\"; filename=\"sampleinput.",
+                "exact": "xml",
+                "suffix": "\" \n \nHTTPS REST7 \nPOST",
+                "offset": 103,
+                "length": 3
+            },
+            {
+                "detection": "[\nContent-Type: text/]xml[ \noutputFormat:application/json]",
+                "prefix": "\nContent-Type: text/",
+                "exact": "xml",
+                "suffix": " \noutputFormat:application/json",
+                "offset": 194,
+                "length": 3
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/c3881db3-4c45-332b-b8ac-bb87720bea2e": {
+        "_typeGroup": "entities",
+        "_type": "Organization",
+        "forenduserdisplay": "false",
+        "name": "National Immigrant Law Center",
+        "organizationtype": "N/A",
+        "nationality": "N/A",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Organization",
+        "instances": [
+            {
+                "detection": "[\nKaren Tumlin, legal director for the ]National Immigrant Law Center[, said there is a long line of cases that deal]",
+                "prefix": "\nKaren Tumlin, legal director for the ",
+                "exact": "National Immigrant Law Center",
+                "suffix": ", said there is a long line of cases that deal",
+                "offset": 2534,
+                "length": 29
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/f99991df-155d-3d78-8f11-0821836b681b": {
+        "_typeGroup": "entities",
+        "_type": "Position",
+        "forenduserdisplay": "false",
+        "name": "legal director",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Position",
+        "instances": [
+            {
+                "detection": "[of the federal government.\" \nKaren Tumlin, ]legal director[ for the National Immigrant Law Center, said]",
+                "prefix": "of the federal government.\" \nKaren Tumlin, ",
+                "exact": "legal director",
+                "suffix": " for the National Immigrant Law Center, said",
+                "offset": 2511,
+                "length": 14
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Los Angeles",
+        "resolutions": [
+            {
+                "name": "Los Angeles,California,United States",
+                "shortname": "Los Angeles",
+                "latitude": "34.0522",
+                "longitude": "-118.2428",
+                "containedbystate": "California",
+                "containedbycountry": "United States",
+                "rcscode": "G:1S"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[they'll remain sanctuaries</Title> \n<Body> \n \n]Los Angeles[ (CNN)Democratic mayors of the nation's largest]",
+                "prefix": "they'll remain sanctuaries</Title> \n<Body> \n \n",
+                "exact": "Los Angeles",
+                "suffix": " (CNN)Democratic mayors of the nation's largest",
+                "offset": 376,
+                "length": 11
+            },
+            {
+                "detection": "[retreat. \nBut mayors in cities including ]Los Angeles[, Boston and New York, as well as legal scholars,]",
+                "prefix": "retreat. \nBut mayors in cities including ",
+                "exact": "Los Angeles",
+                "suffix": ", Boston and New York, as well as legal scholars,",
+                "offset": 896,
+                "length": 11
+            },
+            {
+                "detection": "[very strongly that the legal case is clear,\" ]Los Angeles[ Mayor Eric Garcetti told reporters after the]",
+                "prefix": "very strongly that the legal case is clear,\" ",
+                "exact": "Los Angeles",
+                "suffix": " Mayor Eric Garcetti told reporters after the",
+                "offset": 1415,
+                "length": 11
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/1ebbd7c5-e275-3a9f-bd49-33b6b0a1b869": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Karen Tumlin",
+        "persontype": "N/A",
+        "nationality": "N/A",
+        "confidencelevel": "0.995",
+        "firstname": "Karen",
+        "lastname": "Tumlin",
+        "commonname": "Karen Tumlin",
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.995"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[the responsibility of the federal government.\" \n]Karen Tumlin[, legal director for the National Immigrant Law]",
+                "prefix": "the responsibility of the federal government.\" \n",
+                "exact": "Karen Tumlin",
+                "suffix": ", legal director for the National Immigrant Law",
+                "offset": 2497,
+                "length": 12
+            },
+            {
+                "detection": "[of the US Constitution. They have underscored, ]she[ said, that the federal government can put some]",
+                "prefix": "of the US Constitution. They have underscored, ",
+                "exact": "she",
+                "suffix": " said, that the federal government can put some",
+                "offset": 2682,
+                "length": 3
+            },
+            {
+                "detection": "[\n\"There is a constitutional boundary there,\" ]Tumlin[ said, \"and the boundary really is coercion --]",
+                "prefix": "\n\"There is a constitutional boundary there,\" ",
+                "exact": "Tumlin",
+                "suffix": " said, \"and the boundary really is coercion --",
+                "offset": 3409,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/67a10148-4cb7-32a0-a570-dca2f571fd74": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Bill de Blasio",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.998",
+        "firstname": "Bill",
+        "lastname": "de Blasio",
+        "commonname": "Bill de Blasio",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[of America on our side.\" \nNew York City Mayor ]Bill de Blasio[ declared Trump's executive order to be \"vague]",
+                "prefix": "of America on our side.\" \nNew York City Mayor ",
+                "exact": "Bill de Blasio",
+                "suffix": " declared Trump's executive order to be \"vague",
+                "offset": 5208,
+                "length": 14
+            },
+            {
+                "detection": "[ NYPD, from security funding to fight terrorism,\" ]de Blasio[ told CNN's Alisyn Camerota Thursday on \"New]",
+                "prefix": " NYPD, from security funding to fight terrorism,\" ",
+                "exact": "de Blasio",
+                "suffix": " told CNN's Alisyn Camerota Thursday on \"New",
+                "offset": 5455,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.996",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.998"
+        }
+    },
+    "http://d.opencalais.com/genericHasher-1/1d1529b7-da5f-3884-8de0-c765b3b7d3a3": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Washington",
+        "resolutions": [
+            {
+                "name": "Washington,United States",
+                "shortname": "Washington",
+                "latitude": "38.89",
+                "longitude": "-77.03",
+                "containedbycountry": "United States",
+                "rcscode": "G:11",
+                "permid": "100082"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[Court cases that have made it difficult for ]Washington[ to punitively withdraw money from state and]",
+                "prefix": "Court cases that have made it difficult for ",
+                "exact": "Washington",
+                "suffix": " to punitively withdraw money from state and",
+                "offset": 1286,
+                "length": 10
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/73f61c13-aba2-3e31-bf83-1bb7fe6c37a3": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "immigration law",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[federal immigration laws. \n\"They don't do ]immigration law[ any more than they do postal fraud or tax]",
+                "prefix": "federal immigration laws. \n\"They don't do ",
+                "exact": "immigration law",
+                "suffix": " any more than they do postal fraud or tax",
+                "offset": 2357,
+                "length": 15
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/a46135e0-ddc3-3fad-a890-795846d77ac9": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Marty Walsh",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Marty Walsh",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[living in the United States. \nBoston Mayor ]Marty Walsh[ was among the most strident voices in the]",
+                "prefix": "living in the United States. \nBoston Mayor ",
+                "exact": "Marty Walsh",
+                "suffix": " was among the most strident voices in the",
+                "offset": 4810,
+                "length": 11
+            },
+            {
+                "detection": "[this week -- promising that if necessary, ]he[ would \"use City Hall itself to shelter and]",
+                "prefix": "this week -- promising that if necessary, ",
+                "exact": "he",
+                "suffix": " would \"use City Hall itself to shelter and",
+                "offset": 4917,
+                "length": 2
+            },
+            {
+                "detection": "[intimidated by the threat to federal funding,\" ]Walsh[ said. \"We have each other's backs, and we have]",
+                "prefix": "intimidated by the threat to federal funding,\" ",
+                "exact": "Walsh",
+                "suffix": " said. \"We have each other's backs, and we have",
+                "offset": 5071,
+                "length": 5
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/4f30643e-d9e8-35b8-af31-0808cf284be0": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Rahm Emanuel",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.995",
+        "firstname": "Rahm",
+        "lastname": "Emanuel",
+        "commonname": "Rahm Emanuel",
+        "confidence": {
+            "statisticalfeature": "0.99",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.995"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[an injunction to stop it.\" \nIn Chicago, Mayor ]Rahm Emanuel[, who has welcomed Trump's Twitter offer to send]",
+                "prefix": "an injunction to stop it.\" \nIn Chicago, Mayor ",
+                "exact": "Rahm Emanuel",
+                "suffix": ", who has welcomed Trump's Twitter offer to send",
+                "offset": 5632,
+                "length": 12
+            },
+            {
+                "detection": "[ resources, and that's where I'm going to focus,\" ]Emanuel[ said. \n \n</Body> \n</Document>]",
+                "prefix": " resources, and that's where I'm going to focus,\" ",
+                "exact": "Emanuel",
+                "suffix": " said. \n \n</Body> \n</Document>",
+                "offset": 6124,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/83519291-578e-3651-9517-b86e5d5df944": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "New York City",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[of the United States of America on our side.\" \n]New York City[ Mayor Bill de Blasio declared Trump's executive]",
+                "prefix": "of the United States of America on our side.\" \n",
+                "exact": "New York City",
+                "suffix": " Mayor Bill de Blasio declared Trump's executive",
+                "offset": 5188,
+                "length": 13
+            }
+        ],
+        "relevance": 0.8,
+        "resolutions": [
+            {
+                "name": "New York City,New York,United States",
+                "shortname": "New York City",
+                "latitude": "40.7142",
+                "longitude": "-74.0064",
+                "containedbystate": "New York",
+                "containedbycountry": "United States",
+                "rcscode": "G:7T"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/ccaa7986-e601-3e93-9cc2-15ac58625646": {
+        "_typeGroup": "entities",
+        "_type": "IndustryTerm",
+        "forenduserdisplay": "false",
+        "name": "Law enforcement leaders",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+        "instances": [
+            {
+                "detection": "[will go to protect undocumented immigrants. \n]Law enforcement leaders[ in some cities have argued it is invaluable to]",
+                "prefix": "will go to protect undocumented immigrants. \n",
+                "exact": "Law enforcement leaders",
+                "suffix": " in some cities have argued it is invaluable to",
+                "offset": 3931,
+                "length": 23
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Eric Garcetti",
+        "persontype": "political",
+        "nationality": "American",
+        "confidencelevel": "0.999",
+        "commonname": "Eric Garcetti",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ that the legal case is clear,\" Los Angeles Mayor ]Eric Garcetti[ told reporters after the executive order was]",
+                "prefix": " that the legal case is clear,\" Los Angeles Mayor ",
+                "exact": "Eric Garcetti",
+                "suffix": " told reporters after the executive order was",
+                "offset": 1433,
+                "length": 13
+            },
+            {
+                "detection": "[after the executive order was announced. \n]He[ alluded to NFIB vs. Sebelius, a 2012 case that]",
+                "prefix": "after the executive order was announced. \n",
+                "exact": "He",
+                "suffix": " alluded to NFIB vs. Sebelius, a 2012 case that",
+                "offset": 1504,
+                "length": 2
+            },
+            {
+                "detection": "[reversed, but it was loud and clear,\" ]Garcetti[ said. \"You can take away funding from a specific]",
+                "prefix": "reversed, but it was loud and clear,\" ",
+                "exact": "Garcetti",
+                "suffix": " said. \"You can take away funding from a specific",
+                "offset": 1991,
+                "length": 8
+            },
+            {
+                "detection": "[ officials and our local officials.\" \nUltimately, ]Garcetti[ said it's not up to his local police department]",
+                "prefix": " officials and our local officials.\" \nUltimately, ",
+                "exact": "Garcetti",
+                "suffix": " said it's not up to his local police department",
+                "offset": 2247,
+                "length": 8
+            },
+            {
+                "detection": "[\nUltimately, Garcetti said it's not up to ]his[ local police department to enforce federal]",
+                "prefix": "\nUltimately, Garcetti said it's not up to ",
+                "exact": "his",
+                "suffix": " local police department to enforce federal",
+                "offset": 2276,
+                "length": 3
+            },
+            {
+                "detection": "[more than they do postal fraud or tax evasion,\" ]Garcetti[ said. \"That is the responsibility of the federal]",
+                "prefix": "more than they do postal fraud or tax evasion,\" ",
+                "exact": "Garcetti",
+                "suffix": " said. \"That is the responsibility of the federal",
+                "offset": 2425,
+                "length": 8
+            },
+            {
+                "detection": "[major infrastructure projects he has promised. ]Garcetti[, for example, has spoken to Trump three times]",
+                "prefix": "major infrastructure projects he has promised. ",
+                "exact": "Garcetti",
+                "suffix": ", for example, has spoken to Trump three times",
+                "offset": 4475,
+                "length": 8
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Barack Obama",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Barack",
+        "lastname": "Obama",
+        "commonname": "Barack Obama",
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.0",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ case that challenged aspects of former President ]Barack Obama['s health care law. In one part of that decision,]",
+                "prefix": " case that challenged aspects of former President ",
+                "exact": "Barack Obama",
+                "suffix": "'s health care law. In one part of that decision,",
+                "offset": 1593,
+                "length": 12
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/comphash-1/1076d1eb-4ea8-3d30-823a-db47764acc34": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "Twitter",
+        "nationality": "N/A",
+        "confidencelevel": "0.941",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[Mayor Rahm Emanuel, who has welcomed Trump's ]Twitter[ offer to send in federal resources to reduce]",
+                "prefix": "Mayor Rahm Emanuel, who has welcomed Trump's ",
+                "exact": "Twitter",
+                "suffix": " offer to send in federal resources to reduce",
+                "offset": 5671,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2,
+        "confidence": {
+            "statisticalfeature": "0.905",
+            "dblookup": "0.0",
+            "resolution": "0.93488705",
+            "aggregate": "0.941"
+        },
+        "resolutions": [
+            {
+                "name": "TWITTER, INC.",
+                "permid": "4296301199",
+                "primaryric": "TWTR.N",
+                "commonname": "Twitter",
+                "score": 0.93488705,
+                "id": "https://permid.org/1-4296301199",
+                "ticker": "TWTR"
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Boston",
+        "resolutions": [
+            {
+                "name": "Boston,Massachusetts,United States",
+                "shortname": "Boston",
+                "latitude": "42.3583",
+                "longitude": "-71.0603",
+                "containedbystate": "Massachusetts",
+                "containedbycountry": "United States",
+                "rcscode": "G:11B"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[\nBut mayors in cities including Los Angeles, ]Boston[ and New York, as well as legal scholars, are]",
+                "prefix": "\nBut mayors in cities including Los Angeles, ",
+                "exact": "Boston",
+                "suffix": " and New York, as well as legal scholars, are",
+                "offset": 909,
+                "length": 6
+            },
+            {
+                "detection": "[ million immigrants living in the United States. \n]Boston[ Mayor Marty Walsh was among the most strident]",
+                "prefix": " million immigrants living in the United States. \n",
+                "exact": "Boston",
+                "suffix": " Mayor Marty Walsh was among the most strident",
+                "offset": 4797,
+                "length": 6
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/9f45e0f5-aa73-39b8-b39e-2a1546da820a": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "New York",
+        "resolutions": [
+            {
+                "name": "New York City,New York,United States",
+                "shortname": "New York City",
+                "latitude": "40.7142",
+                "longitude": "-74.0064",
+                "containedbystate": "New York",
+                "containedbycountry": "United States",
+                "rcscode": "G:7T"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[in cities including Los Angeles, Boston and ]New York[, as well as legal scholars, are saying not so]",
+                "prefix": "in cities including Los Angeles, Boston and ",
+                "exact": "New York",
+                "suffix": ", as well as legal scholars, are saying not so",
+                "offset": 920,
+                "length": 8
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/genericHasher-1/03ff2f32-7d79-3042-a299-2010505bc8fc": {
+        "_typeGroup": "entities",
+        "_type": "City",
+        "forenduserdisplay": "true",
+        "name": "Chicago",
+        "resolutions": [
+            {
+                "name": "Chicago,Illinois,United States",
+                "shortname": "Chicago",
+                "latitude": "41.85",
+                "longitude": "-87.65",
+                "containedbystate": "Illinois",
+                "containedbycountry": "United States",
+                "rcscode": "G:11Y"
+            }
+        ],
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/City",
+        "instances": [
+            {
+                "detection": "[immediately for an injunction to stop it.\" \nIn ]Chicago[, Mayor Rahm Emanuel, who has welcomed Trump's]",
+                "prefix": "immediately for an injunction to stop it.\" \nIn ",
+                "exact": "Chicago",
+                "suffix": ", Mayor Rahm Emanuel, who has welcomed Trump's",
+                "offset": 5617,
+                "length": 7
+            },
+            {
+                "detection": "[offer to send in federal resources to reduce ]Chicago['s shooting and killings, told reporters that the]",
+                "prefix": "offer to send in federal resources to reduce ",
+                "exact": "Chicago",
+                "suffix": "'s shooting and killings, told reporters that the",
+                "offset": 5724,
+                "length": 7
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Donald Trump",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.999",
+        "firstname": "Donald",
+        "lastname": "Trump",
+        "commonname": "Donald Trump",
+        "resolutions": [
+            {
+                "name": "Donald John Trump",
+                "personid": "55206",
+                "paid": "34413176227",
+                "officerid": [
+                    "55206",
+                    "1309208",
+                    "650373"
+                ],
+                "commonname": "Donald Trump",
+                "score": 0.8324144
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.999",
+            "dblookup": "0.95",
+            "resolution": "0.8324144",
+            "aggregate": "0.999"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[are quickly banding together to fight President ]Donald Trump['s crack down on so-called sanctuary cities. \n]",
+                "prefix": "are quickly banding together to fight President ",
+                "exact": "Donald Trump",
+                "suffix": "'s crack down on so-called sanctuary cities. \n",
+                "offset": 490,
+                "length": 12
+            },
+            {
+                "detection": "[crack down on so-called sanctuary cities. \n \n]Trump[ signed an executive order Wednesday that White]",
+                "prefix": "crack down on so-called sanctuary cities. \n \n",
+                "exact": "Trump",
+                "suffix": " signed an executive order Wednesday that White",
+                "offset": 550,
+                "length": 5
+            },
+            {
+                "detection": "[action.\" \nOne of the many complex facets of how ]Trump['s executive order will play out is the fact that]",
+                "prefix": "action.\" \nOne of the many complex facets of how ",
+                "exact": "Trump",
+                "suffix": "'s executive order will play out is the fact that",
+                "offset": 3641,
+                "length": 5
+            },
+            {
+                "detection": "[embarks on the major infrastructure projects ]he[ has promised. Garcetti, for example, has spoken]",
+                "prefix": "embarks on the major infrastructure projects ",
+                "exact": "he",
+                "suffix": " has promised. Garcetti, for example, has spoken",
+                "offset": 4458,
+                "length": 2
+            },
+            {
+                "detection": "[promised. Garcetti, for example, has spoken to ]Trump[ three times since he was elected about projects]",
+                "prefix": "promised. Garcetti, for example, has spoken to ",
+                "exact": "Trump",
+                "suffix": " three times since he was elected about projects",
+                "offset": 4512,
+                "length": 5
+            },
+            {
+                "detection": "[example, has spoken to Trump three times since ]he[ was elected about projects that they could]",
+                "prefix": "example, has spoken to Trump three times since ",
+                "exact": "he",
+                "suffix": " was elected about projects that they could",
+                "offset": 4536,
+                "length": 2
+            },
+            {
+                "detection": "[\nNew York City Mayor Bill de Blasio declared ]Trump['s executive order to be \"vague and in some ways]",
+                "prefix": "\nNew York City Mayor Bill de Blasio declared ",
+                "exact": "Trump",
+                "suffix": "'s executive order to be \"vague and in some ways",
+                "offset": 5232,
+                "length": 5
+            },
+            {
+                "detection": "[Chicago, Mayor Rahm Emanuel, who has welcomed ]Trump['s Twitter offer to send in federal resources to]",
+                "prefix": "Chicago, Mayor Rahm Emanuel, who has welcomed ",
+                "exact": "Trump",
+                "suffix": "'s Twitter offer to send in federal resources to",
+                "offset": 5663,
+                "length": 5
+            },
+            {
+                "detection": "[\n\"We are going to stay a sanctuary city,\" ]he[ said during a press conference. \nNoting the]",
+                "prefix": "\n\"We are going to stay a sanctuary city,\" ",
+                "exact": "he",
+                "suffix": " said during a press conference. \nNoting the",
+                "offset": 5865,
+                "length": 2
+            },
+            {
+                "detection": "[ any detail about what funds would be taken away, ]he[ decided to highlight the positive. \n\"I'm going]",
+                "prefix": " any detail about what funds would be taken away, ",
+                "exact": "he",
+                "suffix": " decided to highlight the positive. \n\"I'm going",
+                "offset": 5984,
+                "length": 2
+            }
+        ],
+        "relevance": 0.8
+    },
+    "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f": {
+        "_typeGroup": "entities",
+        "_type": "Company",
+        "forenduserdisplay": "false",
+        "name": "CNN",
+        "nationality": "N/A",
+        "confidencelevel": "0.942",
+        "resolutions": [
+            {
+                "name": "CABLE NEWS NETWORK, INC.",
+                "permid": "4298210469",
+                "commonname": "CNN",
+                "score": 1,
+                "id": "https://permid.org/1-4298210469"
+            }
+        ],
+        "confidence": {
+            "statisticalfeature": "0.939",
+            "dblookup": "0.0",
+            "resolution": "1.0",
+            "aggregate": "0.942"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Company",
+        "instances": [
+            {
+                "detection": "[funding to fight terrorism,\" de Blasio told ]CNN['s Alisyn Camerota Thursday on \"New Day.\" \"If an]",
+                "prefix": "funding to fight terrorism,\" de Blasio told ",
+                "exact": "CNN",
+                "suffix": "'s Alisyn Camerota Thursday on \"New Day.\" \"If an",
+                "offset": 5470,
+                "length": 3
+            }
+        ],
+        "relevance": 0
+    },
+    "http://d.opencalais.com/pershash-1/f712fa0f-be48-33ff-9f90-ec6ed54a533a": {
+        "_typeGroup": "entities",
+        "_type": "Person",
+        "forenduserdisplay": "true",
+        "name": "Sean Spicer",
+        "persontype": "political",
+        "nationality": "N/A",
+        "confidencelevel": "0.996",
+        "firstname": "Sean",
+        "lastname": "Spicer",
+        "commonname": "Sean Spicer",
+        "confidence": {
+            "statisticalfeature": "0.998",
+            "dblookup": "0.0",
+            "resolution": "0.0",
+            "aggregate": "0.996"
+        },
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Person",
+        "instances": [
+            {
+                "detection": "[ order Wednesday that White House press secretary ]Sean Spicer[ said will \"strip federal grant money from the]",
+                "prefix": " order Wednesday that White House press secretary ",
+                "exact": "Sean Spicer",
+                "suffix": " said will \"strip federal grant money from the",
+                "offset": 625,
+                "length": 11
+            },
+            {
+                "detection": "[illegal immigrants.\" The President reiterated ]his[ desire to target such cities Thursday when he]",
+                "prefix": "illegal immigrants.\" The President reiterated ",
+                "exact": "his",
+                "suffix": " desire to target such cities Thursday when he",
+                "offset": 769,
+                "length": 3
+            },
+            {
+                "detection": "[his desire to target such cities Thursday when ]he[ spoke to a congressional Republican retreat.]",
+                "prefix": "his desire to target such cities Thursday when ",
+                "exact": "he",
+                "suffix": " spoke to a congressional Republican retreat.",
+                "offset": 816,
+                "length": 2
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/101dee8d-e540-375b-a705-22e1a30b5826": {
+        "_typeGroup": "entities",
+        "_type": "Facility",
+        "forenduserdisplay": "false",
+        "name": "City Hall",
+        "_typeReference": "http://s.opencalais.com/1/type/em/e/Facility",
+        "instances": [
+            {
+                "detection": "[-- promising that if necessary, he would \"use ]City Hall[ itself to shelter and protect anyone who is]",
+                "prefix": "-- promising that if necessary, he would \"use ",
+                "exact": "City Hall",
+                "suffix": " itself to shelter and protect anyone who is",
+                "offset": 4931,
+                "length": 9
+            }
+        ],
+        "relevance": 0.2
+    },
+    "http://d.opencalais.com/genericHasher-1/73b60902-fcf5-3033-a76a-c05387ab328d": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Mayor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+        "city": "http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9",
+        "instances": [
+            {
+                "detection": "[very strongly that the legal case is clear,\" ]Los Angeles Mayor Eric Garcetti[ told reporters after the executive order was]",
+                "prefix": "very strongly that the legal case is clear,\" ",
+                "exact": "Los Angeles Mayor Eric Garcetti",
+                "suffix": " told reporters after the executive order was",
+                "offset": 1415,
+                "length": 31
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/88c72620-9d0d-3dc5-b476-10cef51336f1": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "press secretary",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/f712fa0f-be48-33ff-9f90-ec6ed54a533a",
+        "organization": "http://d.opencalais.com/genericHasher-1/3569c96d-92df-3dd6-9213-a97df69cc3fa",
+        "instances": [
+            {
+                "detection": "[\nTrump signed an executive order Wednesday that ]White House press secretary Sean Spicer[ said will \"strip federal grant money from the]",
+                "prefix": "\nTrump signed an executive order Wednesday that ",
+                "exact": "White House press secretary Sean Spicer",
+                "suffix": " said will \"strip federal grant money from the",
+                "offset": 597,
+                "length": 39
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4a8ea0e1-97ef-35ab-a578-4e60acc899d4": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "there is a long line of cases that deal with the spending clause of the US Constitution",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/1ebbd7c5-e275-3a9f-bd49-33b6b0a1b869",
+        "instances": [
+            {
+                "detection": "[the responsibility of the federal government.\" \n]Karen Tumlin, legal director for the National Immigrant Law Center, said there is a long line of cases that deal with the spending clause of the US Constitution.[ They have underscored, she said, that the]",
+                "prefix": "the responsibility of the federal government.\" \n",
+                "exact": "Karen Tumlin, legal director for the National Immigrant Law Center, said there is a long line of cases that deal with the spending clause of the US Constitution.",
+                "suffix": " They have underscored, she said, that the",
+                "offset": 2497,
+                "length": 161
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/e36e5749-2d80-3eff-b92b-c20259bb0743": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "past",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b",
+        "instances": [
+            {
+                "detection": "[ Sebelius, a 2012 case that challenged aspects of ]former President Barack Obama['s health care law. In one part of that decision,]",
+                "prefix": " Sebelius, a 2012 case that challenged aspects of ",
+                "exact": "former President Barack Obama",
+                "suffix": "'s health care law. In one part of that decision,",
+                "offset": 1576,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b811c8b1-6437-356b-8515-0950ebbcff2d": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Back then it was a different politics, maybe it's ideologically reversed, but it was loud and clear; You can take away funding from a specific program if you don't adhere to the requirements of that program, but we don't have funding that is for the co-cooperation of our immigration federal officials and our local officials.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+        "instances": [
+            {
+                "detection": "[ if they refused to comply with the expansion. \n \n]\"Back then it was a different politics, maybe it's ideologically reversed, but it was loud and clear,\" Garcetti said. \"You can take away funding from a specific program if you don't adhere to the requirements of that program, but we don't have funding that is for the co-cooperation of our immigration federal officials and our local officials.\"[ \nUltimately, Garcetti said it's not up to his]",
+                "prefix": " if they refused to comply with the expansion. \n \n",
+                "exact": "\"Back then it was a different politics, maybe it's ideologically reversed, but it was loud and clear,\" Garcetti said. \"You can take away funding from a specific program if you don't adhere to the requirements of that program, but we don't have funding that is for the co-cooperation of our immigration federal officials and our local officials.\"",
+                "suffix": " \nUltimately, Garcetti said it's not up to his",
+                "offset": 1888,
+                "length": 345
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b6598b41-cf45-3939-8a55-5e90de3fc8d6": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/67a10148-4cb7-32a0-a570-dca2f571fd74",
+        "organizationorcompany": "http://d.opencalais.com/comphash-1/082c52ce-9eb3-320d-ac3b-f6be116a890f",
+        "instances": [
+            {
+                "detection": "[ NYPD, from security funding to fight terrorism,\" ]de Blasio told CNN['s Alisyn Camerota Thursday on \"New Day.\" \"If an]",
+                "prefix": " NYPD, from security funding to fight terrorism,\" ",
+                "exact": "de Blasio told CNN",
+                "suffix": "'s Alisyn Camerota Thursday on \"New Day.\" \"If an",
+                "offset": 5455,
+                "length": 18
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/409474b2-481e-3619-96df-0f5dcf1c9495": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "legal director",
+        "careertype": "professional",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/1ebbd7c5-e275-3a9f-bd49-33b6b0a1b869",
+        "organization": "http://d.opencalais.com/genericHasher-1/c3881db3-4c45-332b-b8ac-bb87720bea2e",
+        "instances": [
+            {
+                "detection": "[the responsibility of the federal government.\" \n]Karen Tumlin, legal director for the National Immigrant Law Center[, said there is a long line of cases that deal]",
+                "prefix": "the responsibility of the federal government.\" \n",
+                "exact": "Karen Tumlin, legal director for the National Immigrant Law Center",
+                "suffix": ", said there is a long line of cases that deal",
+                "offset": 2497,
+                "length": 66
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/dcc59ba8-e9c5-3f6c-b1b7-176457c16196": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "I'm going to take the President's offer to give us resources, and that's where I'm going to focus",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/4f30643e-d9e8-35b8-af31-0808cf284be0",
+        "instances": [
+            {
+                "detection": "[away, he decided to highlight the positive. \n]\"I'm going to take the President's offer to give us resources, and that's where I'm going to focus,\" Emanuel said.[ \n \n</Body> \n</Document>]",
+                "prefix": "away, he decided to highlight the positive. \n",
+                "exact": "\"I'm going to take the President's offer to give us resources, and that's where I'm going to focus,\" Emanuel said.",
+                "suffix": " \n \n</Body> \n</Document>",
+                "offset": 6023,
+                "length": 114
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/dbbcc77c-94cd-34c2-8611-b6a89abb9464": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Mayor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/4f30643e-d9e8-35b8-af31-0808cf284be0",
+        "instances": [
+            {
+                "detection": "[for an injunction to stop it.\" \nIn Chicago, ]Mayor Rahm Emanuel[, who has welcomed Trump's Twitter offer to send]",
+                "prefix": "for an injunction to stop it.\" \nIn Chicago, ",
+                "exact": "Mayor Rahm Emanuel",
+                "suffix": ", who has welcomed Trump's Twitter offer to send",
+                "offset": 5626,
+                "length": 18
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/54c8dd24-7945-318d-b178-6f466d5b9ab3": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "We are going to stay a sanctuary city",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[the executive order wouldn't change anything. \n]\"We are going to stay a sanctuary city,\" he said during a press conference.[ \nNoting the executive order lacked any detail]",
+                "prefix": "the executive order wouldn't change anything. \n",
+                "exact": "\"We are going to stay a sanctuary city,\" he said during a press conference.",
+                "suffix": " \nNoting the executive order lacked any detail",
+                "offset": 5824,
+                "length": 75
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/cf75ab14-dfb2-3b11-9f87-2a660c354d62": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "Trump's executive order to be \"vague and in some ways contradictory\" and \"very susceptible to legal challenge.",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/67a10148-4cb7-32a0-a570-dca2f571fd74",
+        "instances": [
+            {
+                "detection": "[of the United States of America on our side.\" \n]New York City Mayor Bill de Blasio declared Trump's executive order to be \"vague and in some ways contradictory\" and \"very susceptible to legal challenge.\"[ \n\"If they make an attempt to pull that money, it]",
+                "prefix": "of the United States of America on our side.\" \n",
+                "exact": "New York City Mayor Bill de Blasio declared Trump's executive order to be \"vague and in some ways contradictory\" and \"very susceptible to legal challenge.\"",
+                "suffix": " \n\"If they make an attempt to pull that money, it",
+                "offset": 5188,
+                "length": 155
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/6cf54431-e759-329d-bec3-f96c2e51a06c": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "We will not be intimidated by the threat to federal funding; We have each other's backs, and we have the Constitution of the United States of America on our side.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/a46135e0-ddc3-3fad-a890-795846d77ac9",
+        "instances": [
+            {
+                "detection": "[ and protect anyone who is targeted unjustly.\" \n \n]\"We will not be intimidated by the threat to federal funding,\" Walsh said. \"We have each other's backs, and we have the Constitution of the United States of America on our side.\"[ \nNew York City Mayor Bill de Blasio declared]",
+                "prefix": " and protect anyone who is targeted unjustly.\" \n \n",
+                "exact": "\"We will not be intimidated by the threat to federal funding,\" Walsh said. \"We have each other's backs, and we have the Constitution of the United States of America on our side.\"",
+                "suffix": " \nNew York City Mayor Bill de Blasio declared",
+                "offset": 5008,
+                "length": 178
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/b1f4e390-15ba-3bd7-8321-f63e605f9434": {
+        "_typeGroup": "relations",
+        "_type": "CandidatePosition",
+        "forenduserdisplay": "false",
+        "positionpast": "President",
+        "positionaspirational": "President",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/CandidatePosition",
+        "candidate": "http://d.opencalais.com/pershash-1/cfcf1aa2-de05-3939-a7d5-10c9c7b3e87b",
+        "instances": [
+            {
+                "detection": "[ Sebelius, a 2012 case that challenged aspects of ]former President Barack Obama['s health care law. In one part of that decision,]",
+                "prefix": " Sebelius, a 2012 case that challenged aspects of ",
+                "exact": "former President Barack Obama",
+                "suffix": "'s health care law. In one part of that decision,",
+                "offset": 1576,
+                "length": 29
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/f96d0817-2f40-300f-8ca0-eca1976499a2": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Mayor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/a46135e0-ddc3-3fad-a890-795846d77ac9",
+        "city": "http://d.opencalais.com/genericHasher-1/aace28ec-e4e2-3ad0-9a59-806a900252a9",
+        "instances": [
+            {
+                "detection": "[ million immigrants living in the United States. \n]Boston Mayor Marty Walsh[ was among the most strident voices in the]",
+                "prefix": " million immigrants living in the United States. \n",
+                "exact": "Boston Mayor Marty Walsh",
+                "suffix": " was among the most strident voices in the",
+                "offset": 4797,
+                "length": 24
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/8ec4be4c-8915-3642-b9e7-80fad517503c": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "persondescription": "reporters",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+        "instances": [
+            {
+                "detection": "[very strongly that the legal case is clear,\" ]Los Angeles Mayor Eric Garcetti told reporters[ after the executive order was announced. \nHe]",
+                "prefix": "very strongly that the legal case is clear,\" ",
+                "exact": "Los Angeles Mayor Eric Garcetti told reporters",
+                "suffix": " after the executive order was announced. \nHe",
+                "offset": 1415,
+                "length": 46
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/720c54a5-856e-3149-a818-ad7ce893d839": {
+        "_typeGroup": "relations",
+        "_type": "PersonCommunication",
+        "forenduserdisplay": "true",
+        "status": "announced",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCommunication",
+        "person": [
+            "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+            "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32"
+        ],
+        "instances": [
+            {
+                "detection": "[major infrastructure projects he has promised. ]Garcetti, for example, has spoken to Trump[ three times since he was elected about projects]",
+                "prefix": "major infrastructure projects he has promised. ",
+                "exact": "Garcetti, for example, has spoken to Trump",
+                "suffix": " three times since he was elected about projects",
+                "offset": 4475,
+                "length": 42
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/0d2783e7-ca80-367a-8303-d82930c15f83": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "President",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/3cb6735d-ad40-304e-b561-6fae64c71c32",
+        "instances": [
+            {
+                "detection": "[cities are quickly banding together to fight ]President Donald Trump['s crack down on so-called sanctuary cities. \n]",
+                "prefix": "cities are quickly banding together to fight ",
+                "exact": "President Donald Trump",
+                "suffix": "'s crack down on so-called sanctuary cities. \n",
+                "offset": 480,
+                "length": 22
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/063d03c4-aa4d-3135-b16b-8d52b48767cd": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "the Medicaid expansion provision under the ACA violated the Constitution by threatening to take away states' Medicaid money if they refused to comply with the expansion",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/760c836a-f474-39be-97f5-677423dc0f1f",
+        "instances": [
+            {
+                "detection": "[ former President Barack Obama's health care law. ]In one part of that decision, seven justices including Chief Justice John Roberts, agreed the Medicaid expansion provision under the ACA violated the Constitution by threatening to take away states' Medicaid money if they refused to comply with the expansion.[ \n \n\"Back then it was a different politics, maybe]",
+                "prefix": " former President Barack Obama's health care law. ",
+                "exact": "In one part of that decision, seven justices including Chief Justice John Roberts, agreed the Medicaid expansion provision under the ACA violated the Constitution by threatening to take away states' Medicaid money if they refused to comply with the expansion.",
+                "suffix": " \n \n\"Back then it was a different politics, maybe",
+                "offset": 1625,
+                "length": 259
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/32b38791-7953-3204-8bba-0fff47a5bd5d": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "They don't do immigration law any more than they do postal fraud or tax evasion; That is the responsibility of the federal government.",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+        "instances": [
+            {
+                "detection": "[ department to enforce federal immigration laws. \n]\"They don't do immigration law any more than they do postal fraud or tax evasion,\" Garcetti said. \"That is the responsibility of the federal government.\"[ \nKaren Tumlin, legal director for the National]",
+                "prefix": " department to enforce federal immigration laws. \n",
+                "exact": "\"They don't do immigration law any more than they do postal fraud or tax evasion,\" Garcetti said. \"That is the responsibility of the federal government.\"",
+                "suffix": " \nKaren Tumlin, legal director for the National",
+                "offset": 2342,
+                "length": 153
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/fc5d6f04-a85f-31a1-a32a-97fc020b4153": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "There is a constitutional boundary there",
+        "quotationtype": "Primary",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/1ebbd7c5-e275-3a9f-bd49-33b6b0a1b869",
+        "instances": [
+            {
+                "detection": "[was indeed directly related to highway safety. \n]\"There is a constitutional boundary there,\" Tumlin said, \"and the boundary really is coercion -- this notion of sanctity between what kinds of things localities get to decide and when the federal government can coerce them into action.\"[ \nOne of the many complex facets of how Trump's]",
+                "prefix": "was indeed directly related to highway safety. \n",
+                "exact": "\"There is a constitutional boundary there,\" Tumlin said, \"and the boundary really is coercion -- this notion of sanctity between what kinds of things localities get to decide and when the federal government can coerce them into action.\"",
+                "suffix": " \nOne of the many complex facets of how Trump's",
+                "offset": 3365,
+                "length": 236
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/7cd82d91-5a3e-3fa2-b058-18ffca875a26": {
+        "_typeGroup": "relations",
+        "_type": "Quotation",
+        "forenduserdisplay": "true",
+        "quotation": "it's not up to his local police department to enforce federal immigration laws",
+        "quotationtype": "Paraphrase",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/Quotation",
+        "speaker": "http://d.opencalais.com/pershash-1/d169bcc0-5f5b-3429-b8be-098140cf94a1",
+        "instances": [
+            {
+                "detection": "[federal officials and our local officials.\" \n]Ultimately, Garcetti said it's not up to his local police department to enforce federal immigration laws.[ \n\"They don't do immigration law any more than]",
+                "prefix": "federal officials and our local officials.\" \n",
+                "exact": "Ultimately, Garcetti said it's not up to his local police department to enforce federal immigration laws.",
+                "suffix": " \n\"They don't do immigration law any more than",
+                "offset": 2235,
+                "length": 105
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/1bb1ff33-c9cc-36f0-988b-bf2a97daa8f7": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Chief Justice",
+        "positionnormalized": "judge",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/760c836a-f474-39be-97f5-677423dc0f1f",
+        "city": "http://d.opencalais.com/genericHasher-1/874eaab9-7b66-36e3-9650-8de7a5001cf9",
+        "instances": [
+            {
+                "detection": "[part of that decision, seven justices including ]Chief Justice John Roberts[, agreed the Medicaid expansion provision under]",
+                "prefix": "part of that decision, seven justices including ",
+                "exact": "Chief Justice John Roberts",
+                "suffix": ", agreed the Medicaid expansion provision under",
+                "offset": 1680,
+                "length": 26
+            }
+        ]
+    },
+    "http://d.opencalais.com/genericHasher-1/4458a573-5070-3bf0-8406-b8b36efcd168": {
+        "_typeGroup": "relations",
+        "_type": "PersonCareer",
+        "forenduserdisplay": "true",
+        "position": "Mayor",
+        "careertype": "political",
+        "status": "current",
+        "_typeReference": "http://s.opencalais.com/1/type/em/r/PersonCareer",
+        "person": "http://d.opencalais.com/pershash-1/67a10148-4cb7-32a0-a570-dca2f571fd74",
+        "city": "http://d.opencalais.com/genericHasher-1/83519291-578e-3651-9517-b86e5d5df944",
+        "instances": [
+            {
+                "detection": "[of the United States of America on our side.\" \n]New York City Mayor Bill de Blasio[ declared Trump's executive order to be \"vague]",
+                "prefix": "of the United States of America on our side.\" \n",
+                "exact": "New York City Mayor Bill de Blasio",
+                "suffix": " declared Trump's executive order to be \"vague",
+                "offset": 5188,
+                "length": 34
+            }
+        ]
+    }
+}
