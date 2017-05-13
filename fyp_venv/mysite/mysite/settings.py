@@ -25,7 +25,7 @@ SECRET_KEY = '2i@)2vtmfb^z-a1)i&dr@jct&%!ox91!=--rx+9wpccq-non7x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '0.0.0.0', '192.168.0.100']
 
 HAYSTACK_CONNECTIONS = {
     'default': {

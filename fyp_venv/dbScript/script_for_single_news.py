@@ -24,6 +24,13 @@ from sumy.summarizers.lex_rank import LexRankSummarizer as LexRankSummarizer
 from sumy.nlp.stemmers import Stemmer
 from sumy.utils import get_stop_words
 
+#   Here is the script of grabbing single news articles from website
+#   and push it to our database automatically
+#   1) Copy the url from target news article
+#   2) Paste to variable url
+#   3) Run the script (e.g.: python3 script_for_single_news.py)
+#   4) The results will be stored at "Dir": ./dummy/
+
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
 number = 0

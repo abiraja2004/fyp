@@ -14,6 +14,16 @@ from sumy.nlp.stemmers import Stemmer
 from sumy.utils import get_stop_words
 import sys
 
+#   Timeline module
+#   It will 1)  extracted titles from input list
+#           2)  classify headlines in date
+#           3)  extract top-3 important headlines
+#
+#   Input: The POSTs list
+#   Output: Headlines list
+#   All intermediate files will be stored at RawData
+
+
 # default language
 LANGUAGE = "English"
 # number of headlines

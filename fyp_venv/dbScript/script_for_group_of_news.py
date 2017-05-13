@@ -26,13 +26,22 @@ from sumy.summarizers.lex_rank import LexRankSummarizer as LexRankSummarizer
 from sumy.nlp.stemmers import Stemmer
 from sumy.utils import get_stop_words
 
+#   Here is the script of grabbing groups of news articles from website like BBC/CNN...
+#   and push them to our database automatically
+#   P.S: Never test it before
+
+#   1) Copy the url of target website main page
+#   2) Paste to variable "target_paper"
+#   3) Run the script (e.g.: python3 script_for_group_of_news.py)
+#   4) The results will be stored at "Dir": ./dummy/
+
 LANGUAGE = "English"
 SENTENCES_COUNT = 10
 Dir = "./dummy/"
 
-cnn_paper = newspaper.build('http://www.bbc.com/news')
+target_paper = newspaper.build('http://www.bbc.com/news')
     
-for article in cnn_paper.articles:
+for article in target_paper.articles:
     if "politics" in article.url:
         
         category = "politics"

@@ -46,14 +46,6 @@ def news_crewler(url):
     article.parse()
     article.nlp()
 
-    # newspaper3k module
-    #print(article.authors)
-    #print(article.publish_date)
-    #print(article.text)
-    #print("\n" + article.top_image)
-    #print("=============nlp testing==============")
-    #print(article.keywords)
-    #print(article.summary)
     getText = open("input_sample.txt", "w", encoding = 'utf-8-sig')
     sys.stdout = getText
     print(article.text)
@@ -64,8 +56,7 @@ def news_crewler(url):
     sys.stdout = summary
     print("Title:\t" + article.title + "\n")
     print("url:\t" + url + "\n")
-    # print("Date:\t" + str(article.publish_date.year) + "/" + str(article.publish_date.month) + "/" + str(article.publish_date.day) + "\n")
-    #print("date:\t%d/%d/%d\n",article.publish_date.year,article.publish_date.month,article.publish_date.day)
+
     print("Image:\t" + article.top_image + "\n")
     print("Keywords: \t")
     for p in article.keywords: print(p)
