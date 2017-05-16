@@ -27,6 +27,7 @@ class TextRankSummarizer(AbstractSummarizer):
         ratings = self.rate_sentences(document)
         return self._get_best_sentences(document.sentences, sentences_count, ratings)
 
+	# rate the sentences
     def rate_sentences(self, document):
         sentences_words = [(s, self._to_words_set(s)) for s in document.sentences]
         ratings = defaultdict(float)
@@ -41,7 +42,8 @@ class TextRankSummarizer(AbstractSummarizer):
     def _to_words_set(self, sentence):
         words = map(self.normalize_word, sentence.words)
         return [self.stem_word(w) for w in words if w not in self._stop_words]
-
+	
+	# rate the sentence edge
     def _rate_sentences_edge(self, words1, words2):
         rank = 0
         for w1 in words1:

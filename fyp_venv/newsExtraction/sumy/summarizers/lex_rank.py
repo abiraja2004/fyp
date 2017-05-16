@@ -15,10 +15,7 @@ from .._compat import Counter
 
 
 class LexRankSummarizer(AbstractSummarizer):
-    """
-    LexRank: Graph-based Centrality as Salience in Text Summarization
-    Source: http://tangra.si.umich.edu/~radev/lexrank/lexrank.pdf
-    """
+
     threshold = 0.1
     epsilon = 0.1
     _stop_words = frozenset()

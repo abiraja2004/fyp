@@ -10,8 +10,6 @@ class SumBasicSummarizer(AbstractSummarizer):
     """
     SumBasic: a frequency-based summarization system that adjusts word frequencies as 
     sentences are extracted.
-    Source: http://www.cis.upenn.edu/~nenkova/papers/ipm.pdf
-
     """
     _stop_words = frozenset()
 
@@ -58,7 +56,7 @@ class SumBasicSummarizer(AbstractSummarizer):
 
     def _compute_tf(self, sentences):
         """
-        Computes the normalized term frequency as explained in http://www.tfidf.com/
+        Computes the normalized term frequency
         """
         content_words = self._get_all_content_words_in_doc(sentences)
         content_words_count = len(content_words)

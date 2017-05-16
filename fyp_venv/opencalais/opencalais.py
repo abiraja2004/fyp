@@ -4,6 +4,7 @@ import os
 
 calais_url = 'https://api.thomsonreuters.com/permid/calais'
 
+# method to use OpenCalais API
 def main():
     try:
         if len(sys.argv) < 4:
@@ -25,6 +26,7 @@ def main():
     except Exception as e:
         print ('Error in connect ' , e)
 
+# send the files to OpenCalais
 def sendFiles(files, headers, output_dir):
     is_file = os.path.isfile(files)
     if is_file == True:
@@ -36,6 +38,7 @@ def sendFiles(files, headers, output_dir):
             else:
                 sendFiles(file_name, headers, output_dir)
 
+# send the files to OpenCalais
 def sendFile(file_name, headers, output_dir):
     files = {'file': open(file_name, 'rb')}
     response = requests.post(calais_url, files=files, headers=headers, timeout=80)
@@ -45,6 +48,7 @@ def sendFile(file_name, headers, output_dir):
     if response.status_code == 200:
         saveFile(file_name, output_dir, content)
 
+# save the output in local directory
 def saveFile(file_name, output_dir, content):
     output_file_name = os.path.basename(file_name) + '.xml'
     output_file = open(os.path.join(output_dir, output_file_name), 'wb')

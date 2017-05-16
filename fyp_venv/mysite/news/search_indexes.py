@@ -3,6 +3,7 @@ from haystack import indexes
 from news.models import Post
 from news.models import Quotation
 
+# get the detail information of a news post
 class PostIndex(indexes.SearchIndex, indexes.Indexable):
     text = indexes.CharField(document=True, use_template=True)
     title = indexes.CharField(model_attr='title')

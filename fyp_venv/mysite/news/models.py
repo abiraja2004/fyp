@@ -1,7 +1,8 @@
 from django.db import models
 from django.core import urlresolvers
 
-# Create your models here.
+# Create models
+# Post model
 class Post(models.Model):
 	category = models.CharField(blank=True, max_length=100)
 	title = models.CharField(max_length=100)
@@ -23,6 +24,8 @@ class Post(models.Model):
 	def get_absolute_url(self):
                 return urlresolvers.reverse('post_detail', args=[self.pk])
 
+# quotation model
+# relationship between post and quotation: one to many
 class Quotation(models.Model):
 	post = models.ForeignKey(Post, related_name='quotation')
 	quotation = models.TextField(blank=True)
