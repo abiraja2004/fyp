@@ -21,7 +21,7 @@ import sys
 #
 #   Input: The POSTs list
 #   Output: Headlines list
-#   All intermediate files will be stored at RawData
+#   P.S: All intermediate files will be stored at ./RawData
 
 
 # default language
@@ -45,19 +45,19 @@ def getSummarizedList(sqs):
         file = open(Dir + "headline_summary.txt", "w", encoding = 'utf-8-sig')
     except error_to_catch:
         print("!")
-    #sys.stdout = summary
+
     date = ""
     # filtering data
     for i in sqs:
         title = i.title.rstrip()
         pub_date = dateReformat(i.pub_date)
 
+        # Creating new date dataset
         if pub_date != date:
             if date != "":
                 local_summary.close()
-                # LexRank algorithm
                 sys.stdout = file
-                #summarizer = LexRankSummarizer(Stemmer(LANGUAGE))
+                #summarizer = LexRankSummarizer(Stemmer(LANGUAGE))  ＃ LexRankSummarizer not work if # of sentenses > ~25
                 summarizer =LsaSummarizer(Stemmer(LANGUAGE))                
                 summarizer.stop_words = get_stop_words(LANGUAGE)               
                 headline = PlaintextParser.from_file(Dir + date + ".txt", Tokenizer(LANGUAGE))
